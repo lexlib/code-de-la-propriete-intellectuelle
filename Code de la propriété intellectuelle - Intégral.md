@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2001-07-01
+Version Consolidée au 2001-07-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-3)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -4373,7 +4373,10 @@ _Cité par_:
 
 Les auteurs et les artistes-interprètes des oeuvres fixées sur phonogrammes ou vidéogrammes, ainsi que les producteurs de ces
 phonogrammes ou vidéogrammes, ont droit à une rémunération au titre de la reproduction desdites oeuvres, réalisées dans les
-conditions mentionnées au 2° de l'article 122-5 et au 2° de l'article L. 211-3.
+conditions mentionnées au 2° de l'article L. 122-5 et au 2° de l'article L. 211-3. 
+
+Cette rémunération est également due aux auteurs et aux éditeurs des oeuvres fixées sur tout autre support, au titre de leur
+reproduction réalisée, dans les conditions prévues au 2° de l'article L. 122-5, sur un support d'enregistrement numérique.
 
 **Liens relatifs à cet article**
 
@@ -4387,7 +4390,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+  - Loi n°2001-624 du 17 juillet 2001 - art. 15 () JORF 18 juillet 2001
 
 _Cité par_:
 
@@ -4401,15 +4404,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L211-3 (M)
-  - Code de la propriété intellectuelle 122-5, L211-3
+  - Code de la propriété intellectuelle - art. L122-5 (V)
+  - Code de la propriété intellectuelle - art. L211-3 (V)
 
 
 ###### Article L311-2
 
-Sous réserve des conventions internationales, le droit à rémunération mentionné aux articles L. 214-1 et L. 311-1 est réparti
-entre les auteurs, les artistes-interprètes, producteurs de phonogrammes ou de vidéogrammes pour les phonogrammes et
-vidéogrammes fixés pour la première fois en France.
+Sous réserve des conventions internationales, le droit à rémunération mentionné à l'article L. 214-1 et au premier alinéa de
+l'article L. 311-1 est réparti entre les auteurs, les artistes-interprètes, producteurs de phonogrammes ou de vidéogrammes
+pour les phonogrammes et vidéogrammes fixés pour la première fois en France.
 
 **Liens relatifs à cet article**
 
@@ -4423,12 +4426,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+  - Loi n°2001-624 du 17 juillet 2001 - art. 15 () JORF 18 juillet 2001
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L214-1 (M)
-  - Code de la propriété intellectuelle - art. L311-1 (M)
+  - Code de la propriété intellectuelle L214-1, L311-1 al. 1
 
 
 ###### Article L311-3
@@ -4464,8 +4467,8 @@ _Cité par_:
 
 La rémunération prévue à l'article L. 311-3 est versée par le fabricant, l'importateur ou la personne qui réalise des
 acquisitions intracommunautaires, au sens du 3° du I de l'article 256 bis du code général des impôts, de supports
-d'enregistrement utilisables pour la reproduction à usage privé d'oeuvres fixées sur des phonogrammes ou des vidéogrammes,
-lors de la mise en circulation en France de ces supports.
+d'enregistrement utilisables pour la reproduction à usage privé d'oeuvres, lors de la mise en circulation en France de ces
+supports.
 
 Le montant de la rémunération est fonction du type de support et de la durée d'enregistrement qu'il permet.
 
@@ -4486,7 +4489,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+  - Loi n°2001-624 du 17 juillet 2001 - art. 15 () JORF 18 juillet 2001
 
 _Cité par_:
 
@@ -4578,10 +4581,13 @@ _Cite_:
 ###### Article L311-7
 
 La rémunération pour copie privée des phonogrammes bénéficie, pour moitié, aux auteurs au sens du présent code, pour un
-quart, aux artistes-interprètes et, pour un quart, aux producteurs.
+quart, aux artistes-interprètes et, pour un quart, aux producteurs. 
 
 La rémunération pour copie privée des vidéogrammes bénéficie à parts égales aux auteurs au sens du présent code, aux
-artistes-interprètes et aux producteurs.
+artistes-interprètes et aux producteurs. 
+
+La rémunération pour copie privée des oeuvres visées au second alinéa de l'article L 311-1 bénéficie à parts égales aux
+auteurs et aux éditeurs.
 
 **Liens relatifs à cet article**
 
@@ -4599,7 +4605,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+  - Loi n°2001-624 du 17 juillet 2001 - art. 15 () JORF 18 juillet 2001
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L311-1 (V)
 
 
 ###### Article L311-8
@@ -4611,6 +4621,8 @@ usage ou production par :
 
 2° Les producteurs de phonogrammes ou de vidéogrammes et les personnes qui assurent, pour le compte des producteurs de
 phonogrammes ou de vidéogrammes, la reproduction de ceux-ci ;
+
+2° bis Les éditeurs d'oeuvres publiées sur des supports numériques ;
 
 3° Les personnes morales ou organismes, dont la liste est arrêtée par le ministre chargé de la culture, qui utilisent les
 supports d'enregistrement à des fins d'aide aux handicapés visuels ou auditifs.
@@ -4627,7 +4639,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+  - Loi n°2001-624 du 17 juillet 2001 - art. 15 () JORF 18 juillet 2001
 
 _Cité par_:
 
