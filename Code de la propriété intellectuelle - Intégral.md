@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1997-09-24
+Version Consolidée au 1997-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-3)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L335-10)](#2)
@@ -112,8 +112,8 @@ Version Consolidée au 1997-09-24
     - [Livre Ier : Le droit d'auteur (art. R111-1 à R132-17)](#109)
       - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#110)
         - [Chapitre Ier : Nature du droit d'auteur (art. R111-1 à R111-2)](#111)
-      - [Titre II : Droits des auteurs (art. R122-1 à R122-11)](#112)
-        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-11)](#113)
+      - [Titre II : Droits des auteurs (art. R122-1 à R122-12)](#112)
+        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-12)](#113)
       - [Titre III : Exploitation des droits (art. R132-1 à R132-17)](#114)
         - [Chapitre II : Dispositions particulières à certains contrats (art. R132-1 à R132-17)](#115)
           - [Section 4 : Contrat de commande pour la publicité (art. R132-1 à R132-7)](#116)
@@ -15589,6 +15589,37 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+
+
+###### Article R122-12
+
+Pour l'application des dispositions du d du 3° de l'article L. 122-5, le catalogue d'une vente d'oeuvres d'art graphiques ou
+plastiques s'entend des exemplaires d'une liste illustrée ou non, diffusée avant une vente aux enchères publiques, décrivant,
+en vue d'informer les acheteurs potentiels, les oeuvres qui seront dispersées au cours de la vente, ainsi que les conditions
+de celle-ci, et mis gratuitement ou à prix coûtant à la disposition de toute personne qui en fait la demande à l'officier
+public ou ministériel procédant à la vente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°97-1316 du 23 décembre 1997 - art. 1 () JORF 31 décembre 1997
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L122-5 (M)
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R122-1 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ### Titre III : Exploitation des droits<a id=114></a>
