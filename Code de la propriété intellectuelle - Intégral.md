@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2004-02-12
+Version Consolidée au 2004-03-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-1)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -165,94 +165,95 @@ Version Consolidée au 2004-02-12
           - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#162)
           - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#163)
           - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#164)
-          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51)](#165)
+          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-14)](#165)
             - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#166)
             - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#167)
             - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#168)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-54)](#169)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#170)
-        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#171)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R521-1)](#172)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#173)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#174)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#175)
-        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#176)
-        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#177)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#178)
-          - [Section 1 : Procédure (art. R514-1 à R514-5)](#179)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#180)
-      - [Titre II : Contentieux (art. R521-1)](#181)
-        - [Chapitre unique : Retenue en douane. (art. R521-1)](#182)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à R631-1)](#183)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#184)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#185)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#186)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#187)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#188)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#189)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-76)](#190)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#191)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#192)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#193)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#194)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#195)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#196)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#197)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#198)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-76)](#199)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-1 à R613-65)](#200)
-          - [Section 1 : Droits d'exploitation (art. R613-1 à R613-44)](#201)
-            - [Sous-section 1 : Licences de droit (art. R613-1 à R613-3)](#202)
-            - [Sous-section 2 : Licences obligatoires. (art. R613-4 à R613-9)](#203)
-            - [Sous-section 3 : Licences d'office dans l'intérêt de la santé publique. (art. R613-10 à R613-25)](#204)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#205)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#206)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#207)
-          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#208)
-          - [Section 4 : Recours en restauration (art. R613-52)](#209)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#210)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#211)
-          - [Section 7 : Réduction des redevances et assistance gratuite (art. R613-63 à R613-65)](#212)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#213)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#214)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#215)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#216)
-          - [Section 1 : Mesures probatoires. (art. R615-1 à R615-5)](#217)
-          - [Section 2 : Commission paritaire de conciliation. (art. R615-6 à R615-31)](#218)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#219)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#220)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#221)
-          - [Section unique : Procédure (art. R618-1 à R618-5)](#222)
-      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#223)
-        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#224)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#225)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#226)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#227)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#228)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#229)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#230)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#231)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#232)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#233)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#234)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#235)
-        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#236)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. R631-1)](#237)
-        - [Chapitre unique (art. R631-1)](#238)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R718-4)](#239)
-      - [Titre unique : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#240)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-26)](#241)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-8)](#242)
-        - [Chapitre V : Marques collectives (art. R715-1)](#243)
-        - [Chapitre VI : Contentieux (art. R716-1)](#244)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#245)
-          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#246)
-          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#247)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#248)
-          - [Section unique (art. R718-1 à R718-4)](#249)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#250)
-      - [Titre unique (art. R811-1 à R811-3)](#251)
-        - [Chapitre unique (art. R811-1 à R811-3)](#252)
+            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#169)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-54)](#170)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#171)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#172)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R521-1)](#173)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#174)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#175)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#176)
+        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#177)
+        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#178)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#179)
+          - [Section 1 : Procédure (art. R514-1 à R514-5)](#180)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#181)
+      - [Titre II : Contentieux (art. R521-1)](#182)
+        - [Chapitre unique : Retenue en douane. (art. R521-1)](#183)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à R631-1)](#184)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#185)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#186)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#187)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#188)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#189)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#190)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-76)](#191)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#192)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#193)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#194)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#195)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#196)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#197)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#198)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#199)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-76)](#200)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-1 à R613-65)](#201)
+          - [Section 1 : Droits d'exploitation (art. R613-1 à R613-44)](#202)
+            - [Sous-section 1 : Licences de droit (art. R613-1 à R613-3)](#203)
+            - [Sous-section 2 : Licences obligatoires. (art. R613-4 à R613-9)](#204)
+            - [Sous-section 3 : Licences d'office dans l'intérêt de la santé publique. (art. R613-10 à R613-25)](#205)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#206)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#207)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#208)
+          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#209)
+          - [Section 4 : Recours en restauration (art. R613-52)](#210)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#211)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#212)
+          - [Section 7 : Réduction des redevances et assistance gratuite (art. R613-63 à R613-65)](#213)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#214)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#215)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#216)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#217)
+          - [Section 1 : Mesures probatoires. (art. R615-1 à R615-5)](#218)
+          - [Section 2 : Commission paritaire de conciliation. (art. R615-6 à R615-31)](#219)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#220)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#221)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#222)
+          - [Section unique : Procédure (art. R618-1 à R618-5)](#223)
+      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#224)
+        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#225)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#226)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#227)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#228)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#229)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#230)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#231)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#232)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#233)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#234)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#235)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#236)
+        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#237)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. R631-1)](#238)
+        - [Chapitre unique (art. R631-1)](#239)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R718-4)](#240)
+      - [Titre unique : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#241)
+        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#242)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#243)
+        - [Chapitre V : Marques collectives (art. R715-1)](#244)
+        - [Chapitre VI : Contentieux (art. R716-1)](#245)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#246)
+          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#247)
+          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#248)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#249)
+          - [Section unique (art. R718-1 à R718-4)](#250)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#251)
+      - [Titre unique (art. R811-1 à R811-3)](#252)
+        - [Chapitre unique (art. R811-1 à R811-3)](#253)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -20094,10 +20095,11 @@ L'Institut national de la propriété industrielle a notamment pour attributions
 3° La délivrance de certificats d'identité et de renseignements concernant les antériorités en matière de marques de
 fabrique, de commerce ou de service ;
 
-4° La centralisation et la conservation des dépôts de dessins et modèles, ainsi que leur publication ;
+4° L'organisation du dépôt, de la conservation et de la mise à disposition du public des cultures de micro-organismes
+utilisés par une invention pour laquelle un brevet est demandé ;
 
-5° L'enregistrement et la conservation du dépôt des enveloppes doubles destinées à faciliter la preuve de la création des
-dessins et modèles ;
+5° La centralisation et la conservation des dépôts de dessins et modèles et leur publication, ainsi que l'enregistrement et
+la conservation du dépôt des enveloppes doubles destinées à faciliter la preuve de la création des dessins et modèles ;
 
 6° La tenue des registres de brevets, des marques et des dessins et modèles, l'inscription de tous actes affectant la
 propriété des brevets d'invention, des marques de fabrique, de commerce ou de service et des dessins et modèles ;
@@ -20105,9 +20107,9 @@ propriété des brevets d'invention, des marques de fabrique, de commerce ou de 
 7° L'application des dispositions contenues dans les lois et règlements sur la protection temporaire de la propriété
 industrielle dans les expositions, sur les récompenses industrielles et sur les marques d'origine ;
 
-8° L'application des accords internationaux en matière de propriété industrielle, et notamment les relations administratives
-avec le Bureau international pour la protection de la propriété industrielle à Berne et l'Institut international des brevets
-à La Haye ;
+8° L'application des accords internationaux et la mise en œuvre d'actions de coopération en matière de propriété
+industrielle, et notamment les relations administratives avec l'Organisation mondiale de la propriété intellectuelle et
+l'Organisation européenne des brevets ;
 
 9° La tenue du Registre national du commerce et des sociétés et du Répertoire central des métiers ;
 
@@ -20136,9 +20138,13 @@ _Anciens textes_:
 
   - Décret n°51-1469 du 22 décembre 1951 - art. 1 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 2 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -20157,11 +20163,8 @@ Il prend toutes mesures utiles au fonctionnement de l'institut.
 Il prépare et exécute le budget. Il établit les titres de recettes. Il engage, liquide et ordonnance les dépenses dans la
 limite des crédits ouverts au budget.
 
-Il peut déléguer certaines de ses attributions à un ou plusieurs agents de l'institut, désignés par lui.
-
-Il peut recevoir délégation de signature du ministre chargé de la propriété industrielle pour exercer les compétences
-dévolues à celui-ci dans les domaines de la propriété industrielle et des droits annexes à la propriété industrielle, du
-registre national du commerce et des sociétés et du répertoire central des métiers.
+Il peut déléguer sa signature, notamment en matière de passation de marchés, à un ou plusieurs agents de l'institut, désignés
+par lui.
 
 **Liens relatifs à cet article**
 
@@ -20174,37 +20177,39 @@ _Anciens textes_:
   - Décret n°51-1469 du 22 décembre 1951 - art. 2 (M)
   - Décret n°51-1469 du 22 décembre 1951 - art. 2 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 3 () JORF 3 mars 2004
 
 
 ###### Article R411-3
 
 Le conseil d'administration est composé de douze membres :
 
-1. Un membre du Conseil d'Etat ou de la Cour des comptes, président, nommé pour trois ans par arrêté du ministre chargé de la
-propriété industrielle ;
+1° Une personnalité issue du monde économique et membre du Conseil supérieur de la propriété industrielle, président, nommée
+par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
 
-2. Le président du Conseil supérieur de la propriété industrielle ou un membre dudit conseil désigné par lui ;
+2° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
 
-3. Le directeur des affaires civiles et du sceau du ministère de la justice ou son représentant permanent ;
+3° Le directeur du budget au ministère de l'économie et des finances ou son représentant ;
 
-4. Le directeur du budget du ministère de l'économie, des finances et du budget ou son représentant permanent ;
+4° Deux représentants du ministre chargé de la propriété industrielle, dont le directeur des affaires juridiques ou son
+représentant ;
 
-5. Le directeur de la comptabilité publique du ministère de l'économie, des finances et du budget ou son représentant
-permanent ;
+5° Le directeur général de l'Agence nationale de valorisation de la recherche ;
 
-6. Deux représentants du ministre chargé de la propriété industrielle, dont le directeur de l'administration générale ;
+6° Le président de la Compagnie nationale des conseils en propriété industrielle et un représentant des praticiens de la
+propriété industrielle en entreprise nommé par arrêté du ministre chargé de la propriété industrielle pour une période de
+trois ans renouvelable une fois ;
 
-7. Le directeur général de l'Agence nationale de valorisation de la recherche ;
+7° Deux représentants des milieux industriels intéressés à la protection de la propriété industrielle nommés par arrêté du
+ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
 
-8. Le président de la Compagnie nationale des conseils en propriété industrielle ;
-
-9. Un représentant des milieux industriels intéressés à la protection industrielle, désigné par le ministre chargé de la
-propriété industrielle pour une période de trois ans renouvelable ;
-
-10. Deux représentants du personnel en fonctions dans l'établissement, élus dans des conditions fixées par arrêté du ministre
+8° Deux représentants du personnel en fonctions dans l'établissement, élus dans des conditions fixées par arrêté du ministre
 chargé de la propriété industrielle.
 
 Les fonctions de membre du conseil d'administration ne sont pas rémunérées. Elles ouvrent droit aux indemnités de déplacement
@@ -20220,10 +20225,6 @@ général.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
 _Anciens textes_:
 
   - Décret n°51-1469 du 22 décembre 1951 - art. 3 (Ab)
@@ -20232,33 +20233,48 @@ _Cite_:
 
   - Décret n°90-437 1990-05-28
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Modifié par_:
 
-  - Décret n°97-845 du 10 septembre 1997 - art. 1 () JORF 17 septembre 1997
+  - Décret n°2004-199 du 25 février 2004 - art. 4 () JORF 3 mars 2004
 
 _Cité par_:
 
   - Décret n°2015-515 du 7 mai 2015 - art. 2 (V)
 
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
 
 ###### Article R411-4
 
-Le conseil d'administration émet des avis sur les questions portées à son ordre du jour par le directeur général de
-l'Institut national de la propriété industrielle.
+Le conseil d'administration définit la politique générale de l'établissement dans le cadre des orientations fixées par les
+ministres de tutelle. Il dispose notamment des compétences suivantes :
 
-Il est obligatoirement consulté sur les projets de budget et généralement sur tous projets de décision qui doivent être
-soumis à l'approbation des ministres intéressés ou des ministres chargés du contrôle financier de l'établissement.
+1° Il approuve le budget et ses modifications, le compte financier de l'exercice clos et l'affectation du résultat et se
+prononce sur le rapport annuel d'activité ;
 
-Le conseil d'administration doit formuler son avis sur les questions qui lui sont obligatoirement soumises, dans le délai
-d'un mois à compter de la date à laquelle le président en a été saisi. A l'expiration de ce délai, le directeur général peut,
-si l'urgence le requiert, soumettre les projets de décision directement à l'approbation des ministres visés à l'alinéa
-précédent.
+2° Il fixe les orientations de la politique tarifaire, les conditions générales de passation des contrats, conventions et
+marchés conclus par l'établissement, les conditions générales d'emploi et de rémunération du personnel, le règlement
+intérieur de l'établissement ;
+
+3° Il décide de la création ou de la suppression de filiales, des acquisitions ou cessions de participations, de l'achat, de
+la vente ou de la location d'immeubles ;
+
+4° Il autorise les emprunts et accepte les dons et legs ;
+
+5° Il décide des actions en justice et des transactions. Il peut déléguer ces pouvoirs au directeur général de
+l'établissement.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Codifié par_:
 
@@ -20268,14 +20284,15 @@ _Anciens textes_:
 
   - Décret n°51-1469 du 22 décembre 1951 - art. 4 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 4 () JORF 3 mars 2004
 
 
 ###### Article R411-5
 
-Le conseil d'administration se réunit, en principe, une fois au cours de chaque trimestre. Il est convoqué par son président.
+Le conseil d'administration se réunit au moins deux fois par an. Il est convoqué par son président sur un ordre du jour fixé
+par celui-ci.
 
 Ses délibérations ne sont valables que si sept au moins de ses membres assistent à la séance.
 
@@ -20294,9 +20311,13 @@ _Anciens textes_:
 
   - Décret n°51-1469 du 22 décembre 1951 - art. 5 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 4 () JORF 3 mars 2004
 
 
 ###### Article R411-6
@@ -20392,34 +20413,44 @@ _Modifié par_:
 
 ###### Article R411-9
 
-Le projet de budget de l'institut, accompagné des avis du conseil d'administration et du contrôleur d'Etat, est soumis par le
-directeur général de l'institut, pour approbation, au ministre intéressé et au ministre chargé du budget, dans les délais
-prévus en ce qui concerne le budget général des services civils par la lettre commune du ministre du budget.
+Le directeur général de l'institut transmet pour approbation aux ministres chargés de la propriété industrielle et du budget,
+accompagnées le cas échéant de l'avis du contrôleur d'Etat, les délibérations prises par le conseil d'administration dans
+l'exercice des attributions suivantes : approbation du budget et de ses modifications, du compte financier de l'exercice clos
+et de l'affectation du résultat, fixation des orientations de la politique tarifaire, des conditions générales d'emploi et de
+rémunération du personnel, décisions de création ou de suppression de filiales, d'acquisitions ou de cessions de
+participations, d'achat, de vente ou de location d'immeubles, autorisation des emprunts et acceptation de dons et legs.
 
-Les modifications qui peuvent être apportées au budget en cours d'exercice sont présentées et approuvées dans les mêmes
-formes.
+Les délibérations portant sur le projet de budget de l'institut et les modifications qui peuvent lui être apportées en cours
+d'exercice sont transmises dans les délais prévus en ce qui concerne le budget général des services civils par la lettre
+commune du ministre du budget.
+
+Les délibérations transmises sont exécutoires de plein droit un mois au plus tard après leur réception par les ministres
+chargés de la propriété industrielle et du budget si aucun d'eux n'y a fait opposition dans ce délai.
 
 Le ministre chargé du budget peut déléguer sa signature au contrôleur d'Etat pour les décisions d'approbation prévues au
 présent article.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
 _Anciens textes_:
 
   - Décret n°51-1469 du 22 décembre 1951 - art. 9 (Ab)
 
-_Modifié par_:
-
-  - Décret n°97-845 du 10 septembre 1997 - art. 1 () JORF 17 septembre 1997
-  - Décret n°97-845 du 10 septembre 1997 - art. 3 () JORF 17 septembre 1997
-
 _Cité par_:
 
   - Arrêté du 10 septembre 1997 - art. 3 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 5 () JORF 3 mars 2004
 
 
 ###### Article R411-10
@@ -20621,16 +20652,15 @@ _Créé par_:
 
 ###### Article R411-17
 
-Les redevances perçues par l'Institut national de la propriété industrielle à l'occasion des procédures et formalités en
-matière de propriété industrielle et de registre du commerce et des sociétés sont celles qui figurent au tableau ci-après :
+L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont
+fixés par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre chargé du budget, à l'occasion des
+procédures et formalités suivantes :
 
-Redevances de procédure
+1° Pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
 
-1. Brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
+Dépôt ;
 
-Dépôt (1) ;
-
-Rapport de recherche (1) (2) ;
+Rapport de recherche ;
 
 Revendication supplémentaire à partir de la onzième ;
 
@@ -20656,16 +20686,16 @@ Supplément pour paiement tardif de la redevance annuelle ;
 
 Recours en restauration ;
 
-Certificat complémentaire de protection.
+Certificat complémentaire de protection ;
 
-2. Brevets européens :
+2° Pour les brevets européens :
 
 Publication de traduction ou de traduction révisée d'un brevet européen ou des revendications d'une demande de brevet
 européen ;
 
-Etablissement et transmission de copies de la demande de brevet européen aux Etats destinataires.
+Etablissement et transmission de copies de la demande de brevet européen aux Etats destinataires ;
 
-3. Demandes internationales (P.C.T.) :
+3° Pour les demandes internationales (traité de coopération en matière de brevets, PCT) :
 
 Transmission d'une demande internationale ;
 
@@ -20673,9 +20703,9 @@ Confirmation de désignation d'Etats ;
 
 Supplément pour paiement tardif ;
 
-Préparation d'exemplaires complémentaires.
+Préparation d'exemplaires complémentaires ;
 
-4. Marques de fabrique, de commerce ou de service :
+4° Pour les marques de fabrique, de commerce ou de service :
 
 Dépôt ;
 
@@ -20691,19 +20721,25 @@ Rectification d'erreur matérielle ;
 
 Renouvellement ;
 
+Supplément pour renouvellement tardif ;
+
 Supplément pour paiement tardif de la redevance de renouvellement ;
 
 Renonciation ;
 
 Demande d'inscription au Registre international des marques ;
 
-Relevé de déchéance.
+Relevé de déchéance ;
 
-5. Dessins et modèles :
+5° Pour les dessins et modèles :
 
 Dépôt ;
 
 Prorogation ;
+
+Supplément pour prorogation tardive ;
+
+Supplément pour paiement tardif de la redevance de prorogation ;
 
 Renonciation à l'ajournement de la publication ;
 
@@ -20711,33 +20747,39 @@ Renonciation aux effets du dépôt ;
 
 Régularisation, rectification, relevé de déchéance ;
 
-Enregistrement et gardiennage d'enveloppe spéciale.
+Enregistrement et gardiennage d'enveloppe spéciale ;
 
-6. Droits voisins de la propriété industrielle :
+6° Pour les droits voisins de la propriété industrielle :
 
 Topographies de produits semi-conducteurs : dépôt et conservation ; inscription d'un acte modifiant ou transmettant les
 droits ;
 
 Récompenses industrielles : enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou
-de transmission.
+de transmission ;
 
-7. Registres nationaux des brevets, marques, dessins, modèles et registre national spécial des logiciels :
+7° S'agissant des registres nationaux des brevets, marques, dessins, modèles et registre national spécial des logiciels :
 
 Demande d'inscription ;
 
-Renouvellement de l'inscription d'un nantissement du droit d'exploitation des logiciels.
+Renouvellement de l'inscription d'un nantissement du droit d'exploitation des logiciels ;
 
-8. Registre national du commerce et des sociétés :
+8° S'agissant du Registre national du commerce et des sociétés :
 
 Déclaration ;
 
 Dépôt d'un acte.
 
-(1) Redevance remboursée en cas d'irrecevabilité.
+En cas d'irrecevabilité, les redevances suivantes sont remboursées :
 
-(2) Redevance remboursée en cas de rejet, de retrait, de terme mis à la procédure de délivrance ou de prorogation des
-interdictions de divulgation et de libre exploitation intervenus avant l'engagement de la procédure d'établissement du
-rapport de recherche.
+- pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection : dépôt ;
+
+- pour les marques de fabrique, de commerce ou de service : dépôt, classe de produit ou service, renouvellement ;
+
+- pour les dessins et modèles : dépôt, prorogation.
+
+Est également remboursée la redevance de rapport de recherche d'un brevet d'invention lorsqu'il est mis fin à la procédure de
+délivrance du brevet ou en cas de prorogation des interdictions de divulgation et de libre exploitation, si la procédure
+d'établissement du rapport de recherche n'a pas été engagée.
 
 **Liens relatifs à cet article**
 
@@ -20755,7 +20797,6 @@ _Anciens textes_:
   - TXT_SOURCE: Arrêté du 12 janvier 1996 - art. 5 (Ab)
   - TXT_SOURCE: Arrêté du 12 janvier 1996 - art. 6 (Ab)
   - TXT_SOURCE: Arrêté du 12 janvier 1996 - art. Annexe (Ab)
-  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
   - TXT_SOURCE: Arrêté du 29 décembre 2000
   - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. 1 (Ab)
   - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. 2 (Ab)
@@ -20764,6 +20805,7 @@ _Anciens textes_:
   - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. 5 (Ab)
   - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. 6 (Ab)
   - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. Tableau annexe (Ab)
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Cité par_:
 
@@ -20779,7 +20821,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°96-103 du 2 février 1996 - art. 3 () JORF 9 février 1996
+  - Décret n°2004-199 du 25 février 2004 - art. 6 () JORF 3 mars 2004
 
 _Codifié par_:
 
@@ -20993,6 +21035,10 @@ _Créé par_:
 Lorsque le recours est formé par une personne autre que le propriétaire du titre ou le titulaire de la demande, celui-ci est
 appelé en cause par le greffier en chef de la cour d'appel par lettre recommandée avec demande d'avis de réception.
 
+Lorsque le recours contre une décision du directeur général de l'Institut national de la propriété industrielle statuant sur
+une opposition est formé par le titulaire de la demande d'enregistrement de marque faisant l'objet de l'opposition, le
+titulaire de la marque antérieure est appelé en cause dans les mêmes formes.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -21004,9 +21050,13 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 7 () JORF 3 mars 2004
 
 
 ###### Article R411-25
@@ -21701,9 +21751,24 @@ _Créé par_:
 ###### Article R413-1
 
 Il est institué auprès du ministre chargé de la propriété industrielle un Conseil supérieur de la propriété industrielle. Ce
-conseil a un rôle consultatif. Il donne son avis sur les questions qui lui sont soumises par le ministre.
+conseil a un rôle consultatif. Il donne son avis sur les questions qui lui sont soumises par le ministre. Il se réunit au
+moins deux fois par an.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+supérieur de la propriété industrielle).
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Abrogé par_:
+
+  - Décret n°2015-515 du 7 mai 2015 - art. 1
 
 _Codifié par_:
 
@@ -21713,9 +21778,9 @@ _Anciens textes_:
 
   - Décret n°47-845 du 8 mai 1947 - art. 1 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 8 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -21726,43 +21791,47 @@ _Cité par_:
 
 Le Conseil supérieur de la propriété industrielle est composé comme suit :
 
-1° Le représentant permanent du ministère des affaires étrangères ;
+1° Un représentant du ministre chargé de la propriété industrielle désigné par lui ;
 
-Le représentant permanent du ministère du budget ;
+Un représentant du ministre des affaires étrangères désigné par lui ;
 
-Le représentant permanent du ministère de la justice ;
+Un représentant du ministre de la justice désigné par lui ;
 
-Le représentant permanent du ministère de la défense ;
-
-Le représentant permanent du ministère de la culture ;
-
-Le représentant permanent du ministère de l'agriculture ;
-
-Le représentant permanent du ministère de la santé ;
+Un représentant du ministre chargé de la recherche désigné par lui ;
 
 Le directeur général de l'Institut national de la propriété industrielle ;
 
-Le directeur du Centre d'études internationales de propriété industrielle ou son représentant permanent ;
+2° Deux professeurs d'université ;
 
-Le directeur général de l'Agence nationale de valorisation de la recherche ou son représentant permanent ;
+Quatre personnalités représentant les intérêts du commerce et de l'industrie ;
 
-2° Quatre professeurs de droit ;
+Deux personnalités représentant le monde de la recherche et de la technologie ;
 
-Quatre personnalités représentant les intérêts des salariés ;
+Trois personnalités représentant les praticiens de la propriété industrielle dont le président de la Compagnie nationale des
+conseils en propriété industrielle et un avocat ;
 
-Deux inventeurs ou ingénieurs ;
+Deux représentants des inventeurs indépendants ;
 
-Huit personnalités représentant les intérêts du commerce et de l'industrie ;
+Trois personnalités compétentes en matière de propriété industrielle.
 
-Le président de la Compagnie nationale des conseils en propriété industrielle et quatre conseils en propriété industrielle ;
+Les membres du conseil nommés au titre du 2° le sont pour une durée de trois ans par arrêté du ministre chargé de la
+propriété industrielle, à l'exception du président de la Compagnie nationale des conseils en propriété industrielle.
 
-Quatre avocats ;
+**Nota:**
 
-Quatre personnalités compétentes en matière de propriété industrielle.
-
-Les membres visés au 2° ci-dessus sont nommés pour cinq ans par arrêté du ministre chargé de la propriété industrielle.
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+supérieur de la propriété industrielle).
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Abrogé par_:
+
+  - Décret n°2015-515 du 7 mai 2015 - art. 1
 
 _Codifié par_:
 
@@ -21773,17 +21842,30 @@ _Anciens textes_:
   - Décret n°47-845 du 8 mai 1947 - art. 2 (M)
   - Décret n°47-845 du 8 mai 1947 - art. 2 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 8 () JORF 3 mars 2004
 
 
 ###### Article R413-3
 
-Parmi les membres du conseil supérieur, le ministre chargé de la propriété industrielle désigne un président et un vice-
-président.
+Le ministre chargé de la propriété industrielle préside le conseil supérieur et désigne un vice-président parmi ses membres.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+supérieur de la propriété industrielle).
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Abrogé par_:
+
+  - Décret n°2015-515 du 7 mai 2015 - art. 1
 
 _Codifié par_:
 
@@ -21794,29 +21876,44 @@ _Anciens textes_:
   - Décret n°47-845 du 8 mai 1947 - art. 3 (M)
   - Décret n°47-845 du 8 mai 1947 - art. 3 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 8 () JORF 3 mars 2004
 
 
 ###### Article R413-4
 
-Le comité peut constituer en son sein des commissions temporaires pour l'examen des questions particulières. Il peut
-également, lorsqu'il le juge utile, associer à ses travaux, à titre consultatif, des personnalités compétentes.
+Le conseil peut constituer en son sein des commissions temporaires pour l'examen de questions particulières. Il associe à ses
+travaux les représentants des ministères sur les sujets relevant de leurs attributions et peut solliciter le concours de
+personnalités compétentes.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+supérieur de la propriété industrielle).
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
 
 _Anciens textes_:
 
   - Décret n°47-845 du 8 mai 1947 - art. 4 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 8 () JORF 3 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2015-515 du 7 mai 2015 - art. 1
 
 
 ###### Article R413-5
@@ -23959,7 +24056,408 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 4 : Obligations professionnelles<a id=169></a>
+##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=169></a>
+
+###### Article R422-51-1
+
+Des conseils en propriété industrielle peuvent, dans les conditions prévues par l'article 31-1 de la loi n° 90-1258 du 31
+décembre 1990, constituer une société de participations financières de profession libérale de conseils en propriété
+industrielle.
+
+Peuvent également être associés, à l'exclusion de toute autre personne :
+
+1° Pendant un délai de dix ans, des personnes physiques qui, ayant cessé toute activité professionnelle, ont exercé la
+profession de conseils en propriété industrielle ;
+
+2° Les ayants droit des personnes physiques mentionnées aux premier et troisième alinéas ci-dessus, pendant un délai de cinq
+ans suivant le décès de celles-ci ;
+
+3° Les personnes exerçant une profession libérale, soumise à un statut législatif ou réglementaire ou dont le titre est
+protégé, intervenant dans l'obtention, le maintien, l'exploitation ou la défense des droits de propriété industrielle.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°90-1258 1990-12-31 art. 31-1
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R422-51-3 (M)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-51-2
+
+La société est constituée sous la condition suspensive de son inscription sur la liste des conseils en propriété industrielle
+prévue par l'article L. 422-1, dans une section spéciale.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L422-1 (M)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R422-51-5 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-51-3
+
+La demande d'inscription d'une société de participations financières de profession libérale de conseils en propriété
+industrielle est adressée collectivement par les associés, qui désignent un mandataire commun, au directeur général de
+l'Institut national de la propriété industrielle par lettre recommandée avec demande d'avis de réception, ou remise contre
+récépissé.
+
+Cette demande est accompagnée, à peine d'irrecevabilité, des pièces suivantes :
+
+1° Un exemplaire des statuts de la société ;
+
+2° Une attestation du greffier chargé de la tenue du registre du commerce et des sociétés au lieu du siège social constatant
+le dépôt au greffe de la demande, des actes annexés et des pièces nécessaires à l'immatriculation ultérieure de la société de
+participations financières ;
+
+3° La liste des associés avec, selon le cas, l'indication de leur profession ou de leur qualité au regard de l'article R.
+422-51-1, suivie, pour chacun, de la mention de la part du capital qu'il détient dans la société dont l'inscription est
+demandée.
+
+La demande est, le cas échéant, accompagnée d'une note d'information désignant la ou les sociétés d'exercice libéral de
+conseil en propriété industrielle dont les parts sociales ou actions seront détenues par la société de participations
+financières et précisant la répartition du capital qui résultera de ces participations pour chacune d'entre elles.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R422-51-1 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R422-51-4 (Ab)
+  - Code de la propriété intellectuelle - art. R422-51-7 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-51-4
+
+Le directeur général de l'Institut national de la propriété industrielle statue sur la demande d'inscription après avis de la
+Compagnie nationale des conseils en propriété industrielle.
+
+L'avis est réputé donné si la compagnie ne l'a pas formulé dans un délai d'un mois à compter de sa saisine.
+
+L'inscription de la société ne peut être refusée que si la situation déclarée en application de l'article R. 422-51-3 n'est
+pas conforme aux dispositions législatives et réglementaires en vigueur.
+
+Le refus d'inscription est motivé et notifié au mandataire commun.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2013-746 du 14 août 2013 - art. 5
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R422-51-3
+
+
+###### Article R422-51-5
+
+Les sociétés de participations financières de profession libérale de conseil en propriété industrielle issues d'une fusion ou
+d'une scission sont soumises aux dispositions des articles R. 422-51-2 à R. 422-51-4.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle R422-51-2 à R422-51-4
+
+
+###### Article R422-51-6
+
+A la diligence du directeur de l'Institut national de la propriété industrielle, une ampliation de la décision d'inscription
+de la société est adressée au greffe du tribunal où a été déposée la demande d'immatriculation au registre du commerce et des
+sociétés. Au reçu de cette ampliation, le greffier procède à l'immatriculation et en informe le directeur général de
+l'Institut national de la propriété industrielle.
+
+La société est dispensée de procéder aux formalités de publicité prévues à l'article 281 du décret n° 67-236 du 23 mars 1967
+modifié sur les sociétés commerciales.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°67-236 1967-03-23 art. 281
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+
+###### Article R422-51-7
+
+La société de participations financières de profession libérale de conseil en propriété industrielle notifie au directeur
+général de l'Institut national de la propriété industrielle tout changement dans la situation déclarée en application de
+l'article R. 422-51-3, avec les pièces justificatives, dans un délai de trente jours à compter de la date à laquelle ce
+changement est intervenu.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R422-51-3 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+
+###### Article R422-51-8
+
+Si ce changement a pour effet de rendre la situation déclarée de la société non conforme aux dispositions législatives et
+réglementaires en vigueur, la société est mise en demeure par le directeur général de l'institut de régulariser sa situation
+dans le délai indiqué par cette mise en demeure.
+
+Si, à l'expiration de ce délai, la société n'a pas régularisé sa situation, le directeur général de l'institut prononce sa
+radiation par une décision motivée qui est notifiée à la société.
+
+Le recours formé contre une décision de radiation a un caractère suspensif.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R422-51-9 (V)
+
+
+###### Article R422-51-9
+
+A la diligence du directeur général de l'Institut national de la propriété industrielle, une expédition de la décision
+définitive prononçant la radiation de la société de la liste des conseils en propriété industrielle est notifiée au greffier
+chargé de la tenue du registre du commerce et des sociétés auquel la société est immatriculée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+
+###### Article R422-51-10
+
+La radiation de la société de participations financières de profession libérale de conseil en propriété industrielle de la
+liste des conseils en propriété industrielle emporte sa dissolution.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2013-746 du 14 août 2013 - art. 10
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R422-51-13 (V)
+
+
+###### Article R422-51-11
+
+La dissolution de la société, lorsqu'elle ne résulte pas de la radiation de la liste des conseils en propriété industrielle,
+est notifiée au directeur général de l'Institut national de la propriété industrielle à la diligence du liquidateur.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+
+###### Article R422-51-12
+
+Le liquidateur peut être choisi parmi les associés.
+
+Plusieurs liquidateurs peuvent être désignés.
+
+Le liquidateur peut être remplacé pour cause d'empêchement, ou pour tout autre motif grave, par le président du tribunal de
+grande instance du lieu du siège social de la société, statuant en référé à la demande du liquidateur lui-même, des associés
+ou de leurs ayants droit, ou du directeur général de l'Institut national de la propriété industrielle.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+
+###### Article R422-51-13
+
+Dans le cas prévu à l'article R. 422-51-10, le liquidateur procède à la cession des parts ou actions que la société radiée
+détient dans la ou les sociétés d'exercice libéral, dans les conditions prévues à l'article R. 422-48.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R422-48 (V)
+  - Code de la propriété intellectuelle - art. R422-51-10 (Ab)
+
+
+###### Article R422-51-14
+
+Le liquidateur informe de la clôture des opérations de liquidation le directeur général de l'Institut national de la
+propriété industrielle ainsi que le greffier chargé de la tenue du registre du commerce et des sociétés auquel est
+immatriculée la société.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+
+
+##### Section 4 : Obligations professionnelles<a id=170></a>
 
 ###### Article R422-52
 
@@ -24018,7 +24516,9 @@ _Cite_:
 
 Le conseil en propriété industrielle :
 
-1° S'abstient dans une même affaire de conseiller, assister ou représenter des clients ayant des intérêts opposés ;
+1° S'abstient dans une même affaire de conseiller, assister ou représenter des clients ayant des intérêts opposés ; il
+s'abstient également d'accepter un nouveau dossier si le secret des informations confiées par un ancien client risque d'être
+violé ;
 
 2° Observe le secret professionnel : ce secret s'étend notamment aux consultations qu'il donne à son client, aux
 correspondances professionnelles échangées ainsi qu'à tous documents préparés à cette occasion ;
@@ -24040,16 +24540,20 @@ _Anciens textes_:
   - Décret n°92-360 1992-04-01 art. 22
   - Décret n°92-360 du 1 avril 1992 - art. 22 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 10 () JORF 3 mars 2004
 
 
-##### Section 5 : Régime disciplinaire<a id=170></a>
+##### Section 5 : Régime disciplinaire<a id=171></a>
 
 ###### Article R422-56
 
@@ -24398,7 +24902,7 @@ _Créé par_:
   - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-#### Chapitre III : Dispositions diverses<a id=171></a>
+#### Chapitre III : Dispositions diverses<a id=172></a>
 
 ###### Article R423-1
 
@@ -24480,13 +24984,13 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre V : Les dessins et modèles<a id=172></a>
+## Livre V : Les dessins et modèles<a id=173></a>
 
-### Titre Ier : Acquisition des droits<a id=173></a>
+### Titre Ier : Acquisition des droits<a id=174></a>
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=174></a>
+#### Chapitre Ier : Droits et oeuvres protégés<a id=175></a>
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=175></a>
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=176></a>
 
 ###### Article R511-1
 
@@ -24649,7 +25153,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=176></a>
+#### Chapitre II : Formalités de dépôt<a id=177></a>
 
 ###### Article R512-1
 
@@ -24721,32 +25225,46 @@ _Codifié par_:
 
 ###### Article R512-3
 
+Lorsqu'un même dépôt porte sur plusieurs dessins ou modèles, les produits dans lesquels ces dessins ou modèles sont destinés
+à être incorporés ou auxquels ils sont destinés à être appliqués doivent relever d'une même classe, au sens de la
+classification établie par l'arrangement de Locarno du 8 octobre 1968. Toutefois, cette condition ne s'applique pas lorsque
+le dépôt porte sur des ornementations.
+
 Le dépôt comprend :
 
-1° Une déclaration de dépôt établie dans les conditions prévues à l'arrêté mentionné à l'article R. 514-5 et précisant
+1° Une demande d'enregistrement établie dans les conditions prévues par l'arrêté mentionné à l'article R. 514-5 et précisant
 notamment :
 
 a) L'identification du déposant ;
 
-b) Le nombre des dessins ou modèles concernés et pour chacun d'entre eux l'indication de son objet ainsi que le nombre et
-l'intitulé des reproductions graphiques ou photographiques qui s'y rapportent ;
+b) Le nombre des dessins ou modèles concernés ;
 
-c) Le cas échéant, l'indication que la publicité du dépôt doit être différée, qu'il est revendiqué le droit de priorité
-attaché à un précédent dépôt étranger ou qu'un certificat de garantie a été délivré en application de la loi du 13 avril
+c) Le nombre total des reproductions graphiques ou photographiques incluses dans le dépôt, lequel ne peut porter sur plus de
+cent reproductions ;
+
+d) Le nombre de reproductions qui se rapportent à chaque dessin ou modèle identifié ;
+
+e) La désignation usuelle du produit dans lequel le dessin ou modèle est destiné à être incorporé ou auquel il est destiné à
+être appliqué ;
+
+f) Le cas échéant, l'indication que la publication du dépôt doit être différée, que le droit de priorité attaché à un
+précédent dépôt étranger est revendiqué ou qu'un certificat de garantie a été délivré en application de la loi du 13 avril
 1908 ;
 
-2° Une reproduction graphique ou photographique des dessins ou modèles présentée conformément à l'arrêté susmentionné ; cette
-reproduction peut être accompagnée d'une brève description ;
-
-La description est établie exclusivement à des fins documentaires. Son contenu définitif est, si nécessaire, mis en forme par
-l'Institut national de la propriété industrielle ;
+2° Une reproduction graphique ou photographique des dessins et modèles présentée dans les conditions prévues par l'arrêté
+mentionné au 1°. Chaque reproduction doit porter sur un seul objet et ne représenter que celui-ci, à l'exclusion de tout
+autre objet, accessoire, personne ou animal. Les textes explicatifs, légendes, ou toute autre indication ne faisant pas
+partie intégrante du dessin ou modèle ne sont pas admis sur ou à côté des reproductions. Les reproductions peuvent être
+accompagnées d'une brève description, établie exclusivement à des fins documentaires. Son contenu définitif est, si
+nécessaire, mis en forme par l'Institut national de la propriété industrielle ;
 
 3° La justification du paiement des redevances prescrites ;
 
 4° S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété
 industrielle.
 
-Un même dépôt ne peut porter sur plus de cent reproductions de dessins ou modèles.
+Le déposant peut, jusqu'à la publication prévue à l'article R. 512-10, obtenir à ses frais une copie officielle des documents
+contenus dans son dépôt.
 
 **Liens relatifs à cet article**
 
@@ -24765,17 +25283,44 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R514-5 (V)
   - Code de la propriété intellectuelle - art. R811-1 (M)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 11 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R512-10 (M)
+  - Loi n°1908-04-13
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R512-3-1
+
+Jusqu'au début des préparatifs techniques relatifs à la publication, le déposant peut être autorisé, sur requête écrite
+adressée au directeur de l'Institut national de la propriété industrielle, à rectifier les erreurs matérielles relevées dans
+les pièces déposées. L'institut peut exiger la justification de la réalité de l'erreur matérielle à corriger et, le cas
+échéant, du sens de la correction demandée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
 _Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Loi n°1908-04-13
+  - Décret n°2004-199 du 25 février 2004 - art. 12 () JORF 3 mars 2004
 
 
 ###### Article R512-4
@@ -24783,7 +25328,9 @@ _Cite_:
 Le dépôt sous forme simplifiée prévu à l'article L. 512-2, alinéa 5, comporte les pièces et indications énoncées à l'article
 R. 512-3. Toutefois, jusqu'à la renonciation à l'ajournement prévue à l'article R. 512-11, les reproductions graphiques ou
 photographiques des dessins ou modèles ne sont pas soumises aux exigences de présentation prévues au 2° de l'article R.
-512-3, et le dépôt est assorti de la justification du paiement d'une redevance indépendante du nombre de reproductions.
+512-3, et le dépôt est assorti de la justification du paiement d'une redevance indépendante du nombre de reproductions. 
+
+Le bénéfice d'un dépôt sous forme simplifiée ne peut être demandé que lors du dépôt.
 
 **Liens relatifs à cet article**
 
@@ -24792,15 +25339,19 @@ _Anciens textes_:
   - Décret n°92-792 1992-08-13 art. 3 I
   - Décret n°92-792 du 13 août 1992 - art. 3-1 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 13 () JORF 3 mars 2004
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L512-2 (M)
+  - Code de la propriété intellectuelle - art. L512-2 (V)
   - Code de la propriété intellectuelle - art. R512-11 (V)
-  - Code de la propriété intellectuelle - art. R512-3 (M)
+  - Code de la propriété intellectuelle - art. R512-3 (V)
 
 _Cité par_:
 
@@ -24818,7 +25369,10 @@ La revendication, à l'occasion d'un dépôt effectué en France, d'un droit de 
 emporte obligation de faire parvenir à l'Institut national de la propriété industrielle, dans les trois mois du dépôt en
 France, une copie officielle du dépôt antérieur et, s'il y a lieu, la justification du droit de revendiquer la priorité.
 
-Si cette obligation n'est pas respectée, la priorité est réputée n'avoir pas été revendiquée.
+Si cette obligation n'est pas respectée, la revendication du droit de priorité est déclarée irrecevable.
+
+Il en va de même lorsqu'il ressort des pièces communiquées que la date du dépôt antérieur précède de plus de six mois la date
+de dépôt en France ou que les reproductions jointes lors du dépôt en France ne correspondent pas à celles du dépôt antérieur.
 
 **Liens relatifs à cet article**
 
@@ -24831,9 +25385,13 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 14 () JORF 3 mars 2004
 
 
 ###### Article R512-6
@@ -24866,8 +25424,9 @@ _Créé par_:
 Dès sa réception à l'institut, le dépôt donne lieu à l'attribution d'un numéro national. Lorsqu'il n'a pu être mentionné sur
 le récépissé du dépôt, ce numéro est notifié au déposant.
 
-Est déclaré irrecevable toute correspondance ou dépôt de pièces ultérieurs qui ne rappelle pas le numéro national du dépôt ou
-qui, le cas échéant, n'est pas accompagné de la justification du paiement de la redevance prescrite.
+Est déclaré irrecevable toute correspondance ou dépôt ultérieur de pièces qui ne rappelle pas le numéro national du dépôt,
+qui ne porte pas la signature du déposant ou de son mandataire ou qui, le cas échéant, n'est pas accompagné de la
+justification du paiement de la redevance prescrite.
 
 **Liens relatifs à cet article**
 
@@ -24876,53 +25435,64 @@ _Anciens textes_:
   - Décret n°92-792 1992-08-13 art. 6
   - Décret n°92-792 du 13 août 1992 - art. 6 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 15 () JORF 3 mars 2004
 
 
 ###### Article R512-8
 
-Est déclaré irrecevable tout dépôt qui ne comporte pas au moins un exemplaire de la déclaration de dépôt, même irrégulière en
-la forme, contenant les mentions prévues à l'article R. 512-3 (1°, a) et au moins un exemplaire de la reproduction graphique
-ou photographique du ou des dessins et modèles prévue à l'article R. 512-3 (2°) et qui n'est pas accompagné de la
-justification du paiement de la redevance de dépôt.
+Est déclaré irrecevable tout dépôt qui ne comporte pas au moins un exemplaire de la demande d'enregistrement contenant la
+mention prévue au a du 1° de l'article R. 512-3 et au moins un exemplaire de la reproduction graphique ou photographique du
+ou des dessins ou modèles prévue au 2° de l'article R. 512-3 et qui n'est pas accompagné de la justification du paiement de
+la redevance de dépôt. La reproduction ci-dessus mentionnée doit être d'une qualité suffisante pour permettre une publication
+satisfaisante au Bulletin officiel de la propriété industrielle.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-792 1992-08-13 art. 7
-  - Décret n°92-792 du 13 août 1992 - art. 7 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-792 du 13 août 1992 - art. 7 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 16 () JORF 3 mars 2004
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R512-3 (M)
+  - Code de la propriété intellectuelle - art. R512-3 (V)
 
 
 ###### Article R512-9
 
 En cas de non-conformité du dépôt aux prescriptions de l'article R. 512-3 ou, s'il s'agit d'un dépôt simplifié, aux
 prescriptions de l'article R. 512-4, ou lorsque la publication du dépôt est de nature à porter atteinte aux bonnes mœurs ou à
-l'ordre public, notification motivée en est faite au déposant.
+l'ordre public, notification motivée en est faite au déposant. 
 
-Un délai lui est imparti pour régulariser le dépôt ou contester les objections de l'institut. A défaut de régularisation ou
-d'observations permettant de lever l'objection, le dépôt est rejeté.
+Un délai lui est imparti pour régulariser le dépôt ou contester les objections de l'institut ou, si le dépôt n'est pas
+conforme aux dispositions du premier alinéa de l'article R. 512-3, pour diviser sa demande. Chaque demande divisionnaire doit
+satisfaire aux conditions fixées aux 1°, 2°, 3° et 4° de l'article R. 512-3. Les demandes divisionnaires bénéficient de la
+date de dépôt et, le cas échéant, de la date de priorité de la demande initiale. A défaut de régularisation, d'observations
+ou de division du dépôt permettant de lever l'objection, le dépôt est rejeté. 
 
 La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant
-ne la conteste pas dans le délai qui lui est imparti.
+ne la conteste pas dans le délai qui lui est imparti. 
 
 Aucune régularisation effectuée conformément aux dispositions du présent article ne peut avoir pour effet d'étendre la portée
 du dépôt.
@@ -24934,9 +25504,13 @@ _Anciens textes_:
   - Décret n°92-792 1992-08-13 art. 8
   - Décret n°92-792 du 13 août 1992 - art. 8 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 17 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -24946,24 +25520,71 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R512-3 (M)
-  - Code de la propriété intellectuelle - art. R512-4 (M)
+  - Code de la propriété intellectuelle - art. R512-3 (V)
+  - Code de la propriété intellectuelle - art. R512-4 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
 
+###### Article R512-9-1
+
+La demande d'enregistrement peut être retirée jusqu'au début des préparatifs techniques requis par la publication prévue au
+premier alinéa de l'article R. 512-10.
+
+Le retrait s'effectue par une déclaration écrite adressée ou remise à l'institut, formulée par le titulaire ou son
+mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit justifier d'un pouvoir spécial. En cas
+de pluralité de déposants, le retrait ne peut être effectué que s'il est requis par l'ensemble de ceux-ci.
+
+Une déclaration de retrait ne peut viser qu'un seul dépôt. Le retrait peut être limité à une partie des dessins ou modèles de
+la demande.
+
+La déclaration indique s'il a été ou non concédé des droits d'exploitation ou de gage. Dans l'affirmative, elle doit être
+accompagnée du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 13 août 1992 - art. 1 (V)
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Code de la propriété intellectuelle - art. R513-2 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 18 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R512-10 (M)
+
+
 ###### Article R512-10
 
 Tout dépôt reconnu conforme est publié au Bulletin officiel de la propriété industrielle, sauf si le déposant a demandé lors
 du dépôt l'ajournement de cette publication à trois ans. L'ajournement de la publication ne peut porter que sur l'ensemble du
-dépôt. La publication n'intervient qu'au terme du délai de trois ans.
+dépôt. La publication n'intervient qu'au terme du délai de trois ans. 
 
-L'ajournement est de plein droit si le dépôt a été effectué sous forme simplifiée conformément à l'article R. 512-4.
+L'ajournement est de plein droit si le dépôt a été effectué sous forme simplifiée conformément à l'article R. 512-4. 
 
 Le déposant peut renoncer à tout moment à l'ajournement. Sauf lorsque le dépôt a été effectué sous forme simplifiée, la
-renonciation à l'ajournement de la publication ne peut porter que sur l'ensemble du dépôt.
+renonciation à l'ajournement de la publication ne peut porter que sur l'ensemble du dépôt. 
+
+A compter du jour de la publication prévue au premier alinéa, toute personne intéressée peut demander à prendre connaissance
+d'un dossier de dépôt de dessin ou modèle et obtenir à ses frais reproduction des pièces. L'institut peut subordonner l'usage
+de cette faculté à la justification d'un intérêt suffisant. 
+
+Toutefois, sont exclues de la communication au public les pièces non communiquées au déposant ainsi que celles qui comportent
+des données à caractère personnel ou sont relatives au secret des affaires.
 
 **Liens relatifs à cet article**
 
@@ -24972,9 +25593,13 @@ _Anciens textes_:
   - Décret n°92-792 1992-08-13 art. 9
   - Décret n°92-792 du 13 août 1992 - art. 9 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 19 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -24988,7 +25613,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R512-4 (M)
+  - Code de la propriété intellectuelle - art. R512-4 (V)
 
 _Codifié par_:
 
@@ -25041,34 +25666,32 @@ _Créé par_:
 
 ###### Article R512-12
 
-La demande de relevé de déchéance prévue à l'article L. 512-3 est présentée au directeur général de l'institut.
+La demande de relevé de déchéance prévue à l'article L. 512-3 doit être formée dans un délai de deux mois à compter de la
+cessation de l'empêchement, et l'acte non accompli doit l'être dans le même délai. Elle n'est plus recevable après un délai
+préfixe de six mois décompté à partir de l'expiration du délai non observé. 
 
-Est déclarée irrecevable toute demande :
+La demande est présentée au directeur général de l'institut par le titulaire du dépôt, qui doit être le titulaire inscrit au
+Registre national des dessins et modèles si le dépôt est publié, ou son mandataire. 
 
-1° Non précédée de l'accomplissement de la formalité omise ;
+La demande n'est recevable qu'après paiement de la redevance prescrite. 
 
-2° Présentée plus de deux mois à compter de la cessation de l'empêchement ;
+La demande est écrite. Elle indique les faits et justifications invoqués à son appui. 
 
-3° Portant sur un délai échu depuis plus de six mois ;
-
-4° Non accompagnée de la justification du paiement de la redevance prescrite.
-
-La décision est motivée. Elle est notifiée au demandeur et inscrite d'office au Registre national des dessins et modèles.
+La décision motivée est notifiée au demandeur.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°92-792 1992-08-13 art. 25
   - Décret n°92-792 du 13 août 1992 - art. 25 (Ab)
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°95-385 1955-04-10
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 20 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -25076,7 +25699,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L512-3 (M)
+  - Code de la propriété intellectuelle - art. L512-3 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R512-13
@@ -25124,24 +25751,28 @@ _Codifié par_:
 
 ###### Article R512-14
 
-Les indications mentionnées à l'article R. 512-13, deuxième alinéa, 1°, sont inscrites à l'initiative de l'Institut national
-de la propriété industrielle ou, s'il s'agit d'un jugement définitif d'annulation, sur réquisition du greffier ou de l'une
-des parties.
+Les indications prévues au 1° de l'article R. 512-13 sont inscrites à l'initiative de l'Institut national de la propriété
+industrielle ou, s'il s'agit d'une décision judiciaire, sur réquisition du greffier ou requête de l'une des parties. 
+
+Seules les décisions judiciaires définitives peuvent être inscrites au Registre national des dessins et modèles.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-792 1992-08-13 art. 13
-  - Décret n°92-792 du 13 août 1992 - art. 13 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-792 du 13 août 1992 - art. 13 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 21 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -25151,22 +25782,22 @@ _Cite_:
 ###### Article R512-15
 
 Les actes modifiant la propriété d'un dépôt de dessin ou modèle ou la jouissance des droits qui lui sont attachés, tels que
-cession, concession d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce dernier,
-saisie, validation et mainlevée de saisie, sont inscrits à la demande de l'une des parties à l'acte.
+cession, concession d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce droit, saisie,
+validation et mainlevée de saisie, sont inscrits à la demande de l'une des parties à l'acte, ou, s'il n'est pas partie à
+l'acte, du titulaire du dépôt au jour de cette demande.
+
+Toutefois, un acte ne peut être inscrit que si la personne indiquée dans l'acte comme le titulaire du dépôt de dessin et
+modèle avant la modification résultant de l'acte est inscrite comme telle au Registre national des dessins et modèles.
 
 La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° Un des originaux de l'acte sous seing privé constatant la modification de la propriété ou de la jouissance, ou une
-expédition de cet acte s'il est authentique ;
+2° Une copie ou un extrait de l'acte constatant la modification de la propriété ou de la jouissance ;
 
-3° Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué, ou
-un extrait lorsqu'il souhaite limiter l'inscription à ce dernier ;
+3° La justification du paiement de la redevance prescrite ;
 
-4° La justification du paiement de la redevance prescrite ;
-
-5° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
 
 **Liens relatifs à cet article**
 
@@ -25183,9 +25814,13 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R514-5 (VD)
   - Code de la propriété intellectuelle - art. R811-1 (VD)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 22 () JORF 3 mars 2004
 
 _Codifié par_:
 
@@ -25194,55 +25829,60 @@ _Codifié par_:
 
 ###### Article R512-16
 
-Par dérogation à l'article R. 512-15, deuxième alinéa, 2°, peut être produit avec la demande :
+Par dérogation au 2° de l'article R. 512-15, peut être produit avec la demande : 
 
-1° En cas de mutation par décès : tout acte établissant le transfert, à la demande des héritiers ou légataires ;
+1° En cas de mutation par décès : copie de tout acte établissant le transfert, à la demande des héritiers ou légataires ; 
 
-2° En cas de transfert par suite de fusion, scission ou absorption, une copie certifiée conforme par le greffier ou le
-directeur général de l'institut des actes correspondants déposés en annexe au registre du commerce et des sociétés ;
+2° En cas de transfert par suite de fusion, scission ou absorption : copie d'un extrait du registre du commerce et des
+sociétés à jour de la modification ; 
 
-3° Sur justification de l'impossibilité matérielle de produire l'original ou l'expédition : tout document établissant la
-modification de la propriété ou de la jouissance.
+3° Sur justification de l'impossibilité matérielle de produire une copie : tout document établissant la modification de la
+propriété ou de la jouissance.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°92-792 1992-08-13 art. 15
   - Décret n°92-792 du 13 août 1992 - art. 15 (Ab)
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°95-385 1955-04-10
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 23 () JORF 3 mars 2004
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R512-15 (M)
+  - Code de la propriété intellectuelle - art. R512-15 (V)
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R512-18 (M)
 
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
 
 ###### Article R512-17
 
-Les changements de nom et d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande du titulaire du
-dépôt. Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être
-présentée par toute partie à l'acte.
+Les changements de nom, de forme juridique, d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande
+du titulaire du dépôt, qui doit être le titulaire inscrit au Registre national des dessins et modèles. Toutefois, lorsque ces
+changements et rectifications portent sur un acte précédemment inscrit, la demande peut être présentée par toute partie à
+l'acte.
 
 La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° La justification du changement intervenu ou de la réalité de l'erreur matérielle à rectifier ;
+2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
 
-3° La justification du paiement de la redevance prescrite ;
+3° S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite.
 
-4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+L'institut peut exiger la justification de la réalité du changement dont l'inscription est sollicitée ou de l'erreur
+matérielle à rectifier.
 
 **Liens relatifs à cet article**
 
@@ -25262,37 +25902,43 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 24 () JORF 3 mars 2004
 
 
 ###### Article R512-18
 
-En cas de non-conformité d'une demande d'inscription, il est fait application de la procédure prévue à l'article R. 512-9.
+En cas de non-conformité d'une demande d'inscription, notification motivée en est faite au demandeur.
 
-La même procédure est applicable aux justifications prévues aux articles R. 512-16 (3°) et R. 512-17, deuxième alinéa, 2°.
+Un délai lui est imparti pour régulariser sa demande ou présenter des observations. A défaut de régularisation ou
+d'observations permettant de lever l'objection, la demande est rejetée par décision du directeur général de l'Institut
+national de la propriété industrielle.
+
+La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant
+ne la conteste pas dans le délai qui lui est imparti.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-792 1992-08-13 art. 17
-  - Décret n°92-792 du 13 août 1992 - art. 17 (Ab)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R512-16 (M)
-  - Code de la propriété intellectuelle - art. R512-17 (M)
-  - Code de la propriété intellectuelle - art. R512-9 (M)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-792 du 13 août 1992 - art. 17 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 25 () JORF 3 mars 2004
 
 
 ###### Article R512-19
@@ -25324,24 +25970,31 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=177></a>
+#### Chapitre III : Durée de la protection<a id=178></a>
 
 ###### Article R513-1
 
-La prorogation d'un dépôt de dessin ou modèle prévu à l'article L. 513-1 résulte d'une déclaration de son titulaire établie
-dans les conditions fixées par l'arrêté mentionné à l'article R. 514-5. Il peut être précisé que la prorogation ne vaut que
-pour certains dessins ou modèles.
+La prorogation d'un enregistrement de dessin ou modèle prévue à l'article L. 513-1 résulte d'une déclaration de son titulaire
+établie dans les conditions fixées par l'arrêté mentionné à l'article R. 514-5. Il peut être précisé que la prorogation ne
+vaut que pour certains dessins ou modèles. 
 
-La déclaration doit, à peine d'irrecevabilité :
+La première prorogation peut toutefois être demandée lors du dépôt. 
 
-1° Etre présentée au cours des six derniers mois qui précèdent l'expiration de chaque période de protection par l'intéressé
-ou son mandataire, lequel doit joindre un pouvoir à moins qu'il n'ait la qualité de conseil en propriété industrielle.
-Toutefois, la première prorogation peut être demandée lors du dépôt ;
+La prorogation prend effet le jour suivant la date d'expiration de l'enregistrement. 
 
-2° Comporter la désignation du dépôt à proroger et émaner du titulaire inscrit, au jour de la déclaration, au Registre
-national des dessins et modèles ;
+La déclaration doit à peine d'irrecevabilité : 
 
-3° Etre accompagnée de la justification du paiement de la redevance prescrite.
+1° Etre présentée au cours d'un délai de six mois expirant le dernier jour du mois au cours duquel prend fin chaque période
+de protection et être accompagnée de la justification du paiement de la redevance prescrite. Toutefois, la déclaration peut
+encore être présentée ou la redevance acquittée dans un délai supplémentaire de six mois, décompté depuis le lendemain du
+dernier jour du mois d'expiration de la protection, moyennant le paiement d'un supplément de redevance ; 
+
+2° Comporter la désignation de l'enregistrement à proroger et émaner du titulaire inscrit, au jour de la déclaration, au
+Registre national des dessins et modèles, ou de son mandataire ; 
+
+Si la déclaration ne satisfait pas à ces conditions, il est fait application de la procédure prévue à l'article R. 512-9. 
+
+L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis en mesure de présenter des observations.
 
 **Liens relatifs à cet article**
 
@@ -25358,13 +26011,18 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R514-6 (V)
   - Code de la propriété intellectuelle - art. R811-1 (VD)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Modifié par_:
 
-  - Décret n°2002-215 du 18 février 2002 - art. 7 () JORF 20 février 2002
+  - Décret n°2004-199 du 25 février 2004 - art. 26 () JORF 3 mars 2004
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L513-1 (M)
+  - Code de la propriété intellectuelle - art. L513-1 (V)
+  - Code de la propriété intellectuelle - art. R512-9 (V)
 
 _Codifié par_:
 
@@ -25373,19 +26031,16 @@ _Codifié par_:
 
 ###### Article R513-2
 
-Le titulaire d'un dépôt de dessin ou modèle peut à tout moment renoncer à ce dernier. La renonciation peut être limitée à une
-partie de dépôt. Elle s'effectue par une déclaration écrite adressée ou remise à l'institut.
+Le titulaire d'un enregistrement de dessin ou modèle publié peut à tout moment y renoncer, pour tout ou partie. 
 
-Une déclaration de renonciation ne peut viser qu'un seul dépôt. Elle est formulée par le titulaire ou par son mandataire,
-lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit justifier d'un pouvoir spécial.
+La déclaration de renonciation doit, à peine d'irrecevabilité : 
 
-Elle indique s'il a été ou non concédé des droits d'exploitation ou de gage. Dans l'affirmative, elle doit être accompagnée
-du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste.
+1° Emaner du titulaire de l'enregistrement inscrit, au jour de la déclaration, au Registre national des dessins et modèles ou
+de son mandataire ; 
 
-En cas de pluralité de déposants, la renonciation ne peut être effectuée que si elle est requise de l'ensemble de ceux-ci.
+2° Etre accompagnée de la justification du paiement de la redevance prescrite. 
 
-La renonciation ne fait pas obstacle à la publication prévue à l'article R. 512-10 sauf, en cas de renonciation totale, si
-elle a été présentée avant le début des préparatifs techniques entrepris en vue de cette publication.
+Les dispositions de l'article R. 512-9-1 sont applicables à la renonciation.
 
 **Liens relatifs à cet article**
 
@@ -25402,13 +26057,17 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R513-3 (M)
   - Code de la propriété intellectuelle - art. R811-1 (M)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 27 () JORF 3 mars 2004
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R512-10 (M)
+  - Code de la propriété intellectuelle - art. R512-9-1 (V)
 
 _Codifié par_:
 
@@ -25417,8 +26076,12 @@ _Codifié par_:
 
 ###### Article R513-3
 
-La durée des préparatifs techniques mentionnés à l'article R. 513-2 est fixée par décision du directeur général de
-l'institut.
+Les dépôts irrecevables, rejetés, déchus, non prorogés, de même que ceux dont la protection est expirée, peuvent être
+restitués à leur propriétaire, sur sa demande et à ses frais.
+
+S'ils n'ont pas été réclamés, ils peuvent être détruits par l'Institut national de la propriété industrielle au terme d'un
+délai d'un an pour les dépôts irrecevables, rejetés ou déchus, ou de dix ans pour les dépôts non prorogés ou dont la
+protection est expirée.
 
 **Liens relatifs à cet article**
 
@@ -25427,22 +26090,22 @@ _Anciens textes_:
   - Décret n°92-792 1992-08-13 art. 20
   - Décret n°92-792 du 13 août 1992 - art. 20 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R513-2 (M)
+  - Décret n°2004-199 du 25 février 2004 - art. 28 () JORF 3 mars 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=178></a>
+#### Chapitre IV : Dispositions communes<a id=179></a>
 
-##### Section 1 : Procédure<a id=179></a>
+##### Section 1 : Procédure<a id=180></a>
 
 ###### Article R514-1
 
@@ -25481,6 +26144,13 @@ Tout délai expire le dernier jour à vingt-quatre heures.
 Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour
 ouvrable suivant.
 
+Le délai qui expirerait normalement un jour où l'une des délégations régionales de l'Institut national de la propriété
+industrielle n'est pas ouverte est prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut sont
+ouvertes.
+
+La liste des jours mentionnés à l'alinéa précédent est établie chaque année par le directeur général de l'Institut national
+de la propriété industrielle. Elle est publiée au Bulletin officiel de la propriété industrielle.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -25488,45 +26158,53 @@ _Anciens textes_:
   - Décret n°92-792 1992-08-13 art. 21
   - Décret n°92-792 du 13 août 1992 - art. 21 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 29 () JORF 3 mars 2004
 
 
 ###### Article R514-3
 
-Toute notification est réputée régulière si elle est faite :
+Toute notification est réputée régulière si elle est faite : 
 
 1° Soit au dernier titulaire du dépôt déclaré à l'institut ou, après la publication prévue à l'article R. 512-10, au dernier
-titulaire inscrit au Registre national des dessins et modèles ;
+titulaire inscrit au Registre national des dessins et modèles ; 
 
-2° Soit au mandataire du titulaire susmentionné.
+2° Soit au mandataire du titulaire susmentionné. 
 
-Si le titulaire est domicilié à l'étranger, la notification est réputée régulière si elle est faite au dernier mandataire
-qu'il a constitué auprès de l'institut.
+Si le titulaire n'est pas domicilié dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur
+l'Espace économique européen, la notification est réputée régulière si elle est faite au dernier mandataire qu'il a constitué
+auprès de l'institut.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-792 1992-08-13 art. 22
-  - Décret n°92-792 du 13 août 1992 - art. 22 (Ab)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R512-10 (M)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-792 du 13 août 1992 - art. 22 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 30 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R512-10 (V)
 
 
 ###### Article R514-4
@@ -25535,7 +26213,8 @@ Les notifications prévues par les chapitres II, III et IV du présent titre son
 d'avis de réception.
 
 L'envoi recommandé peut être remplacé par la remise de la lettre au destinataire, contre récépissé, dans les locaux de
-l'institut.
+l'Institut national de la propriété industrielle ou par un message sous forme électronique selon les modalités fixées par le
+directeur général de l'institut pour garantir notamment la sécurité de l'envoi.
 
 Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de la
 propriété industrielle.
@@ -25547,26 +26226,30 @@ _Anciens textes_:
   - Décret n°92-792 1992-08-13 art. 23
   - Décret n°92-792 du 13 août 1992 - art. 23 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 31 () JORF 3 mars 2004
 
 
 ###### Article R514-5
 
 Les modalités de présentation du dépôt et le contenu du dossier sont précisés par arrêté du ministre chargé de la propriété
-industrielle, notamment en ce qui concerne :
+industrielle, notamment en ce qui concerne : 
 
-1° La déclaration de dépôt et les spécifications matérielles auxquelles doit répondre la reproduction graphique ou
-photographique prévue à l'article R. 512-3 ;
+1° La demande d'enregistrement et les spécifications matérielles auxquelles doit répondre la reproduction graphique ou
+photographique prévue à l'article R. 512-3 ; 
 
-2° La déclaration de prorogation prévue à l'article R. 513-1 ;
+2° La déclaration de prorogation prévue à l'article R. 513-1 ; 
 
-3° La demande d'inscription au Registre national des dessins et modèles prévue aux articles R. 512-15 et R. 512-17 ;
+3° La demande d'inscription au Registre national des dessins et modèles prévue aux articles R. 512-15 et R. 512-17 ; 
 
 4° Les modalités des dépôts simplifiés prévus à l'article L. 512-2.
 
@@ -25581,15 +26264,18 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 32 () JORF 3 mars 2004
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L512-2 (M)
-  - Code de la propriété intellectuelle - art. R512-15 (M)
-  - Code de la propriété intellectuelle - art. R512-17 (M)
+  - Code de la propriété intellectuelle - art. L512-2 (V)
+  - Code de la propriété intellectuelle - art. R512-15 (V)
 
 _Cité par_:
 
@@ -25597,7 +26283,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R513-1 (VD)
 
 
-##### Section 2 : Dispositions transitoires<a id=180></a>
+##### Section 2 : Dispositions transitoires<a id=181></a>
 
 ###### Article R514-6
 
@@ -25643,9 +26329,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=181></a>
+### Titre II : Contentieux<a id=182></a>
 
-#### Chapitre unique : Retenue en douane.<a id=182></a>
+#### Chapitre unique : Retenue en douane.<a id=183></a>
 
 ###### Article R521-1
 
@@ -25687,15 +26373,15 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-7 (M)
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=183></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=184></a>
 
-### Titre Ier : Brevets d'invention<a id=184></a>
+### Titre Ier : Brevets d'invention<a id=185></a>
 
-#### Chapitre Ier : Champ d'application<a id=185></a>
+#### Chapitre Ier : Champ d'application<a id=186></a>
 
-##### Section 2 : Droit au titre<a id=186></a>
+##### Section 2 : Droit au titre<a id=187></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=187></a>
+##### Sous-section 1 : Inventions de salariés<a id=188></a>
 
 ###### Article R611-1
 
@@ -26005,7 +26691,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=188></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=189></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -26414,7 +27100,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=189></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=190></a>
 
 ###### Article R611-15
 
@@ -26592,18 +27278,22 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=190></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=191></a>
 
-##### Section 1 : Dépôt des demandes<a id=191></a>
+##### Section 1 : Dépôt des demandes<a id=192></a>
 
 ###### Article R612-1
 
-La demande de brevet est déposée soit à l'Institut national de la propriété industrielle, soit dans une préfecture autre que
-celle de Paris.
+La demande de brevet peut être déposée soit à l'Institut national de la propriété industrielle, soit dans une préfecture
+autre que celle de Paris.
 
-Le dépôt peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande
-d'avis de réception, ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce
-cas, la date de la remise des pièces est celle de la réception à l'Institut national de la propriété industrielle.
+Le dépôt peut également résulter d'un envoi à l'Institut national de la propriété industrielle soit sous pli postal
+recommandé avec demande d'avis de réception, soit par un message utilisant tout mode de télétransmission, selon les modalités
+fixées par le directeur général de l'institut pour garantir notamment la sécurité de l'envoi. Dans ces cas, la date de la
+remise des pièces est celle de leur réception à l'Institut national de la propriété industrielle.
+
+Le directeur de l'Institut national de la propriété industrielle peut exiger un dépôt sous forme électronique lorsqu'une
+telle modalité est de nature à faciliter l'examen et la publication de la demande de brevet.
 
 **Liens relatifs à cet article**
 
@@ -26612,9 +27302,13 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 1 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 1 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 33 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -26640,11 +27334,11 @@ européen. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422
 pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du simple
 paiement des redevances, doit avoir la qualité de conseil en propriété industrielle.
 
-Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauré européenne ou
+Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou
 dans un Etat partie à l'accord sur l'Espace économique européen doivent constituer un mandataire satisfaisant aux conditions
 prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la notification qui leur est
-adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun satisfaisant aux mêmes conditions doit être
-constitué.
+adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun doit être constitué. Si celui-ci n'est pas l'un
+des demandeurs, il doit satisfaire aux conditions prévues par le premier alinéa.
 
 Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous
 réserve des dispositions des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes et à la
@@ -26658,9 +27352,13 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 2 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 2 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Modifié par_:
 
-  - Décret n°2002-215 du 18 février 2002 - art. 8 () JORF 20 février 2002
+  - Décret n°2004-199 du 25 février 2004 - art. 34 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -26810,7 +27508,8 @@ _Cité par_:
 
 Dans les quinze jours qui suivent la remise ou l'arrivée des pièces à l'Institut national de la propriété industrielle à
 Paris, celui-ci attribue à la demande de brevet un numéro d'enregistrement national et le notifie sans délai au demandeur.
-Est déclaré irrecevable toute correspondance ou tout dépôt de pièces ultérieur qui ne rappelle pas ce numéro.
+Est déclaré irrecevable toute correspondance ou tout dépôt de pièces ultérieur qui ne rappelle pas ce numéro ou qui ne porte
+pas la signature du demandeur ou de son mandataire.
 
 **Liens relatifs à cet article**
 
@@ -26823,9 +27522,13 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 5 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 5 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 35 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -27126,8 +27829,8 @@ habilité qui a reçu le dépôt initial ; dans les autres cas, il peut être ef
 Le nouveau dépôt est accompagné d'une déclaration écrite par laquelle le déposant certifie que le micro-organisme est le même
 que celui qui a fait l'objet du dépôt initial.
 
-Les organismes habilités à recevoir les dépôts de micro-organismes sont désignés par arrêté du ministre chargé de la
-propriété industrielle.
+Les organismes habilités à recevoir les dépôts de micro-organismes sont désignés par le directeur général de l'Institut
+national de la propriété industrielle.
 
 **Liens relatifs à cet article**
 
@@ -27135,17 +27838,17 @@ _Anciens textes_:
 
   - Décret n°79-822 1979-09-19 art. 10 alinéas 4 à 8
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
+  - Décret n°2004-199 du 25 février 2004 - art. 36 () JORF 3 mars 2004
 
 
 ###### Article R612-16
@@ -27360,32 +28063,6 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-###### Article R612-23
-
-La liste des Etats non membres de l'Union de Paris considérés comme accordant, sur la base d'une demande de brevet français,
-ou d'une demande internationale ou de brevet européen désignant la France, un droit de priorité équivalent au droit de
-priorité institué par la convention de Paris pour la protection de la propriété industrielle est arrêtée par le ministre des
-affaires étrangères et le ministre chargé de la propriété industrielle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°79-822 du 19 septembre 1979 - art. 16 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2004-199 du 25 février 2004 - art. 37 () JORF 3 mars 2004
-
-
 ###### Article R612-24
 
 La déclaration de priorité prévue à l'article L. 612-7, paragraphe 1, comporte la date du dépôt antérieur, l'Etat dans lequel
@@ -27457,9 +28134,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=192></a>
+##### Section 2 : L'instruction des demandes<a id=193></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=193></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=194></a>
 
 ###### Article R612-26
 
@@ -27701,7 +28378,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=194></a>
+##### Sous-section 2 : Division de la demande<a id=195></a>
 
 ###### Article R612-33
 
@@ -27762,7 +28439,8 @@ _Cité par_:
 ###### Article R612-35
 
 En cas de division d'une demande de brevet conformément aux articles R. 612-33 et R. 612-34, chaque demande divisionnaire
-doit être conforme aux dispositions des articles R. 612-3 à R. 612-5.
+doit être conforme aux dispositions des articles R. 612-3 à R. 612-5. Les dispositions du troisième alinéa de l'article R.
+612-1 sont également applicables. 
 
 Faculté est ouverte au demandeur :
 
@@ -27772,10 +28450,10 @@ seul objet de la demande divisionnaire ;
 - soit de limiter la description, les revendications et les dessins de chaque demande divisionnaire à son seul objet ; dans
 ce cas, ceux-ci ne contiennent, outre les textes, les revendications et les figures extraits respectivement de la
 description, des revendications et des dessins de la demande initiale, que les phrases de liaison et d'explication
-nécessaires à la clarté de l'exposition.
+nécessaires à la clarté de l'exposition. 
 
 Le dossier d'une des demandes divisionnaires est constitué par le dossier de la demande initiale après application des
-dispositions de l'alinéa précédent.
+dispositions de l'alinéa précédent. 
 
 Nonobstant les dispositions des articles R. 612-10 et R. 612-11, le délai dans lequel il peut être procédé à la désignation
 de l'inventeur pour chaque demande divisionnaire ne peut être inférieur à deux mois à compter de l'invitation prévue à
@@ -27785,37 +28463,41 @@ l'article R. 612-11. Mention de la date d'expiration de ce délai est faite dans
 
 _Anciens textes_:
 
-  - Décret n°79-822 du 19 septembre 1979 - art. 27 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 27 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R612-10 (V)
-  - Code de la propriété intellectuelle - art. R612-11 (M)
-  - Code de la propriété intellectuelle - art. R612-33 (V)
-  - Code de la propriété intellectuelle - art. R612-34 (V)
-  - Code de la propriété intellectuelle R612-33, R612-34, R612-3 à R612-5, R612-10, R612-11
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R612-45 (V)
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
+_Modifié par_:
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=195></a>
+  - Décret n°2004-199 du 25 février 2004 - art. 38 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R612-1 (V)
+  - Code de la propriété intellectuelle - art. R612-10 (V)
+  - Code de la propriété intellectuelle - art. R612-11 (V)
+  - Code de la propriété intellectuelle - art. R612-3 (V)
+  - Code de la propriété intellectuelle - art. R612-33 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R612-45 (V)
+
+
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=196></a>
 
 ###### Article R612-36
 
-Jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet, le demandeur peut, sur requête
-justifiée, demander la rectification des fautes d'expression ou de transcription ainsi que des erreurs relevées dans les
-pièces déposées.
+Jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet, le demandeur peut demander la
+rectification des fautes d'expression ou de transcription ainsi que des erreurs matérielles relevées dans les pièces
+déposées. L'institut peut exiger la justification de la réalité de l'erreur matérielle à corriger et, le cas échéant, du sens
+de la correction demandée.
 
 Si la requête porte sur la description, les revendications ou les dessins, la rectification n'est autorisée que si elle
 s'impose à l'évidence, aucun autre texte ou tracé n'ayant pu manifestement être envisagé par le demandeur.
@@ -27834,9 +28516,13 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 28 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 28 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 39 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -27920,17 +28606,18 @@ _Codifié par_:
 
 A l'expiration du délai de dix-huit mois prévu à l'article L. 612-21, ou à tout moment avant l'expiration de ce délai sur
 requête écrite du demandeur, mention est publiée au Bulletin officiel de la propriété industrielle que la demande de brevet
-est rendue publique.
+est rendue publique. 
 
 A compter du jour de la publication prévue à l'alinéa précédent, toute personne peut prendre connaissance à l'Institut
 national de la propriété industrielle des pièces du dossier de la demande de brevet et en obtenir reproduction à ses frais.
+L'institut peut subordonner l'usage de cette faculté à la justification d'un intérêt suffisant. 
 
 Toute demande pour laquelle a été requis le bénéfice de la date de dépôt d'une ou plusieurs demandes antérieures dans les
 conditions prévues à l'article L. 612-3 est rendue publique dix-huit mois après la date de dépôt la plus ancienne dont elle
-bénéficie.
+bénéficie. 
 
 Toutefois, n'est pas rendue publique toute demande rejetée ou retirée avant le début des préparatifs techniques entrepris en
-vue de la publication à moins qu'il ne s'agisse d'une demande ayant donné lieu à une division.
+vue de la publication à moins qu'il ne s'agisse d'une demande ayant donné lieu à une division. 
 
 Toute demande dont le bénéfice de la date de dépôt a été requis dans une demande ultérieure est rendue publique même si elle
 est retirée ou rejetée avant le début des préparatifs techniques à moins qu'il n'ait été renoncé, dans le même délai, à ce
@@ -27942,13 +28629,13 @@ _Anciens textes_:
 
   - Décret n°79-822 1979-09-19 art. 30 I et II
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°95-385 1955-04-10
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 40 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -27968,6 +28655,10 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R613-53 (V)
   - Code de la propriété intellectuelle - art. R616-1 (V)
   - Code de la propriété intellectuelle - art. R618-1 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R612-40
@@ -27996,34 +28687,40 @@ _Codifié par_:
 
 ###### Article R612-41
 
-Sont exclus de la communication au public :
+Sont exclus de la communication au public : 
 
 - les projets de décision et d'avis, ainsi que les pièces non communiquées au demandeur servant à la préparation de ces
-décisions et avis.
+décisions et avis ; 
 
 - les pièces relatives à la désignation de l'inventeur s'il a renoncé à être désigné en tant que tel dans les conditions
-prévues à l'article R. 611-16.
+prévues à l'article R. 611-16 ; 
+
+- les pièces comportant des données à caractère personnel ou relatives au secret des affaires ; 
 
 - toute autre pièce écartée de la consultation par décision du directeur général de l'Institut national de la propriété
 industrielle comme ne présentant pas d'intérêt pour l'information des tiers.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
 _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 30 (M)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 41 () JORF 3 mars 2004
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. R611-16 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R612-42
@@ -28137,7 +28834,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=196></a>
+##### Sous-section 4 : Rejet de la demande<a id=197></a>
 
 ###### Article R612-45
 
@@ -28412,7 +29109,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=197></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=198></a>
 
 ###### Article R612-53
 
@@ -28807,7 +29504,7 @@ _Cite_:
 ###### Article R612-66
 
 En cas de retrait de la demande de brevet ou de transformation de celle-ci en demande de certificat d'utilité, il est mis fin
-à la procédure d'établissement du rapport de recherche après notification du rapport de recherche préliminaire.
+à la procédure d'établissement du rapport de recherche.
 
 **Liens relatifs à cet article**
 
@@ -28820,9 +29517,13 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 50 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 50 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 42 () JORF 3 mars 2004
 
 
 ###### Article R612-67
@@ -28913,7 +29614,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=198></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=199></a>
 
 ###### Article R612-70
 
@@ -28939,15 +29640,15 @@ _Créé par_:
 ###### Article R612-71
 
 Le brevet est délivré au nom du demandeur par décision du directeur général de l'Institut national de la propriété
-industrielle. Notification de cette décision est faite au demandeur.
+industrielle. Cette décision est notifiée au demandeur, accompagnée d'un exemplaire certifié conforme du brevet. 
 
 En cas de cession de la demande, le brevet est délivré au nom du dernier cessionnaire inscrit au Registre national des
 brevets jusqu'au paiement de la redevance de délivrance et d'impression du fascicule. Toutefois, mention est faite du nom du
-demandeur.
+demandeur. 
 
 Le rapport de recherche inséré dans le brevet comporte, le cas échéant, une mention signalant que les revendications sur la
 base desquelles la recherche a été effectuée ont été modifiées ou que des observations ont été présentées par le demandeur ou
-par des tiers au cours de la procédure d'établissement du rapport de recherche.
+par des tiers au cours de la procédure d'établissement du rapport de recherche. 
 
 Le brevet comporte notamment les indications relatives à la date de dépôt de la demande, à la date de la publication de
 celle-ci, à la date de la décision de délivrance et à celle de la publication de la délivrance du brevet au Bulletin officiel
@@ -28956,6 +29657,10 @@ résulte d'une division, ou qu'au moment du dépôt la description ou les revend
 étrangère dans les conditions fixées à l'article R. 612-21.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Cite_:
 
@@ -28972,12 +29677,11 @@ _Codifié par_:
 
 _Anciens textes_:
 
-  - Décret n°79-822 du 19 septembre 1979 - art. 55 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 55 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 43 () JORF 3 mars 2004
 
 
 ###### Article R612-72
@@ -29046,17 +29750,14 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : Diffusion légale des inventions<a id=199></a>
+##### Section 3 : Diffusion légale des inventions<a id=200></a>
 
 ###### Article R612-74
 
-Mention de la délivrance du brevet est publiée au Bulletin officiel de la propriété industrielle dans le délai d'un mois à
-compter de la date de la notification de délivrance faite au demandeur.
+Mention de la délivrance du brevet est publiée au Bulletin officiel de la propriété industrielle.
 
 Cette mention comporte l'indication de la référence au numéro du Bulletin officiel de la propriété industrielle dans lequel
 la demande de brevet a été rendue publique ainsi que l'existence de modifications des revendications.
-
-A la suite de cette publication, un exemplaire certifié conforme du brevet est adressé au demandeur.
 
 **Liens relatifs à cet article**
 
@@ -29069,9 +29770,13 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 57 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 57 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 44 () JORF 3 mars 2004
 
 
 ###### Article R612-75
@@ -29127,11 +29832,11 @@ _Abrogé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 14 () JORF 3 mars 2007
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=200></a>
+#### Chapitre III : Droits attachés aux brevets<a id=201></a>
 
-##### Section 1 : Droits d'exploitation<a id=201></a>
+##### Section 1 : Droits d'exploitation<a id=202></a>
 
-##### Sous-section 1 : Licences de droit<a id=202></a>
+##### Sous-section 1 : Licences de droit<a id=203></a>
 
 ###### Article R613-1
 
@@ -29247,7 +29952,7 @@ _Abrogé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 14 () JORF 3 mars 2007
 
 
-##### Sous-section 2 : Licences obligatoires.<a id=203></a>
+##### Sous-section 2 : Licences obligatoires.<a id=204></a>
 
 ###### Article R613-4
 
@@ -29398,7 +30103,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.<a id=204></a>
+##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.<a id=205></a>
 
 ###### Article R613-10
 
@@ -29856,7 +30561,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=205></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=206></a>
 
 ###### Article R613-26
 
@@ -30085,7 +30790,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=206></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=207></a>
 
 ###### Article R613-34
 
@@ -30359,7 +31064,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=207></a>
+##### Sous-section 6 : Dispositions diverses<a id=208></a>
 
 ###### Article R613-43
 
@@ -30416,7 +31121,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=208></a>
+##### Section 2 : Transmission et perte des droits<a id=209></a>
 
 ###### Article R613-45
 
@@ -30491,9 +31196,9 @@ _Créé par_:
 
 ###### Article R613-47
 
-I. - Le délai de six mois prévu par le second alinéa de l'article L. 612-19, pendant lequel les paiements effectués après la
-date d'échéance sont validés moyennant le paiement d'une redevance de retard, est compté du jour de l'échéance de la
-redevance annuelle.
+I.-Le délai de six mois prévu par le second alinéa de l'article L. 612-19, pendant lequel les paiements effectués après la
+date d'échéance sont validés moyennant le paiement d'une redevance de retard, est compté du lendemain du jour de l'échéance
+de la redevance annuelle. 
 
 Est considéré comme valable tout paiement effectué après la date d'échéance :
 
@@ -30501,9 +31206,9 @@ Est considéré comme valable tout paiement effectué après la date d'échéanc
 au plus tard le dernier jour du quatrième mois suivant la date de réception des pièces de la demande divisionnaire ;
 
 - lorsqu'il complète un versement insuffisant effectué avant l'échéance, à condition qu'il ait lieu dans le délai de six mois
-susmentionné.
+susmentionné. 
 
-II. - Le paiement s'effectue au taux en vigueur au jour de paiement, sauf si un avertissement indiquant un taux précédent a
+II.-Le paiement s'effectue au taux en vigueur au jour de paiement, sauf si un avertissement indiquant un taux précédent a
 déjà été adressé. Toutefois, en cas de restauration, le paiement des redevances échues qui n'ont pas été acquittées à la date
 de l'inscription de la décision au Registre national des brevets doit être effectué au taux en vigueur à cette date.
 
@@ -30511,8 +31216,15 @@ de l'inscription de la décision au Registre national des brevets doit être eff
 
 _Anciens textes_:
 
-  - Décret n°79-822 1979-09-19 art. 70 II et III
   - Décret n°79-822 du 19 septembre 1979 - art. 70 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 45 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -30525,10 +31237,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R613-48
@@ -30590,20 +31298,24 @@ _Créé par_:
 
 Sont inscrites au Registre national des brevets :
 
-La décision de constatation de déchéance prévue à l'article L. 613-22-1 ;
+La mention de la décision de constatation de déchéance prévue au 1 de l'article L. 613-22 ;
 
-La mention de l'introduction des recours, action en restauration et pourvoi en cassation ;
-
-Les décisions rendues.
+Les requêtes introductives des recours en restauration, des recours contre les décisions du directeur de l'institut et des
+pourvois en cassation, ainsi que les décisions rendues.
 
 La décision qui restaure le breveté dans ses droits est sans effet si les redevances échues ne sont pas acquittées dans un
 délai de trois mois à compter de l'inscription de la décision au Registre national des brevets. Mention de la date du
 paiement est portée au registre.
 
-Les dispositions du présent article sont applicables aux demandes de brevet déposées avant le 25 septembre 1979 ainsi qu'aux
-brevets délivrés avant cette date.
-
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L613-22 (V)
 
 _Codifié par_:
 
@@ -30614,29 +31326,25 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 73 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 73 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle L613-22-1
+  - Décret n°2004-199 du 25 février 2004 - art. 46 () JORF 3 mars 2004
 
 
 ###### Article R613-51
 
-Le délai prévu à l'alinéa 2 de l'article L. 613-21 est de quinze jours à compter de la date de la signature de la saisie
+Le délai prévu à l'alinéa 2 de l'article L. 613-21 est de quinze jours à compter de la date de la signification de la saisie
 prévue à l'alinéa premier dudit article.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°95-385 1955-04-10
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 47 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -30646,19 +31354,28 @@ _Cité par_:
 
   - Code de la propriété intellectuelle - art. R613-44 (V)
 
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
 _Anciens textes_:
 
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=209></a>
+##### Section 4 : Recours en restauration<a id=210></a>
 
 ###### Article R613-52
 
-Les recours en restauration prévus aux articles L. 612-16 et L. 613-22 sont adressés par écrit, accompagnés de la redevance
-prescrite, au directeur général de l'Institut national de la propriété industrielle qui statue par décision motivée.
+Les recours en restauration prévus aux articles L. 612-16 et L. 613-22 sont présentés au directeur général de l'institut par
+le titulaire du dépôt, qui doit être le titulaire inscrit au Registre national des brevets si le dépôt est publié, ou son
+mandataire.
 
-La décision est notifiée au requérant.
+Le recours n'est recevable qu'après paiement de la redevance prescrite.
+
+Le recours est écrit. Il indique les faits et justifications invoqués à son appui.
+
+La décision motivée est notifiée au requérant.
 
 **Liens relatifs à cet article**
 
@@ -30667,9 +31384,13 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 108 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 108 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 48 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -30686,7 +31407,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 5 : Registre national des brevets<a id=210></a>
+##### Section 5 : Registre national des brevets<a id=211></a>
 
 ###### Article R613-53
 
@@ -30735,24 +31456,28 @@ _Codifié par_:
 
 ###### Article R613-54
 
-Les indications mentionnées à l'article R. 613-53, deuxième alinéa (1°), sont inscrites, soit à l'initiative de l'Institut
-national de la propriété industrielle, soit sur réquisition du greffier de la juridiction ou sur requête d'une des parties
-s'il s'agit d'une décision judiciaire définitive d'annulation ou rendue sur une action en revendication de propriété.
+Les indications mentionnées au 1° de l'article R. 613-53 sont inscrites à l'initiative de l'Institut national de la propriété
+industrielle ou, s'il s'agit d'une décision judiciaire, sur réquisition du greffier ou sur requête de l'une des parties. 
+
+Seules les décisions judiciaires définitives peuvent être inscrites au Registre national des brevets.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-822 du 19 septembre 1979 - art. 76 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°79-822 du 19 septembre 1979 - art. 76 (M)
-  - Décret n°79-822 du 19 septembre 1979 - art. 76 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 49 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -30761,30 +31486,26 @@ _Cite_:
 
 ###### Article R613-55
 
-Les actes modifiant la propriété de la demande de brevet ou du brevet ou la jouissance des droits qui lui sont attachés, tels
-que cession, concession d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce dernier,
-saisie, validation et mainlevée de saisie, sont inscrits à la demande de l'une des parties à l'acte.
+Les actes modifiant la propriété d'une demande de brevet ou d'un brevet ou la jouissance des droits qui lui sont attachés,
+tels que cession, concession d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce
+droit, saisie, validation et mainlevée de saisie, sont inscrits à la demande de l'une des parties à l'acte, ou, s'il n'est
+pas partie à l'acte, du titulaire du dépôt au jour de cette demande.
+
+Toutefois, un acte ne peut être inscrit que si la personne indiquée dans l'acte à inscrire comme étant le titulaire de la
+demande de brevet ou du brevet avant la modification résultant de l'acte est inscrite comme telle au Registre national des
+brevets.
 
 La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° Un des originaux de l'acte sous seing privé constatant la modification de la propriété ou de la jouissance, ou une
-expédition de cet acte s'il est authentique ;
+2° Une copie ou un extrait de l'acte constatant la modification de la propriété ou de la jouissance ;
 
-3° Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué, ou
-un extrait lorsqu'il souhaite limiter l'inscription à ce dernier ;
+3° La justification du paiement de la redevance prescrite ;
 
-4° La justification du paiement de la redevance prescrite ;
-
-5° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
-  - Code de la propriété intellectuelle - art. R613-56 (V)
 
 _Codifié par_:
 
@@ -30795,29 +31516,41 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 77 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 77 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 50 () JORF 3 mars 2004
+
+_Cité par_:
+
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Code de la propriété intellectuelle - art. R613-56 (V)
 
 
 ###### Article R613-56
 
-Par dérogation à l'article R. 613-55, deuxième alinéa (2°), peut être produit avec la demande :
+Par dérogation au 2° de l'article R. 613-55, peut être produit avec la demande : 
 
-1° En cas de mutation par décès, tout acte établissant le transfert, à la demande des héritiers ou légataires ;
+1° En cas de mutation par décès, copie de tout acte établissant le transfert, à la demande des héritiers ou légataires ; 
 
-2° En cas de transfert par suite de fusion, scission ou absorption, une copie certifiée conforme, par le greffier ou le
-directeur général de l'Institut national de la propriété industrielle, des actes correspondants déposés en annexe au registre
-du commerce et des sociétés ;
+2° En cas de transfert par suite de fusion, scission ou absorption : copie d'un extrait du registre du commerce et de
+sociétés à jour de la modification ; 
 
-3° Sur justification de l'impossibilité matérielle de produire l'original ou l'expédition, tout document établissant la
-modification de la propriété ou de la jouissance.
+3° Sur justification de l'impossibilité matérielle de produire une copie : tout document établissant la modification de la
+propriété ou de la jouissance.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R613-55 (M)
+  - Code de la propriété intellectuelle - art. R613-55 (V)
 
 _Cité par_:
 
@@ -30832,26 +31565,28 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 78 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 78 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 51 () JORF 3 mars 2004
 
 
 ###### Article R613-57
 
 Les changements de nom, de forme juridique, d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande
-du titulaire de la demande de brevet ou du brevet. Toutefois, lorsque ces changements et rectifications portent sur un acte
-précédemment inscrit, la demande peut être présentée par toute partie à l'acte.
+du titulaire de la demande de brevet ou du brevet, qui doit être le titulaire inscrit au Registre national des brevets.
+Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être présentée
+par toute partie à l'acte.
 
 La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° La justification du changement intervenu ou de la réalité de l'erreur matérielle à rectifier ;
+2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
 
-3° La justification du paiement de la redevance prescrite ;
+3° S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite.
 
-4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+L'institut peut exiger la justification de la réalité du changement dont l'inscription est sollicitée ou de l'erreur
+matérielle à rectifier.
 
 **Liens relatifs à cet article**
 
@@ -30864,9 +31599,13 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 79 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 79 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 52 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -30929,7 +31668,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=211></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=212></a>
 
 ###### Article R613-60
 
@@ -31030,7 +31769,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances et assistance gratuite<a id=212></a>
+##### Section 7 : Réduction des redevances et assistance gratuite<a id=213></a>
 
 ###### Article R613-63
 
@@ -31138,9 +31877,9 @@ _Abrogé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 18 () JORF 3 mars 2007
 
 
-#### Chapitre IV : Application de conventions internationales<a id=213></a>
+#### Chapitre IV : Application de conventions internationales<a id=214></a>
 
-##### Section 1 : Brevets européens<a id=214></a>
+##### Section 1 : Brevets européens<a id=215></a>
 
 ###### Article R614-1
 
@@ -31193,25 +31932,34 @@ _Abrogé par_:
 
 ###### Article R614-3
 
-Le dépôt par la voie postale est fait dans les conditions prévues par le second alinéa de l'article R. 612-1.
+Le dépôt d'une demande de brevet européen peut être effectué par voie postale ou par tout mode de télétransmission dans les
+conditions prévues aux deuxième et troisième alinéas de l'article R. 612-1.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
 
 _Anciens textes_:
 
   - Décret n°78-1011 du 10 octobre 1978 - art. 3 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 53 () JORF 3 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R612-1 (M)
+  - Code de la propriété intellectuelle - art. R612-1
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R614-4
@@ -31695,7 +32443,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=215></a>
+##### Section 2 : Demandes internationales<a id=216></a>
 
 ###### Article R614-21
 
@@ -31730,8 +32478,8 @@ _Codifié par_:
 
 ###### Article R614-22
 
-Le dépôt d'une demande internationale peut être fait par la voie postale dans les conditions prévues au deuxième alinéa de
-l'article R. 612-1.
+Le dépôt d'une demande internationale peut être effectué par voie postale ou par tout mode de télétransmission dans les
+conditions prévues aux deuxième et troisième alinéas de l'article R. 612-1. 
 
 Le dépôt peut être fait par le déposant personnellement ou par un mandataire ; les dispositions du premier et du second
 alinéa de l'article R. 612-2 sont applicables.
@@ -31746,29 +32494,45 @@ _Anciens textes_:
 
   - Décret n°78-1010 du 10 octobre 1978 - art. 2 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 54 () JORF 3 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R612-1 (M)
-  - Code de la propriété intellectuelle - art. R612-2 (M)
+  - Code de la propriété intellectuelle - art. R612-1 (VD)
+  - Code de la propriété intellectuelle - art. R612-2
 
 
 ###### Article R614-23
 
 La demande internationale est établie en langue française.
 
-Elle est déposée en trois exemplaires, ainsi que chacun des documents mentionnés dans le bordereau visé à la règle 3,
-paragraphe 3, lettre a (ii) du règlement d'exécution du traité de coopération en matière de brevets. Toutefois, la requête
-visée à la règle 3 précitée, paragraphe 1, et les documents justifiant des taxes exigibles sont déposés en un seul
-exemplaire.
+Si elle n'est pas déposée sous forme électronique, la demande est déposée en trois exemplaires, ainsi que chacun des
+documents mentionnés dans le bordereau visé à la règle 3, paragraphe 3, lettre a (ii) du règlement d'exécution du traité de
+coopération en matière de brevets. Toutefois, la requête visée à la règle 3 précitée, paragraphe 1, et les documents
+justifiant des taxes exigibles sont déposés en un seul exemplaire.
 
 S'il n'est pas satisfait aux dispositions du précédent alinéa, les exemplaires manquants sont préparés d'office par
 l'Institut national de la propriété industrielle.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R614-31 (V)
 
 _Codifié par_:
 
@@ -31778,13 +32542,9 @@ _Anciens textes_:
 
   - Décret n°78-1010 du 10 octobre 1978 - art. 3 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R614-31 (V)
+  - Décret n°2004-199 du 25 février 2004 - art. 55 () JORF 3 mars 2004
 
 
 ###### Article R614-24
@@ -32120,15 +32880,15 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre V : Actions en justice<a id=216></a>
+#### Chapitre V : Actions en justice<a id=217></a>
 
-##### Section 1 : Mesures probatoires.<a id=217></a>
+##### Section 1 : Mesures probatoires.<a id=218></a>
 
 ###### Article R615-1
 
-La description détaillée, avec ou sans saisie réelle, des produits ou procédés prétendus contrefaits, prévue par l'article L.
-615-5 est ordonnée par le président du tribunal de grande instance dans le ressort duquel les opérations doivent être
-effectuées.
+La description détaillée, avec ou sans saisie réelle, des produits ou procédés prétendus contrefaits, prévue à l'article L.
+615-5 est ordonnée par le président d'un des tribunaux de grande instance énumérés à l'article R. 631-1, dans le ressort
+duquel les opérations doivent être effectuées.
 
 L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de
 protection, du certificat d'utilité ou du certificat d'addition, soit, dans le cas prévu à l'article L. 615-4, premier
@@ -32146,9 +32906,13 @@ _Anciens textes_:
 
   - Décret n°69-190 du 15 février 1969 - art. 1 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 56 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -32158,6 +32922,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L615-2 (M)
   - Code de la propriété intellectuelle - art. L615-4 (V)
   - Code de la propriété intellectuelle - art. L615-5 (M)
+  - Code de la propriété intellectuelle - art. R631-1 (M)
 
 _Nouveaux textes_:
 
@@ -32233,8 +32998,9 @@ _Nouveaux textes_:
 
 ###### Article R615-4
 
-Les présidents des tribunaux de grande instance visés à l'article R. 615-1 sont seuls compétents pour ordonner la description
-détaillée, avec ou sans saisie réelle, des objets prétendus contrefaits conformément à l'article R. 615-1.
+Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure de nature à compléter la preuve des
+actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il
+peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
 
 **Liens relatifs à cet article**
 
@@ -32247,13 +33013,13 @@ _Anciens textes_:
   - Décret n°69-190 du 15 février 1969 - art. 4 (Ab)
   - Code de la propriété intellectuelle - art. R615-2 (VT)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la propriété intellectuelle - art. R615-1 (M)
+  - Décret n°2004-199 du 25 février 2004 - art. 57 () JORF 3 mars 2004
 
 _Nouveaux textes_:
 
@@ -32263,10 +33029,10 @@ _Nouveaux textes_:
 ###### Article R615-5
 
 Lorsque, dans un litige civil en matière de brevets d'invention, une expertise technique apparaît nécessaire, le président de
-la juridiction saisie doit consulter, sur le choix de l'expert, l'un des organismes désignés par arrêté conjoint du garde des
+la juridiction saisie peut consulter, sur le choix de l'expert, l'un des organismes désignés par arrêté conjoint du garde des
 sceaux et des ministres intéressés.
 
-Il est fait mention de la consultation dans l'arrêt ou le jugement.
+S'il a été procédé à cette consultation, il en est fait mention dans l'arrêt ou le jugement.
 
 **Liens relatifs à cet article**
 
@@ -32275,9 +33041,13 @@ _Anciens textes_:
   - Décret n°65-464 du 10 juin 1965 - art. 1 (Ab)
   - Code de la propriété intellectuelle - art. R615-2-1 (VT)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 58 () JORF 3 mars 2004
 
 _Nouveaux textes_:
 
@@ -32288,7 +33058,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Commission paritaire de conciliation.<a id=218></a>
+##### Section 2 : Commission paritaire de conciliation.<a id=219></a>
 
 ###### Article R615-6
 
@@ -33047,7 +33817,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=219></a>
+#### Chapitre VI : Le certificat d'utilité<a id=220></a>
 
 ###### Article R616-1
 
@@ -33134,7 +33904,7 @@ _Cite_:
   - Code de la propriété intellectuelle R612-71, R613-1 à R613-3, R613-60 à R613-62
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=220></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=221></a>
 
 ###### Article R617-1
 
@@ -33194,34 +33964,37 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VIII : Dispositions communes<a id=221></a>
+#### Chapitre VIII : Dispositions communes<a id=222></a>
 
-##### Section unique : Procédure<a id=222></a>
+##### Section unique : Procédure<a id=223></a>
 
 ###### Article R618-1
 
-Toute notification est réputée régulière si elle est faite :
+Toute notification est réputée régulière si elle est faite : 
 
-Soit au dernier propriétaire de la demande de brevet déclaré à l'Institut national de la propriété industrielle ou, après la
-publication prévue à l'article R. 612-39, au dernier propriétaire de la demande de brevet ou du brevet inscrit au Registre
-national des brevets ;
+- soit au dernier propriétaire de la demande de brevet déclaré à l'Institut national de la propriété industrielle ou, après
+la publication prévue à l'article R. 612-39, au dernier propriétaire de la demande de brevet ou du brevet inscrit au Registre
+national des brevets ; 
 
-Soit au mandataire.
+- soit au mandataire. 
 
-Si le propriétaire est domicilié à l'étranger, la notification est réputée régulière si elle est faite au dernier mandataire
-qu'il a constitué auprès de l'Institut national de la propriété industrielle.
-
-Toute personne qui procède au paiement des redevances afférentes à une demande de brevet ou à un brevet déposé avant le 1er
-juillet 1979 et dont elle n'est pas propriétaire est, sauf déclaration contraire de ce dernier, réputée agir en qualité de
-mandataire et être habilitée à recevoir les notifications prévues aux articles L. 613-22 et R. 613-48.
+Si le titulaire n'est pas domicilié dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur
+l'Espace économique européen, la notification est réputée régulière si elle est faite au dernier mandataire qu'il a constitué
+auprès de l'institut.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Anciens textes_:
 
-  - Code de la propriété intellectuelle - art. L613-22 (V)
-  - Code de la propriété intellectuelle - art. R612-39 (M)
-  - Code de la propriété intellectuelle - art. R613-48 (V)
+  - Décret n°79-822 du 19 septembre 1979 - art. 120 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 59 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -33230,27 +34003,24 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R617-2 (V)
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R612-39 (V)
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°79-822 du 19 septembre 1979 - art. 120 (M)
-  - Décret n°79-822 du 19 septembre 1979 - art. 120 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R618-2
 
 Les notifications prévues à l'article L. 613-22 et aux articles R. 612-8, R. 612-9, R. 612-11, R. 612-46 à R. 612-49, R.
-612-56, R. 612-73, R. 613-52 et R. 613-58 sont faites par lettre recommandée avec demande d'avis de réception.
+612-56, 
+R. 612-73, R. 613-52 et R. 613-58 sont faites par lettre recommandée avec demande d'avis de réception. 
 
-L'envoi recommandé peut être remplacé par la remise de la lettre au destinataire, contre récépissé, dans les locaux de
-l'Institut national de la propriété industrielle.
+L'envoi recommandé peut être remplacé par la remise de la lettre à son destinataire contre récépissé, dans les locaux de
+l'Institut national de la propriété industrielle, ou par un message sous forme électronique selon les modalités fixées par le
+directeur général de l'institut pour garantir notamment la sécurité de l'envoi. 
 
 Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de la
 propriété industrielle.
@@ -33259,24 +34029,26 @@ propriété industrielle.
 
 _Anciens textes_:
 
-  - Décret n°79-822 du 19 septembre 1979 - art. 121 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 121 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 60 () JORF 3 mars 2004
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L613-22 (V)
-  - Code de la propriété intellectuelle - art. R612-11 (M)
-  - Code de la propriété intellectuelle - art. R612-56 (V)
+  - Code de la propriété intellectuelle - art. R612-11 (V)
+  - Code de la propriété intellectuelle - art. R612-46 (V)
+  - Code de la propriété intellectuelle - art. R612-56 (Ab)
   - Code de la propriété intellectuelle - art. R612-73 (V)
   - Code de la propriété intellectuelle - art. R612-8 (V)
-  - Code de la propriété intellectuelle - art. R612-9 (V)
-  - Code de la propriété intellectuelle - art. R613-52 (M)
+  - Code de la propriété intellectuelle - art. R613-52 (V)
   - Code de la propriété intellectuelle - art. R613-58 (V)
-  - Code de la propriété intellectuelle L613-22, R612-8, R612-9, R612-11, R612-46 à R612-49, R612-56, R612-73, R613-52, R613-58
 
 _Codifié par_:
 
@@ -33299,6 +34071,13 @@ Tout délai expire le dernier jour à vingt-quatre heures.
 Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour
 ouvrable suivant.
 
+Le délai qui expirerait normalement un jour où l'une des délégations régionales de l'Institut national de la propriété
+industrielle n'est pas ouverte est prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut sont
+ouvertes.
+
+La liste des jours mentionnés à l'alinéa précédent est établie chaque année par décision du directeur général de l'Institut
+national de la propriété industrielle. Elle est publiée au Bulletin officiel de la propriété industrielle.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -33309,9 +34088,13 @@ _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 122 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 61 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -33363,9 +34146,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-53 (V)
 
 
-### Titre II : Protection des connaissances techniques<a id=223></a>
+### Titre II : Protection des connaissances techniques<a id=224></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=224></a>
+#### Chapitre II : Produits semi-conducteurs<a id=225></a>
 
 ###### Article R622-1
 
@@ -33567,11 +34350,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre III : Obtentions végétales<a id=225></a>
+#### Chapitre III : Obtentions végétales<a id=226></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=226></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=227></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=227></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=228></a>
 
 ###### Article R623-1
 
@@ -34045,7 +34828,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=228></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=229></a>
 
 ###### Article R623-16
 
@@ -34292,7 +35075,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=229></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=230></a>
 
 ###### Article R623-25
 
@@ -34446,7 +35229,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Redevances annuelles<a id=230></a>
+##### Sous-section 4 : Redevances annuelles<a id=231></a>
 
 ###### Article R623-31
 
@@ -34594,7 +35377,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=231></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=232></a>
 
 ###### Article R623-36
 
@@ -34656,7 +35439,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-33 (V)
 
 
-##### Sous-section 6 : Registres nationaux<a id=232></a>
+##### Sous-section 6 : Registres nationaux<a id=233></a>
 
 ###### Article R623-38
 
@@ -34824,7 +35607,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=233></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=234></a>
 
 ###### Article R623-43
 
@@ -35004,7 +35787,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=234></a>
+##### Sous-section 8 : Dispositions diverses<a id=235></a>
 
 ###### Article R623-48
 
@@ -35169,7 +35952,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=235></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=236></a>
 
 ###### Article R623-55
 
@@ -35303,7 +36086,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transferts techniques internationaux<a id=236></a>
+#### Chapitre IV : Transferts techniques internationaux<a id=237></a>
 
 ###### Article R624-1
 
@@ -35512,9 +36295,9 @@ _Abrogé par_:
   - Décret n°2008-1472 du 30 décembre 2008 - art. 19
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=237></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=238></a>
 
-#### Chapitre unique<a id=238></a>
+#### Chapitre unique<a id=239></a>
 
 ###### Article R631-1
 
@@ -35599,11 +36382,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=239></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=240></a>
 
-### Titre unique : Marques de fabrique, de commerce ou de service<a id=240></a>
+### Titre unique : Marques de fabrique, de commerce ou de service<a id=241></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=241></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=242></a>
 
 ###### Article R712-1
 
@@ -35655,7 +36438,8 @@ Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la
 à l'accord sur l'Espace économique européen doivent, dans le délai qui leur est imparti par l'institut, constituer un
 mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
 
-En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
+En cas de pluralité de déposants, un mandataire commun doit être constitué. Si celui-ci n'est pas l'un des déposants, il doit
+satisfaire aux conditions prévues par le deuxième alinéa.
 
 Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous
 réserve des dispositions des articles R. 712-21 et R. 714-1 et sauf stipulation contraire, à tous les actes et à la réception
@@ -35668,9 +36452,13 @@ _Anciens textes_:
   - Décret n°92-100 1992-01-30 art. 2
   - Décret n°92-100 du 30 janvier 1992 - art. 2 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Modifié par_:
 
-  - Décret n°2002-215 du 18 février 2002 - art. 8 () JORF 20 février 2002
+  - Décret n°2004-199 du 25 février 2004 - art. 62 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -35719,7 +36507,7 @@ b) S'il est constitué un mandataire, le pouvoir de ce dernier ;
 c) Si le caractère distinctif du signe déposé à titre de marque a été acquis par l'usage, la justification de cet usage ;
 
 d) S'il s'agit d'une marque collective de certification, le règlement déterminant les conditions auxquelles est subordonné
-l'usage de la marque et la justification de l'homologation correspondante ;
+l'usage de la marque ;
 
 e) Si le déposant est un étranger qui n'est ni domicilié, ni établi sur le territoire national, et sous réserve des
 conventions internationales, la justification qu'il a régulièrement déposé la marque dans le pays de son domicile ou de son
@@ -35737,24 +36525,28 @@ _Anciens textes_:
 _Cité par_:
 
   - Arrêté du 31 janvier 1992 - art. 1 (V)
+  - Code de la propriété intellectuelle - art. R712-26 (V)
   - Code de la propriété intellectuelle - art. R712-28 (V)
   - Code de la propriété intellectuelle - art. R712-7 (V)
   - Code de la propriété intellectuelle - art. R717-1 (V)
   - Code de la propriété intellectuelle - art. R717-2 (V)
   - Code de la propriété intellectuelle - art. R717-9 (V)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la propriété intellectuelle - art. R712-26 (V)
-  - Loi n°1908-04-13
+  - Décret n°2004-199 du 25 février 2004 - art. 63 () JORF 3 mars 2004
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+_Cite_:
+
+  - Loi n°1908-04-13
 
 
 ###### Article R712-4
@@ -35815,28 +36607,31 @@ _Cite_:
 Dès sa réception à l'Institut national de la propriété industrielle, le dépôt donne lieu à l'attribution d'un numéro
 national. Lorsqu'il n'a pu être mentionné sur le récépissé du dépôt, ce numéro est notifié au déposant.
 
-Est déclaré irrecevable toute correspondance ou tout dépôt de pièces ultérieur qui ne rappelle pas le numéro national de la
-demande d'enregistrement ou qui, le cas échéant, n'est pas accompagné de la justification du paiement de la redevance
-prescrite.
+Est déclaré irrecevable toute correspondance ou dépôt ultérieur de pièces qui ne rappelle pas le numéro national de la
+demande d'enregistrement, qui ne porte pas la signature du déposant ou de son mandataire ou qui, le cas échéant, n'est pas
+accompagné de la justification du paiement de la redevance prescrite.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+**Liens**:
 
-  - Décret n°92-100 1992-01-30 art. 6
-  - Décret n°92-100 du 30 janvier 1992 - art. 6 (Ab)
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R712-5 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-100 du 30 janvier 1992 - art. 6 (Ab)
 
-_Cité par_:
+_Modifié par_:
 
-  - Code de la propriété intellectuelle - art. R712-5 (V)
+  - Décret n°2004-199 du 25 février 2004 - art. 64 () JORF 3 mars 2004
 
 
 ###### Article R712-7
@@ -35968,16 +36763,18 @@ _Cité par_:
 ###### Article R712-11
 
 1° En cas de non-conformité de la demande aux dispositions de l'article R. 712-10, notification motivée en est faite au
-déposant.
+déposant. 
 
 Un délai lui est imparti pour régulariser le dépôt ou contester les objections de l'institut. A défaut de régularisation ou
-d'observation permettant de lever l'objection, la demande est rejetée.
+d'observation permettant de lever l'objection, la demande est rejetée. 
 
 La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant
-ne la conteste pas dans le délai qui lui est imparti.
+ne la conteste pas dans le délai qui lui est imparti. 
 
 2° Dans le cas prévu à l'article R. 712-10 (2°), la notification d'irrégularité ne peut être émise plus de quatre mois après
-la date de réception de la demande à l'institut.
+la date de réception de la demande à l'institut. En l'absence d'observations ou si les observations formulées ne permettent
+pas de lever l'objection émise, un projet de décision est établi. Il est notifié au déposant auquel un délai est imparti pour
+en contester éventuellement le bien-fondé. Ce projet, s'il n'est pas contesté, vaut décision. 
 
 3° Aucune régularisation effectuée conformément aux dispositions du présent article ne peut avoir pour effet d'étendre la
 portée du dépôt.
@@ -35986,12 +36783,15 @@ portée du dépôt.
 
 _Anciens textes_:
 
-  - Décret n°92-100 1992-01-30 art. 11
   - Décret n°92-100 du 30 janvier 1992 - art. 11 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 65 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -36013,30 +36813,34 @@ _Codifié par_:
 ###### Article R712-12
 
 Le relevé de déchéance prévu à l'article L. 712-10 est applicable aux délais prévus au présent titre, à l'exception de ceux
-mentionnés aux articles R. 712-16, R. 717-2, R. 717-5 et R. 717-8.
+mentionnées aux articles R. 712-16, R. 712-24 (1°), R. 717-2, R. 717-5 et R. 717-8. 
 
-La demande de relevé de déchéance est présentée au directeur général de l'institut.
+La demande doit être formée dans un délai de deux mois à compter de la cessation de l'empêchement et l'acte non accompli doit
+l'être dans le même délai. Elle n'est plus recevable après un délai préfix de six mois décompté à partir de l'expiration du
+délai non observé. 
 
-Est déclarée irrecevable toute demande :
+La demande est présentée au directeur général de l'institut par le titulaire du dépôt, qui doit être le titulaire inscrit au
+Registre national des marques si la demande d'enregistrement est publiée, ou son mandataire. 
 
-1° Non précédée de l'accomplissement de la formalité omise ;
+Elle n'est recevable qu'après paiement de la redevance prescrite. 
 
-2° Présentée plus de deux mois à compter de la cessation de l'empêchement ;
+La demande est écrite. Elle indique les faits et justifications invoqués à son appui. 
 
-3° Portant sur un délai échu depuis plus de six mois ;
-
-4° Non accompagnée de la justification du paiement de la redevance prescrite.
+La décision motivée est notifiée au demandeur.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°92-100 1992-01-30 art. 44
   - Décret n°92-100 du 30 janvier 1992 - art. 44 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 66 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -36046,9 +36850,9 @@ _Cite_:
 
   - Code de la propriété intellectuelle - art. L712-10 (V)
   - Code de la propriété intellectuelle - art. R712-16 (V)
-  - Code de la propriété intellectuelle - art. R717-2 (M)
-  - Code de la propriété intellectuelle - art. R717-5 (M)
-  - Code de la propriété intellectuelle - art. R717-8 (M)
+  - Code de la propriété intellectuelle - art. R712-24 (V)
+  - Code de la propriété intellectuelle - art. R717-2 (V)
+  - Code de la propriété intellectuelle - art. R717-5 (V)
 
 _Codifié par_:
 
@@ -36215,30 +37019,37 @@ _Cité par_:
 Le titulaire de la demande d'enregistrement peut, dans ses premières observations en réponse, inviter l'opposant à produire
 des pièces propres à établir que la déchéance de ses droits pour défaut d'exploitation n'est pas encourue.
 
+Ces pièces doivent établir l'exploitation de la marque antérieure, au cours des cinq années précédant la demande de preuves
+d'usage, pour au moins l'un des produits ou services sur lesquels est fondée l'opposition ou faire état d'un juste motif de
+non-exploitation.
+
 L'institut impartit alors un délai à l'opposant pour produire ces pièces.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+**Liens**:
 
-  - Décret n°92-100 1992-01-30 art. 16
-  - Décret n°92-100 du 30 janvier 1992 - art. 16 (Ab)
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-100 du 30 janvier 1992 - art. 16 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 67 () JORF 3 mars 2004
 
 
 ###### Article R712-18
 
 La procédure d'opposition est clôturée :
 
-1° Lorsque l'opposant a perdu qualité pour agir ou n'a fourni dans le délai imparti aucune pièce propre à établir que la
-déchéance de ses droits n'est pas encourue ;
+1° Lorsque l'opposant a retiré son opposition, a perdu qualité pour agir ou n'a fourni dans le délai imparti aucune pièce
+propre à établir que la déchéance de ses droits n'est pas encourue ;
 
 2° Lorsque l'opposition est devenue sans objet par suite soit d'un accord entre les parties, soit du retrait ou du rejet de
 la demande d'enregistrement contre laquelle l'opposition a été formée ;
@@ -36249,87 +37060,51 @@ la demande d'enregistrement contre laquelle l'opposition a été formée ;
 
 _Anciens textes_:
 
-  - Décret n°92-100 1992-01-30 art. 17
   - Décret n°92-100 du 30 janvier 1992 - art. 17 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 68 () JORF 3 mars 2004
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R712-16 (M)
 
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R712-19
-
-Les dispositions des articles R. 712-13 à R. 712-18 seront appliquées progressivement par référence à la classification
-internationale des produits et services aux fins de l'enregistrement des marques établie en application de l'arrangement de
-Nice du 15 juin 1957.
-
-Pendant un délai de cinq ans courant à compter du 28 décembre 1991, seules pourront faire l'objet d'une opposition les
-demandes d'enregistrement portant sur les produits ou services relevant d'au moins une des classes désignées par arrêté du
-ministre chargé de la propriété industrielle conformément au tableau suivant.
-
-Tableau relatif à l'application progressive de la procédure d'opposition : demandes d'enregistrement portant sur des produits
-ou services relevant d'au moins une des classes ci-après, date limite de mise en application de la procédure.
-
-2, 20, 27 : 28 décembre 1991.
-
-6, 8, 13, 15, 17, 19, 21 : 1er juillet 1993.
-
-4, 7, 11, 12, 14, 18, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34 : 1er juillet 1995.
-
-1, 3, 5, 9, 10, 16, 35, 36, 37, 38, 39, 40, 41, 42 : 28 décembre 1996.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrangement 1957-06-15, fait à Nice
-  - Code de la propriété intellectuelle R712-13 à R712-18
-
-_Anciens textes_:
-
-  - Décret n°92-100 1992-01-30 art. 50
-  - Décret n°92-100 du 30 janvier 1992 - art. 50 (Ab)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2004-199 du 25 février 2004 - art. 69 () JORF 3 mars 2004
-
 
 ###### Article R712-20
 
-Jusqu'au début des préparatifs techniques relatifs à l'enregistrement et mentionnés à l'article R. 712-22, le déposant peut
-être autorisé, sur requête justifiée, à rectifier les erreurs matérielles relevées dans les pièces déposées.
+Jusqu'au début des préparatifs techniques relatifs à l'enregistrement, le déposant peut être autorisé, sur requête écrite
+adressée au directeur de l'Institut national de la propriété industrielle, à rectifier les erreurs matérielles relevées dans
+les pièces déposées.
+
+L'institut peut exiger la justification de la réalité de l'erreur matérielle à rectifier et le sens de la correction
+demandée.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-100 1992-01-30 art. 18
-  - Décret n°92-100 du 30 janvier 1992 - art. 18 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-100 du 30 janvier 1992 - art. 18 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 70 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -36381,77 +37156,75 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-###### Article R712-22
+###### Article R712-23
 
-La durée des préparatifs techniques mentionnés aux articles R. 712-20 et R. 712-21 est fixée par décision du directeur
-général de l'institut.
+La marque est enregistrée, à moins que la demande n'ait été rejetée ou retirée. Un certificat est adressé au déposant. 
+
+L'enregistrement est publié au Bulletin officiel de la propriété industrielle. 
+
+La date à laquelle une marque est réputée enregistrée, notamment pour l'application des articles L. 712-4 et L. 714-5, est : 
+
+1° Pour les marques françaises, celle du Bulletin officiel de la propriété industrielle dans lequel l'enregistrement est
+publié ; 
+
+2° Pour les marques internationales n'ayant pas fait l'objet d'une notification d'irrégularité fondée sur le 2° de l'article
+R. 712-11 ou d'une opposition, celle de l'expiration du délai prévu à l'article R. 717-4 ou, si elle est postérieure, celle
+de l'expiration du délai pour former opposition ; 
+
+3° Pour les marques internationales ayant fait l'objet d'une notification d'irrégularité fondée sur le 2° de l'article R.
+712-11 ou d'une opposition, celle, le cas échéant, de l'inscription au Registre international des marques de la levée totale
+ou partielle du refus.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-100 1992-01-30 art. 40
-  - Décret n°92-100 du 30 janvier 1992 - art. 40 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-100 du 30 janvier 1992 - art. 20 (Ab)
 
-_Abrogé par_:
+**Liens**:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 71 () JORF 3 mars 2004
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 72 () JORF 3 mars 2004
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R712-20 (M)
-  - Code de la propriété intellectuelle - art. R712-21 (M)
-
-
-###### Article R712-23
-
-La marque est enregistrée, à moins que la demande n'ait été rejetée ou retirée. Un certificat est adressé au déposant.
-
-L'enregistrement est publié au Bulletin officiel de la propriété industrielle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-100 1992-01-30 art. 20
-  - Décret n°92-100 du 30 janvier 1992 - art. 20 (Ab)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Code de la propriété intellectuelle - art. L712-4 (V)
+  - Code de la propriété intellectuelle - art. L714-5 (V)
+  - Code de la propriété intellectuelle - art. R712-11 (V)
+  - Code de la propriété intellectuelle - art. R717-4 (V)
 
 
 ###### Article R712-24
 
-L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque
-établie dans les conditions prévues à l'arrêté visé à l'article R. 712-26. Il peut être précisé que le renouvellement ne vaut
-que pour certains produits ou services désignés dans l'acte d'enregistrement.
+L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque,
+établie dans les conditions prévues à l'arrêté mentionné à l'article R. 712-26. Il peut être précisé que le renouvellement ne
+vaut que pour certains produits ou services désignés dans l'acte d'enregistrement.
 
-La déclaration doit, à peine d'irrecevabilité :
+Le renouvellement prend effet le jour suivant la date d'expiration de l'enregistrement.
 
-1° Etre présentée au cours des six derniers mois de validité de l'enregistrement par l'intéressé ou son mandataire, lequel
-doit joindre un pouvoir, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+La déclaration doit à peine d'irrecevabilité :
 
-2° Comporter l'identification du propriétaire de la marque et de la marque renouvelée ;
+1° Etre présentée au cours d'un délai de six mois expirant le dernier jour du mois au cours duquel prend fin la période de
+protection et être accompagnée de la justification du paiement de la redevance prescrite.
 
-3° Etre accompagnée de la justification du paiement de la redevance prescrite ;
+Toutefois, la déclaration peut encore être présentée ou la redevance acquittée dans un délai supplémentaire de six mois,
+décompté depuis le lendemain du dernier jour du mois d'expiration de la protection, moyennant le paiement d'un supplément de
+redevance ;
 
-4° Lorsque l'irrecevabilité est constatée pour défaut de paiement de la redevance prescrite, le déclarant dispose d'un délai
-de deux mois à compter de la date de réception de la notification pour payer ladite redevance majorée du supplément prescrit.
+2° Comporter la désignation de la marque à renouveler et émaner du titulaire inscrit, au jour de la déclaration, au Registre
+national des marques ou de son mandataire.
 
-En cas de non-conformité de la déclaration, il est fait application de la procédure prévue à l'article R. 712-11 (1°).
+Si la déclaration ne satisfait pas à ces conditions, il est fait application de la procédure prévue au 1° de l'article R.
+712-11.
+
+L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis en mesure de présenter des observations.
 
 **Liens relatifs à cet article**
 
@@ -36470,9 +37243,13 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R712-26 (VD)
   - Code de la propriété intellectuelle - art. R811-1 (VD)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 73 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -36554,19 +37331,77 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=242></a>
+###### Article R712-27
 
-###### Article R714-1
+Jusqu'au début des préparatifs techniques relatifs à l'enregistrement ou lors d'une procédure de recours contre la décision
+d'enregistrement de la marque, le déposant ou son mandataire peut procéder au dépôt de demandes divisionnaires de sa demande
+d'enregistrement initiale.
 
-Le propriétaire de la marque enregistrée peut à tout moment renoncer à ses effets. L'institut lui en donne acte. Les
-dispositions de l'article R. 712-21 sont applicables à la renonciation.
+La division ne peut porter que sur la liste des produits et services.
+
+Les demandes divisionnaires bénéficient de la date de dépôt et, le cas échéant, de la date de priorité de la demande
+initiale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+**Liens**:
 
-  - Décret n°92-100 1992-01-30 art. 21
-  - Décret n°92-100 du 30 janvier 1992 - art. 21 (Ab)
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R712-28 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 74 () JORF 3 mars 2004
+
+
+###### Article R712-28
+
+En cas de division d'une demande d'enregistrement conformément à l'article R. 712-27, chaque demande divisionnaire doit être
+conforme aux dispositions de l'article R. 712-3.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Créé par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 74 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R712-27 (V)
+  - Code de la propriété intellectuelle - art. R712-3 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=243></a>
+
+###### Article R714-1
+
+Le titulaire d'une marque enregistrée peut à tout moment y renoncer, pour tout ou partie des produits ou services. 
+
+La déclaration de renonciation doit, pour être recevable : 
+
+1° Emaner du titulaire de la marque inscrit, au jour de la déclaration, sur le Registre national des marques, ou de son
+mandataire ; 
+
+2° Etre accompagnée de la justification du paiement de la redevance prescrite. 
+
+Les dispositions de l'article R. 712-21 sont applicables à la renonciation.
+
+**Liens relatifs à cet article**
 
 _Cité par_:
 
@@ -36575,17 +37410,25 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R712-2 (V)
   - Code de la propriété intellectuelle - art. R712-26 (VD)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R712-21 (M)
+  - Code de la propriété intellectuelle - art. R712-21 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°92-100 du 30 janvier 1992 - art. 21 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 75 () JORF 3 mars 2004
 
 
 ###### Article R714-2
@@ -36632,23 +37475,28 @@ _Codifié par_:
 
 ###### Article R714-3
 
-Les indications mentionnées à l'article R. 714-2, deuxième alinéa (1°), sont inscrites à l'initiative de l'institut ou, s'il
-s'agit d'un jugement d'annulation ou de déchéance, sur réquisition du greffier ou d'une des parties.
+Les indications mentionnées au 1° de l'article R. 714-2 sont inscrites à l'initiative de l'Institut national de la propriété
+industrielle ou, s'il s'agit d'une décision judiciaire, sur réquisition du greffier ou sur requête de l'une des parties. 
+
+Seules les décisions judiciaires définitives peuvent être inscrites au Registre national des marques.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°92-100 1992-01-30 art. 25
   - Décret n°92-100 du 30 janvier 1992 - art. 25 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 76 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -36658,94 +37506,19 @@ _Cite_:
 ###### Article R714-4
 
 Les actes modifiant la propriété d'une marque ou la jouissance des droits qui lui sont attachés, tels que cession, concession
-d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce dernier, saisie, validation et
-main-levée de saisie, sont inscrits à la demande de l'une des parties à l'acte.
+d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce droit, saisie, validation et
+mainlevée de saisie, sont inscrits à la demande de l'une des parties à l'acte ou, s'il n'est pas partie à l'acte, du
+titulaire du dépôt au jour de la demande d'inscription.
+
+Toutefois, un acte ne peut être inscrit que si la personne indiquée dans l'acte comme étant le titulaire de la demande
+d'enregistrement ou de la marque avant la notification résultant de l'acte est inscrite comme telle au Registre national des
+marques.
 
 La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° Un des originaux de l'acte sous seing privé constatant la modification de la propriété ou de la jouissance ou une
-expédition de cet acte s'il est authentique ;
-
-3° Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué, ou
-un extrait lorsqu'il souhaite limiter l'inscription à ce dernier ;
-
-4° La justification du paiement de la redevance prescrite ;
-
-5° S'il y a lieu, le pouvoir du mandataire à moins que celui-ci n'ait la qualité de conseil en propriété industrielle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-100 1992-01-30 art. 26
-  - Décret n°92-100 du 30 janvier 1992 - art. 26 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cité par_:
-
-  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
-  - Code de la propriété intellectuelle - art. R712-26 (VD)
-  - Code de la propriété intellectuelle - art. R714-5 (V)
-  - Code de la propriété intellectuelle - art. R717-1 (V)
-  - Code de la propriété intellectuelle - art. R811-1 (VD)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R714-5
-
-Par dérogation à l'article R. 714-4, deuxième alinéa, 2°, peut être produit avec la demande :
-
-1° En cas de mutation par décès, tout acte établissant le transfert, à la demande des héritiers ou légataires ;
-
-2° En cas de transfert par suite de fusion, scission ou absorption, une copie certifiée conforme, par le greffier ou le
-directeur général de l'institut, des actes correspondants déposés en annexe au registre du commerce et des sociétés ;
-
-3° Sur justification de l'impossibilité matérielle de produire l'original ou l'expédition, tout document établissant la
-modification de la propriété ou de la jouissance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-100 1992-01-30 art. 27
-  - Décret n°92-100 du 30 janvier 1992 - art. 27 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R714-4 (M)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R714-7 (M)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R714-6
-
-Les changements de nom et d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande du titulaire de la
-demande d'enregistrement ou du propriétaire de la marque. Toutefois, lorsque ces changements et rectifications portent sur un
-acte précédemment inscrit, la demande peut être présentée par toute partie à l'acte.
-
-La demande comprend :
-
-1° Un bordereau de demande d'inscription ;
-
-2° La justification du changement intervenu ou de la réalité de l'erreur matérielle à rectifier ;
+2° Une copie ou un extrait de l'acte constatant la modification de la propriété ou de la jouissance ;
 
 3° La justification du paiement de la redevance prescrite ;
 
@@ -36755,12 +37528,93 @@ La demande comprend :
 
 _Anciens textes_:
 
-  - Décret n°92-100 1992-01-30 art. 28
-  - Décret n°92-100 du 30 janvier 1992 - art. 28 (Ab)
+  - Décret n°92-100 1992-01-30 art. 26
+  - Décret n°92-100 du 30 janvier 1992 - art. 26 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 77 () JORF 3 mars 2004
+
+_Cité par_:
+
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Code de la propriété intellectuelle - art. R712-26 (VD)
+  - Code de la propriété intellectuelle - art. R714-5 (V)
+  - Code de la propriété intellectuelle - art. R717-1 (V)
+  - Code de la propriété intellectuelle - art. R811-1 (VD)
+
+
+###### Article R714-5
+
+Par dérogation au 2° de l'article R. 714-4, peut être produit avec la demande : 
+
+1° En cas de mutation par décès : copie de tout acte établissant le transfert, à la demande des héritiers ou légataires ; 
+
+2° En cas de transfert par suite de fusion, scission ou absorption : copie d'un extrait du registre du commerce et des
+sociétés à jour de la modification ; 
+
+3° Sur justification de l'impossibilité matérielle de produire une copie : tout document établissant la modification de la
+propriété ou de la jouissance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°92-100 du 30 janvier 1992 - art. 27 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 78 () JORF 3 mars 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R714-4 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R714-7 (M)
+
+
+###### Article R714-6
+
+Les changements de nom, de forme juridique, d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande
+du titulaire de la demande d'enregistrement ou de la marque, qui doit être le titulaire inscrit au Registre national des
+marques. Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être
+présentée par toute partie à l'acte.
+
+La demande comprend :
+
+1° Un bordereau de demande d'inscription ;
+
+2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+
+3° S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite ;
+
+L'institut peut exiger la justification de la réalité du changement dont l'inscription est sollicitée ou de l'erreur
+matérielle à rectifier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-100 1992-01-30 art. 28
+  - Décret n°92-100 du 30 janvier 1992 - art. 28 (Ab)
 
 _Cité par_:
 
@@ -36770,43 +37624,52 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R714-7 (M)
   - Code de la propriété intellectuelle - art. R811-1 (VD)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R714-7
-
-En cas de non-conformité d'une demande d'inscription, il est fait application de la procédure prévue à l'article R. 712-11
-(1°).
-
-La même procédure est applicable aux justifications prévues aux articles R. 714-5 (3°) et R. 714-6, deuxième alinéa (2°).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-100 1992-01-30 art. 29
-  - Décret n°92-100 du 30 janvier 1992 - art. 29 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R712-11 (M)
-  - Code de la propriété intellectuelle - art. R714-5 (M)
-  - Code de la propriété intellectuelle - art. R714-6 (M)
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 79 () JORF 3 mars 2004
+
+
+###### Article R714-7
+
+En cas de non-conformité d'une demande d'inscription, notification motivée en est faite au demandeur.
+
+Un délai lui est imparti pour régulariser sa demande ou présenter des observations. A défaut de régularisation ou
+d'observations permettant de lever l'objection, la demande est rejetée par décision du directeur général de l'Institut
+national de la propriété industrielle.
+
+La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant
+ne la conteste pas dans le délai qui lui est imparti.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°92-100 du 30 janvier 1992 - art. 29 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 80 () JORF 3 mars 2004
+
 
 ###### Article R714-8
 
-Toute inscription portée au Registre national des marques fait l'objet d'une mention du Bulletin officiel de la propriété
+Toute inscription portée au Registre national des marques fait l'objet d'une mention au Bulletin officiel de la propriété
 industrielle.
 
 Toute personne intéressée peut obtenir de l'institut :
@@ -36819,12 +37682,49 @@ décision judiciaire ;
 
 3° Un certificat constatant qu'il n'existe pas d'inscription.
 
+A compter du jour de la publication prévue au premier alinéa, toute personne intéressée peut demander à prendre connaissance
+d'un dossier de demande d'enregistrement de marque et obtenir à ses frais reproduction des pièces. L'institut peut
+subordonner l'usage de cette faculté à la justification d'un intérêt suffisant.
+
+Toutefois, sont exclues de la communication au public les pièces non communiquées au déposant ainsi que celles qui comportent
+des données à caractère personnel ou qui sont relatives au secret des affaires.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°92-100 du 30 janvier 1992 - art. 30 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 81 () JORF 3 mars 2004
+
+
+###### Article R714-9
+
+Les dépôts irrecevables, rejetés, ou non renouvelés peuvent être restitués à leur propriétaire, sur sa demande et à ses
+frais.
+
+S'ils n'ont pas été réclamés, ils peuvent être détruits par l'Institut national de la propriété industrielle, au terme d'un
+délai d'un an pour les dépôts irrecevables et rejetés, ou de dix ans pour les dépôts non renouvelés.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°92-100 1992-01-30 art. 30
-  - Décret n°92-100 du 30 janvier 1992 - art. 30 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Codifié par_:
 
@@ -36832,10 +37732,10 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=243></a>
+#### Chapitre V : Marques collectives<a id=244></a>
 
 ###### Article R715-1
 
@@ -36859,7 +37759,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre VI : Contentieux<a id=244></a>
+#### Chapitre VI : Contentieux<a id=245></a>
 
 ###### Article R716-1
 
@@ -36904,15 +37804,15 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=245></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=246></a>
 
-##### Section 1 : Marque internationale<a id=246></a>
+##### Section 1 : Marque internationale<a id=247></a>
 
 ###### Article R717-1
 
 Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-18, R. 714-2 et R. 714-4 à R. 714-8 sont applicables
-aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de Madrid du 14 avril 1891,
-dans la limite et sous la réserve des dispositions prévues au présent chapitre.
+aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de Madrid du 14 avril 1891 et
+du Protocole de Madrid du 27 juin 1989, dans la limite et sous la réserve des dispositions prévues au présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -36924,6 +37824,7 @@ _Anciens textes_:
 
   - TXT_SOURCE: Arrêté du 6 décembre 1995
   - TXT_SOURCE: Arrêté du 6 décembre 1995 - art. 1 (V)
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Cité par_:
 
@@ -36931,14 +37832,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
-  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
+  - Décret n°2004-199 du 25 février 2004 - art. 83 () JORF 3 mars 2004
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R712-3 (M)
+  - Code de la propriété intellectuelle - art. R712-13 (V)
+  - Code de la propriété intellectuelle - art. R712-3 (V)
+  - Code de la propriété intellectuelle - art. R712-9 (V)
   - Code de la propriété intellectuelle - art. R714-2 (V)
-  - Code de la propriété intellectuelle R712-3, R712-9 à R712-11, R712-13 à R712-18, R714-2, R714-4 à R714-8
+  - Code de la propriété intellectuelle - art. R714-4 (V)
 
 _Codifié par_:
 
@@ -36980,35 +37882,38 @@ _Cite_:
 
 ###### Article R717-3
 
-L'institut tient à la disposition du public le bulletin Les Marques internationales publié par l'Organisation mondiale de la
-propriété intellectuelle.
+L'institut tient à la disposition du public le bulletin La Gazette publié par l'Organisation mondiale de la propriété
+intellectuelle.
 
 Le délai de deux mois dans lequel les observations de tiers doivent être présentées en application de l'article L. 712-3
-court à partir du premier jour du mois suivant la réception du bulletin Les Marques internationales à l'Institut national de
-la propriété industrielle.
+court à partir du premier jour du mois suivant la réception du bulletin La Gazette à l'Institut national de la propriété
+industrielle.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-100 du 30 janvier 1992 - art. 33 (Ab)
 
 _Cité par_:
 
   - Arrêté du 31 janvier 1992 - art. 5 (V)
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
-  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L712-3 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Cite_:
+_Anciens textes_:
 
-  - Code de la propriété intellectuelle - art. L712-3 (V)
+  - Décret n°92-100 du 30 janvier 1992 - art. 33 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 84 () JORF 3 mars 2004
 
 
 ###### Article R717-4
@@ -37051,7 +37956,7 @@ _Codifié par_:
 ###### Article R717-5
 
 Le délai pour former opposition, conformément à l'article L. 712-4, court à partir du premier jour du mois suivant la
-réception du bulletin Les Marques internationales à l'Institut national de la propriété industrielle.
+réception du bulletin La Gazette à l'Institut national de la propriété industrielle.
 
 L'opposition est notifiée au titulaire de l'enregistrement international par l'intermédiaire du bureau international de
 l'Organisation mondiale de la propriété intellectuelle.
@@ -37075,11 +37980,11 @@ _Cité par_:
 
   - TXT_SOURCE: Arrêté du 6 décembre 1995
   - TXT_SOURCE: Arrêté du 6 décembre 1995 - art. 1 (V)
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Modifié par_:
 
-  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
-  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
+  - Décret n°2004-199 du 25 février 2004 - art. 84 () JORF 3 mars 2004
 
 _Cite_:
 
@@ -37141,8 +38046,9 @@ _Codifié par_:
 ###### Article R717-8
 
 Toute demande d'enregistrement international ou d'inscription postérieure à cet enregistrement soumise, en vertu de
-l'arrangement de Madrid du 14 avril 1891, au visa de l'Institut national de la propriété industrielle pour transmission au
-bureau international, doit être présentée dans les conditions fixées à l'arrêté mentionné à l'article R. 712-26.
+l'arrangement de Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, au visa de l'Institut national de la
+propriété industrielle pour transmission au bureau international, doit être présentée dans les conditions fixées à l'arrêté
+mentionné à l'article R. 712-26. 
 
 Les dispositions de l'article R. 712-11 sont applicables à toute demande ne répondant pas aux conditions prévues à l'alinéa
 précédent. La date de saisine de l'Institut national de la propriété industrielle est celle à laquelle la demande a, le cas
@@ -37150,11 +38056,18 @@ précédent. La date de saisine de l'Institut national de la propriété industr
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Cite_:
 
-  - Arrangement 1891-04-14, fait à Madrid
-  - Code de la propriété intellectuelle - art. R712-11 (M)
+  - Code de la propriété intellectuelle - art. R712-11 (V)
   - Code de la propriété intellectuelle - art. R712-26 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R712-12 (M)
 
 _Codifié par_:
 
@@ -37166,15 +38079,10 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
-  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R712-12 (M)
+  - Décret n°2004-199 du 25 février 2004 - art. 83 () JORF 3 mars 2004
 
 
-##### Section 2 : Marque communautaire<a id=247></a>
+##### Section 2 : Marque communautaire<a id=248></a>
 
 ###### Article R717-9
 
@@ -37264,9 +38172,9 @@ _Créé par_:
   - Décret n°2002-216 du 18 février 2002 - art. 2 () JORF 20 février 2002
 
 
-#### Chapitre VIII : Dispositions communes<a id=248></a>
+#### Chapitre VIII : Dispositions communes<a id=249></a>
 
-##### Section unique<a id=249></a>
+##### Section unique<a id=250></a>
 
 ###### Article R718-1
 
@@ -37309,6 +38217,13 @@ Tout délai expire le dernier jour à vingt-quatre heures.
 Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour
 ouvrable suivant.
 
+Le délai qui expirerait normalement un jour où l'une des délégations régionales de l'Institut national de la propriété
+industrielle n'est pas ouverte est prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut sont
+ouvertes.
+
+La liste des jours mentionnés à l'alinéa précédent est établie chaque année par décision du directeur général de l'Institut
+national de la propriété industrielle. Elle est publiée au Bulletin officiel de la propriété industrielle.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -37316,13 +38231,17 @@ _Anciens textes_:
   - Décret n°92-100 1992-01-30 art. 41
   - Décret n°92-100 du 30 janvier 1992 - art. 41 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2004-199 du 25 février 2004 - art. 85 () JORF 3 mars 2004
 
 _Cité par_:
 
@@ -37338,23 +38257,27 @@ au Registre national des marques ;
 
 2° Soit au mandataire du titulaire ou du propriétaire susmentionné.
 
-Si le propriétaire est domicilié à l'étranger, la notification est réputée régulière lorsqu'elle est faite au dernier
-mandataire qu'il a constitué auprès de l'institut.
+Si le titulaire n'est pas domicilié dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur
+l'Espace économique européen, la notification est réputée régulière si elle est faite au dernier mandataire qu'il a constitué
+auprès de l'institut.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-100 1992-01-30 art. 42
-  - Décret n°92-100 du 30 janvier 1992 - art. 42 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-100 du 30 janvier 1992 - art. 42 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 86 () JORF 3 mars 2004
 
 
 ###### Article R718-4
@@ -37362,32 +38285,36 @@ _Créé par_:
 Les notifications prévues par le présent titre sont faites par lettre recommandée avec demande d'avis de réception.
 
 L'envoi recommandé peut être remplacé par la remise de la lettre au destinataire, contre récépissé, dans les locaux de
-l'institut.
+l'Institut national de la propriété industrielle ou par un message sous forme électronique selon les modalités fixées par le
+directeur général de l'institut pour garantir notamment la sécurité de l'envoi.
 
 Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de la
 propriété industrielle.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+**Liens**:
 
-  - Décret n°92-100 1992-01-30 art. 43
-  - Décret n°92-100 du 30 janvier 1992 - art. 43 (Ab)
+  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-100 du 30 janvier 1992 - art. 43 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2004-199 du 25 février 2004 - art. 87 () JORF 3 mars 2004
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=250></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=251></a>
 
-### Titre unique<a id=251></a>
+### Titre unique<a id=252></a>
 
-#### Chapitre unique<a id=252></a>
+#### Chapitre unique<a id=253></a>
 
 ###### Article R811-1
 
