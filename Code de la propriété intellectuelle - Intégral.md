@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2002-02-20
+Version Consolidée au 2002-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-1)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -1913,10 +1913,10 @@ _Cite_:
 ###### Article L123-6
 
 Pendant la période prévue à l'article L. 123-1, le conjoint survivant, contre lequel n'existe pas un jugement passé en force
-de chose jugée de séparation de corps, bénéficie, quel que soit le régime matrimonial et indépendamment des droits d'usufruit
-qu'il tient de l'article 767 du code civil sur les autres biens de la succession, de l'usufruit du droit d'exploitation dont
-l'auteur n'aura pas disposé. Toutefois, si l'auteur laisse des héritiers à réserve, cet usufruit est réduit au profit des
-héritiers, suivant les proportions et distinctions établies par les articles 913 et suivants du code civil.
+de chose jugée de séparation de corps, bénéficie, quel que soit le régime matrimonial et indépendamment des droits qu'il
+tient des articles 756 à 757-3 et 764 à 766 du code civil sur les autres biens de la succession, de l'usufruit du droit
+d'exploitation dont l'auteur n'aura pas disposé. Toutefois, si l'auteur laisse des héritiers à réserve, cet usufruit est
+réduit au profit des héritiers, suivant les proportions et distinctions établies par les articles 913 et 914 du code civil.
 
 Ce droit s'éteint au cas où le conjoint contracte un nouveau mariage.
 
@@ -1930,15 +1930,20 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 (Mayotte, Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna)
+
+_Modifié par_:
+
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L123-1 (M)
-  - Code civil - art. 767 (M)
   - Code civil - art. 913 (M)
+  - Code civil - art. 914 (Ab)
+  - Code civil 756 à 757-3, 764 à 766, 913, 914
 
 _Cité par_:
 
