@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2004-09-03
+Version Consolidée au 2004-12-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-1)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -69,10 +69,10 @@ Version Consolidée au 2004-09-03
           - [Chapitre unique (art. L521-1 à L521-7)](#66)
       - [Livre VI : Protection des inventions et des connaissances techniques (art. L611-1 à L623-35)](#67)
         - [Titre Ier : Brevets d'invention (art. L611-1 à L615-22)](#68)
-          - [Chapitre Ier : Champ d'application (art. L611-1 à L611-20)](#69)
+          - [Chapitre Ier : Champ d'application (art. L611-1 à L611-19)](#69)
             - [Section 1 : Généralités (art. L611-1 à L611-5)](#70)
             - [Section 2 : Droit au titre (art. L611-6 à L611-9)](#71)
-            - [Section 3 : Inventions brevetables (art. L611-10 à L611-20)](#72)
+            - [Section 3 : Inventions brevetables (art. L611-10 à L611-19)](#72)
           - [Chapitre II : Dépôt et instruction des demandes (art. L612-1 à L612-23)](#73)
             - [Section 1 : Dépôt des demandes (art. L612-1 à L612-7)](#74)
             - [Section 2 : Instruction des demandes (art. L612-8 à L612-20)](#75)
@@ -8765,6 +8765,13 @@ d) Les présentations d'informations.
 3. Les dispositions du 2 du présent article n'excluent la brevetabilité des éléments énumérés auxdites dispositions que dans
 la mesure où la demande de brevet ou le brevet ne concerne que l'un de ces éléments considéré en tant que tel.
 
+4. Sous réserve des dispositions des articles L. 611-17, L. 611-18 et L. 611-19, sont brevetables aux conditions prévues au 1
+les inventions portant sur un produit constitué en totalité ou en partie de matière biologique, ou sur un procédé permettant
+de produire, de traiter ou d'utiliser de la matière biologique.
+
+Est regardée comme matière biologique la matière qui contient des informations génétiques et peut se reproduire ou être
+reproduite dans un système biologique.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -8775,9 +8782,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 1 () JORF 9 décembre 2004
 
 _Cité par_:
 
@@ -9059,10 +9066,25 @@ _Cité par_:
 
 ###### Article L611-19
 
-Les races animales ainsi que les procédés essentiellement biologiques d'obtention de végétaux ou d'animaux ne sont pas
-brevetables.
+I. - Ne sont pas brevetables :
 
-Cette disposition ne s'applique pas aux procédés microbiologiques et aux produits obtenus par ces procédés.
+1° Les races animales ;
+
+2° Les variétés végétales telles que définies à l'article 5 du règlement (CE) n° 2100/94 du Conseil, du 27 juillet 1994,
+instituant un régime de protection communautaire des obtentions végétales ;
+
+3° Les procédés essentiellement biologiques pour l'obtention des végétaux et des animaux ; sont considérés comme tels les
+procédés qui font exclusivement appel à des phénomènes naturels comme le croisement ou la sélection ;
+
+4° Les procédés de modification de l'identité génétique des animaux de nature à provoquer chez eux des souffrances sans
+utilité médicale substantielle pour l'homme ou l'animal, ainsi que les animaux issus de tels procédés.
+
+II. - Nonobstant les dispositions du I, les inventions portant sur des végétaux ou des animaux sont brevetables si la
+faisabilité technique de l'invention n'est pas limitée à une variété végétale ou à une race animale déterminées.
+
+III. - Les dispositions du 3° du I n'affectent pas la brevetabilité d'inventions ayant pour objet un procédé technique,
+notamment microbiologique, ou un produit obtenu par un tel procédé ; est regardé comme un procédé microbiologique tout
+procédé utilisant ou produisant une matière biologique ou comportant une intervention sur une telle matière.
 
 **Liens relatifs à cet article**
 
@@ -9070,9 +9092,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 17 (V) JORF 7 août 2004
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 2 () JORF 9 décembre 2004
 
 _Anciens textes_:
 
@@ -9087,29 +9109,9 @@ _Nouveaux textes_:
 
   - Code de la propriété intellectuelle L611-19 (2è version)
 
+_Cite_:
 
-###### Article L611-20
-
-Les obtentions végétales d'un genre ou d'une espèce bénéficiant du régime de protection institué par les dispositions du
-chapitre III du titre II du présent livre relatives aux obtentions végétales ne sont pas brevetables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°2004-800 du 6 août 2004 - art. 17 (V) JORF 7 août 2004
-
-_Abrogé par_:
-
-  - Loi n°2004-1338 du 8 décembre 2004 - art. 2 () JORF 9 décembre 2004
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L612-12 (M)
+  - Règlement 2100-94 CEE 1994-07-27 art. 5
 
 
 ##### Chapitre II : Dépôt et instruction des demandes<a id=73></a>
@@ -9258,10 +9260,10 @@ _Créé par_:
 L'invention doit être exposée dans la demande de brevet de façon suffisamment claire et complète pour qu'un homme du métier
 puisse l'exécuter.
 
-Lorsque l'invention concerne l'utilisation d'un micro-organisme auquel le public n'a pas accès, la description n'est pas
-considérée comme exposant l'invention d'une manière suffisante si une culture de micro-organisme n'a pas fait l'objet d'un
-dépôt auprès d'un organisme habilité. Les conditions d'accessibilité du public à cette culture sont fixées par voie
-réglementaire.
+Lorsqu'une invention impliquant une matière biologique à laquelle le public n'a pas accès ne peut être décrite de manière à
+permettre à l'homme du métier d'exécuter cette invention, sa description n'est jugée suffisante que si la matière biologique
+a fait l'objet d'un dépôt auprès d'un organisme habilité. Les conditions d'accès du public à ce dépôt sont fixées par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -9274,9 +9276,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 3 () JORF 9 décembre 2004
 
 _Cité par_:
 
@@ -9519,7 +9521,8 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 
 3° Qui porte sur une demande divisionnaire dont l'objet s'étend au-delà du contenu de la description de la demande initiale ;
 
-4° Qui a pour objet une invention manifestement non brevetable en application des articles L. 611-17 à L. 611-20 ;
+4° Qui a pour objet une invention manifestement non brevetable en application des articles L. 611-17, L. 611-18 et L.
+611-19 ;
 
 5° Dont l'objet ne peut manifestement être considéré comme une invention au sens de l'article L. 611-10, deuxième paragraphe,
 ou comme une invention susceptible d'application industrielle au sens de l'article L. 611-16 ;
@@ -9537,8 +9540,8 @@ procédure d'établissement du rapport de recherche prévu à l'article L. 612-1
 Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les revendications correspondantes sont
 rejetées.
 
-En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17 et L611-18 ou de l'article L. 612-1,
-il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
+En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17 et L. 611-18 ou L. 612-1, il est
+procédé d'office à la suppression des parties correspondantes de la description et des dessins.
 
 **Liens relatifs à cet article**
 
@@ -9553,18 +9556,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 17 (V) JORF 7 août 2004
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L611-10 (M)
-  - Code de la propriété intellectuelle - art. L611-16 (V)
-  - Code de la propriété intellectuelle - art. L611-17 (M)
-  - Code de la propriété intellectuelle - art. L611-18 (V)
-  - Code de la propriété intellectuelle - art. L611-20 (Ab)
-  - Code de la propriété intellectuelle - art. L612-1 (M)
-  - Code de la propriété intellectuelle - art. L612-14 (V)
-  - Code de la propriété intellectuelle - art. L612-4 (V)
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 4 () JORF 9 décembre 2004
 
 _Cité par_:
 
@@ -10092,6 +10084,80 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
 
 
+###### Article L613-2-2
+
+Sous réserve des dispositions des articles L. 613-2-1 et L. 611-18, la protection conférée par un brevet à un produit
+contenant une information génétique ou consistant en une information génétique s'étend à toute matière dans laquelle le
+produit est incorporé et dans laquelle l'information génétique est contenue et exerce la fonction indiquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 5 () JORF 9 décembre 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L611-18 (V)
+  - Code de la propriété intellectuelle - art. L613-2-1 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L613-2-4 (V)
+  - Code de la propriété intellectuelle - art. L613-5-1 (V)
+  - Code de la propriété intellectuelle - art. L613-5-2 (V)
+  - Code de la propriété intellectuelle - art. L613-5-3 (V)
+  - Code de la propriété intellectuelle - art. L811-1-1 (VD)
+
+
+###### Article L613-2-3
+
+La protection conférée par un brevet relatif à une matière biologique dotée, du fait de l'invention, de propriétés
+déterminées s'étend à toute matière biologique obtenue à partir de cette matière biologique par reproduction ou
+multiplication et dotée de ces mêmes propriétés.
+
+La protection conférée par un brevet relatif à un procédé permettant de produire une matière biologique dotée, du fait de
+l'invention, de propriétés déterminées s'étend à la matière biologique directement obtenue par ce procédé et à toute autre
+matière biologique obtenue, à partir de cette dernière, par reproduction ou multiplication et dotée de ces mêmes propriétés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 5 () JORF 9 décembre 2004
+
+
+###### Article L613-2-4
+
+La protection visée aux articles L. 613-2-2 et L. 613-2-3 ne s'étend pas à la matière biologique obtenue par reproduction ou
+multiplication d'une matière biologique mise sur le marché sur le territoire d'un Etat membre de la Communauté européenne ou
+d'un Etat partie à l'accord sur l'Espace économique européen par le titulaire du brevet ou avec son consentement, lorsque la
+reproduction ou la multiplication résulte nécessairement de l'utilisation pour laquelle la matière biologique a été mise sur
+le marché, dès lors que la matière obtenue n'est pas utilisée ensuite pour d'autres reproductions ou multiplications.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 5 () JORF 9 décembre 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L613-2-2 (V)
+
+
 ###### Article L613-3
 
 Sont interdites, à défaut de consentement du propriétaire du brevet :
@@ -10214,6 +10280,78 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Code de la propriété intellectuelle L615-14 *sanctions pénales*
+
+
+###### Article L613-5-1
+
+Par dérogation aux dispositions des articles L. 613-2-2 et L. 613-2-3, la vente ou tout autre acte de commercialisation de
+matériel de reproduction végétal par le titulaire du brevet, ou avec son consentement, à un agriculteur à des fins
+d'exploitation agricole implique pour celui-ci l'autorisation d'utiliser le produit de sa récolte pour la reproduction ou la
+multiplication par lui-même sur sa propre exploitation. 
+
+Les conditions de cette utilisation sont celles qui sont prévues par l'article 14 du règlement (CE) n° 2100/94 du Conseil du
+27 juillet 1994 instituant un régime de protection communautaire des obtentions végétales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 6 () JORF 9 décembre 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L613-2-2 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L811-1-1 (VD)
+
+
+###### Article L613-5-2
+
+Par dérogation aux dispositions des articles L. 613-2-2 et L. 613-2-3, la vente ou tout autre acte de commercialisation
+d'animaux d'élevage ou d'un matériel de reproduction animal par le titulaire du brevet, ou avec son consentement, à un
+agriculteur implique pour celui-ci l'autorisation d'utiliser, le cas échéant moyennant rémunération, le bétail protégé pour
+un usage agricole. Cette autorisation emporte la mise à disposition de l'animal ou du matériel de reproduction animal pour la
+poursuite de son activité agricole, mais exclut la vente dans le cadre d'une activité commerciale de reproduction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 6 () JORF 9 décembre 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L613-2-2 (V)
+
+
+###### Article L613-5-3
+
+Les droits conférés par les articles L. 613-2-2 et L. 613-2-3 ne s'étendent pas aux actes accomplis en vue de créer ou de
+découvrir et de développer d'autres variétés végétales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 6 () JORF 9 décembre 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L613-2-2 (V)
 
 
 ###### Article L613-6
@@ -10554,17 +10692,17 @@ _Cité par_:
 
 Le titulaire d'un brevet portant atteinte à un brevet antérieur ne peut exploiter son brevet sans l'autorisation du titulaire
 du brevet antérieur ; ledit titulaire ne peut exploiter le brevet postérieur sans l'autorisation du titulaire du brevet
-postérieur.
+postérieur. 
 
 Lorsque le titulaire d'un brevet ne peut l'exploiter sans porter atteinte à un brevet antérieur dont un tiers est titulaire,
 le tribunal de grande instance peut lui accorder une licence d'exploitation du brevet antérieur dans la mesure nécessaire à
 l'exploitation du brevet dont il est titulaire et pour autant que cette invention constitue à l'égard du brevet antérieur un
-progrès technique important et présente un intérêt économique certain.
+progrès technique important et présente un intérêt économique considérable. 
 
-La licence accordée au titulaire du brevet postérieur ne peut être transmise qu'avec ledit brevet.
+La licence accordée au titulaire du brevet postérieur ne peut être transmise qu'avec ledit brevet. 
 
 Le titulaire du brevet antérieur obtient, sur demande présentée au tribunal, la concession d'une licence réciproque sur le
-brevet postérieur.
+brevet postérieur. 
 
 Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
 
@@ -10580,7 +10718,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 18 () JORF 7 août 2004
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 9 () JORF 9 décembre 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L613-12 (V)
 
 _Cité par_:
 
@@ -10590,28 +10732,51 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-2-3 (VD)
   - Code de la propriété intellectuelle - art. R615-1 (M)
 
+
+###### Article L613-15-1
+
+Lorsqu'un obtenteur ne peut obtenir ou exploiter un droit d'obtention végétale sans porter atteinte à un brevet antérieur, il
+peut demander la concession d'une licence de ce brevet dans la mesure où cette licence est nécessaire pour l'exploitation de
+la variété végétale à protéger et pour autant que la variété constitue à l'égard de l'invention revendiquée dans ce brevet un
+progrès technique important et présente un intérêt économique considérable. 
+
+Lorsqu'une telle licence est accordée, le titulaire du brevet obtient à des conditions équitables, sur demande présentée au
+tribunal, la concession d'une licence réciproque pour utiliser la variété protégée. 
+
+Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 7 () JORF 9 décembre 2004
+
 _Cite_:
 
-  - Code de la propriété intellectuelle L613-12 à L613-14
+  - Code de la propriété intellectuelle - art. L613-12 (V)
 
 
 ###### Article L613-16
 
 Si l'intérêt de la santé publique l'exige et à défaut d'accord amiable avec le titulaire du brevet, le ministre chargé de la
 propriété industrielle peut, sur la demande du ministre chargé de la santé publique, soumettre par arrêté au régime de la
-licence d'office, dans les conditions prévues à l'article L. 613-17, tout brevet délivré pour :
+licence d'office, dans les conditions prévues à l'article L. 613-17, tout brevet délivré pour : 
 
-a) Un médicament, un dispositif médical, un dispositif médical de diagnostic in vitro, un produit thérapeutique annexe ;
+a) Un médicament, un dispositif médical, un dispositif médical de diagnostic in vitro, un produit thérapeutique annexe ; 
 
-b) Leur procédé d'obtention, un produit nécessaire à leur obtention ou un procédé de fabrication d'un tel produit ;
+b) Leur procédé d'obtention, un produit nécessaire à leur obtention ou un procédé de fabrication d'un tel produit ; 
 
-c) Une méthode de diagnostic ex vivo.
+c) Une méthode de diagnostic ex vivo. 
 
 Les brevets de ces produits, procédés ou méthodes de diagnostic ne peuvent être soumis au régime de la licence d'office dans
 l'intérêt de la santé publique que lorsque ces produits, ou des produits issus de ces procédés, ou ces méthodes sont mis à la
-disposition du public en quantité et qualité insuffisantes ou à des prix anormalement élevés, ou lorsque le brevet est
+disposition du public en quantité ou qualité insuffisantes ou à des prix anormalement élevés, ou lorsque le brevet est
 exploité dans des conditions contraires à l'intérêt de la santé publique ou constitutives de pratiques déclarées
-anticoncurrentielles à la suite d'une décision administrative ou juridictionnelle devenue définitive.
+anticoncurrentielles à la suite d'une décision administrative ou juridictionnelle devenue définitive. 
 
 Lorsque la licence a pour but de remédier à une pratique déclarée anticoncurrentielle ou en cas d'urgence, le ministre chargé
 de la propriété industrielle n'est pas tenu de rechercher un accord amiable.
@@ -10629,7 +10794,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 18 () JORF 7 août 2004
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 10 () JORF 9 décembre 2004
 
 _Cité par_:
 
@@ -14080,6 +14245,63 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+
+
+###### Article L623-22-1
+
+Lorsque le titulaire d'un brevet portant sur une invention biotechnologique ne peut exploiter celle-ci sans porter atteinte à
+un droit d'obtention végétale antérieur, il peut demander la concession d'une licence pour l'exploitation de la variété
+protégée par le droit d'obtention, pour autant que cette invention constitue à l'égard de la variété végétale un progrès
+technique important et présente un intérêt économique considérable. Le demandeur doit justifier qu'il n'a pu obtenir du
+titulaire du droit d'obtention une licence d'exploitation et qu'il est en état d'exploiter la variété de manière effective et
+sérieuse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 8 () JORF 9 décembre 2004
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L623-22-2 (V)
+
+
+###### Article L623-22-2
+
+La demande de licence prévue à l'article L. 623-22-1 est formée auprès du tribunal de grande instance. 
+
+La licence est non exclusive. Le tribunal détermine notamment sa durée, son champ d'application et le montant des redevances
+auxquelles elle donne lieu. Ces conditions peuvent être modifiées par décision du tribunal, à la demande du titulaire du
+droit ou de la licence. 
+
+Les droits attachés à cette licence ne peuvent être transmis qu'avec l'entreprise ou la partie de l'entreprise ou le fonds de
+commerce auquel ils sont attachés. 
+
+Lorsqu'une telle licence est accordée, le titulaire du droit d'obtention obtient à des conditions équitables, sur demande
+présentée au tribunal, la concession d'une licence réciproque pour utiliser l'invention protégée. 
+
+Si le titulaire d'une licence ne satisfait pas aux conditions auxquelles cette licence a été accordée, le titulaire du
+certificat d'obtention végétale et, le cas échéant, les autres licenciés peuvent obtenir du tribunal le retrait de cette
+licence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-1338 du 8 décembre 2004 - art. 8 () JORF 9 décembre 2004
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L623-22-1 (V)
 
 
 ###### Article L623-23
