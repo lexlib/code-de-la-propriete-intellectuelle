@@ -1,7 +1,7 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1996-02-09
+Version Consolidée au 1996-05-01
 ## Contenu: 
-  - [Partie législative (art. L111-1 à L811-2)](#1)
+  - [Partie législative (art. L111-1 à L811-3)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L335-10)](#2)
       - [Livre Ier : Le droit d'auteur (art. L111-1 à L132-34)](#3)
         - [Titre Ier : Objet du droit d'auteur (art. L111-1 à L113-9)](#4)
@@ -103,10 +103,10 @@ Version Consolidée au 1996-02-09
           - [Chapitre VI : Contentieux (art. L716-1 à L716-16)](#100)
         - [Titre II : Appellations d'origine (art. L721-1)](#101)
           - [Chapitre unique (art. L721-1)](#102)
-    - [Troisième partie : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte (art. L811-1 à L811-2)](#103)
-      - [Livre VIII : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte (art. L811-1 à L811-2)](#104)
-        - [Titre unique (art. L811-1 à L811-2)](#105)
-          - [Chapitre unique (art. L811-1 à L811-2)](#106)
+    - [Troisième partie : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte (art. L811-1 à L811-3)](#103)
+      - [Livre VIII : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte (art. L811-1 à L811-3)](#104)
+        - [Titre unique (art. L811-1 à L811-3)](#105)
+          - [Chapitre unique (art. L811-1 à L811-3)](#106)
   - [Partie réglementaire (art. R111-1 à R811-3)](#107)
     - [Livre Ier : Le droit d'auteur (art. R111-1 à R132-17)](#108)
       - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#109)
@@ -14613,9 +14613,11 @@ _Cite_:
 
 ###### Article L811-1
 
-Les dispositions du présent code sont applicables à la collectivité territoriale de Mayotte, à l'exception des articles L.
-335-8 et L. 621-1. Elles sont applicables aux territoires d'outre-mer à l'exception des articles L. 335-8, L. 421-1 à L.
-422-10, L. 423-2 et L. 621-1.
+Sous réserve des adaptations prévues aux articles suivants, les dispositions du présent code sont applicables dans la
+collectivité territoriale de Mayotte.
+
+Sous les mêmes réserves, elles sont applicables dans les territoires d'outre-mer à l'exception des articles L. 421-1 à L.
+422-10 et L. 423-2.
 
 **Liens relatifs à cet article**
 
@@ -14648,14 +14650,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-102 du 5 février 1994 - art. 20 () JORF 8 février 1994
+  - Ordonnance n°96-267 du 28 mars 1996 - art. 5 () JORF 31 mars 1996 en vigueur le 1er mai 1996
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L335-8 (MMN)
   - Code de la propriété intellectuelle - art. L423-2 (V)
-  - Code de la propriété intellectuelle - art. L621-1 (M)
-  - Code de la propriété intellectuelle L335-8, L621-1, L421-1 à L422-10, L423-2
+  - Code de la propriété intellectuelle L421-1 à L422-10, L423-2
 
 _Nouveaux textes_:
 
@@ -14693,6 +14693,35 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+
+
+###### Article L811-3
+
+Pour son application dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte, l'article L. 621-1 du
+présent code est ainsi rédigé :
+
+"Art. L. 621-1 :
+
+"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de
+fabrique est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
+
+"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
+des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Ordonnance n°96-267 du 28 mars 1996 - art. 5 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L621-1 (M)
+  - Code pénal - art. 131-26 (V)
 
 
 # Partie réglementaire<a id=107></a>
