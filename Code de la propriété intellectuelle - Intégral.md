@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2000-08-02
+Version Consolidée au 2000-09-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-3)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -4750,9 +4750,9 @@ _Cité par_:
 ###### Article L321-4
 
 Les sociétés de perception et de répartition des droits sont tenues de nommer au moins un commissaire aux comptes et un
-suppléant, choisis sur la liste mentionnée à l'article 219 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales et qui exercent leurs fonctions dans les conditions prévues par ladite loi, sous réserve des règles qui leur
-sont propres. Les dispositions de l'article 457 de la loi n° 66-537 du 24 juillet 1966 précitée sont applicables.
+suppléant, choisis sur la liste mentionnée à l'article L. 225-219 du code de commerce et qui exercent leurs fonctions dans
+les conditions prévues par ladite loi, sous réserve des règles qui leur sont propres. Les dispositions de l'article L. 242-27
+du code de commerce précité sont applicables. 
 
 Les dispositions de l'article 29 de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des
 difficultés des entreprises sont applicables.
@@ -4761,8 +4761,9 @@ difficultés des entreprises sont applicables.
 
 _Cite_:
 
-  - Loi n°66-537 1966-07-24 art. 219, art. 457
-  - Loi n°84-148 1984-03-01 art. 29
+  - Loi n°84-148 du 1 mars 1984 - art. 29 (Ab)
+  - Code de commerce. - art. L225-219 (Ab)
+  - Code de commerce. - art. L242-27 (Ab)
 
 _Anciens textes_:
 
@@ -4774,7 +4775,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
 
 
 ###### Article L321-5
