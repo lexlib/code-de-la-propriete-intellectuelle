@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1998-11-20
+Version Consolidée au 1998-12-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-3)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -15212,6 +15212,9 @@ vente, fourni ou offert de fournir des produits ou des services sous une telle m
 
 b) Aura sciemment livré un produit ou fourni un service autre que celui qui lui aura été demandé sous une marque enregistrée.
 
+L'infraction, dans les conditions prévues au b, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de
+substitution prévue à l'article L. 512-3 du code de la santé publique.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -15230,13 +15233,17 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°98-1194 du 23 décembre 1998 - art. 29 () JORF 27 décembre 1998
 
 **Liens**:
 
   - SPEC_APPLI: Code de la propriété intellectuelle L716-11-1 *sanctions pénales*
+
+_Cite_:
+
+  - Code de la santé publique - art. L512-3 (Ab)
 
 
 ###### Article L716-11
