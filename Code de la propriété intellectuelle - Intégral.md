@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1998-12-27
+Version Consolidée au 2000-07-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-3)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -1358,8 +1358,8 @@ destinés au public prononcés dans les assemblées politiques, administratives,
 réunions publiques d'ordre politique et les cérémonies officielles ;
 
 d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou plastiques destinées à figurer dans le catalogue
-d'une vente aux enchères publiques effectuée en France par un officier public ou ministériel pour les exemplaires qu'il met à
-la disposition du public avant la vente dans le seul but de décrire les oeuvres d'art mises en vente.
+d'une vente judiciaire effectuée en France pour les exemplaires mis à la disposition du public avant la vente dans le seul
+but de décrire les oeuvres d'art mises en vente.
 
 Un décret en Conseil d'Etat fixe les caractéristiques des documents et les conditions de leur distribution.
 
@@ -1385,8 +1385,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 2 () JORF 2 juillet 1998
-  - Loi n°98-536 du 1 juillet 1998 - art. 3 () JORF 2 juillet 1998
+  - Loi n°2000-642 du 10 juillet 2000 - art. 47 () JORF 11 juillet 2000
 
 _Cité par_:
 
