@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2004-02-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-1)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -53,7 +53,7 @@ Version Consolidée au 2003-08-02
           - [Chapitre II : Le comité de protection des obtentions végétales (art. L412-1)](#50)
         - [Titre II : Qualification en propriété industrielle (art. L421-1 à L423-2)](#51)
           - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. L421-1 à L421-2)](#52)
-          - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. L422-1 à L422-10)](#53)
+          - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. L422-1 à L422-13)](#53)
           - [Chapitre III : Dispositions diverses (art. L423-1 à L423-2)](#54)
       - [Livre V : Les dessins et modèles (art. L511-1 à L521-7)](#55)
         - [Titre Ier : Conditions et modalités de la protection (art. L511-1 à L514-2)](#56)
@@ -6998,32 +6998,27 @@ _Cité par_:
 ###### Article L422-7
 
 Lorsque la profession de conseil en propriété industrielle est exercée en société, elle peut l'être par une société civile
-professionnelle ou par une société constituée sous une autre forme. Dans ce dernier cas, il est nécessaire que :
+professionnelle, par une société d'exercice libéral ou par une société constituée sous une autre forme. Dans ce dernier cas,
+il est nécessaire que : 
 
 a) Le président du conseil d'administration, les directeurs généraux, les membres du directoire, le directeur général unique
 et le ou les gérants ainsi que la majorité des membres du conseil d'administration ou du conseil de surveillance aient la
-qualité de conseil en propriété industrielle ;
+qualité de conseil en propriété industrielle ; 
 
-b) Les conseils en propriété industrielle détiennent plus de la moitié du capital social et des droits de vote ;
+b) Les conseils en propriété industrielle détiennent plus de la moitié du capital social et des droits de vote ; 
 
 c) L'admission de tout nouvel associé est subordonnée à l'agrément préalable, selon le cas, du conseil d'administration, du
-conseil de surveillance, du ou des gérants.
+conseil de surveillance, du ou des gérants. 
 
-Les dispositions des deux premiers alinéas de l'article 93, des articles 107 et 142 de la loi n° 66-537 du 24 juillet 1966
-sur les sociétés commerciales ne sont applicables respectivement ni aux membres du conseil d'administration ni aux membres du
-conseil de surveillance des sociétés de conseils en propriété industrielle.
+Les dispositions des deux premiers alinéas de l'article L. 225-21, des articles L. 225-44 et L. 225-85 du code de commerce ne
+sont applicables respectivement ni aux membres du conseil d'administration ni aux membres du conseil de surveillance des
+sociétés de conseils en propriété industrielle. 
 
 Lorsque la profession de conseil en propriété industrielle est exercée par une société, il y a lieu, outre l'inscription des
 conseils personnes physiques, à l'inscription de la société dans une section spéciale de la liste prévue à l'article L.
 422-1.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 art. 107, art. 142
-  - Code de la propriété intellectuelle - art. L422-1 (M)
-  - Code de la propriété intellectuelle 93, L422-1
 
 _Anciens textes_:
 
@@ -7033,10 +7028,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 _Cité par_:
 
@@ -7052,6 +7043,17 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R422-62 (M)
   - Code de la propriété intellectuelle - art. R422-65 (V)
   - Code de la propriété intellectuelle - art. R422-7 (V)
+
+_Modifié par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 66 () JORF 12 février 2004
+
+_Cite_:
+
+  - Code de commerce. - art. L225-21 (V)
+  - Code de commerce. - art. L225-44 (V)
+  - Code de commerce. - art. L225-85 (V)
+  - Code de la propriété intellectuelle - art. L422-1 (V)
 
 
 ###### Article L422-8
@@ -7143,6 +7145,91 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R422-56 (V)
   - Code de la propriété intellectuelle - art. R422-7-2 (V)
   - Code de la propriété intellectuelle - art. R423-1 (V)
+
+
+###### Article L422-11
+
+En toute matière et pour tous les services mentionnés à l'article L. 422-1, le conseil en propriété industrielle observe le
+secret professionnel. Ce secret s'étend aux consultations adressées ou destinées à son client, aux correspondances
+professionnelles échangées avec son client, un confrère ou un avocat, aux notes d'entretien et, plus généralement, à toutes
+les pièces du dossier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 67 () JORF 12 février 2004
+
+_Cité par_:
+
+  - Ordonnance n°2006-639 du 1 juin 2006 - art. 4 (V)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L422-1 (V)
+
+
+###### Article L422-12
+
+La profession de conseil en propriété industrielle est incompatible :
+
+1° Avec toute activité de caractère commercial, qu'elle soit exercée directement ou par personne interposée ;
+
+2° Avec la qualité d'associé dans une société en nom collectif, d'associé commandité dans une société en commandite simple ou
+par actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du
+directoire, directeur général ou directeur général délégué d'une société anonyme, de président ou dirigeant d'une société par
+actions simplifiée, de gérant d'une société civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession
+de conseil en propriété industrielle ou la gestion d'intérêts professionnels connexes ou d'intérêts familiaux ;
+
+3° Avec la qualité de membre du conseil de surveillance ou d'administrateur d'une société commerciale, lorsque le conseil en
+propriété industrielle a moins de sept années d'exercice professionnel et n'a pas obtenu préalablement une dispense dans des
+conditions prévues par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 67 () JORF 12 février 2004
+
+_Cité par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 80 (V)
+  - Ordonnance n°2006-639 du 1 juin 2006 - art. 16 (V)
+  - Ordonnance n°2006-639 du 1 juin 2006 - art. 4 (V)
+  - Code de la propriété intellectuelle - art. R422-55 (V)
+
+
+###### Article L422-13
+
+La profession de conseil en propriété industrielle est incompatible avec l'exercice de toute autre profession, sous réserve
+de dispositions législatives ou réglementaires particulières.
+
+Elle est toutefois compatible avec les fonctions d'enseignement, ainsi qu'avec celles d'arbitre, de médiateur, de
+conciliateur ou d'expert judiciaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 67 () JORF 12 février 2004
+
+_Cité par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 80 (V)
+  - Ordonnance n°2006-639 du 1 juin 2006 - art. 16 (V)
+  - Ordonnance n°2006-639 du 1 juin 2006 - art. 4 (V)
 
 
 ##### Chapitre III : Dispositions diverses<a id=54></a>
