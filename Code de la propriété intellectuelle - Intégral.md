@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1993-07-27
+Version Consolidée au 1994-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-2)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L335-7)](#2)
@@ -7822,10 +7822,17 @@ _Cité par_:
 ###### Article L613-6
 
 Les droits conférés par le brevet ne s'étendent pas aux actes concernant le produit couvert par ce brevet, accomplis sur le
-territoire français, après que ce produit a été mis dans le commerce en France par le propriétaire du brevet ou avec son
-consentement exprès.
+territoire français, après que ce produit a été mis dans le commerce en France ou sur le territoire d'un Etat partie à
+l'accord sur l'Espace économique européen par le propriétaire du brevet ou avec son consentement exprès.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Accord EEE 1992-05-02, signé à Porto art. 129 *date d'effet*
+  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 *champ d'application territorial*, art. 10 *modalités*
+  - SPEC_APPLI: Décret n°94-113 1994-02-01 *entrée en vigueur de l'accord sur l'Espace économique européen*
+  - SPEC_APPLI: Code de la propriété intellectuelle L615-14 *sanctions pénales*
 
 _Anciens textes_:
 
@@ -7836,13 +7843,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 et art. 10
+  - Loi n°93-1420 du 31 décembre 1993 - art. 5 () JORF 1er janvier 1994
 
 _Cité par_:
 
@@ -8013,12 +8016,21 @@ prévues aux articles suivants, si au moment de la requête, et sauf excuses lé
 cause :
 
 a) N'a pas commencé à exploiter ou fait des préparatifs effectifs et sérieux pour exploiter l'invention objet du brevet sur
-le territoire d'un Etat membre de la Communauté économique européenne ;    b) N'a pas commercialisé le produit objet du
-brevet en quantité suffisante pour satisfaire aux besoins du marché français.
+le territoire d'un Etat membre de la Communauté économique européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen ;
 
-Il en est de même lorsque l'exploitation ou la commercialisation en France a été abandonnée depuis plus de trois ans.
+b) N'a pas commercialisé le produit objet du brevet en quantité suffisante pour satisfaire aux besoins du marché français.
+
+Il en est de même lorsque l'exploitation prévue au a) ci-dessus ou la commercialisation prévue au b) ci-dessus a été
+abandonnée depuis plus de trois ans.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Accord EEE 1992-05-02, signé à Porto art. 129 *date d'effet*
+  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 *champ d'application territorial*, art. 10 *modalités*
+  - SPEC_APPLI: Décret n°94-113 1994-02-01 *entrée en vigueur de l'accord sur l'Espace économique européen*
 
 _Anciens textes_:
 
@@ -8029,13 +8041,10 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 et art. 10
+  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+  - Loi n°93-1420 du 31 décembre 1993 - art. 5 () JORF 1er janvier 1994
 
 _Cité par_:
 
@@ -10705,18 +10714,25 @@ _Cité par_:
 
 Sont admis au bénéfice du présent chapitre :
 
-a) Les créateurs ressortissants d'un Etat membre de la Communauté économique européenne ou qui ont dans un tel Etat soit leur
-résidence habituelle, soit un établissement industriel ou commercial, effectif et sérieux, ainsi que leurs ayants cause ;
+a) Les créateurs ressortissants d'un Etat membre de la Communauté économique européenne ou d'un autre Etat partie à l'accord
+sur l' Espace économique européen ou qui ont dans un tel Etat soit leur résidence habituelle, soit un établissement
+industriel ou commercial, effectif et sérieux, ainsi que leurs ayants cause ;
 
 b) Les personnes répondant aux conditions précitées de nationalité, résidence ou établissement, qui procèdent dans un Etat
-membre, pour la première fois au monde, à l'exploitation commerciale d'une topographie non encore protégée par le présent
-chapitre et pour laquelle elles ont obtenu de la personne habilitée une autorisation exclusive pour l'ensemble de la
-Communauté économique européenne.
+membre ou dans un autre Etat partie , pour la première fois au monde, à l'exploitation commerciale d'une topographie non
+encore protégée par le présent chapitre et pour laquelle elles ont obtenu de la personne habilitée une autorisation exclusive
+pour l'ensemble de la Communauté économique européenne ou de l'Espace économique européen.
 
 Les personnes, autres que celles visées au paragraphe précédent, sont admises au bénéfice du présent chapitre sous réserve
 d'une constatation de réciprocité avec les pays dont elles sont ressortissantes ou dans lesquels elles sont établies.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Accord EEE 1992-05-02, signé à Porto art. 129 *date d'effet*
+  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 *champ d'application territorial*, art. 10 *modalités*
+  - SPEC_APPLI: Décret n°94-113 1994-02-01 *entrée en vigueur de l'accord sur l'Espace économique européen*
 
 _Anciens textes_:
 
@@ -10726,13 +10742,10 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 et art. 10
+  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+  - Loi n°93-1420 du 31 décembre 1993 - art. 2 () JORF 1er janvier 1994
 
 _Cité par_:
 
@@ -12723,12 +12736,19 @@ _Créé par_:
 ###### Article L713-4
 
 Le droit conféré par la marque ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des produits qui ont été
-mis dans le commerce dans la Communauté économique européenne sous cette marque par le titulaire ou avec son consentement.
+mis dans le commerce dans la Communauté économique européenne ou dans l'Espace économique européen sous cette marque par le
+titulaire ou avec son consentement.
 
 Toutefois, faculté reste alors ouverte au propriétaire de s'opposer à tout nouvel acte de commercialisation s'il justifie de
 motifs légitimes, tenant notamment à la modification ou à l'altération, ultérieurement intervenue, de l'état des produits.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Accord EEE 1992-05-02, signé à Porto art. 129 *date d'effet*
+  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 *champ d'application territorial*, art. 10 *modalités*
+  - SPEC_APPLI: Décret n°94-113 1994-02-01 *entrée en vigueur de l'accord sur l'Espace économique européen*
 
 _Anciens textes_:
 
@@ -12738,13 +12758,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 et art. 10
+  - Loi n°93-1420 du 31 décembre 1993 - art. 2 () JORF 1er janvier 1994
 
 
 ###### Article L713-5
