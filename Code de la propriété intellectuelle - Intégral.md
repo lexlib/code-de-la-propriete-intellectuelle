@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2001-04-18
+Version Consolidée au 2001-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-3)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -17457,6 +17457,43 @@ _Cite_:
 
   - Code de la propriété intellectuelle - art. L321-5 (M)
   - Code de la propriété intellectuelle - art. R321-6 (M)
+
+
+###### Article R321-6-3
+
+L'associé auquel est opposé un refus de communication peut saisir une commission spéciale composée d'au moins cinq associés
+élus par l'assemblée générale parmi ceux qui ne détiennent aucun mandat social. 
+
+Les avis de cette commission sont motivés. Ils sont notifiés au demandeur et aux organes de direction de la société. 
+
+La commission rend compte annuellement de son activité à l'assemblée générale. Son rapport est communiqué au ministre chargé
+de la culture ainsi qu'au président de la commission prévue à l'article L. 321-13.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-334 2001-04-17 art. 4 (date d'effet) et art. 5 (champ d'application territoriale)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2001-334 du 17 avril 2001 - art. 1 () JORF 18 avril 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Décret n°2001-334 du 17 avril 2001 - art. 4 (V)
+
+_Abrogé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L321-3
 
 
 ###### Article R321-6-4
