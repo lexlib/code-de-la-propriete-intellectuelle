@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1994-05-11
+Version Consolidée au 1994-07-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-2)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L335-10)](#2)
@@ -7182,8 +7182,9 @@ _Cité par_:
 Ne sont pas brevetables :
 
 a) Les inventions dont la publication ou la mise en oeuvre serait contraire à l'ordre public ou aux bonnes moeurs, la mise en
-oeuvre d'une invention ne pouvant être considérée comme telle du seul fait qu'elle est interdite par une disposition légale
-ou réglementaire ;
+oeuvre d'une telle invention ne pouvant être considérée comme telle du seul fait qu'elle est interdite par une disposition
+législative ou réglementaire ; à ce titre, le corps humain, ses éléments et ses produits ainsi que la connaissance de la
+structure totale ou partielle d'un gène humain ne peuvent, en tant que tels, faire l'objet de brevets.
 
 b) Les obtentions végétales d'un genre ou d'une espèce bénéficiant du régime de protection institué par les dispositions du
 chapitre III du titre II du présent livre relatives aux obtentions végétales ;
@@ -7201,9 +7202,13 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+_Modifié par_:
+
+  - Loi n°94-653 du 29 juillet 1994 - art. 7 () JORF 30 juillet 1994
 
 _Cité par_:
 
