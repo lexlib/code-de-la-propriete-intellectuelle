@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1995-04-19
+Version Consolidée au 1995-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-2)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L335-10)](#2)
@@ -8,10 +8,10 @@ Version Consolidée au 1995-04-19
           - [Chapitre Ier : Nature du droit d'auteur (art. L111-1 à L111-5)](#5)
           - [Chapitre II : Oeuvres protégées (art. L112-1 à L112-4)](#6)
           - [Chapitre III : Titulaires du droit d'auteur (art. L113-1 à L113-9)](#7)
-        - [Titre II : Droits des auteurs (art. L121-1 à L123-11)](#8)
+        - [Titre II : Droits des auteurs (art. L121-1 à L123-12)](#8)
           - [Chapitre Ier : Droits moraux (art. L121-1 à L121-9)](#9)
           - [Chapitre II : Droits patrimoniaux (art. L122-1 à L122-12)](#10)
-          - [Chapitre III : Durée de la protection (art. L123-1 à L123-11)](#11)
+          - [Chapitre III : Durée de la protection (art. L123-1 à L123-12)](#11)
         - [Titre III : Exploitation des droits (art. L131-1 à L132-34)](#12)
           - [Chapitre Ier : Dispositions générales (art. L131-1 à L131-8)](#13)
           - [Chapitre II : Dispositions particulières à certains contrats (art. L132-4 à L132-34)](#14)
@@ -23,7 +23,7 @@ Version Consolidée au 1995-04-19
             - [Section 5 : Contrat de nantissement du droit d'exploitation des logiciels (art. L132-34)](#20)
       - [Livre II : Les droits voisins du droit d'auteur (art. L211-1 à L216-1)](#21)
         - [Titre unique (art. L211-1 à L216-1)](#22)
-          - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-4)](#23)
+          - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-5)](#23)
           - [Chapitre II : Droits des artistes-interprètes (art. L212-1 à L212-10)](#24)
           - [Chapitre III : Droits des producteurs de phonogrammes (art. L213-1)](#25)
           - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. L214-1 à L214-5)](#26)
@@ -1675,8 +1675,8 @@ _Cite_:
 L'auteur jouit, sa vie durant, du droit exclusif d'exploiter son oeuvre sous quelque forme que ce soit et d'en tirer un
 profit pécuniaire.
 
-Au décès de l'auteur, ce droit persiste au bénéfice de ses ayants droit pendant l'année civile en cours et les cinquante
-années qui suivent. Toutefois, pour les compositions musicales avec ou sans paroles, cette durée est de soixante-dix années.
+Au décès de l'auteur, ce droit persiste au bénéfice de ses ayants droit pendant l'année civile en cours et les soixante-dix
+années qui suivent.
 
 **Liens relatifs à cet article**
 
@@ -1688,9 +1688,13 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 16 I *date d'effet*, art. 19 *champ d'application*
+
+_Modifié par_:
+
+  - Loi n°97-283 du 27 mars 1997 - art. 5 () JORF 28 mars 1997 en vigueur le 1er juillet 1995
 
 _Cité par_:
 
@@ -1709,19 +1713,23 @@ _Cité par_:
 Pour les oeuvres de collaboration, l'année civile prise en considération est celle de la mort du dernier vivant des
 collaborateurs.
 
+Pour les oeuvres audiovisuelles, l'année civile prise en considération est celle de la mort du dernier vivant des
+collaborateurs suivants : l'auteur du scénario, l'auteur du texte parlé, l'auteur des compositions musicales avec ou sans
+paroles spécialement réalisées pour l'oeuvre, le réalisateur principal.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°57-298 du 11 mars 1957 - art. 21 (M)
 
 _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 16 I *date d'effet*, art. 19 *champ d'application*
+
+_Modifié par_:
+
+  - Loi n°97-283 du 27 mars 1997 - art. 6 () JORF 28 mars 1997 en vigueur le 1er juillet 1995
 
 _Cité par_:
 
@@ -1730,50 +1738,58 @@ _Cité par_:
 
 ###### Article L123-3
 
-Pour les oeuvres pseudonymes ou collectives, la durée du droit exclusif est de cinquante années à compter du 1er janvier de
-l'année civile suivant celle de la publication. Toutefois, pour les compositions musicales avec ou sans paroles, cette durée
-est de soixante-dix années. La date de publication est déterminée par tout mode de preuve du droit commun, et notamment par
-le dépôt légal.
+Pour les oeuvres pseudonymes, anonymes ou collectives, la durée du droit exclusif est de soixante-dix années à compter du 1er
+janvier de l'année civile suivant celle où l'oeuvre a été publiée. La date de publication est déterminée par tout mode de
+preuve de droit commun, et notamment par le dépôt légal. 
 
-En cas de publication échelonnée d'une oeuvre collective, le délai court à compter du 1er janvier de l'année civile qui suit
-la publication de chaque élément. Toutefois, si la publication est entièrement réalisée dans un délai de vingt ans à compter
-de la publication d'un premier élément, la durée du droit exclusif pour l'ensemble de l'oeuvre prend fin seulement à
-l'expiration de la cinquantième année suivant celle de la publication du dernier élément.
+Au cas où une oeuvre pseudonyme, anonyme ou collective est publiée de manière échelonnée, le délai court à compter du 1er
+janvier de l'année civile qui suit la date à laquelle chaque élément a été publié. 
 
-En ce qui concerne les oeuvres anonymes ou pseudonymes, si le ou les auteurs se sont fait connaître, la durée du droit
-d'exploitation est celle afférente à la catégorie de l'oeuvre considérée, et la période de protection légale commence à
-courir dans les conditions prévues à l'article L. 123-1.
+Lorsque le ou les auteurs d'oeuvres anonymes ou pseudonymes se sont fait connaître, la durée du droit exclusif est celle
+prévue aux articles L. 123-1 ou L. 123-2.
+
+Les dispositions du premier et du deuxième alinéa ne sont applicables qu'aux oeuvres pseudonymes, anonymes ou collectives
+publiées pendant les soixante-dix années suivant l'année de leur création. 
+
+Toutefois, lorsqu'une oeuvre pseudonyme, anonyme ou collective est divulguée à l'expiration de la période mentionnée à
+l'alinéa précédent, son propriétaire, par succession ou à d'autres titres, qui en effectue ou fait effectuer la publication
+jouit d'un droit exclusif de vingt-cinq années à compter du 1er janvier de l'année civile suivant celle de la publication.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°57-298 du 11 mars 1957 - art. 22 (M)
   - Loi n°57-298 du 11 mars 1957 - art. 22 (Ab)
 
 _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 16 I *date d'effet*, art. 19 *champ d'application*
+
+_Modifié par_:
+
+  - Loi n°97-283 du 27 mars 1997 - art. 7 () JORF 28 mars 1997 en vigueur le 1er juillet 1995
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L123-1 (M)
+  - Code de la propriété intellectuelle - art. L123-1 (V)
+  - Code de la propriété intellectuelle - art. L123-2 (V)
 
 
 ###### Article L123-4
 
-Pour les oeuvres posthumes, la durée du droit exclusif est de cinquante années à compter de la date de publication de
-l'oeuvre ; toutefois, pour les compositions musicales avec ou sans paroles, cette durée est de soixante-dix années.
+Pour les oeuvres posthumes, la durée du droit exclusif est celle prévue à l'article L. 123-1. Pour les oeuvres posthumes
+divulguées après l'expiration de cette période, la durée du droit exclusif est de vingt-cinq années à compter du 1er janvier
+de l'année civile suivant celle de la publication. 
 
 Le droit d'exploitation des oeuvres posthumes appartient aux ayants droit de l'auteur si l'oeuvre est divulguée au cours de
-la période prévue à l'article L. 123-1.
+la période prévue à l'article L. 123-1. 
 
 Si la divulgation est effectuée à l'expiration de cette période, il appartient aux propriétaires, par succession ou à
-d'autres titres, de l'oeuvre, qui effectuent ou font effectuer la publication.
+d'autres titres, de l'oeuvre, qui effectuent ou font effectuer la publication. 
 
 Les oeuvres posthumes doivent faire l'objet d'une publication séparée, sauf dans le cas où elles ne constituent qu'un
 fragment d'une oeuvre précédemment publiée. Elles ne peuvent être jointes à des oeuvres du même auteur précédemment publiées
@@ -1790,9 +1806,13 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 16 I *date d'effet*, art. 19 *champ d'application*
+
+_Modifié par_:
+
+  - Loi n°97-283 du 27 mars 1997 - art. 8 () JORF 28 mars 1997 en vigueur le 1er juillet 1995
 
 _Cité par_:
 
@@ -1800,7 +1820,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L123-1 (M)
+  - Code de la propriété intellectuelle - art. L123-1 (V)
 
 
 ###### Article L123-6
@@ -1842,7 +1862,7 @@ _Cité par_:
 
 Après le décès de l'auteur, le droit de suite mentionné à l'article L. 122-8 subsiste au profit de ses héritiers et, pour
 l'usufruit prévu à l'article L. 123-6, de son conjoint, à l'exclusion de tous légataires et ayants cause, pendant l'année
-civile en cours et les cinquante années suivantes.
+civile en cours et les soixante-dix années suivantes.
 
 **Liens relatifs à cet article**
 
@@ -1854,9 +1874,13 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 16 I *date d'effet*, art. 19 *champ d'application*
+
+_Modifié par_:
+
+  - Loi n°97-283 du 27 mars 1997 - art. 9 () JORF 28 mars 1997 en vigueur le 1er juillet 1995
 
 _Cité par_:
 
@@ -1869,8 +1893,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L122-8 (M)
-  - Code de la propriété intellectuelle - art. L123-6 (M)
+  - Code de la propriété intellectuelle - art. L122-8 (V)
+  - Code de la propriété intellectuelle - art. L123-6 (V)
 
 
 ###### Article L123-8
@@ -1986,6 +2010,31 @@ _Créé par_:
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L123-10 (V)
+
+
+###### Article L123-12
+
+Lorsque le pays d'origine de l'oeuvre, au sens de l'acte de Paris de la convention de Berne, est un pays tiers à la
+Communauté européenne et que l'auteur n'est pas un ressortissant d'un Etat membre de la Communauté, la durée de protection
+est celle accordée dans le pays d'origine de l'oeuvre sans que cette durée puisse excéder celle prévue à l'article L. 123-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 16 I *date d'effet*, art. 19 *champ d'application*
+
+_Créé par_:
+
+  - Loi n°97-283 du 27 mars 1997 - art. 10 () JORF 28 mars 1997 en vigueur le 1er juillet 1995
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L123-1 (V)
 
 
 #### Titre III : Exploitation des droits<a id=12></a>
@@ -3371,9 +3420,21 @@ _Cité par_:
 
 ###### Article L211-4
 
-La durée des droits patrimoniaux objets du présent titre est de cinquante années à compter du 1er janvier de l'année civile
-suivant celle de la première communication au public, de l'interprétation de l'oeuvre, de sa production ou des programmes
-visés à l'article L. 216-1.
+La durée des droits patrimoniaux objet du présent titre est de cinquante années à compter du 1er janvier de l'année civile
+suivant celle :
+
+- de l'interprétation pour les artistes interprètes ;
+
+- de la première fixation d'une séquence de son pour les producteurs de phonogrammes et d'une séquence d'images sonorisée ou
+non pour les producteurs de vidéogrammes ;
+
+- de la première communication au public des programmes visés à l'article L. 216-1 pour les entreprises de communication
+audiovisuelle.
+
+Toutefois, si une fixation de l'interprétation, un phonogramme ou un vidéogramme font l'objet d'une communication au public
+pendant la période définie aux trois premiers alinéas, les droits patrimoniaux de l'artiste-interprète ou du producteur du
+phonogramme ou du vidéogramme n'expirent que cinquante ans après le 1er janvier de l'année civile suivant cette communication
+au public.
 
 **Liens relatifs à cet article**
 
@@ -3385,9 +3446,13 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 16 I *date d'effet*, art. 19 *champ d'application*
+
+_Modifié par_:
+
+  - Loi n°97-283 du 27 mars 1997 - art. 11 () JORF 28 mars 1997 en vigueur le 1er juillet 1995
 
 _Cité par_:
 
@@ -3400,6 +3465,31 @@ _Cité par_:
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L216-1 (V)
+
+
+###### Article L211-5
+
+Sous réserve des dispositions des conventions internationales auxquelles la France est partie, les titulaires de droits
+voisins qui ne sont pas ressortissants d'un Etat membre de la Communauté européenne bénéficient de la durée de protection
+prévue dans le pays dont ils sont ressortissants sans que cette durée puisse excéder celle prévue à l'article L. 211-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 16 I *date d'effet*, art. 19 *champ d'application*
+
+_Créé par_:
+
+  - Loi n°97-283 du 27 mars 1997 - art. 12 () JORF 28 mars 1997 en vigueur le 1er juillet 1995
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L211-4 (V)
 
 
 ##### Chapitre II : Droits des artistes-interprètes<a id=24></a>
