@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1997-09-17
+Version Consolidée au 1997-09-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-3)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L335-10)](#2)
@@ -131,7 +131,7 @@ Version Consolidée au 1997-09-17
       - [Titre III : Procédures et sanctions (art. R331-1 à R335-2)](#128)
         - [Chapitre Ier : Dispositions générales (art. R331-1)](#129)
         - [Chapitre V : Dispositions pénales (art. R335-1 à R335-2)](#130)
-    - [Livre IV : Organisation administrative et professionnelle (art. R411-1 à R422-63)](#131)
+    - [Livre IV : Organisation administrative et professionnelle (art. R411-1 à R423-2)](#131)
       - [Titre Ier : Institutions (art. R411-1 à R413-5)](#132)
         - [Chapitre Ier : L'Institut national de la propriété industrielle (art. R411-1 à R411-26)](#133)
           - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. R411-1 à R411-16)](#134)
@@ -141,96 +141,97 @@ Version Consolidée au 1997-09-17
           - [Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales (art. R412-1 à R412-14)](#138)
           - [Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales (art. R412-15 à R412-21)](#139)
         - [Chapitre III : Le Conseil supérieur de la propriété industrielle (art. R413-1 à R413-5)](#140)
-      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R422-63)](#141)
+      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#141)
         - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#142)
-        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-63)](#143)
+        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#143)
           - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#144)
           - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#145)
           - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51)](#146)
             - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#147)
             - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#148)
             - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#149)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55)](#150)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-63)](#151)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R521-1)](#152)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#153)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#154)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#155)
-        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#156)
-        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#157)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#158)
-          - [Section 1 : Procédure (art. R514-1 à R514-5)](#159)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#160)
-      - [Titre II : Contentieux (art. R521-1)](#161)
-        - [Chapitre unique : Retenue en douane. (art. R521-1)](#162)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à R631-1)](#163)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#164)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#165)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#166)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#167)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#168)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#169)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-76)](#170)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#171)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#172)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#173)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#174)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#175)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#176)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#177)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#178)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-76)](#179)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-1 à R613-65)](#180)
-          - [Section 1 : Droits d'exploitation (art. R613-1 à R613-44)](#181)
-            - [Sous-section 1 : Licences de droit (art. R613-1 à R613-3)](#182)
-            - [Sous-section 2 : Licences obligatoires. (art. R613-4 à R613-9)](#183)
-            - [Sous-section 3 : Licences d'office dans l'intérêt de la santé publique. (art. R613-10 à R613-25)](#184)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#185)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#186)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#187)
-          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#188)
-          - [Section 4 : Recours en restauration (art. R613-52)](#189)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#190)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#191)
-          - [Section 7 : Réduction des redevances et assistance gratuite (art. R613-63 à R613-65)](#192)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#193)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#194)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#195)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#196)
-          - [Section 1 : Mesures probatoires. (art. R615-1 à R615-5)](#197)
-          - [Section 2 : Commission paritaire de conciliation. (art. R615-6 à R615-31)](#198)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#199)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#200)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#201)
-          - [Section unique : Procédure (art. R618-1 à R618-5)](#202)
-      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#203)
-        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#204)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#205)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#206)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#207)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#208)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#209)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#210)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#211)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#212)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#213)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#214)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#215)
-        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#216)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. R631-1)](#217)
-        - [Chapitre unique (art. R631-1)](#218)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R718-4)](#219)
-      - [Titre unique : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#220)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-26)](#221)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-8)](#222)
-        - [Chapitre V : Marques collectives (art. R715-1)](#223)
-        - [Chapitre VI : Contentieux (art. R716-1)](#224)
-        - [Chapitre VII : Marques internationales (art. R717-1 à R717-8)](#225)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#226)
-          - [Section unique (art. R718-1 à R718-4)](#227)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#228)
-      - [Titre unique (art. R811-1 à R811-3)](#229)
-        - [Chapitre unique (art. R811-1 à R811-3)](#230)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-54)](#150)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#151)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#152)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R521-1)](#153)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#154)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#155)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#156)
+        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#157)
+        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#158)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#159)
+          - [Section 1 : Procédure (art. R514-1 à R514-5)](#160)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#161)
+      - [Titre II : Contentieux (art. R521-1)](#162)
+        - [Chapitre unique : Retenue en douane. (art. R521-1)](#163)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à R631-1)](#164)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#165)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#166)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#167)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#168)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#169)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#170)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-76)](#171)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#172)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#173)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#174)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#175)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#176)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#177)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#178)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#179)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-76)](#180)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-1 à R613-65)](#181)
+          - [Section 1 : Droits d'exploitation (art. R613-1 à R613-44)](#182)
+            - [Sous-section 1 : Licences de droit (art. R613-1 à R613-3)](#183)
+            - [Sous-section 2 : Licences obligatoires. (art. R613-4 à R613-9)](#184)
+            - [Sous-section 3 : Licences d'office dans l'intérêt de la santé publique. (art. R613-10 à R613-25)](#185)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#186)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#187)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#188)
+          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#189)
+          - [Section 4 : Recours en restauration (art. R613-52)](#190)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#191)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#192)
+          - [Section 7 : Réduction des redevances et assistance gratuite (art. R613-63 à R613-65)](#193)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#194)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#195)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#196)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#197)
+          - [Section 1 : Mesures probatoires. (art. R615-1 à R615-5)](#198)
+          - [Section 2 : Commission paritaire de conciliation. (art. R615-6 à R615-31)](#199)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#200)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#201)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#202)
+          - [Section unique : Procédure (art. R618-1 à R618-5)](#203)
+      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#204)
+        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#205)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#206)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#207)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#208)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#209)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#210)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#211)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#212)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#213)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#214)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#215)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#216)
+        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#217)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. R631-1)](#218)
+        - [Chapitre unique (art. R631-1)](#219)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R718-4)](#220)
+      - [Titre unique : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#221)
+        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-26)](#222)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-8)](#223)
+        - [Chapitre V : Marques collectives (art. R715-1)](#224)
+        - [Chapitre VI : Contentieux (art. R716-1)](#225)
+        - [Chapitre VII : Marques internationales (art. R717-1 à R717-8)](#226)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#227)
+          - [Section unique (art. R718-1 à R718-4)](#228)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#229)
+      - [Titre unique (art. R811-1 à R811-3)](#230)
+        - [Chapitre unique (art. R811-1 à R811-3)](#231)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -19119,8 +19120,8 @@ _Codifié par_:
 ###### Article R421-4
 
 La mention de spécialisation dont est assortie l'inscription des personnes qualifiées en propriété industrielle peut être
-soit celle d'ingénieur ou juriste à raison des diplômes, soit celle de brevets d'invention, marques ou dessins et modèles à
-raison de la pratique professionnelle.
+celle de brevets d'invention ou celle de marques, dessins et modèles, à raison de la pratique professionnelle, complétée, le
+cas échéant, par celle d'ingénieur ou de juriste, à raison des diplômes.
 
 Le cas échéant, plusieurs mentions peuvent être cumulées.
 
@@ -19129,18 +19130,17 @@ nouvelles qualifications professionnelles en matière de propriété industriell
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°92-360 1992-04-01 art. 2
-  - Décret n°92-360 du 1 avril 1992 - art. 2 (Ab)
-
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-360 du 1 avril 1992 - art. 2 (Ab)
+
+_Modifié par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 1 () JORF 24 septembre 1997
 
 
 ###### Article R421-5
@@ -19149,7 +19149,12 @@ La pratique professionnelle prévue à l'article R. 421-1 (3°) résulte de l'ex
 de conseil, d'assistance ou de représentation en matière de propriété industrielle, droits annexes et droits portant sur
 toute question connexe.
 
-La pratique professionnelle doit avoir été acquise sous la responsabilité d'une personne qualifiée en propriété industrielle.
+La pratique professionnelle doit avoir été acquise en France dans la matière objet de la mention de spécialisation recherchée
+et sous la responsabilité d'une personne qualifiée en propriété industrielle inscrite avec la même mention.
+
+Lorsque la pratique n'aura pas été acquise sous la responsabilité d'une telle personne, le jury prévu à l'article R. 421-6
+pourra, sur dossier, admettre à se présenter à l'examen un candidat dont la pratique aura été reconnue équivalente par son
+contenu, son étendue et son respect des normes usuelles dans la spécialisation concernée.
 
 **Liens relatifs à cet article**
 
@@ -19158,23 +19163,24 @@ _Anciens textes_:
   - Décret n°92-360 1992-04-01 art. 3
   - Décret n°92-360 du 1 avril 1992 - art. 3 (Ab)
 
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
 _Cité par_:
 
   - Arrêté du 16 septembre 1993 - art. 5 (V)
   - Arrêté du 7 janvier 2008 - art. 1 (V)
   - Code de la propriété intellectuelle - art. R421-10 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 1 () JORF 24 septembre 1997
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. R421-1 (M)
+  - Code de la propriété intellectuelle - art. R421-6 (M)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R421-6
@@ -19340,23 +19346,26 @@ _Créé par_:
 
 ###### Article R421-10
 
-La décision du directeur général de l'institut statuant sur la demande d'inscription est notifiée à l'intéressé. Le refus est
-motivé.
+La décision du directeur général de l'institut statuant sur la demande d'inscription le cas échéant, après décision du jury
+conformément à l'article R. 421-5 est notifiée à l'intéressé. Le refus est motivé.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°92-360 1992-04-01 art. 7
   - Décret n°92-360 du 1 avril 1992 - art. 7 (Ab)
+
+_Modifié par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 1 () JORF 24 septembre 1997
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R421-5 (M)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R421-11
@@ -19416,7 +19425,14 @@ _Créé par_:
 
 Toute personne qualifiée en propriété industrielle inscrite sur la liste prévue à l'article R. 421-1 peut demander d'être
 inscrite, avec la même mention de spécialisation, sur la liste des conseils en propriété industrielle prévue au troisième
-alinéa de l'article L. 422-1.
+alinéa de l'article L. 422-1. 
+
+La mention Brevets d'invention permet l'intervention dans les procédures prévues à l'article R. 612-2. La mention Marques,
+dessins et modèles permet l'intervention dans les procédures prévues aux articles R. 712-2 et R. 712-13. 
+
+Toutefois, les personnes inscrites avec la mention Juriste dans le cadre de la procédure définie au I de l'article 36 du
+décret du 1er avril 1992 relatif à la qualification et à l'organisation professionnelle en matière de propriété industrielle
+pourront accomplir les actes définis aux articles R. 712-2 et R. 712-13.
 
 **Liens relatifs à cet article**
 
@@ -19425,14 +19441,17 @@ _Anciens textes_:
   - Décret n°92-360 1992-04-01 art. 10
   - Décret n°92-360 du 1 avril 1992 - art. 10 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L422-1 (M)
-  - Code de la propriété intellectuelle - art. R421-1 (M)
+  - Code de la propriété intellectuelle - art. L422-1 (V)
+  - Code de la propriété intellectuelle - art. R421-1 (V)
+  - Code de la propriété intellectuelle - art. R612-2 (V)
+  - Code de la propriété intellectuelle - art. R712-13 (V)
+  - Code de la propriété intellectuelle - art. R712-2 (V)
 
 _Cité par_:
 
@@ -19457,19 +19476,18 @@ propriété industrielle ;
 
 3° Avoir un domicile ou un établissement professionnel en France ;
 
-4° Justifier de la garantie prévue à l'article L. 422-8 ou prendre l'engagement de produire une telle justification, dans un
-délai de trois mois.
+4° Justifier de l'assurance et de la garantie prévues à l'article L. 422-8, ou prendre l'engagement de produire de telles
+justifications dans un délai de trois mois, ces justifications devant, après l'inscription, être produites tous les ans.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°92-360 1992-04-01 art. 11
   - Décret n°92-360 du 1 avril 1992 - art. 11 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
 
 _Cite_:
 
@@ -19518,23 +19536,42 @@ _Codifié par_:
 ###### Article R422-4
 
 Le directeur général de l'institut procède à l'inscription après avis de la Compagnie nationale des conseils en propriété
-industrielle. L'avis est réputé donné si la compagnie ne l'a pas formulé dans un délai d'un mois à compter de sa saisine.
+industrielle. L'avis est réputé donné si la compagnie ne l'a pas formulé dans un délai d'un mois à compter de sa saisine. 
 
-Le refus d'inscription est pris par décision motivée qui est notifiée à l'intéressé.
+Le refus d'inscription est pris par décision motivée qui est notifiée à l'intéressé. 
 
 L'inscription des personnes physiques est faite au nom du conseil en propriété industrielle suivi de la dénomination du
-cabinet au sein duquel il exerce ou, s'il s'agit d'une société, de sa raison ou dénomination sociale.
+cabinet au sein duquel il exerce ou, s'il s'agit d'une société, de sa raison ou dénomination sociale. 
+
+Si le conseil en propriété industrielle n'a pas produit les justifications de ce qu'il remplit les conditions prévues à
+l'article R. 422-2, et notamment celles qu'exige le 4° de cet article, il est mis en demeure par le directeur général de
+l'institut de régulariser sa situation dans le délai indiqué par cette mise en demeure. 
+
+Si, à l'expiration du délai mentionné à l'alinéa précédent, l'intéressé n'a pas régularisé sa situation, le directeur général
+de l'institut prononce sa suspension, qui cessera d'avoir effet dès la régularisation intervenue. La suspension est publiée
+dans les conditions prévues à l'article R. 422-66. 
+
+Fait également l'objet d'une suspension, selon les modalités prévues aux alinéas précédents, toute société qui ne remplit
+plus les conditions prévues à l'article L. 422-7. 
+
+Le directeur général de l'institut radie de la liste prévue à l'article R. 422-1 le conseil en propriété industrielle dont la
+suspension a dépassé une durée de six mois.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°92-360 1992-04-01 art. 13
   - Décret n°92-360 du 1 avril 1992 - art. 13 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L422-7 (V)
+  - Code de la propriété intellectuelle - art. R422-1 (V)
+  - Code de la propriété intellectuelle - art. R422-66 (V)
 
 _Cité par_:
 
@@ -19701,9 +19738,10 @@ _Créé par_:
 
 ###### Article R422-10
 
-L'assemblée générale de la compagnie élit pour deux ans parmi ses membres, au scrutin secret, par vote uninominal et selon
-les modalités fixées par le règlement intérieur, un bureau composé de neuf personnes, dont un président, trois vice-
-présidents, un secrétaire et un trésorier.
+L'assemblée générale de la compagnie élit pour deux ans parmi ses membres, au scrutin secret, un bureau composé de neuf
+personnes, dont un président, trois vice-présidents, un secrétaire, un trésorier et trois membres. Le scrutin est uninominal
+pour les fonctions de président, de secrétaire et de trésorier. Il est pourvu par scrutin plurinominal à l'élection
+respective des vice-présidents et des autres membres. Les modalités de ce scrutin sont fixées par le règlement intérieur.
 
 A l'exception de l'établissement du règlement intérieur, du vote du budget annuel de la compagnie et d'autres attributions
 réservées le cas échéant à l'assemblée générale par le règlement intérieur, le bureau assure l'administration de la
@@ -19712,18 +19750,17 @@ permanent et constituer des commissions permanentes ou temporaires dont il défi
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°92-360 1992-04-01 art. 18
-  - Décret n°92-360 du 1 avril 1992 - art. 18 (Ab)
-
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-360 du 1 avril 1992 - art. 18 (Ab)
+
+_Modifié par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
 
 
 ###### Article R422-11
@@ -20959,29 +20996,28 @@ _Cité par_:
 ###### Article R422-53
 
 Le conseil en propriété industrielle s'abstient de tout démarcharge et de toute publicité non autorisés dans les conditions
-prévues à l'article R. 422-55.
+prévues à l'article R. 423-2. 
 
-Il établit un barème indicatif du montant de ses honoraires, distincts des remboursements de frais et de redevances. Le délai
-de toutes ces charges est communiqué à toute personne qui en fait la demande.
+Il établit un barème indicatif du montant de ses honoraires, distincts des remboursements de frais et de redevances. Le
+détail de toutes ces charges est communiqué à toute personne qui en fait la demande.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-360 1992-04-01 art. 21
-  - Décret n°92-360 du 1 avril 1992 - art. 21 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-360 du 1 avril 1992 - art. 21 (Ab)
+
+_Modifié par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R422-55 (Ab)
+  - Code de la propriété intellectuelle - art. R423-2 (V)
 
 
 ###### Article R422-54
@@ -21019,84 +21055,32 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-###### Article R422-55
-
-L'interdiction du démarchage prévue à l'article L. 423-1 ne s'étend pas aux offres de service, effectuées par voie postale, à
-destination de professionnels ou d'entreprises. Toutefois, ces offres doivent se limiter à la communication d'informations
-générales sur le cabinet, son organisation, son personnel, ses prestations ainsi que sur le droit de la propriété
-industrielle.
-
-Ces informations peuvent être complétées par des indications relatives au prix des prestations. Les suites de ces
-prestations, de nature à entraîner des frais supplémentaires, sont, le cas échéant, précisées. Il est distingué entre les
-honoraires et les frais et redevances.
-
-La publicité par voie de mise à disposition de brochures ou notices, ainsi que d'insertion d'annonces dans la presse
-professionnelle ou dans les annuaires, est autorisée aux mêmes conditions.
-
-Ne constituent des publicités ni la publication d'ouvrages ou d'articles de nature juridique ou technique ni la diffusion
-d'informations auprès de la clientèle.
-
-Un arrêté du ministre chargé de la propriété industrielle, pris après avis de la Compagnie nationale des conseils en
-propriété industrielle, peut prescrire une présentation et une formulation normalisées des informations prévues au présent
-article. L'avis de la compagnie est réputé acquis à défaut de réponse dans un délai d'un mois à compter de la saisine.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-360 1992-04-01 art. 29
-  - Décret n°92-360 du 1 avril 1992 - art. 29 (Ab)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R422-53 (M)
-
-
 ##### Section 5 : Régime disciplinaire<a id=151></a>
 
 ###### Article R422-56
 
-La chambre de discipline, prévue à l'article L. 422-10 pour connaître des manquements des conseils en propriété industrielle
-à leurs obligations, est composée de sept membres :
+La chambre de discipline, prévue à l'article L. 422-10 pour connaître des manquements à leurs obligations des conseils en
+propriété industrielle, est composée de sept membres :
 
 1° Un magistrat de l'ordre judiciaire, président, nommé sur proposition du premier président de la cour d'appel de Paris ;
 
 2° Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
 
-3° Le président de la Compagnie nationale des conseils en propriété industrielle ;
+3° Le président de la Compagnie nationale des conseils en propriété industrielle ou son suppléant désigné par lui pour la
+durée de son mandat parmi les vice-présidents de cette compagnie ;
 
-4° Deux conseils en propriété industrielle, choisis sur une liste de huit candidats proposés par la Compagnie nationale des
-conseils en propriété industrielle ;
+4° Deux conseils en propriété industrielle, choisis sur une liste de huit candidats proposée, en dehors des membres de son
+bureau, par la Compagnie nationale des conseils en propriété industrielle ;
 
-5° Le directeur général de l'Institut national de la propriété industrielle ou son représentant ;
+5° Deux personnalités qualifiées.
 
-6° Une personnalité qualifiée nommée sur proposition du directeur général de l'Institut national de la propriété
-industrielle.
-
-Les conseils en propriété industrielle visés au 4° ci-dessus ne peuvent cumuler leurs fonctions avec celle de membre du
-bureau de la compagnie.
+Les membres désignés aux 1°, 2°, 4° et 5° ont des suppléants nommés dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°92-360 1992-04-01 art. 23 I
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 _Cite_:
 
@@ -21115,40 +21099,29 @@ _Codifié par_:
 ###### Article R422-57
 
 Les membres de la chambre de discipline sont, à l'exception du président de la Compagnie nationale des conseils en propriété
-industrielle, nommés pour deux ans par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de
-la propriété industrielle.
-
-Ils sont, en cas d'empêchement, remplacés par des suppléants nommés dans les mêmes conditions. Un vice-président de la
-Compagnie nationale des conseils en propriété industrielle supplée le président de celle-ci en cas d'empêchement de ce
-dernier.
+industrielle et de son suppléant, nommés ainsi que leurs suppléants pour trois ans par arrêté conjoint du garde des sceaux,
+ministre de la justice, et du ministre chargé de la propriété industrielle.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-360 1992-04-01 art. 23 II
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
 ###### Article R422-58
 
-La chambre de discipline peut être saisie par le garde des sceaux, ministre de la justice, le ministre chargé de la propriété
-industrielle ou le directeur général de l'Institut national de la propriété industrielle.
+La chambre de discipline est saisie par le garde des sceaux, ministre de la justice, par le ministre chargé de la propriété
+industrielle, par le directeur général de l'Institut national de la propriété industrielle, ou par une plainte.
 
-Elle peut se saisir d'office ou être saisie à la suite d'une plainte.
+La saisine ou la plainte sont adressées au président de la chambre, par lettre recommandée avec demande d'avis de réception,
+au siège de l'Institut national de la propriété industrielle.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-360 1992-04-01 art. 24 I
 
 _Cité par_:
 
@@ -21158,91 +21131,83 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
 ###### Article R422-59
 
-Le conseil en propriété industrielle qui fait l'objet d'une procédure disciplinaire est cité à comparaître par le secrétaire
-de la compagnie. La citation précise, à peine de nullité, les faits qui la motivent et la date de l'audience. Elle est portée
-à la connaissance de l'auteur de la plainte et des autorités mentionnées à l'article R. 422-58.
+Le secrétaire de la Compagnie nationale des conseils en propriété industrielle est rapporteur de la chambre de discipline. En
+cas d'empêchement de celui-ci, et notamment s'il apparaît que le délai de six mois prévu à l'article R. 422-60 ne pourra être
+respecté, le bureau de la compagnie désigne un suppléant en son sein. 
+
+Le secrétariat de la chambre est assuré par l'Institut national de la propriété industrielle.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°92-360 1992-04-01 art. 24 II
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R422-58 (M)
+  - Code de la propriété intellectuelle - art. R422-60 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R422-60
 
-La chambre de discipline ne peut siéger et délibérer valablement que si tous les membres ou leurs suppléants sont présents.
-Les décisions sont rendues par les membres présents à l'audience contradictoire. Le secrétaire de la compagnie assure le
-secrétariat en cas d'empêchement motivé du secrétaire, le bureau de la compagnie désigne un suppléant pris en son sein. Les
-séances ne sont pas publiques.
+Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir du conseil en propriété industrielle mis en
+cause, de l'auteur de la plainte ou de toute personne susceptible d'éclairer les débats, les explications et justifications
+nécessaires à l'information de la chambre.
 
-Aucune décision disciplinaire ne peut être prononcée sans que l'intéressé ait été entendu ou appelé au moins huit jours à
-l'avance. L'intéressé peut se faire assister par un membre de la profession de son choix. Le secrétaire peut être chargé du
-rapport sur l'affaire.
+Le rapport précise les faits dénoncés, les diligences accomplies ainsi que les conclusions motivées du rapporteur sur
+l'existence d'une faute disciplinaire.
+
+Il doit être déposé au siège de la chambre dans les six mois de la saisine de cette dernière, faute de quoi le président de
+la chambre peut désigner un autre rapporteur parmi les membres de la compagnie qui ne sont pas membres de la chambre.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
 _Anciens textes_:
 
-  - Décret n°92-360 1992-04-01 art. 25
   - Décret n°92-360 du 1 avril 1992 - art. 25 (Ab)
+
+_Modifié par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R422-59 (V)
   - Code de la propriété intellectuelle - art. R422-62 (V)
 
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R422-61
 
-La décision disciplinaire est prise à la majorité : cette majorité est d'au moins cinq membres en cas de radiation temporaire
-de plus d'un an ou de radiation définitive. La décision est motivée. Elle est notifiée à l'intéressé, au plaignant, au garde
-des sceaux, ministre de la justice, et au ministre chargé de la propriété industrielle par lettre recommandée avec demande
-d'avis de réception dans un délai de quinze jours à compter de son prononcé.
+Lorsque le rapporteur estime que la plainte ou la saisine est irrecevable, sans objet ou manifestement non fondée, il propose
+à la chambre de classer l'affaire. 
 
-La décision peut être déférée au Conseil d'Etat par la voie du recours en cassation.
+La décision de classement est prise et notifiée dans les formes et conditions prévues à l'article R. 422-64. Elle peut être
+déférée au Conseil d'Etat par la voie du recours en cassation.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°92-360 1992-04-01 art. 26
   - Décret n°92-360 du 1 avril 1992 - art. 26 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 _Cité par_:
 
@@ -21250,49 +21215,162 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R422-62 (V)
   - Code de la propriété intellectuelle - art. R422-63 (V)
 
+_Cite_:
 
-###### Article R422-62
-
-Est radiée de la section spéciale prévue à l'article L. 422-7 par décision du directeur général de l'institut toute société
-dont un membre a fait l'objet d'une radiation pour motif disciplinaire si l'intéressé n'a pas, dans les trois mois, cessé d'y
-exercer son activité.
-
-Outre les notifications prévues à l'article R. 422-61, la décision de radiation est notifiée au greffier mentionné à
-l'article R. 422-6.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-360 1992-04-01 art. 27
-  - Décret n°92-360 du 1 avril 1992 - art. 27 (Ab)
+  - Code de la propriété intellectuelle - art. R422-64 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+###### Article R422-62
+
+Sauf lorsqu'il est fait application de l'article R. 422-61, le conseil en propriété industrielle qui fait l'objet d'une
+procédure disciplinaire est cité à comparaître devant la chambre de discipline par son président au moins quinze jours avant
+l'audience, par lettre recommandée avec demande d'avis de réception.
+
+Si la personne poursuivie est une personne morale, la citation est adressée dans les mêmes conditions à son représentant
+légal.
+
+La citation comporte, à peine de nullité, l'indication précise des faits à raison desquels la poursuite est intentée et la
+référence des dispositions législatives ou réglementaires sur le fondement desquelles ces faits sont poursuivis et réprimés.
+Elle est portée à la connaissance de l'autorité qui a saisi la chambre ou de l'auteur de la plainte, par lettre recommandée
+avec demande d'avis de réception. Un délai de quinze jours à compter de cette notification est imparti, tant au plaignant
+qu'au conseil en propriété industrielle, pour la présentation d'éventuelles observations écrites.
+
+Le conseil poursuivi peut prendre connaissance auprès du secrétaire de la chambre du dossier de la poursuite, et notamment du
+rapport mentionné à l'article R. 422-60. Il peut à cet effet se faire assister d'un conseil en propriété industrielle et d'un
+avocat.
+
+Le dossier est également tenu à la disposition des membres de la chambre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°92-360 du 1 avril 1992 - art. 27 (Ab)
+
+_Modifié par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L422-7 (M)
-  - Code de la propriété intellectuelle - art. R422-6 (V)
+  - Code de la propriété intellectuelle - art. R422-60 (M)
   - Code de la propriété intellectuelle - art. R422-61 (M)
 
 
 ###### Article R422-63
+
+Sauf si l'un de ses membres et son suppléant relèvent d'une des causes de récusation prévues à l'article L. 731-1 du code de
+l'organisation judiciaire, la chambre de discipline ne peut siéger et délibérer valablement que si tous les membres ou leurs
+suppléants sont présents.
+
+La chambre entend le rapporteur qui donne lecture de son rapport.
+
+La chambre peut entendre tous témoins et faire procéder à toute investigation qu'elle estime utile.
+
+Sauf lorsque la chambre se prononce en application de l'article R. 422-61, l'auteur de la plainte peut assister à l'audience
+et y être entendu. Sous la même réserve, le conseil poursuivi a la parole le dernier, et peut se faire assister d'un conseil
+en propriété industrielle et d'un avocat.
+
+Les séances de la chambre sont publiques. Toutefois, le président peut, d'office ou à la demande d'une des parties, interdire
+au public l'accès de la salle pendant tout ou partie de la séance dans l'intérêt de l'ordre public ou lorsque le respect de
+la vie privée ou du secret des affaires le justifie.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-360 du 1 avril 1992 - art. 28 (Ab)
+
+_Modifié par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R422-61 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-64
+
+Le délibéré a lieu hors la présence des parties. Le rapporteur ne participe pas au délibéré, non plus que le secrétaire de la
+chambre.
+
+La décision disciplinaire, qui doit être motivée, est prise à la majorité. La radiation temporaire de plus d'un an ou la
+radiation définitive ne peut être prononcée que par une décision prise à la majorité d'au moins cinq membres.
+
+La décision est notifiée, par le secrétaire, à l'intéressé, au plaignant, au directeur général de l'institut, au garde des
+sceaux, ministre de la justice, et au ministre chargé de la propriété industrielle par lettre recommandée avec demande d'avis
+de réception dans un délai de quinze jours à compter de son prononcé.
+
+La décision est exécutoire à compter de sa notification au conseil qui en a fait l'objet.
+
+La décision peut être déférée au Conseil d'Etat par la voie du recours en cassation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R422-61 (V)
+  - Code de la propriété intellectuelle - art. R422-65 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-65
+
+Est radiée de la section spéciale prévue à l'article L. 422-7, par décision du directeur général de l'institut, toute société
+dont un membre a fait l'objet d'une radiation pour motif disciplinaire si l'intéressé n'a pas, dans les trois mois, cessé d'y
+exercer son activité. 
+
+Outre les notifications prévues à l'article R. 422-64, la décision de radiation est notifiée au greffier mentionné à
+l'article R. 422-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L422-7 (V)
+  - Code de la propriété intellectuelle - art. R422-6 (V)
+  - Code de la propriété intellectuelle - art. R422-64 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-66
 
 La radiation temporaire ou définitive de la liste est publiée au Bulletin officiel de la propriété industrielle à la
 diligence du directeur général de l'institut.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cité par_:
 
-  - Décret n°92-360 1992-04-01 art. 28
-  - Décret n°92-360 du 1 avril 1992 - art. 28 (Ab)
+  - Code de la propriété intellectuelle - art. R422-4 (V)
 
 _Codifié par_:
 
@@ -21300,16 +21378,85 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-## Livre V : Les dessins et modèles<a id=152></a>
+#### Chapitre III : Dispositions diverses<a id=152></a>
 
-### Titre Ier : Acquisition des droits<a id=153></a>
+###### Article R423-1
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=154></a>
+Les conditions d'inscription sur la liste prévue à l'article L. 422-5 sont appréciées à la date d'entrée en vigueur de celui-
+ci. Ces conditions sont, en ce qui concerne les personnes morales, appréciées en la personne des auteurs de la demande. Le
+maintien de l'inscription est subordonné au respect des conditions au vu desquelles le directeur général de l'institut a
+statué.
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=155></a>
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 4 () JORF 24 septembre 1997
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L422-5 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R811-1 (VT)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R423-2
+
+L'interdiction du démarchage prévue à l'article L. 423-1 ne s'étend pas aux offres de services, effectuées par voie postale,
+à destination de professionnels ou d'entreprises. Toutefois ces offres doivent se limiter à la communication d'informations
+générales sur le cabinet, son organisation, son personnel, ses prestations ainsi que sur le droit de la propriété
+industrielle. 
+
+Ces informations peuvent être complétées par des indications relatives au prix des prestations. Les suites de ces
+prestations, de nature à entraîner des frais supplémentaires, sont, le cas échéant, précisées. Il est distingué entre les
+honoraires et les frais et redevances. 
+
+La publicité par voie de mise à disposition de brochures ou notices, ainsi que d'insertion d'annonces dans la presse
+professionnelle ou dans les annuaires, est autorisée aux mêmes conditions. 
+
+Ne constituent des publicités ni la publication d'ouvrages ou d'articles de nature juridique ou technique ni la diffusion
+d'informations auprès de la clientèle. 
+
+Un arrêté du ministre chargé de la propriété industrielle, pris après avis de la Compagnie nationale des conseils en
+propriété industrielle, peut prescrire une présentation et une formulation normalisées des informations prévues au présent
+article. L'avis de la compagnie est réputé acquis à défaut de réponse dans un délai d'un mois à compter de la saisine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°97-863 du 17 septembre 1997 - art. 4 () JORF 24 septembre 1997
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L423-1 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R422-53 (V)
+  - Code de la propriété intellectuelle - art. R811-1 (M)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+## Livre V : Les dessins et modèles<a id=153></a>
+
+### Titre Ier : Acquisition des droits<a id=154></a>
+
+#### Chapitre Ier : Droits et oeuvres protégés<a id=155></a>
+
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=156></a>
 
 ###### Article R511-1
 
@@ -21472,7 +21619,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=156></a>
+#### Chapitre II : Formalités de dépôt<a id=157></a>
 
 ###### Article R512-1
 
@@ -22146,7 +22293,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=157></a>
+#### Chapitre III : Durée de la protection<a id=158></a>
 
 ###### Article R513-1
 
@@ -22261,9 +22408,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R513-2 (M)
 
 
-#### Chapitre IV : Dispositions communes<a id=158></a>
+#### Chapitre IV : Dispositions communes<a id=159></a>
 
-##### Section 1 : Procédure<a id=159></a>
+##### Section 1 : Procédure<a id=160></a>
 
 ###### Article R514-1
 
@@ -22418,7 +22565,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R513-1 (VD)
 
 
-##### Section 2 : Dispositions transitoires<a id=160></a>
+##### Section 2 : Dispositions transitoires<a id=161></a>
 
 ###### Article R514-6
 
@@ -22464,9 +22611,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=161></a>
+### Titre II : Contentieux<a id=162></a>
 
-#### Chapitre unique : Retenue en douane.<a id=162></a>
+#### Chapitre unique : Retenue en douane.<a id=163></a>
 
 ###### Article R521-1
 
@@ -22508,15 +22655,15 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-7 (M)
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=163></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=164></a>
 
-### Titre Ier : Brevets d'invention<a id=164></a>
+### Titre Ier : Brevets d'invention<a id=165></a>
 
-#### Chapitre Ier : Champ d'application<a id=165></a>
+#### Chapitre Ier : Champ d'application<a id=166></a>
 
-##### Section 2 : Droit au titre<a id=166></a>
+##### Section 2 : Droit au titre<a id=167></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=167></a>
+##### Sous-section 1 : Inventions de salariés<a id=168></a>
 
 ###### Article R611-1
 
@@ -22826,7 +22973,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=168></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=169></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -23184,7 +23331,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=169></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=170></a>
 
 ###### Article R611-15
 
@@ -23362,9 +23509,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=170></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=171></a>
 
-##### Section 1 : Dépôt des demandes<a id=171></a>
+##### Section 1 : Dépôt des demandes<a id=172></a>
 
 ###### Article R612-1
 
@@ -23407,8 +23554,7 @@ _Codifié par_:
 Le dépôt peut être fait par le demandeur personnellement ou par un mandataire ayant son domicile, son siège ou un
 établissement en France. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour
 le dépôt et pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du
-simple paiement des redevances, doit avoir la qualité de conseil en propriété industrielle assortie de la mention Brevets
-d'invention.
+simple paiement des redevances, doit avoir la qualité de conseil en propriété industrielle.
 
 Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège en France doivent constituer un mandataire
 satisfaisant aux conditions prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la
@@ -23427,9 +23573,9 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 2 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 2 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 5 () JORF 24 septembre 1997
 
 _Cite_:
 
@@ -24226,9 +24372,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=172></a>
+##### Section 2 : L'instruction des demandes<a id=173></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=173></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=174></a>
 
 ###### Article R612-26
 
@@ -24470,7 +24616,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=174></a>
+##### Sous-section 2 : Division de la demande<a id=175></a>
 
 ###### Article R612-33
 
@@ -24578,7 +24724,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=175></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=176></a>
 
 ###### Article R612-36
 
@@ -24906,7 +25052,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=176></a>
+##### Sous-section 4 : Rejet de la demande<a id=177></a>
 
 ###### Article R612-45
 
@@ -25181,7 +25327,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=177></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=178></a>
 
 ###### Article R612-53
 
@@ -25682,7 +25828,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=178></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=179></a>
 
 ###### Article R612-70
 
@@ -25815,7 +25961,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : Diffusion légale des inventions<a id=179></a>
+##### Section 3 : Diffusion légale des inventions<a id=180></a>
 
 ###### Article R612-74
 
@@ -25896,11 +26042,11 @@ _Abrogé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 14 () JORF 3 mars 2007
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=180></a>
+#### Chapitre III : Droits attachés aux brevets<a id=181></a>
 
-##### Section 1 : Droits d'exploitation<a id=181></a>
+##### Section 1 : Droits d'exploitation<a id=182></a>
 
-##### Sous-section 1 : Licences de droit<a id=182></a>
+##### Sous-section 1 : Licences de droit<a id=183></a>
 
 ###### Article R613-1
 
@@ -26016,7 +26162,7 @@ _Abrogé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 14 () JORF 3 mars 2007
 
 
-##### Sous-section 2 : Licences obligatoires.<a id=183></a>
+##### Sous-section 2 : Licences obligatoires.<a id=184></a>
 
 ###### Article R613-4
 
@@ -26167,7 +26313,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.<a id=184></a>
+##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.<a id=185></a>
 
 ###### Article R613-10
 
@@ -26625,7 +26771,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=185></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=186></a>
 
 ###### Article R613-26
 
@@ -26854,7 +27000,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=186></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=187></a>
 
 ###### Article R613-34
 
@@ -27128,7 +27274,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=187></a>
+##### Sous-section 6 : Dispositions diverses<a id=188></a>
 
 ###### Article R613-43
 
@@ -27185,7 +27331,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=188></a>
+##### Section 2 : Transmission et perte des droits<a id=189></a>
 
 ###### Article R613-45
 
@@ -27420,7 +27566,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=189></a>
+##### Section 4 : Recours en restauration<a id=190></a>
 
 ###### Article R613-52
 
@@ -27455,7 +27601,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 5 : Registre national des brevets<a id=190></a>
+##### Section 5 : Registre national des brevets<a id=191></a>
 
 ###### Article R613-53
 
@@ -27698,7 +27844,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=191></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=192></a>
 
 ###### Article R613-60
 
@@ -27799,7 +27945,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances et assistance gratuite<a id=192></a>
+##### Section 7 : Réduction des redevances et assistance gratuite<a id=193></a>
 
 ###### Article R613-63
 
@@ -27907,9 +28053,9 @@ _Abrogé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 18 () JORF 3 mars 2007
 
 
-#### Chapitre IV : Application de conventions internationales<a id=193></a>
+#### Chapitre IV : Application de conventions internationales<a id=194></a>
 
-##### Section 1 : Brevets européens<a id=194></a>
+##### Section 1 : Brevets européens<a id=195></a>
 
 ###### Article R614-1
 
@@ -28464,7 +28610,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=195></a>
+##### Section 2 : Demandes internationales<a id=196></a>
 
 ###### Article R614-21
 
@@ -28889,9 +29035,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre V : Actions en justice<a id=196></a>
+#### Chapitre V : Actions en justice<a id=197></a>
 
-##### Section 1 : Mesures probatoires.<a id=197></a>
+##### Section 1 : Mesures probatoires.<a id=198></a>
 
 ###### Article R615-1
 
@@ -29057,7 +29203,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Commission paritaire de conciliation.<a id=198></a>
+##### Section 2 : Commission paritaire de conciliation.<a id=199></a>
 
 ###### Article R615-6
 
@@ -29816,7 +29962,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=199></a>
+#### Chapitre VI : Le certificat d'utilité<a id=200></a>
 
 ###### Article R616-1
 
@@ -29903,7 +30049,7 @@ _Cite_:
   - Code de la propriété intellectuelle R612-71, R613-1 à R613-3, R613-60 à R613-62
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=200></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=201></a>
 
 ###### Article R617-1
 
@@ -29963,9 +30109,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VIII : Dispositions communes<a id=201></a>
+#### Chapitre VIII : Dispositions communes<a id=202></a>
 
-##### Section unique : Procédure<a id=202></a>
+##### Section unique : Procédure<a id=203></a>
 
 ###### Article R618-1
 
@@ -30132,9 +30278,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-53 (V)
 
 
-### Titre II : Protection des connaissances techniques<a id=203></a>
+### Titre II : Protection des connaissances techniques<a id=204></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=204></a>
+#### Chapitre II : Produits semi-conducteurs<a id=205></a>
 
 ###### Article R622-1
 
@@ -30336,11 +30482,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre III : Obtentions végétales<a id=205></a>
+#### Chapitre III : Obtentions végétales<a id=206></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=206></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=207></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=207></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=208></a>
 
 ###### Article R623-1
 
@@ -30814,7 +30960,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=208></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=209></a>
 
 ###### Article R623-16
 
@@ -31061,7 +31207,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=209></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=210></a>
 
 ###### Article R623-25
 
@@ -31215,7 +31361,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Redevances annuelles<a id=210></a>
+##### Sous-section 4 : Redevances annuelles<a id=211></a>
 
 ###### Article R623-31
 
@@ -31363,7 +31509,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=211></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=212></a>
 
 ###### Article R623-36
 
@@ -31425,7 +31571,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-33 (V)
 
 
-##### Sous-section 6 : Registres nationaux<a id=212></a>
+##### Sous-section 6 : Registres nationaux<a id=213></a>
 
 ###### Article R623-38
 
@@ -31593,7 +31739,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=213></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=214></a>
 
 ###### Article R623-43
 
@@ -31773,7 +31919,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=214></a>
+##### Sous-section 8 : Dispositions diverses<a id=215></a>
 
 ###### Article R623-48
 
@@ -31938,7 +32084,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=215></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=216></a>
 
 ###### Article R623-55
 
@@ -32072,7 +32218,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transferts techniques internationaux<a id=216></a>
+#### Chapitre IV : Transferts techniques internationaux<a id=217></a>
 
 ###### Article R624-1
 
@@ -32281,9 +32427,9 @@ _Abrogé par_:
   - Décret n°2008-1472 du 30 décembre 2008 - art. 19
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=217></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=218></a>
 
-#### Chapitre unique<a id=218></a>
+#### Chapitre unique<a id=219></a>
 
 ###### Article R631-1
 
@@ -32368,11 +32514,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=219></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=220></a>
 
-### Titre unique : Marques de fabrique, de commerce ou de service<a id=220></a>
+### Titre unique : Marques de fabrique, de commerce ou de service<a id=221></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=221></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=222></a>
 
 ###### Article R712-1
 
@@ -32412,8 +32558,12 @@ _Cite_:
 
 ###### Article R712-2
 
-Le dépôt peut être fait personnellement par le déposant ou par un mandataire ayant son domicile, son siège ou un
+Le dépôt peut être fait personnellement par le demandeur ou par un mandataire ayant son domicile, son siège ou son
 établissement en France.
+
+Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire constitué pour le dépôt d'une demande
+d'enregistrement de marque et tout acte subséquent relatif à la procédure d'enregistrement, à l'exception du simple paiement
+des redevances et des déclarations de renouvellement, doit avoir la qualité de conseil en propriété industrielle.
 
 Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans le délai qui leur est imparti par l'institut,
 constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
@@ -32431,9 +32581,9 @@ _Anciens textes_:
   - Décret n°92-100 1992-01-30 art. 2
   - Décret n°92-100 du 30 janvier 1992 - art. 2 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 6 () JORF 24 septembre 1997
 
 _Cité par_:
 
@@ -32446,6 +32596,8 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de la propriété intellectuelle - art. L422-4 (M)
+  - Code de la propriété intellectuelle - art. L422-5 (V)
   - Code de la propriété intellectuelle - art. R712-21 (M)
   - Code de la propriété intellectuelle - art. R714-1 (M)
 
@@ -32820,9 +32972,7 @@ _Codifié par_:
 
 L'opposition à enregistrement formée par le propriétaire d'une marque antérieure ou le bénéficiaire d'un droit exclusif
 d'exploitation dans les conditions prévues à l'article L. 712-4 peut être présentée par l'intéressé agissant personnellement
-ou par l'intermédiaire d'un mandataire ayant, sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, la
-qualité de conseil en propriété industrielle assortie de la mention "marques ou dessins et modèles" ou de la mention
-"juriste".
+ou par l'intermédiaire d'une personne remplissant les conditions prévues à l'article R. 712-2.
 
 **Liens relatifs à cet article**
 
@@ -32831,19 +32981,14 @@ _Anciens textes_:
   - Décret n°92-100 1992-01-30 art. 12
   - Décret n°92-100 du 30 janvier 1992 - art. 12 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°97-863 du 17 septembre 1997 - art. 7 () JORF 24 septembre 1997
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L422-4 (M)
-  - Code de la propriété intellectuelle - art. L422-5 (V)
   - Code de la propriété intellectuelle - art. L712-4 (V)
+  - Code de la propriété intellectuelle - art. R712-2 (V)
 
 _Cité par_:
 
@@ -32852,6 +32997,10 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R712-16 (M)
   - Code de la propriété intellectuelle - art. R717-1 (V)
   - Code de la propriété intellectuelle - art. R811-1 (VT)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R712-14
@@ -33318,7 +33467,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=222></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=223></a>
 
 ###### Article R714-1
 
@@ -33599,7 +33748,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre V : Marques collectives<a id=223></a>
+#### Chapitre V : Marques collectives<a id=224></a>
 
 ###### Article R715-1
 
@@ -33623,7 +33772,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre VI : Contentieux<a id=224></a>
+#### Chapitre VI : Contentieux<a id=225></a>
 
 ###### Article R716-1
 
@@ -33668,7 +33817,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-#### Chapitre VII : Marques internationales<a id=225></a>
+#### Chapitre VII : Marques internationales<a id=226></a>
 
 ###### Article R717-1
 
@@ -33936,9 +34085,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VIII : Dispositions communes<a id=226></a>
+#### Chapitre VIII : Dispositions communes<a id=227></a>
 
-##### Section unique<a id=227></a>
+##### Section unique<a id=228></a>
 
 ###### Article R718-1
 
@@ -34055,11 +34204,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=228></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=229></a>
 
-### Titre unique<a id=229></a>
+### Titre unique<a id=230></a>
 
-#### Chapitre unique<a id=230></a>
+#### Chapitre unique<a id=231></a>
 
 ###### Article R811-1
 
