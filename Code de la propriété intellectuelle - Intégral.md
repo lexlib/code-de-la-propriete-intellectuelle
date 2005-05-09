@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2005-05-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-1)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -21084,13 +21084,19 @@ chargé de la propriété industrielle.
 Les fonctions de membre du conseil d'administration ne sont pas rémunérées. Elles ouvrent droit aux indemnités de déplacement
 et de séjour prévues par le décret n° 90-437 du 28 mai 1990.
 
-Le directeur général, le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration avec voix
-consultative.
+Le directeur général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux
+séances du conseil d'administration avec voix consultative.
 
 Le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
 
 Le secrétariat du conseil d'administration est assuré par un agent de l'institut désigné à cet effet par le directeur
 général.
+
+**Nota:**
+
+NOTA : Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires,
+des décrets des 12 mars 1986, 12 avril 1989, 28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du
+présent décret à compter du 1er novembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -21102,13 +21108,9 @@ _Cite_:
 
   - Décret n°90-437 1990-05-28
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 4 () JORF 3 mars 2004
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 _Cité par_:
 
@@ -21255,17 +21257,14 @@ _Abrogé par_:
 ###### Article R411-8
 
 Le contrôle de l'Institut national de la propriété industrielle, et notamment le contrôle a posteriori de l'exécution du
-budget, est exercé par un contrôleur d'Etat, selon les modalités fixées par le décret n° 55-733 du 26 mai 1955 modifié
-portant codification et aménagement des textes relatifs au contrôle économique et financier de l'Etat.
+budget, est exercé par un membre du corps du contrôle général économique et financier, selon les modalités fixées par le
+décret n° 55-733 du 26 mai 1955 modifié portant codification et aménagement des textes relatifs au contrôle économique et
+financier de l'Etat.
 
 Les modalités spéciales d'exercice de ce contrôle sont fixées par arrêté conjoint des ministres chargés de la propriété
 industrielle, de l'économie et du budget.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
 
 _Anciens textes_:
 
@@ -21275,19 +21274,25 @@ _Cite_:
 
   - Décret n°55-733 1955-05-26
 
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
 _Modifié par_:
 
-  - Décret n°97-845 du 10 septembre 1997 - art. 2 () JORF 17 septembre 1997
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R411-9
 
 Le directeur général de l'institut transmet pour approbation aux ministres chargés de la propriété industrielle et du budget,
-accompagnées le cas échéant de l'avis du contrôleur d'Etat, les délibérations prises par le conseil d'administration dans
-l'exercice des attributions suivantes : approbation du budget et de ses modifications, du compte financier de l'exercice clos
-et de l'affectation du résultat, fixation des orientations de la politique tarifaire, des conditions générales d'emploi et de
-rémunération du personnel, décisions de création ou de suppression de filiales, d'acquisitions ou de cessions de
-participations, d'achat, de vente ou de location d'immeubles, autorisation des emprunts et acceptation de dons et legs.
+accompagnées le cas échéant de l'avis du membre du corps du contrôle général économique et financier, les délibérations
+prises par le conseil d'administration dans l'exercice des attributions suivantes :
+
+approbation du budget et de ses modifications, du compte financier de l'exercice clos et de l'affectation du résultat,
+fixation des orientations de la politique tarifaire, des conditions générales d'emploi et de rémunération du personnel,
+décisions de création ou de suppression de filiales, d'acquisitions ou de cessions de participations, d'achat, de vente ou de
+location d'immeubles, autorisation des emprunts et acceptation de dons et legs.
 
 Les délibérations portant sur le projet de budget de l'institut et les modifications qui peuvent lui être apportées en cours
 d'exercice sont transmises dans les délais prévus en ce qui concerne le budget général des services civils par la lettre
@@ -21296,31 +21301,27 @@ commune du ministre du budget.
 Les délibérations transmises sont exécutoires de plein droit un mois au plus tard après leur réception par les ministres
 chargés de la propriété industrielle et du budget si aucun d'eux n'y a fait opposition dans ce délai.
 
-Le ministre chargé du budget peut déléguer sa signature au contrôleur d'Etat pour les décisions d'approbation prévues au
-présent article.
+Le ministre chargé du budget peut déléguer sa signature au membre du corps du contrôle général économique et financier pour
+les décisions d'approbation prévues au présent article.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-1469 du 22 décembre 1951 - art. 9 (Ab)
 
 _Cité par_:
 
   - Arrêté du 10 septembre 1997 - art. 3 (Ab)
   - Décret n°2019-1469 du 26 décembre 2019 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
+_Anciens textes_:
+
+  - Décret n°51-1469 du 22 décembre 1951 - art. 9 (Ab)
+
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 5 () JORF 3 mars 2004
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R411-10
@@ -21472,10 +21473,12 @@ _Abrogé par_:
 Le compte administratif de l'ordonnateur et le compte de gestion de l'agent comptable sont soumis chaque année au conseil
 d'administration.
 
-Le compte administratif, accompagné de l'avis du conseil d'administration et du contrôleur d'Etat, est soumis à l'approbation
-du ministre chargé du budget et du ministre intéressé dans les trois mois qui suivent la clôture de l'exercice.
+Le compte administratif, accompagné de l'avis du conseil d'administration et du membre du corps du contrôle général
+économique et financier, est soumis à l'approbation du ministre chargé du budget et du ministre intéressé dans les trois mois
+qui suivent la clôture de l'exercice.
 
-Le ministre chargé du budget peut déléguer sa signature au contrôleur d'Etat pour l'approbation du compte administratif.
+Le ministre chargé du budget peut déléguer sa signature au membre du corps du contrôle général économique et financier pour
+l'approbation du compte administratif.
 
 **Liens relatifs à cet article**
 
@@ -21487,14 +21490,17 @@ _Anciens textes_:
 
   - Décret n°51-1469 du 22 décembre 1951 - art. 15 (Ab)
 
-_Modifié par_:
-
-  - Décret n°97-845 du 10 septembre 1997 - art. 1 () JORF 17 septembre 1997
-  - Décret n°97-845 du 10 septembre 1997 - art. 4 () JORF 17 septembre 1997
-
 _Cité par_:
 
   - Arrêté du 10 septembre 1997 - art. 7 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+_Abrogé par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 39
 
 
 ###### Article R411-16
