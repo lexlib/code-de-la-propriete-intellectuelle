@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-1)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -18329,12 +18329,10 @@ _Codifié par_:
 
 ###### Article R214-2
 
-La commission comprend douze représentants des organisations de bénéficiaires du droit à rémunération et douze représentants
-des organisations d'utilisateurs de phonogrammes, désignés dans les conditions prévues à l'article L. 214-4, alinéa 2.
-
-Un suppléant est désigné dans les mêmes conditions pour chacun des représentants titulaires des organisations de
-bénéficiaires du droit à rémunération et d'utilisateurs de phonogrammes. Les membres suppléants de la commission n'assistent
-aux séances et ne participent aux délibérations qu'en cas d'absence du représentant titulaire qu'ils suppléent.
+Un suppléant est désigné dans les conditions prévues au deuxième alinéa de l'article L. 214-4 pour chacun des représentants
+titulaires des organisations de bénéficiaires du droit à rémunération et d'utilisateurs de phonogrammes. Les membres
+suppléants de la commission n'assistent aux séances et ne participent aux délibérations qu'en cas d'absence du représentant
+titulaire qu'ils suppléent.
 
 **Liens relatifs à cet article**
 
@@ -18346,13 +18344,13 @@ _Anciens textes_:
 
   - Décret n°86-537 du 14 mars 1986 - art. 2 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2005-578 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L214-4 (M)
+  - Code de la propriété intellectuelle - art. L214-4 (V)
 
 
 ###### Article R214-3
