@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-03-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-1)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -13940,8 +13940,11 @@ _Cité par_:
 
 ###### Article L623-13
 
-La durée du certificat est de vingt ans à partir de sa délivrance. Elle est fixée à vingt-cinq ans si la constitution des
-éléments de production de l'espèce exige de longs délais.
+La durée de la protection est de vingt-cinq ans à partir de sa délivrance.
+
+Pour les arbres forestiers, fruitiers ou d'ornement, pour la vigne ainsi que pour les graminées et légumineuses fourragères
+pérennes, les pommes de terre et les lignées endogames utilisées pour la production de variétés hybrides, la durée de la
+protection est fixée à trente ans.
 
 **Liens relatifs à cet article**
 
@@ -13953,9 +13956,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2006-236 du 1 mars 2006 - art. 1 () JORF 2 mars 2006
 
 _Cité par_:
 
