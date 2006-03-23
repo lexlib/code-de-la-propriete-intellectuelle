@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2006-03-02
+Version Consolidée au 2006-03-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-1)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -2350,8 +2350,8 @@ _Créé par_:
 
 En vue du paiement des redevances et rémunérations qui leur sont dues pour les trois dernières années à l'occasion de la
 cession, de l'exploitation ou de l'utilisation de leurs oeuvres, telles qu'elles sont définies à l'article L. 112-2 du
-présent code, les auteurs, compositeurs et artistes bénéficient du privilège prévu au 4° de l'article 2101 et à l'article
-2104 du code civil.
+présent code, les auteurs, compositeurs et artistes bénéficient du privilège prévu au 4° de l'article 2331 et à l'article
+2375 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -2364,15 +2364,15 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L112-2 (M)
-  - Code de la propriété intellectuelle L112-2, 2101
-  - Code civil - art. 2104 (M)
+  - Code de la propriété intellectuelle - art. L112-2 (V)
+  - Code civil - art. 2331 (V)
+  - Code civil - art. 2375 (V)
 
 
 ##### Chapitre II : Dispositions particulières à certains contrats<a id=14></a>
