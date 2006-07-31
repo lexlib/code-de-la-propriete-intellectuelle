@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2006-06-02
+Version Consolidée au 2006-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -153,8 +153,8 @@ Version Consolidée au 2006-06-02
           - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. R411-1 à R411-16)](#150)
           - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#151)
           - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. R411-19 à R411-26)](#152)
-        - [Chapitre II : Le comité de la protection des obtentions végétales (art. R412-1 à R412-21)](#153)
-          - [Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales (art. R412-1 à R412-14)](#154)
+        - [Chapitre II : Le comité de la protection des obtentions végétales (art. D412-4 à R412-21)](#153)
+          - [Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales (art. D412-4 à R412-14)](#154)
           - [Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales (art. R412-15 à R412-21)](#155)
         - [Chapitre III : Le Conseil supérieur de la propriété industrielle (art. R413-1 à R413-5)](#156)
       - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#157)
@@ -21830,6 +21830,38 @@ _Créé par_:
 
 ##### Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales<a id=154></a>
 
+###### Article D412-4
+
+Un représentant de l'Etat, choisi parmi les membres du Conseil général de l'agriculture, de l'alimentation et des espaces
+ruraux et nommé par arrêté du ministre chargé de l'agriculture, assure la présidence du comité.
+
+Le président a pour mission, en dehors des réunions du comité dont il assure la présidence, de veiller à la bonne marche du
+secrétariat général prévu à l'article R. 412-10 et d'assurer avec son aide la préparation et l'exécution des décisions du
+comité.
+
+**Nota:**
+
+Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 57 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R412-10 (V)
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. R412-4 (T)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
 ###### Article R412-1
 
 Le comité de la protection des obtentions végétales créé par l'article L. 412-1 a pour mission d'assurer : 
@@ -21921,48 +21953,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R412-4
-
-Le magistrat chargé d'assurer la présidence du comité est choisi parmi les magistrats de la cour d'appel de Paris ou du
-tribunal de grande instance de Paris appartenant au moins au premier grade de la hiérarchie judiciaire.
-
-Il est nommé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'agriculture.
-
-Le président a pour mission, en dehors des réunions du comité dont il assure la présidence, de veiller à la bonne marche du
-secrétariat général prévu à l'article R. 412-10 et d'assurer avec son aide la préparation et l'exécution des décisions du
-comité.
-
-**Nota:**
-
-NOTA : Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 4
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Transféré par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 57 () JORF 8 juin 2006 en vigueur le 1er août 2006
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. D412-4 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R412-10 (V)
 
 
 ###### Article R412-5
