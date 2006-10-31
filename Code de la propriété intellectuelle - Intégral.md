@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2006-08-03
+Version Consolidée au 2006-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -23722,33 +23722,24 @@ _Créé par_:
 
 ###### Article R412-6
 
-Les membres du comité n'ayant pas la qualité de fonctionnaire sont soumis aux dispositions du décret n° 90-437 du 28 mai 1990
-fixant les conditions de remboursement des frais occasionnés par les déplacements des agents de l'Etat et autres personnes
-qui collaborent aux conseils, comités, commissions et autres organismes qui apportent leurs concours à l'Etat.
-
-**Nota:**
-
-Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des
-décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du présent
-décret à compter du 1er novembre 2006.
+Les membres du comité n'ayant pas la qualité de fonctionnaire sont soumis aux dispositions du décret n° 2006-781 du 3 juillet
+2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des
+personnels civils de l'Etat et autres personnes qui collaborent aux conseils, comités, commissions et autres organismes qui
+apportent leurs concours à l'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 6
-
 _Cite_:
 
-  - Décret n°90-437 1990-05-28
+  - Décret n°2006-781 du 3 juillet 2006
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°95-385 1955-04-10
+  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 1
 
 
 ###### Article R412-7
