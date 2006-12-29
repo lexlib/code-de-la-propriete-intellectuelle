@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2006-11-01
+Version Consolidée au 2006-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -139,7 +139,7 @@ et la protection des droits sur internet (art. L331-22)](#40)
       - [Titre unique (art. R212-1 à R214-7)](#135)
         - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-7)](#136)
         - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-7)](#137)
-    - [Livre III : Dispositions générales (art. R311-1 à R335-2)](#138)
+    - [Livre III : Dispositions générales (art. R311-1 à R335-4)](#138)
       - [Titre Ier : Rémunération pour copie privée (art. R311-1 à R311-7)](#139)
         - [Chapitre unique (art. R311-1 à R311-7)](#140)
       - [Titre II : Sociétés de perception et de répartition des droits (art. R321-1 à R326-7)](#141)
@@ -150,9 +150,9 @@ et la protection des droits sur internet (art. L331-22)](#40)
         - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#146)
         - [Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits (art. R325-1 à R325-4)](#147)
         - [Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R326-1 à R326-7)](#148)
-      - [Titre III : Procédures et sanctions (art. R331-1 à R335-2)](#149)
+      - [Titre III : Procédures et sanctions (art. R331-1 à R335-4)](#149)
         - [Chapitre Ier : Dispositions générales (art. R331-1)](#150)
-        - [Chapitre V : Dispositions pénales (art. R*335-1-1 à R335-2)](#151)
+        - [Chapitre V : Dispositions pénales (art. R*335-1-1 à R335-4)](#151)
     - [Livre IV : Organisation administrative et professionnelle (art. R411-1 à R423-2)](#152)
       - [Titre Ier : Institutions (art. R411-1 à R413-5)](#153)
         - [Chapitre Ier : L'Institut national de la propriété industrielle (art. R411-1 à R411-26)](#154)
@@ -22491,6 +22491,64 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°96-103 du 2 février 1996 - art. 1 () JORF 9 février 1996
+
+
+###### Article R335-3
+
+Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait :
+
+1° De détenir en vue d'un usage personnel ou d'utiliser une application technologique, un dispositif ou un composant conçus
+ou spécialement adaptés pour porter atteinte à une mesure technique efficace mentionnée à l'article L. 331-5 du présent code
+qui protège une œuvre, une interprétation, un phonogramme, un vidéogramme, un programme ou une base de données ;
+
+2° De recourir à un service conçu ou spécialement adapté pour porter l'atteinte visée à l'alinéa précédent.
+
+Ces dispositions ne s'appliquent pas aux actes qui ne portent pas préjudice aux titulaires de droits et qui sont réalisés à
+des fins de sécurité informatique ou à des fins de recherche scientifique en cryptographie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-1763 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L331-5 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R335-4
+
+Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait : 
+
+1° De détenir en vue d'un usage personnel ou d'utiliser une application technologique, un dispositif ou un composant conçus
+ou spécialement adaptés pour supprimer ou modifier un élément d'information visé à l'article L. 331-22 et qui ont pour but de
+porter atteinte à un droit d'auteur, à un droit voisin ou à un droit de producteur de base de données, de dissimuler ou de
+faciliter une telle atteinte ; 
+
+2° De recourir à un service conçu ou spécialement adapté pour porter, dans les mêmes conditions, l'atteinte visée à l'alinéa
+précédent. 
+
+Ces dispositions ne s'appliquent pas aux actes qui ne portent pas préjudice aux titulaires de droits et qui sont réalisés à
+des fins de sécurité informatique ou à des fins de recherche scientifique en cryptographie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2006-1763 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L331-22 (V)
 
 
 ## Livre IV : Organisation administrative et professionnelle<a id=152></a>
