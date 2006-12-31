@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2006-12-30
+Version Consolidée au 2007-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -2072,7 +2072,7 @@ Pendant la période prévue à l'article L. 123-1, le conjoint survivant, contre
 de chose jugée de séparation de corps, bénéficie, quel que soit le régime matrimonial et indépendamment des droits qu'il
 tient des articles 756 à 757-3 et 764 à 766 du code civil sur les autres biens de la succession, de l'usufruit du droit
 d'exploitation dont l'auteur n'aura pas disposé. Toutefois, si l'auteur laisse des héritiers à réserve, cet usufruit est
-réduit au profit des héritiers, suivant les proportions et distinctions établies par les articles 913 et 914 du code civil.
+réduit au profit des héritiers, suivant les proportions et distinctions établies par l'article 913 du code civil. 
 
 Ce droit s'éteint au cas où le conjoint contracte un nouveau mariage.
 
@@ -2092,14 +2092,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2006-728 du 23 juin 2006 - art. 12 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L123-1 (M)
-  - Code civil - art. 913 (M)
-  - Code civil - art. 914 (Ab)
-  - Code civil 756 à 757-3, 764 à 766, 913, 914
+  - Code de la propriété intellectuelle - art. L123-1 (V)
+  - Code civil - art. 756 (V)
+  - Code civil - art. 764 (V)
+  - Code civil - art. 913 (V)
 
 _Cité par_:
 
