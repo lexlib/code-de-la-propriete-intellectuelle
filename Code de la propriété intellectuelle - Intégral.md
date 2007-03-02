@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2007-02-27
+Version Consolidée au 2007-03-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -195,7 +195,7 @@ et la protection des droits sur internet (art. L331-22)](#40)
             - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#191)
             - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#192)
             - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#193)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-76)](#194)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#194)
           - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#195)
           - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#196)
             - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#197)
@@ -204,60 +204,59 @@ et la protection des droits sur internet (art. L331-22)](#40)
             - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#200)
             - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#201)
             - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#202)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-76)](#203)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-1 à R613-65)](#204)
-          - [Section 1 : Droits d'exploitation (art. R613-1 à R613-44)](#205)
-            - [Sous-section 1 : Licences de droit (art. R613-1 à R613-3)](#206)
-            - [Sous-section 2 : Licences obligatoires. (art. R613-4 à R613-9)](#207)
-            - [Sous-section 3 : Licences d'office dans l'intérêt de la santé publique. (art. R613-10 à R613-25)](#208)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#209)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#210)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#211)
-          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#212)
-          - [Section 4 : Recours en restauration (art. R613-52)](#213)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#214)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#215)
-          - [Section 7 : Réduction des redevances et assistance gratuite (art. R613-63 à R613-65)](#216)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#217)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#218)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#219)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#220)
-          - [Section 1 : Mesures probatoires. (art. R615-1 à R615-5)](#221)
-          - [Section 2 : Commission paritaire de conciliation. (art. R615-6 à R615-31)](#222)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#223)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#224)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#225)
-          - [Section unique : Procédure (art. R618-1 à R618-5)](#226)
-      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#227)
-        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#228)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#229)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#230)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#231)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#232)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#233)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#234)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#235)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#236)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#237)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#238)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#239)
-        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#240)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. R631-1 à R631-2)](#241)
-        - [Chapitre unique (art. R631-1 à R631-2)](#242)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R718-4)](#243)
-      - [Titre unique : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#244)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#245)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#246)
-        - [Chapitre V : Marques collectives (art. R715-1)](#247)
-        - [Chapitre VI : Contentieux (art. R*716-1-1 à R716-1)](#248)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#249)
-          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#250)
-          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#251)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#252)
-          - [Section unique (art. R718-1 à R718-4)](#253)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#254)
-      - [Titre unique (art. R811-1 à R811-3)](#255)
-        - [Chapitre unique (art. R811-1 à R811-3)](#256)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#203)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#204)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#205)
+            - [Sous-section 2 : Licences obligatoires. (art. R613-4 à R613-9)](#206)
+            - [Sous-section 3 : Licences d'office dans l'intérêt de la santé publique. (art. R613-10 à R613-25)](#207)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#208)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#209)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#210)
+          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#211)
+          - [Section 4 : Recours en restauration (art. R613-52)](#212)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#213)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#214)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#215)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#216)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#217)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#218)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#219)
+          - [Section 1 : Mesures probatoires. (art. R615-1 à R615-5)](#220)
+          - [Section 2 : Commission paritaire de conciliation. (art. R615-6 à R615-31)](#221)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#222)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#223)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#224)
+          - [Section unique : Procédure (art. R618-1 à R618-5)](#225)
+      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#226)
+        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#227)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#228)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#229)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#230)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#231)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#232)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#233)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#234)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#235)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#236)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#237)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#238)
+        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#239)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. R631-1 à R631-2)](#240)
+        - [Chapitre unique (art. R631-1 à R631-2)](#241)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R718-4)](#242)
+      - [Titre unique : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#243)
+        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#244)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#245)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#246)
+        - [Chapitre VI : Contentieux (art. R*716-1-1 à R716-1)](#247)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#248)
+          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#249)
+          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#250)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#251)
+          - [Section unique (art. R718-1 à R718-4)](#252)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#253)
+      - [Titre unique (art. R811-1 à R811-3)](#254)
+        - [Chapitre unique (art. R811-1 à R811-3)](#255)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -22497,6 +22496,40 @@ _Cité par_:
   - Arrêté du 24 avril 2008 (V)
 
 
+###### Article R411-1-1
+
+La publication des décisions, actes et documents prévue au Bulletin officiel de la propriété industrielle diffusé sous forme
+électronique, dans des conditions de nature à garantir son authenticité, produit les mêmes effets de droit que leur
+publication sous forme imprimée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2007-280 du 1 mars 2007 - art. 2 () JORF 3 mars 2007
+
+
+###### Article R411-1-2
+
+L'Institut national de la propriété industrielle organise la consultation publique et gratuite des titres de propriété
+industrielle et du Bulletin officiel de la propriété industrielle. Les modalités, lieux et conditions de cette consultation
+sont fixés par décision du directeur général de l'Institut national de la propriété industrielle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2007-280 du 1 mars 2007 - art. 3 () JORF 3 mars 2007
+
+
 ###### Article R411-2
 
 Le directeur général de l'Institut national de la propriété industrielle représente l'institut dans tous les actes de la vie
@@ -22534,60 +22567,45 @@ _Modifié par_:
 
 ###### Article R411-3
 
-Le conseil d'administration est composé de douze membres :
+Le conseil d'administration est composé de douze membres : 
 
 1° Une personnalité issue du monde économique et membre du Conseil supérieur de la propriété industrielle, président, nommée
-par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
+par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ; 
 
-2° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
+2° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ; 
 
-3° Le directeur du budget au ministère de l'économie et des finances ou son représentant ;
+3° Le directeur du budget au ministère de l'économie et des finances ou son représentant ; 
 
 4° Deux représentants du ministre chargé de la propriété industrielle, dont le directeur des affaires juridiques ou son
-représentant ;
+représentant ; 
 
-5° Le directeur général de l'Agence nationale de valorisation de la recherche ;
+5° Le directeur général de l'Agence nationale de valorisation de la recherche ; 
 
 6° Le président de la Compagnie nationale des conseils en propriété industrielle et un représentant des praticiens de la
 propriété industrielle en entreprise nommé par arrêté du ministre chargé de la propriété industrielle pour une période de
-trois ans renouvelable une fois ;
+trois ans renouvelable une fois ; 
 
 7° Deux représentants des milieux industriels intéressés à la protection de la propriété industrielle nommés par arrêté du
-ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
+ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ; 
 
 8° Deux représentants du personnel en fonctions dans l'établissement, élus dans des conditions fixées par arrêté du ministre
-chargé de la propriété industrielle.
+chargé de la propriété industrielle. 
+
+Le président est assisté d'un vice-président nommé dans les mêmes conditions que lui et choisi parmi les membres du conseil
+d'administration. 
 
 Les fonctions de membre du conseil d'administration ne sont pas rémunérées. Elles ouvrent droit aux indemnités de déplacement
-et de séjour prévues par le décret n° 90-437 du 28 mai 1990.
+et de séjour prévues par le décret n° 2006-781 du 3 juillet 2006. 
 
 Le directeur général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux
-séances du conseil d'administration avec voix consultative.
+séances du conseil d'administration avec voix consultative. 
 
-Le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
+Le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile. 
 
 Le secrétariat du conseil d'administration est assuré par un agent de l'institut désigné à cet effet par le directeur
 général.
 
-**Nota:**
-
-NOTA : Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires,
-des décrets des 12 mars 1986, 12 avril 1989, 28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du
-présent décret à compter du 1er novembre 2006.
-
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-1469 du 22 décembre 1951 - art. 3 (Ab)
-
-_Cite_:
-
-  - Décret n°90-437 1990-05-28
-
-_Modifié par_:
-
-  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 _Cité par_:
 
@@ -22596,6 +22614,19 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°51-1469 du 22 décembre 1951 - art. 3 (Ab)
+
+_Cite_:
+
+  - Décret n°2006-781 du 3 juillet 2006 (V)
+
+_Modifié par_:
+
+  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
+  - Décret n°2007-280 du 1 mars 2007 - art. 4 () JORF 3 mars 2007
 
 
 ###### Article R411-4
@@ -22642,12 +22673,18 @@ _Modifié par_:
 Le conseil d'administration se réunit au moins deux fois par an. Il est convoqué par son président sur un ordre du jour fixé
 par celui-ci.
 
-Ses délibérations ne sont valables que si sept au moins de ses membres assistent à la séance.
+Le quorum est atteint si sept au moins de ses membres sont présents ou représentés.
 
-Si le quorum n'est pas atteint, une nouvelle convocation est adressée aux membres. Le conseil délibère alors valablement,
-quel que soit le nombre des membres présents.
+Lorsque le quorum n'est pas atteint, le conseil délibère valablement sans condition de quorum après une nouvelle convocation
+portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé.
 
 En cas de partage égal des voix, celle du président est prépondérante.
+
+En cas d'absence ou d'empêchement du président, ses attributions sont exercées par le vice-président.
+
+Chaque membre du conseil peut donner pouvoir à un autre membre. Nul ne peut détenir plus d'un pouvoir.
+
+Le conseil d'administration peut se doter d'un règlement intérieur.
 
 **Liens relatifs à cet article**
 
@@ -22659,13 +22696,9 @@ _Anciens textes_:
 
   - Décret n°51-1469 du 22 décembre 1951 - art. 5 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 4 () JORF 3 mars 2004
+  - Décret n°2007-280 du 1 mars 2007 - art. 5 () JORF 3 mars 2007
 
 
 ###### Article R411-6
@@ -23012,15 +23045,9 @@ procédures et formalités suivantes :
 
 Dépôt ;
 
-Rapport de recherche ;
+Rapport de recherche ou rapport de recherche complémentaire ;
 
 Revendication supplémentaire à partir de la onzième ;
-
-Déclaration d'un droit de priorité ;
-
-Requête du bénéfice de la date du dépôt d'une demande antérieure ;
-
-Nouvelles revendications entraînant un rapport de recherche complémentaire ;
 
 Requête en rectification d'erreurs ;
 
@@ -23030,15 +23057,7 @@ Délivrance et impression du fascicule ;
 
 Maintien en vigueur ;
 
-Supplément pour paiement tardif de la redevance de dépôt ou de rapport de recherche ;
-
-Supplément pour requête tardive du rapport de recherche ;
-
-Supplément pour paiement tardif de la redevance annuelle ;
-
 Recours en restauration ;
-
-Certificat complémentaire de protection ;
 
 2° Pour les brevets européens :
 
@@ -23051,8 +23070,6 @@ Etablissement et transmission de copies de la demande de brevet européen aux Et
 
 Transmission d'une demande internationale ;
 
-Confirmation de désignation d'Etats ;
-
 Supplément pour paiement tardif ;
 
 Préparation d'exemplaires complémentaires ;
@@ -23063,21 +23080,11 @@ Dépôt ;
 
 Classe de produit ou service ;
 
-Revendication d'un droit de priorité ;
-
-Régularisation ;
+Régularisation ou rectification d'erreur matérielle ;
 
 Opposition ;
 
-Rectification d'erreur matérielle ;
-
 Renouvellement ;
-
-Supplément pour renouvellement tardif ;
-
-Supplément pour paiement tardif de la redevance de renouvellement ;
-
-Renonciation ;
 
 Demande d'inscription au Registre international des marques ;
 
@@ -23089,31 +23096,25 @@ Dépôt ;
 
 Prorogation ;
 
-Supplément pour prorogation tardive ;
-
-Supplément pour paiement tardif de la redevance de prorogation ;
-
-Renonciation à l'ajournement de la publication ;
-
-Renonciation aux effets du dépôt ;
-
 Régularisation, rectification, relevé de déchéance ;
 
 Enregistrement et gardiennage d'enveloppe spéciale ;
 
-6° Pour les droits voisins de la propriété industrielle :
+6° Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels,
+marques, dessins ou modèles. - Palmarès et récompenses :
+
+Supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité ;
+
+Renonciation ;
+
+Demande d'inscription sur le registre national ;
+
+Enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission ;
+
+7° Pour les droits voisins de la propriété industrielle :
 
 Topographies de produits semi-conducteurs : dépôt et conservation ; inscription d'un acte modifiant ou transmettant les
 droits ;
-
-Récompenses industrielles : enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou
-de transmission ;
-
-7° S'agissant des registres nationaux des brevets, marques, dessins, modèles et registre national spécial des logiciels :
-
-Demande d'inscription ;
-
-Renouvellement de l'inscription d'un nantissement du droit d'exploitation des logiciels ;
 
 8° S'agissant du Registre national du commerce et des sociétés :
 
@@ -23157,7 +23158,6 @@ _Anciens textes_:
   - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. 5 (Ab)
   - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. 6 (Ab)
   - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. Tableau annexe (Ab)
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Cité par_:
 
@@ -23171,13 +23171,13 @@ _Cité par_:
   - Arrêté du 2 septembre 2008 (V)
   - Code de la propriété intellectuelle - art. R721-1 (V)
 
-_Modifié par_:
-
-  - Décret n°2004-199 du 25 février 2004 - art. 6 () JORF 3 mars 2004
-
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+_Modifié par_:
+
+  - Décret n°2007-280 du 1 mars 2007 - art. 6 () JORF 3 mars 2007
 
 
 ###### Article R411-18
@@ -27562,7 +27562,8 @@ _Codifié par_:
 Lorsqu'un même dépôt porte sur plusieurs dessins ou modèles, les produits dans lesquels ces dessins ou modèles sont destinés
 à être incorporés ou auxquels ils sont destinés à être appliqués doivent relever d'une même classe, au sens de la
 classification établie par l'arrangement de Locarno du 8 octobre 1968. Toutefois, cette condition ne s'applique pas lorsque
-le dépôt porte sur des ornementations.
+le dépôt porte sur des ornementations ou s'il a été effectué sous la forme simplifiée prévue au cinquième alinéa de l'article
+L. 512-2.
 
 Le dépôt comprend :
 
@@ -27617,16 +27618,13 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R514-5 (V)
   - Code de la propriété intellectuelle - art. R811-1 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 11 () JORF 3 mars 2004
+  - Décret n°2007-280 du 1 mars 2007 - art. 7 () JORF 3 mars 2007
 
 _Cite_:
 
+  - Code de la propriété intellectuelle - art. L512-2 (M)
   - Code de la propriété intellectuelle - art. R512-10 (M)
   - Loi n°1908-04-13
 
@@ -29726,8 +29724,7 @@ _Créé par_:
 
 ###### Article R612-1
 
-La demande de brevet peut être déposée soit à l'Institut national de la propriété industrielle, soit dans une préfecture
-autre que celle de Paris.
+La demande de brevet est déposée à l'Institut national de la propriété industrielle.
 
 Le dépôt peut également résulter d'un envoi à l'Institut national de la propriété industrielle soit sous pli postal
 recommandé avec demande d'avis de réception, soit par un message utilisant tout mode de télétransmission, selon les modalités
@@ -29741,16 +29738,11 @@ telle modalité est de nature à faciliter l'examen et la publication de la dema
 
 _Anciens textes_:
 
-  - Décret n°79-822 du 19 septembre 1979 - art. 1 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 1 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 33 () JORF 3 mars 2004
+  - Décret n°2007-280 du 1 mars 2007 - art. 8 () JORF 3 mars 2007
 
 _Cité par_:
 
@@ -29920,11 +29912,8 @@ _Cité par_:
 
 ###### Article R612-6
 
-Un récépissé constatant la date de la remise des pièces est délivré au demandeur soit par l'Institut national de la propriété
-industrielle, soit par la préfecture.
-
-Lorsqu'elles sont remises dans une préfecture, les pièces sont immédiatement transmises à l'Institut national de la propriété
-industrielle à Paris, accompagnées d'un double du récépissé.
+Un récépissé constatant la date de la remise des pièces est délivré au demandeur par l'Institut national de la propriété
+industrielle.
 
 **Liens relatifs à cet article**
 
@@ -29937,9 +29926,9 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 4 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 4 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2007-280 du 1 mars 2007 - art. 9 () JORF 3 mars 2007
 
 _Cité par_:
 
@@ -30108,18 +30097,11 @@ En cas de non-respect des dispositions prévues à l'article R. 612-10 (3°), in
 régulariser sa demande dans un délai de seize mois à compter de la date de dépôt ou de la date la plus ancienne dont
 bénéficie la demande de brevet ou, si une priorité a été revendiquée, de la date de priorité.
 
-Toute déclaration de priorité et toute requête du bénéfice de la date de dépôt d'une demande antérieure donnent lieu au
-paiement d'une redevance.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°79-822 1979-09-19 art. 8 alinéa 4 à 7
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 _Cite_:
 
@@ -30134,6 +30116,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+_Modifié par_:
+
+  - Décret n°2007-280 du 1 mars 2007 - art. 10 () JORF 3 mars 2007
 
 
 ###### Article R612-12
@@ -30339,6 +30325,36 @@ _Anciens textes_:
 _Créé par_:
 
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+
+
+###### Article R612-17-1
+
+Sans préjudice des dispositions des articles L. 612-4, R. 612-19 et R. 612-48, une demande de brevet ne peut contenir plus
+d'une revendication indépendante de la même catégorie (produit, procédé, dispositif ou utilisation) que si l'objet de la
+demande se rapporte : 
+
+a) A plusieurs produits ayant un lien entre eux ; 
+
+b) A différentes utilisations d'un produit ou d'un dispositif ; 
+
+c) A des solutions alternatives à un problème particulier dans la mesure où ces alternatives ne peuvent pas être couvertes de
+façon appropriée par une seule revendication.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2007-280 du 1 mars 2007 - art. 11 () JORF 3 mars 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L612-4 (V)
+  - Code de la propriété intellectuelle - art. R612-19 (V)
+  - Code de la propriété intellectuelle - art. R612-48 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R612-18
@@ -31701,11 +31717,44 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R618-2 (V)
 
 
+###### Article R612-56-1
+
+Dans le cas où ont été déposées d'autres demandes de brevet portant sur la même invention que celle qui fait l'objet de la
+demande de brevet français, l'Institut national de la propriété industrielle peut inviter le demandeur, avant l'établissement
+du rapport de recherche préliminaire, à lui communiquer, dans un délai qu'il lui impartit, les informations dont il dispose,
+au jour de la notification, sur l'état de la technique qui a été pris en considération lors de l'examen de ces autres
+demandes par les offices compétents. 
+
+L'Institut national de la propriété industrielle peut, en outre, exiger la production des documents cités autres que les
+brevets et les demandes de brevets publiés ainsi que l'indication des passages pertinents, traduits en français. 
+
+Si, à l'expiration du délai imparti et renouvelable une fois, le demandeur n'a ni satisfait aux demandes de l'Institut
+national de la propriété industrielle ni justifié être dans l'impossibilité de produire ces documents, la demande de brevet
+est rejetée conformément aux dispositions du 9° de l'article L. 612-12.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2007-280 du 1 mars 2007 - art. 12 () JORF 3 mars 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L612-12 (V)
+
+
 ###### Article R612-57
 
-Un rapport de recherche préliminaire est établi sur la base des dernières revendications déposées, en tenant compte de la
-description et, le cas échéant, des dessins. Il cite les documents qui peuvent être pris en considération pour apprécier la
-nouveauté de l'invention, objet de la demande de brevet, et l'activité inventive.
+Un rapport de recherche préliminaire est établi. Il cite les documents qui peuvent être pris en considération pour apprécier
+la brevetabilité de l'invention, objet de la demande de brevet. Il est assorti d'une opinion sur la brevetabilité de
+l'invention au regard des documents cités. Cette opinion est accessible aux tiers dans le dossier de la demande de brevet.
+
+Le rapport de recherche préliminaire et l'opinion sont établis sur la base des revendications déposées, en tenant compte de
+la description et, le cas échéant, des dessins.
 
 Chaque citation est faite en relation avec les revendications qu'elle concerne. Si nécessaire, les parties pertinentes du
 document cité sont identifiées en indiquant notamment la page, la colonne et les lignes ou les figures.
@@ -31719,24 +31768,24 @@ du document et celle de la divulgation non écrite.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
 _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 44 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 44 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2007-280 du 1 mars 2007 - art. 13 () JORF 3 mars 2007
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R612-54 (Ab)
   - Code de la propriété intellectuelle - art. R612-63 (V)
   - Code de la propriété intellectuelle - art. R612-65 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R612-58
@@ -32246,155 +32295,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-###### Article R612-76
-
-Les collections des brevets d'invention et le Bulletin officiel de la propriété industrielle sont déposés en vue de la
-consultation publique et gratuite à l'Institut national de la propriété industrielle.
-
-Ils sont également déposés aux mêmes fins dans les villes dont la liste est fixée par arrêté du ministre chargé de la
-propriété industrielle et du ministre chargé des affaires culturelles, soit aux archives départementales, soit à la chambre
-de commerce et d'industrie, soit encore dans une bibliothèque publique ou tout autre établissement désigné par le préfet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°79-822 du 19 septembre 1979 - art. 59 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2007-280 du 1 mars 2007 - art. 14 () JORF 3 mars 2007
-
-
 #### Chapitre III : Droits attachés aux brevets<a id=204></a>
 
 ##### Section 1 : Droits d'exploitation<a id=205></a>
 
-##### Sous-section 1 : Licences de droit<a id=206></a>
-
-###### Article R613-1
-
-La demande d'admission d'un brevet au régime de la licence de droit prévu à l'article L. 613-10 est présentée par écrit, soit
-par le propriétaire du brevet, soit par l'un des copropriétaires justifiant qu'il est habilité à concéder des licences non
-exclusives.
-
-Elle est déclarée irrecevable :
-
-1° En cas de non-respect des dispositions prévues à l'alinéa précédent ;
-
-2° Si le droit de propriété ou de copropriété du requérant n'a pas été inscrit au Registre national des brevets ;
-
-3° S'il résulte du Registre national des brevets qu'une licence exclusive a été consentie.
-
-La décision du directeur général de l'Institut national de la propriété industrielle est notifiée au requérant.
-
-Si la demande du requérant est accueillie, la décision est inscrite au Registre national des brevets et publiée au Bulletin
-officiel de la propriété industrielle. Il lui est donné toute publicité complémentaire décidée par le directeur général de
-l'Institut national de la propriété industrielle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-822 du 19 septembre 1979 - art. 66 (M)
-  - Décret n°79-822 du 19 septembre 1979 - art. 66 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cité par_:
-
-  - Arrêté du 12 janvier 1996 - art. 4 (Ab)
-  - Arrêté du 24 décembre 1998 - art. 4 (Ab)
-  - Arrêté du 29 décembre 2000 - art. 4 (Ab)
-  - Arrêté du 24 décembre 2001 - art. 4 (Ab)
-  - Code de la propriété intellectuelle - art. R623-55 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2007-280 du 1 mars 2007 - art. 14 () JORF 3 mars 2007
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L613-10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R613-2
-
-Toute personne qui entend obtenir une licence de droit en informe le propriétaire du brevet par lettre recommandée. La lettre
-précise l'utilisation qui sera faite de l'invention. Copie de la lettre, accompagnée de l'indication de sa date d'envoi au
-propriétaire du brevet, est adressée à l'Institut national de la propriété industrielle.
-
-Le bénéfice de la licence est acquis, pour l'utilisation indiquée, une semaine après l'envoi de la lettre au propriétaire du
-brevet.
-
-A défaut d'accord entre les parties, le prix de la licence est fixé selon la procédure prévue aux articles R. 613-4 à R.
-613-8. Il est révisé dans les mêmes conditions si des faits nouveaux le justifient. Toutefois, aucune demande de révision ne
-peut être présentée moins d'un an après la dernière fixation du prix.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°79-822 du 19 septembre 1979 - art. 67 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2007-280 du 1 mars 2007 - art. 14 () JORF 3 mars 2007
-
-_Cite_:
-
-  - Code de la propriété intellectuelle R613-4 à R613-8
-
-
-###### Article R613-3
-
-La demande de révocation de la décision qui a admis un brevet au régime de la licence de droit est présentée par écrit.
-
-La révocation, dès qu'elle est prononcée, est notifiée au requérant, inscrite au Registre national des brevets et publiée au
-Bulletin officiel de la propriété industrielle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°79-822 du 19 septembre 1979 - art. 68 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2007-280 du 1 mars 2007 - art. 14 () JORF 3 mars 2007
-
-
-##### Sous-section 2 : Licences obligatoires.<a id=207></a>
+##### Sous-section 2 : Licences obligatoires.<a id=206></a>
 
 ###### Article R613-4
 
@@ -32545,50 +32450,54 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.<a id=208></a>
+##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.<a id=207></a>
 
 ###### Article R613-10
 
 Les arrêtés du ministre chargé de la propriété industrielle prévus aux articles L. 613-16 et L. 613-17 sont pris sur avis
-motivé d'une commission composée comme suit :
+motivé d'une commission composée comme suit : 
 
-1° Un conseiller d'Etat, président ;
+1° Un conseiller d'Etat, président, nommé par arrêté conjoint des ministres chargés de la propriété industrielle et de la
+santé ; 
 
-2° Le directeur général de la santé publique ou son représentant ;
+2° Le directeur général de la santé ou son représentant ; 
 
-3° Le directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ;
+3° Le directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ; 
 
-4° Le directeur général de l'Institut national de la propriété industrielle ou son représentant ;
+4° Le directeur général de l'Institut national de la propriété industrielle ou son représentant ; 
 
-5° Le directeur des industries chimiques ou son représentant ;
+5° Le directeur général des entreprises ou son représentant ; 
 
-6° Le chef du service central de la pharmacie et des médicaments ou son représentant ;
+6° Le directeur général de l'Agence française de sécurité sanitaire des produits de santé ou son représentant ; 
 
-7° Deux médecins des hôpitaux de Paris ou leurs suppléants désignés pour trois ans par le ministre chargé de la santé
-publique ;
+7° Deux médecins ou leurs suppléants désignés pour trois ans renouvelables par le ministre chargé de la santé, sur
+proposition de l'Académie nationale de médecine ; 
 
-8° Deux professeurs des facultés de pharmacie ou leurs suppléants désignés pour trois ans par le ministre chargé de la santé
-publique ;
+8° Un pharmacien ou son suppléant désigné pour trois ans renouvelables par le ministre chargé de la santé, sur proposition de
+l'Académie nationale de pharmacie ; 
 
-9° Deux membres désignés par le ministre chargé de la propriété industrielle.
+9° Une personnalité qualifiée désignée pour trois ans renouvelables par le ministre chargé de la santé en raison de sa
+compétence en matière de droit pharmaceutique ; 
 
-Le secrétariat de la commission est assuré par l'Institut national de la propriété industrielle.
+10° Deux membres désignés pour trois ans renouvelables par le ministre chargé de la propriété industrielle. 
 
-La commission ne peut valablement siéger, sur une première convocation, que si sept au moins de ses membres sont présents. Si
-le quorum n'est pas atteint, elle peut valablement siéger, sur une nouvelle convocation, quel que soit le nombre des membres
-présents.
+Le secrétariat de la commission est assuré par l'Institut national de la propriété industrielle. 
 
-La voix du président est prépondérante en cas de partage.
+La commission ne peut valablement siéger, sur une première convocation, que si sept au moins de ses membres sont présents.
+Lorsque le quorum n'est pas atteint, le conseil délibère valablement sans condition de quorum après une nouvelle convocation
+portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé. 
+
+La voix du président est prépondérante en cas de partage égal des voix.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2007-280 du 1 mars 2007 - art. 15 () JORF 3 mars 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-16 (M)
+  - Code de la propriété intellectuelle - art. L613-16 (V)
   - Code de la propriété intellectuelle - art. L613-17 (V)
 
 _Cité par_:
@@ -33003,7 +32912,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=209></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=208></a>
 
 ###### Article R613-26
 
@@ -33232,7 +33141,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=210></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=209></a>
 
 ###### Article R613-34
 
@@ -33506,7 +33415,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=211></a>
+##### Sous-section 6 : Dispositions diverses<a id=210></a>
 
 ###### Article R613-43
 
@@ -33563,7 +33472,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=212></a>
+##### Section 2 : Transmission et perte des droits<a id=211></a>
 
 ###### Article R613-45
 
@@ -33805,7 +33714,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=213></a>
+##### Section 4 : Recours en restauration<a id=212></a>
 
 ###### Article R613-52
 
@@ -33849,7 +33758,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 5 : Registre national des brevets<a id=214></a>
+##### Section 5 : Registre national des brevets<a id=213></a>
 
 ###### Article R613-53
 
@@ -34110,7 +34019,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=215></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=214></a>
 
 ###### Article R613-60
 
@@ -34211,18 +34120,33 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances et assistance gratuite<a id=216></a>
+##### Section 7 : Réduction des redevances<a id=215></a>
 
 ###### Article R613-63
 
-La demande de réduction des redevances prévue à l'article L. 612-20 est présentée par écrit au directeur général de
-l'Institut national de la propriété industrielle. Elle est accompagnée d'un avis de non-imposition ou d'une justification
-équivalente.
+La réduction des redevances prévue à l'article L. 612-20 est de droit pour les personnes physiques.
 
-Il est statué par décision motivée. La décision est notifiée au requérant.
+Si le déposant est une personne morale, la demande de réduction doit, à peine d'irrecevabilité, être présentée par écrit au
+directeur général de l'Institut national de la propriété industrielle dans le délai d'un mois à compter du dépôt de la
+demande de brevet. En outre, le déposant doit, dans le même délai, produire une déclaration attestant qu'il appartient à la
+catégorie des petites ou moyennes entreprises ou à celle des organismes à but non lucratif dans le domaine de l'enseignement
+ou de la recherche.
 
-Si la demande est accueillie, le bénéfice de la réduction est acquis au requérant sous réserve qu'il produise chaque année un
-avis de non-imposition ou une justification équivalente.
+Pour l'application de l'alinéa précédent, une petite ou moyenne entreprise s'entend d'une entreprise dont le nombre de
+salariés est inférieur à 250, le chiffre d'affaires inférieur à 50 millions d'euros et dont 25 % au plus du capital est
+détenu par une autre entité ne remplissant pas les mêmes conditions.
+
+Une fois obtenu, le bénéfice de la réduction est définitivement acquis et s'applique à l'ensemble des redevances de
+procédures et de maintien en vigueur à l'exclusion des annuités au-delà de la septième, à la redevance de rapport de
+recherche concernant une demande sous priorité étrangère accompagnée d'un rapport de recherche reconnu équivalent au rapport
+de recherche national par décision du directeur général de l'Institut national de la propriété industrielle, aux redevances
+de recours en restauration, de rectification d'erreurs matérielles, d'inscription au registre national et de publication de
+traduction ou de traduction révisée d'un brevet européen ou des revendications d'une demande de brevet européen.
+
+Lorsqu'un dépôt de demande de brevet est effectué en copropriété, tous les codéposants doivent appartenir aux catégories
+visées par l'article L. 612-20 pour pouvoir prétendre au bénéfice de la réduction.
+
+Le montant de l'amende infligée en cas de fausse déclaration est de dix fois le montant des redevances qui étaient dues.
 
 **Liens relatifs à cet article**
 
@@ -34230,10 +34154,6 @@ _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 94 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 94 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 _Cité par_:
 
@@ -34245,83 +34165,19 @@ _Cité par_:
   - Arrêté du 24 avril 2008 (V)
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L612-20 (M)
-
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
+_Modifié par_:
 
-###### Article R613-64
-
-En cas d'admission au bénéfice de l'assistance gratuite d'un conseil en propriété industrielle, une copie de la décision est
-transmise au président de la Compagnie nationale des conseils en propriété industrielle aux fins de la désignation d'un tel
-conseil.
-
-Le président fait connaître cette désignation au conseil et, le cas échéant, à son employeur, à l'inventeur et au directeur
-général de l'Institut national de la propriété industrielle.
-
-Le conseil désigné ne peut se récuser ou être récusé que pour des motifs sérieux et légitimes laissés à l'appréciation du
-président de la Compagnie nationale des conseils en propriété industrielle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°79-822 du 19 septembre 1979 - art. 95 (M)
-  - Décret n°79-822 du 19 septembre 1979 - art. 95 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2007-280 du 1 mars 2007 - art. 18 () JORF 3 mars 2007
+  - Décret n°2007-280 du 1 mars 2007 - art. 16 () JORF 3 mars 2007
+  - Décret n°2007-280 du 1 mars 2007 - art. 17 () JORF 3 mars 2007
 
 
-###### Article R613-65
+#### Chapitre IV : Application de conventions internationales<a id=216></a>
 
-Il est alloué au conseil en propriété industrielle désigné une indemnité forfaitaire au titre des actes de procédure pour
-lesquels l'assistance est accordée.
-
-Cette indemnité est versée directement à l'intéressé, ou à son employeur s'il est salarié, par l'Institut national de la
-propriété industrielle.
-
-Son montant est fixé conformément à un barème établi par décision du directeur général de l'Institut national de la propriété
-industrielle, après avis du conseil d'administration de cet institut.
-
-Le conseil en propriété industrielle ne peut demander aucune autre rémunération à l'inventeur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°79-822 du 19 septembre 1979 - art. 96 (M)
-  - Décret n°79-822 du 19 septembre 1979 - art. 96 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2007-280 du 1 mars 2007 - art. 18 () JORF 3 mars 2007
-
-
-#### Chapitre IV : Application de conventions internationales<a id=217></a>
-
-##### Section 1 : Brevets européens<a id=218></a>
+##### Section 1 : Brevets européens<a id=217></a>
 
 ###### Article R614-1
 
@@ -34434,25 +34290,39 @@ _Créé par_:
 ###### Article R614-5
 
 La transformation de la demande de brevet européen en demande de brevet français a lieu dès la réception par l'Institut
-national de la propriété industrielle de la requête. Un numéro d'enregistrement national lui est attribué.
+national de la propriété industrielle de la requête. Un numéro d'enregistrement national lui est attribué. 
 
 Sous réserve des dispositions des articles L. 614-4 et L. 614-5, mention de la transformation est publiée au Bulletin
 officiel de la propriété industrielle dans le délai d'un mois à compter de la réception de la requête. La mention comporte
-les indications nécessaires à l'identification de la demande de brevet.
+les indications nécessaires à l'identification de la demande de brevet. 
 
 Dans le délai de deux mois à compter de la date de la publication visée à l'alinéa précédent ou, dans le cas de demandes de
 brevet qui ne peuvent être rendues publiques, à compter de la date de réception de la requête en transformation, le demandeur
 doit fournir la justification du paiement des redevances prévues à l'article R. 614-17 et, s'il y a lieu, la traduction en
 français du texte original de la demande de brevet européen, ainsi que, le cas échéant, du texte modifié au cours de la
-procédure devant l'Office européen des brevets.
+procédure devant l'Office européen des brevets. 
 
 La procédure de délivrance du brevet se déroule sur la base du texte original de la demande de brevet ou de sa traduction ou,
-le cas échéant, du texte modifié au cours de la procédure devant l'Office européen des brevets ou de sa traduction.
+le cas échéant, du texte modifié au cours de la procédure devant l'Office européen des brevets ou de sa traduction. 
 
-Si le demandeur n'a pas son domicile ou son siège en France, il doit, dans le même délai, constituer un mandataire en France
-et communiquer le nom et l'adresse de celui-ci à l'Institut national de la propriété industrielle.
+Si le demandeur n'a pas son domicile ou son siège dans un Etat membre de la Communauté européenne ou dans un Etat partie à
+l'accord sur l'Espace économique européen, il doit, dans le même délai, constituer un mandataire satisfaisant aux conditions
+prévues au premier alinéa de l'article R. 612-2 et communiquer le nom et l'adresse de celui-ci à l'Institut national de la
+propriété industrielle.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L614-4 (V)
+  - Code de la propriété intellectuelle - art. R612-2 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R614-15 (V)
+  - Code de la propriété intellectuelle - art. R614-17 (V)
+  - Code de la propriété intellectuelle - art. R614-6 (V)
+  - Code de la propriété intellectuelle - art. R614-7 (V)
 
 _Codifié par_:
 
@@ -34463,21 +34333,9 @@ _Anciens textes_:
   - Décret n°78-1011 du 10 octobre 1978 - art. 5 (Ab)
   - Décret n°78-1011 du 10 octobre 1978 - art. 4 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L614-4 (V)
-  - Code de la propriété intellectuelle - art. L614-5 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R614-15 (V)
-  - Code de la propriété intellectuelle - art. R614-17 (V)
-  - Code de la propriété intellectuelle - art. R614-6 (V)
-  - Code de la propriété intellectuelle - art. R614-7 (V)
+  - Décret n°2007-280 du 1 mars 2007 - art. 19 () JORF 3 mars 2007
 
 
 ###### Article R614-6
@@ -34885,7 +34743,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=219></a>
+##### Section 2 : Demandes internationales<a id=218></a>
 
 ###### Article R614-21
 
@@ -35072,16 +34930,11 @@ _Codifié par_:
 
 ###### Article R614-27
 
-La taxe de base de la taxe internationale et la taxe de recherche prévues par les règles 15 et 16 du règlement d'exécution du
-traité de coopération en matière de brevets doivent être acquittées avant l'expiration d'un délai d'un mois à compter de la
-date de réception de la demande internationale.
+La taxe internationale de dépôt et la taxe de recherche prévues par les règles 15 et 16 du règlement d'exécution du traité de
+coopération en matière de brevets doivent être acquittées avant l'expiration d'un délai d'un mois à compter de la date de
+réception de la demande internationale.
 
 La taxe internationale et la taxe de recherche sont acquittées en euros.
-
-**Nota:**
-
-NOTA : Règlement n° 974-98 1998-05-03 art. 14 : Les références en franc qui figurent dans les dispositions législatives et
-réglementaires en vigueur doivent être lues comme des références à l'euro.
 
 **Liens relatifs à cet article**
 
@@ -35093,60 +34946,30 @@ _Anciens textes_:
 
   - Décret n°78-1010 du 10 octobre 1978 - art. 7 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2007-280 du 1 mars 2007 - art. 20 () JORF 3 mars 2007
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R614-29 (V)
 
 
-###### Article R614-28
-
-Les taxes de désignation faisant partie de la taxe internationale doivent être acquittées :
-
-1° Lorsque la demande internationale ne contient pas de revendication de priorité selon l'article 8 du traité de coopération
-en matière de brevet, dans un délai d'un an à compter de la date de réception de la demande internationale ;
-
-2° Lorsque la demande internationale contient une telle revendication de priorité, dans un délai d'un an à compter de la date
-de priorité ou dans un délai d'un mois à compter de la date de réception de la demande internationale si ce mois expire après
-le terme de l'année qui suit la date de priorité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°78-1010 du 10 octobre 1978 - art. 7-1 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2007-280 du 1 mars 2007 - art. 21 () JORF 3 mars 2007
-
-
 ###### Article R614-29
 
-Lorsque le paiement de la taxe de transmission de la taxe de recherche et de la taxe internationale n'a pas été effectué dans
-les délais fixés aux articles R. 614-26 à R. 614-28, le déposant est invité à acquitter dans un délai d'un mois le montant
-desdites taxes, majoré de la taxe pour paiement tardif prévue à la règle 16 bis 1 a et b du règlement d'exécution du traité
-de coopération en matière de brevets.
+Lorsque le paiement de la taxe de transmission de la taxe de recherche et de la taxe internationale de dépôt n'a pas été
+effectué dans les délais fixés aux articles R. 614-26 et R. 614-27, le déposant est invité à acquitter dans un délai d'un
+mois le montant desdites taxes, majoré de la taxe pour paiement tardif prévue à la règle 16 bis 1 (a et b) du règlement
+d'exécution du traité de coopération en matière de brevets. 
 
 La taxe pour paiement tardif est acquittée en euros.
 
-**Nota:**
-
-NOTA : Règlement n° 974-98 1998-05-03 art. 14 : Les références en franc qui figurent dans les dispositions législatives et
-réglementaires en vigueur doivent être lues comme des références à l'euro.
-
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R614-26 (V)
+  - Code de la propriété intellectuelle - art. R614-27 (M)
 
 _Codifié par_:
 
@@ -35156,46 +34979,9 @@ _Anciens textes_:
 
   - Décret n°78-1010 du 10 octobre 1978 - art. 7-2 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle R614-26 à R614-28
-
-
-###### Article R614-30
-
-Les désignations faites selon la règle 4, 9 b du règlement d'exécution du traité de coopération en matière de brevets doivent
-être confirmées avant l'expiration d'un délai de quinze mois à compter de la date de priorité par une déclaration écrite. La
-déclaration est accompagnée du paiement de la taxe de désignation et de la taxe de confirmation visées à la règle 15, 5 a
-dudit règlement.
-
-La taxe de confirmation est acquittée en euros.
-
-**Nota:**
-
-NOTA : Règlement n° 974-98 1998-05-03 art. 14 : Les références en franc qui figurent dans les dispositions législatives et
-réglementaires en vigueur doivent être lues comme des références à l'euro.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°78-1010 du 10 octobre 1978 - art. 7-3 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2007-280 du 1 mars 2007 - art. 21 () JORF 3 mars 2007
+  - Décret n°2007-280 du 1 mars 2007 - art. 22 () JORF 3 mars 2007
 
 
 ###### Article R614-31
@@ -35322,14 +35108,14 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre V : Actions en justice<a id=220></a>
+#### Chapitre V : Actions en justice<a id=219></a>
 
-##### Section 1 : Mesures probatoires.<a id=221></a>
+##### Section 1 : Mesures probatoires.<a id=220></a>
 
 ###### Article R615-1
 
 La description détaillée, avec ou sans saisie réelle, des produits ou procédés prétendus contrefaits, prévue à l'article L.
-615-5 est ordonnée par le président d'un des tribunaux de grande instance énumérés à l'article R. 631-1, dans le ressort
+615-5 est ordonnée par le président d'un des tribunaux de grande instance énumérés à l'article R. 631-2, dans le ressort
 duquel les opérations doivent être effectuées.
 
 L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de
@@ -35348,23 +35134,9 @@ _Anciens textes_:
 
   - Décret n°69-190 du 15 février 1969 - art. 1 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 56 () JORF 3 mars 2004
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L613-10 (Ab)
-  - Code de la propriété intellectuelle - art. L613-11 (M)
-  - Code de la propriété intellectuelle - art. L613-15 (M)
-  - Code de la propriété intellectuelle - art. L615-2 (M)
-  - Code de la propriété intellectuelle - art. L615-4 (V)
-  - Code de la propriété intellectuelle - art. L615-5 (M)
-  - Code de la propriété intellectuelle - art. R631-1 (M)
+  - Décret n°2007-280 du 1 mars 2007 - art. 23 () JORF 3 mars 2007
 
 _Nouveaux textes_:
 
@@ -35500,7 +35272,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Commission paritaire de conciliation.<a id=222></a>
+##### Section 2 : Commission paritaire de conciliation.<a id=221></a>
 
 ###### Article R615-6
 
@@ -36259,14 +36031,14 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=223></a>
+#### Chapitre VI : Le certificat d'utilité<a id=222></a>
 
 ###### Article R616-1
 
 A compter du jour de la publication, prévue à l'article R. 612-39, de la demande du certificat d'utilité mentionné à
-l'article L. 611-2, et jusqu'à la date de délivrance de ce certificat, toute personne peut adresser à l'Institut national de
-la propriété industrielle des observations sur la brevetabilité de l'invention, dans les formes prévues en matière de demande
-de brevet à l'article R. 612-63, alinéa 2.
+l'article L. 611-2, et jusqu'au paiement de la redevance de délivrance et d'impression du fascicule de ce certificat, toute
+personne peut adresser à l'Institut national de la propriété industrielle des observations sur la brevetabilité de
+l'invention, dans les formes prévues en matière de demande de brevet à l'article R. 612-63, alinéa 2. 
 
 La teneur de ces observations est notifiée, sans délai, au demandeur qui dispose d'un délai de trois mois pour y répondre.
 
@@ -36274,17 +36046,16 @@ La teneur de ces observations est notifiée, sans délai, au demandeur qui dispo
 
 _Anciens textes_:
 
-  - Décret n°79-822 du 19 septembre 1979 - art. 91 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 91 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2007-280 du 1 mars 2007 - art. 24 () JORF 3 mars 2007
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L611-2 (V)
-  - Code de la propriété intellectuelle - art. R612-39 (M)
+  - Code de la propriété intellectuelle - art. R612-39 (V)
   - Code de la propriété intellectuelle - art. R612-63 (V)
 
 _Cité par_:
@@ -36346,7 +36117,7 @@ _Cite_:
   - Code de la propriété intellectuelle R612-71, R613-1 à R613-3, R613-60 à R613-62
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=224></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=223></a>
 
 ###### Article R617-1
 
@@ -36406,9 +36177,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VIII : Dispositions communes<a id=225></a>
+#### Chapitre VIII : Dispositions communes<a id=224></a>
 
-##### Section unique : Procédure<a id=226></a>
+##### Section unique : Procédure<a id=225></a>
 
 ###### Article R618-1
 
@@ -36588,9 +36359,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-53 (V)
 
 
-### Titre II : Protection des connaissances techniques<a id=227></a>
+### Titre II : Protection des connaissances techniques<a id=226></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=228></a>
+#### Chapitre II : Produits semi-conducteurs<a id=227></a>
 
 ###### Article R622-1
 
@@ -36792,11 +36563,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre III : Obtentions végétales<a id=229></a>
+#### Chapitre III : Obtentions végétales<a id=228></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=230></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=229></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=231></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=230></a>
 
 ###### Article R623-1
 
@@ -37270,7 +37041,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=232></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=231></a>
 
 ###### Article R623-16
 
@@ -37517,7 +37288,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=233></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=232></a>
 
 ###### Article R623-25
 
@@ -37671,7 +37442,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Redevances annuelles<a id=234></a>
+##### Sous-section 4 : Redevances annuelles<a id=233></a>
 
 ###### Article R623-31
 
@@ -37819,7 +37590,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=235></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=234></a>
 
 ###### Article R623-36
 
@@ -37881,7 +37652,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-33 (V)
 
 
-##### Sous-section 6 : Registres nationaux<a id=236></a>
+##### Sous-section 6 : Registres nationaux<a id=235></a>
 
 ###### Article R623-38
 
@@ -38049,7 +37820,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=237></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=236></a>
 
 ###### Article R623-43
 
@@ -38229,7 +38000,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=238></a>
+##### Sous-section 8 : Dispositions diverses<a id=237></a>
 
 ###### Article R623-48
 
@@ -38394,7 +38165,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=239></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=238></a>
 
 ###### Article R623-55
 
@@ -38528,7 +38299,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transferts techniques internationaux<a id=240></a>
+#### Chapitre IV : Transferts techniques internationaux<a id=239></a>
 
 ###### Article R624-1
 
@@ -38737,9 +38508,9 @@ _Abrogé par_:
   - Décret n°2008-1472 du 30 décembre 2008 - art. 19
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=241></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=240></a>
 
-#### Chapitre unique<a id=242></a>
+#### Chapitre unique<a id=241></a>
 
 ###### Article R631-1
 
@@ -38815,17 +38586,16 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=243></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=242></a>
 
-### Titre unique : Marques de fabrique, de commerce ou de service<a id=244></a>
+### Titre unique : Marques de fabrique, de commerce ou de service<a id=243></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=245></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=244></a>
 
 ###### Article R712-1
 
-La demande d'enregistrement de marque est déposée soit à l'Institut national de la propriété industrielle, soit au greffe du
-tribunal de commerce, ou du tribunal de grande instance en tenant lieu, dans le ressort duquel le demandeur est établi ou
-domicilié. Il en est accusé réception.
+La demande d'enregistrement de marque est déposée à l'Institut national de la propriété industrielle. Il en est accusé
+réception. 
 
 Le dépôt peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande
 d'avis de réception, ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce
@@ -38836,16 +38606,11 @@ renouvellement prévues à l'article R. 712-24.
 
 _Anciens textes_:
 
-  - Décret n°92-100 1992-01-30 art. 1
   - Décret n°92-100 du 30 janvier 1992 - art. 1 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2007-280 du 1 mars 2007 - art. 25 () JORF 3 mars 2007
 
 _Cité par_:
 
@@ -38854,7 +38619,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R712-24 (M)
+  - Code de la propriété intellectuelle - art. R712-24 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R712-2
@@ -39069,28 +38838,33 @@ _Modifié par_:
 
 ###### Article R712-7
 
-Est déclaré irrecevable tout dépôt qui ne comporte pas au moins un exemplaire de la demande d'enregistrement, même
-irrégulière en la forme, contenant les mentions prévues à l'article R. 712-3 (1°, a, b et c) et qui n'est pas accompagné de
-la justification du paiement de la redevance de dépôt.
+Est déclaré irrecevable tout dépôt qui ne comporte pas les mentions prévues à l'article R. 712-3 (1° a, b et c) et qui n'est
+pas accompagné de la justification du paiement de la redevance de dépôt. 
+
+Toutefois, cette irrecevabilité ne peut être opposée par l'Institut national de la propriété industrielle qu'après que le
+déposant a été invité à compléter les mentions manquantes. La demande de régularisation mentionne qu'à défaut de
+régularisation dans le délai fixé le dépôt sera déclaré irrecevable. 
+
+Si la régularisation est effectuée dans le délai, la date de dépôt à prendre en compte est celle à laquelle les mentions
+manquantes ont été produites.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-100 1992-01-30 art. 7
-  - Décret n°92-100 du 30 janvier 1992 - art. 7 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-100 du 30 janvier 1992 - art. 7 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2007-280 du 1 mars 2007 - art. 26 () JORF 3 mars 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R712-3 (M)
+  - Code de la propriété intellectuelle - art. R712-3 (V)
 
 
 ###### Article R712-8
@@ -39638,21 +39412,21 @@ _Cite_:
 
 L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque,
 établie dans les conditions prévues à l'arrêté mentionné à l'article R. 712-26. Il peut être précisé que le renouvellement ne
-vaut que pour certains produits ou services désignés dans l'acte d'enregistrement.
+vaut que pour certains produits ou services désignés dans l'acte d'enregistrement. 
 
-Le renouvellement prend effet le jour suivant la date d'expiration de l'enregistrement.
+Le renouvellement prend effet le jour suivant la date d'expiration de l'enregistrement. 
 
-La déclaration doit à peine d'irrecevabilité :
+La déclaration doit à peine d'irrecevabilité : 
 
 1° Etre présentée au cours d'un délai de six mois expirant le dernier jour du mois au cours duquel prend fin la période de
-protection et être accompagnée de la justification du paiement de la redevance prescrite.
+protection et être accompagnée de la justification du paiement de la redevance prescrite. 
 
-Toutefois, la déclaration peut encore être présentée ou la redevance acquittée dans un délai supplémentaire de six mois,
-décompté depuis le lendemain du dernier jour du mois d'expiration de la protection, moyennant le paiement d'un supplément de
-redevance ;
+Toutefois, la déclaration peut encore être présentée ou la redevance acquittée dans un délai supplémentaire de six mois à
+compter du lendemain du dernier jour du mois d'expiration de la protection, moyennant le paiement d'un supplément de
+redevance dans le même délai. 
 
 2° Comporter la désignation de la marque à renouveler et émaner du titulaire inscrit, au jour de la déclaration, au Registre
-national des marques ou de son mandataire.
+national des marques ou de son mandataire. 
 
 Si la déclaration ne satisfait pas à ces conditions, il est fait application de la procédure prévue au 1° de l'article R.
 712-11.
@@ -39676,17 +39450,13 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R712-26 (VD)
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 73 () JORF 3 mars 2004
+  - Décret n°2007-280 du 1 mars 2007 - art. 27 () JORF 3 mars 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R712-11 (M)
+  - Code de la propriété intellectuelle - art. R712-11 (V)
 
 _Codifié par_:
 
@@ -39819,7 +39589,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=246></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=245></a>
 
 ###### Article R714-1
 
@@ -40168,7 +39938,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=247></a>
+#### Chapitre V : Marques collectives<a id=246></a>
 
 ###### Article R715-1
 
@@ -40192,7 +39962,28 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre VI : Contentieux<a id=248></a>
+###### Article R715-2
+
+En cas de dissolution de la personne morale titulaire d'une marque collective de certification, la transmission de cette
+marque ne peut intervenir qu'au profit d'un autre organisme certificateur ou d'une personne morale détenant majoritairement,
+directement ou indirectement, un organisme certificateur auquel elle (en) concède une licence exclusive de cette marque.
+
+Cette transmission est opérée, à la demande du titulaire de la marque ou de son mandataire, par un arrêté du ministre chargé
+de l'industrie, si la marque collective de certification est relative à la certification de services ou de produits autres
+qu'alimentaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
+
+
+#### Chapitre VI : Contentieux<a id=247></a>
 
 ###### Article R*716-1-1
 
@@ -40264,9 +40055,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=249></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=248></a>
 
-##### Section 1 : Marque internationale<a id=250></a>
+##### Section 1 : Marque internationale<a id=249></a>
 
 ###### Article R717-1
 
@@ -40542,7 +40333,7 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 83 () JORF 3 mars 2004
 
 
-##### Section 2 : Marque communautaire<a id=251></a>
+##### Section 2 : Marque communautaire<a id=250></a>
 
 ###### Article R717-9
 
@@ -40632,9 +40423,9 @@ _Créé par_:
   - Décret n°2002-216 du 18 février 2002 - art. 2 () JORF 20 février 2002
 
 
-#### Chapitre VIII : Dispositions communes<a id=252></a>
+#### Chapitre VIII : Dispositions communes<a id=251></a>
 
-##### Section unique<a id=253></a>
+##### Section unique<a id=252></a>
 
 ###### Article R718-1
 
@@ -40770,30 +40561,51 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 87 () JORF 3 mars 2004
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=254></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=253></a>
 
-### Titre unique<a id=255></a>
+### Titre unique<a id=254></a>
 
-#### Chapitre unique<a id=256></a>
+#### Chapitre unique<a id=255></a>
 
 ###### Article R811-1
 
-Les dispositions du présent code sont applicables aux territoires d'outre-mer à l'exception :
+Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables dans les îles Wallis et Futuna, en
+Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises :
 
-1° Des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2, R. 615-1 à R. 615-5 ;
+1° Les dispositions du livre Ier à l'exception des articles R. 133-1 et R. 133-2 (4°) ;
 
-2° Des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1, R. 513-2, R. 612-2, R. 612-38, R. 613-46, R. 613-56, R.
-613-58, R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4, R. 714-6 seulement en tant qu'ils concernent les
-conseils en propriété industrielle ;
+2° Les dispositions du livre II ;
 
-3° Des articles R. 133-1 et R. 326-1 à R. 326-7 ;
+3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ;
 
-4° de l'article R. 133-2.
+4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2 ;
+
+5° Les dispositions du livre V à l'exception des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1 et R. 513-2
+seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+
+6° Les dispositions du livre VI à l'exception des articles R. 615-1 à R. 615-5 ainsi que des articles R. 612-2, R. 612-38, R.
+613-46, R. 613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+
+7° Les dispositions du livre VII à l'exception des articles R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4 et
+R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle.
+
+Toutefois, l'article R. 613-63 est ainsi rédigé :
+
+Art. R. 613-63. - La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi
+n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
+industrielle.
+
+Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La
+décision est notifiée au requérant.
+
+Si la demande est accueillie, le bénéfice de la rédaction est acquis au requérant sous réserve qu'il produise chaque année un
+avis de non-imposition ou une justification équivalente.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°71-764 1969-09-09 art. 64
   - Décret n°78-1010 du 10 octobre 1978 - art. 12-1 (Ab)
   - Décret n°78-1011 du 10 octobre 1978 - art. 21-1 (Ab)
   - Décret n°79-797 du 4 septembre 1979 - art. 35 (Ab)
@@ -40804,7 +40616,6 @@ _Anciens textes_:
   - Décret n°89-816 du 2 novembre 1989 - art. 10 (Ab)
   - Décret n°92-100 1992-01-30 art. 51
   - Décret n°92-792 1992-08-13 art. 28
-  - Décret n°71-764 1969-09-09 art. 64
   - Décret n°69-975 du 18 octobre 1969 - art. 44 (Ab)
 
 _Cité par_:
@@ -40817,33 +40628,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-921 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R133-1 (V)
-  - Code de la propriété intellectuelle - art. R133-2 (V)
-  - Code de la propriété intellectuelle - art. R423-1 (M)
-  - Code de la propriété intellectuelle - art. R423-2 (V)
-  - Code de la propriété intellectuelle - art. R512-13 (V)
-  - Code de la propriété intellectuelle - art. R512-15 (M)
-  - Code de la propriété intellectuelle - art. R512-2 (M)
-  - Code de la propriété intellectuelle - art. R512-3 (M)
-  - Code de la propriété intellectuelle - art. R513-1 (M)
-  - Code de la propriété intellectuelle - art. R513-2 (M)
-  - Code de la propriété intellectuelle - art. R612-2 (M)
-  - Code de la propriété intellectuelle - art. R612-38 (M)
-  - Code de la propriété intellectuelle - art. R613-46 (V)
-  - Code de la propriété intellectuelle - art. R613-56 (M)
-  - Code de la propriété intellectuelle - art. R613-58 (V)
-  - Code de la propriété intellectuelle - art. R712-13 (M)
-  - Code de la propriété intellectuelle - art. R712-14 (M)
-  - Code de la propriété intellectuelle - art. R712-2 (M)
-  - Code de la propriété intellectuelle - art. R712-21 (M)
-  - Code de la propriété intellectuelle - art. R712-24 (M)
-  - Code de la propriété intellectuelle - art. R714-4 (M)
-  - Code de la propriété intellectuelle - art. R714-6 (M)
-  - Code de la propriété intellectuelle R421-1 à R421-12, R422-1 à R422-66, R423-1, R423-2, R615-1 à R615-5, R512-2, R512-3, R512-13, R512-15, R513-1, R513-2, R612-2, R612-38, R613-46, R613-56, R613-58, R712-2, R712-13, R712-14, R712-21, R712-24, R714-4,
+  - Décret n°2007-280 du 1 mars 2007 - art. 29 () JORF 3 mars 2007
 
 _Codifié par_:
 
@@ -40852,11 +40637,20 @@ _Codifié par_:
 
 ###### Article R811-2
 
-Les dispositions du présent code sont applicables à Mayotte.
+Sous réserve des adaptations prévues par l'art. R. 811-3 ci-après, sont applicables à Mayotte les dispositions du présent
+code à l'exception des articles R. 133-1, R. 133-2, R. 326-1 et R. 326-2.
 
-Toutefois ne sont pas applicables les articles R. 133-1 et R. 326-1 à R. 326-7.
+Toutefois, l'article R. 613-63 est ainsi rédigé :
 
-Toutefois n'est pas applicable l'article R. 133-2.
+Art. R. 613-63. - La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi
+n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
+industrielle.
+
+Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La
+décision est notifiée au requérant.
+
+Si la demande est accueillie, le bénéfice de la rédaction est acquis au requérant sous réserve qu'il produise chaque année un
+avis de non-imposition ou une justification équivalente.
 
 **Liens relatifs à cet article**
 
@@ -40885,13 +40679,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-921 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R133-1 (V)
-  - Code de la propriété intellectuelle - art. R133-2 (V)
-  - Code de la propriété intellectuelle R133-1, R326-1 à R326-7, R133-2
+  - Décret n°2007-280 du 1 mars 2007 - art. 29 () JORF 3 mars 2007
 
 
 ###### Article R811-3
@@ -40916,14 +40704,13 @@ Wallis-et-Futuna ;
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2002-215 2002-02-18 art. 10 I, III JORF 20 février 2002
-  - Décret n°2002-215 du 18 février 2002 - art. 10 () JORF 20 février 2002
-
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+_Modifié par_:
+
+  - Décret n°2007-280 du 1 mars 2007 - art. 29 () JORF 3 mars 2007
 
 _Cité par_:
 
