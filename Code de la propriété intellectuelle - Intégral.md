@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2007-05-10
+Version Consolidée au 2007-05-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
@@ -139,9 +139,9 @@ et la protection des droits sur internet (art. L331-22)](#40)
       - [Titre unique (art. R212-1 à R214-7)](#135)
         - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-7)](#136)
         - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-7)](#137)
-    - [Livre III : Dispositions générales (art. R311-1 à R335-4)](#138)
-      - [Titre Ier : Rémunération pour copie privée (art. R311-1 à R311-7)](#139)
-        - [Chapitre unique (art. R311-1 à R311-7)](#140)
+    - [Livre III : Dispositions générales (art. D311-1 à R335-4)](#138)
+      - [Titre Ier : Rémunération pour copie privée (art. D311-1 à R311-7)](#139)
+        - [Chapitre unique (art. D311-1 à R311-7)](#140)
       - [Titre II : Sociétés de perception et de répartition des droits (art. R321-1 à R326-7)](#141)
         - [Chapitre Ier : Dispositions générales (art. R321-1 à Annexe V)](#142)
           - [Annexes à l'article R321-8 (art. Annexe I à Annexe V)](#143)
@@ -20177,6 +20177,43 @@ _Créé par_:
 ### Titre Ier : Rémunération pour copie privée<a id=139></a>
 
 #### Chapitre unique<a id=140></a>
+
+###### Article D311-1
+
+Les comptes rendus des séances de la commission comportent :
+
+- la liste des membres présents ;
+
+- un relevé synthétique des travaux mentionnant les positions exprimées par les membres, incluant les propositions de
+rémunérations soumises au vote de la commission et les éléments utilisés pour le calcul desdites rémunérations ;
+
+- le relevé des délibérations exécutoires.
+
+Les comptes rendus sont approuvés par la commission à la majorité des membres présents. Ils sont publiés sur le site internet
+du ministère de la culture.
+
+**Nota:**
+
+Lire D311-8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Créé par_:
+
+  - Décret n°2007-873 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2009-744 du 19 juin 2009 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. D311-8 (V)
+
 
 ###### Article R311-1
 
