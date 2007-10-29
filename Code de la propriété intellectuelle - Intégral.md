@@ -1,8 +1,8 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2007-05-15
+Version Consolidée au 2007-10-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
-    - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-4)](#2)
+    - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
       - [Livre Ier : Le droit d'auteur (art. L111-1 à L133-4)](#3)
         - [Titre Ier : Objet du droit d'auteur (art. L111-1 à L113-9)](#4)
           - [Chapitre Ier : Nature du droit d'auteur (art. L111-1 à L111-5)](#5)
@@ -31,14 +31,14 @@ Version Consolidée au 2007-05-15
           - [Chapitre V : Droits des producteurs de vidéogrammes (art. L215-1)](#28)
           - [Chapitre VI : Droits des entreprises de communication audiovisuelle (art. L216-1 à L216-2)](#29)
           - [Chapitre VII : Dispositions applicables à la télédiffusion par satellite et à la retransmission par câble (art. L217-1 à L217-3)](#30)
-      - [Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données (art. L311-1 à L343-4)](#31)
+      - [Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données (art. L311-1 à L343-7)](#31)
         - [Titre Ier : Rémunération pour copie privée (art. L311-1 à L311-8)](#32)
           - [Chapitre unique (art. L311-1 à L311-8)](#33)
         - [Titre II : Sociétés de perception et de répartition des droits (art. L321-1 à L321-13)](#34)
           - [Chapitre unique (art. L321-1 à L321-13)](#35)
         - [Titre III : Procédures et sanctions (art. L331-1 à L336-2)](#36)
           - [Chapitre Ier : Dispositions générales (art. L331-1 à L331-22)](#37)
-            - [Section 1 : Règles générales de procédure (art. L331-1 à L331-4)](#38)
+            - [Section 1 : Dispositions communes (art. L331-1 à L331-4)](#38)
             - [Section 2 : Mesures techniques de protection et d'information (art. L331-5 à L331-21)](#39)
             - [Section 3 : Haute Autorité pour la diffusion des œuvres 
 et la protection des droits sur internet (art. L331-22)](#40)
@@ -48,11 +48,11 @@ et la protection des droits sur internet (art. L331-22)](#40)
           - [Chapitre IV : Droit de suite (art. L334-1)](#44)
           - [Chapitre V : Dispositions pénales (art. L335-1 à L335-12)](#45)
           - [Chapitre VI : Prévention du téléchargement illicite. (art. L336-1 à L336-2)](#46)
-        - [Titre IV : Droits des producteurs de bases de données (art. L341-1 à L343-4)](#47)
+        - [Titre IV : Droits des producteurs de bases de données (art. L341-1 à L343-7)](#47)
           - [Chapitre Ier : Champ d'application (art. L341-1 à L341-2)](#48)
           - [Chapitre II : Etendue de la protection (art. L342-1 à L342-5)](#49)
-          - [Chapitre III : Sanctions (art. L343-1 à L343-4)](#50)
-    - [Deuxième partie : La propriété industrielle (art. L411-1 à L721-1)](#51)
+          - [Chapitre III : Procédures et sanctions (art. L343-1 à L343-7)](#50)
+    - [Deuxième partie : La propriété industrielle (art. L411-1 à L722-7)](#51)
       - [Livre IV : Organisation administrative et professionnelle (art. L411-1 à L423-2)](#52)
         - [Titre Ier : Institutions (art. L411-1 à L412-1)](#53)
           - [Chapitre Ier : L'Institut national de la propriété industrielle (art. L411-1 à L411-5)](#54)
@@ -61,8 +61,8 @@ et la protection des droits sur internet (art. L331-22)](#40)
           - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. L421-1 à L421-2)](#57)
           - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. L422-1 à L422-13)](#58)
           - [Chapitre III : Dispositions diverses (art. L423-1 à L423-2)](#59)
-      - [Livre V : Les dessins et modèles (art. L511-1 à L521-7)](#60)
-        - [Titre Ier : Conditions et modalités de la protection (art. L511-1 à L514-2)](#61)
+      - [Livre V : Les dessins et modèles (art. L511-1 à L522-2)](#60)
+        - [Titre Ier : Conditions et modalités de la protection (art. L511-1 à L515-1)](#61)
           - [Chapitre Ier : Champ d'application (art. L511-1 à L511-11)](#62)
             - [Section 1 : Objet de la protection (art. L511-1 à L511-8)](#63)
             - [Section 2 : Bénéfice de la protection (art. L511-9 à L511-11)](#64)
@@ -71,199 +71,203 @@ et la protection des droits sur internet (art. L331-22)](#40)
             - [Section 2 : Nullité d'un enregistrement (art. L512-4 à L512-6)](#67)
           - [Chapitre III : Droits conférés par l'enregistrement (art. L513-1 à L513-8)](#68)
           - [Chapitre IV : Dispositions diverses (art. L514-1 à L514-2)](#69)
-        - [Titre II : Contentieux (art. L521-1 à L521-7)](#70)
-          - [Chapitre unique (art. L521-1 à L521-7)](#71)
-      - [Livre VI : Protection des inventions et des connaissances techniques (art. L611-1 à L623-35)](#72)
-        - [Titre Ier : Brevets d'invention (art. L611-1 à L615-22)](#73)
-          - [Chapitre Ier : Champ d'application (art. L611-1 à L611-19)](#74)
-            - [Section 1 : Généralités (art. L611-1 à L611-5)](#75)
-            - [Section 2 : Droit au titre (art. L611-6 à L611-9)](#76)
-            - [Section 3 : Inventions brevetables (art. L611-10 à L611-19)](#77)
-          - [Chapitre II : Dépôt et instruction des demandes (art. L612-1 à L612-23)](#78)
-            - [Section 1 : Dépôt des demandes (art. L612-1 à L612-7)](#79)
-            - [Section 2 : Instruction des demandes (art. L612-8 à L612-20)](#80)
-            - [Section 3 : Diffusion légale des inventions (art. L612-21 à L612-23)](#81)
-          - [Chapitre III : Droits attachés aux brevets (art. L613-1 à L613-32)](#82)
-            - [Section 1 : Droit exclusif d'exploitation (art. L613-1 à L613-7)](#83)
-            - [Section 2 : Transmission et perte des droits (art. L613-8 à L613-28)](#84)
-            - [Section 3 : Copropriété des brevets (art. L613-29 à L613-32)](#85)
-          - [Chapitre IV : Application de conventions internationales (art. L614-1 à L614-31)](#86)
-            - [Section 1 : Brevets européens (art. L614-1 à L614-16)](#87)
-              - [Paragraphe 1 : Dépôt des demandes de brevet européen (art. L614-2 à L614-6)](#88)
-              - [Paragraphe 2 : Effets en France des brevets européens (art. L614-7 à L614-16)](#89)
-            - [Section 2 : Demandes internationales (art. L614-17 à L614-24)](#90)
-              - [Paragraphe 1 : Dépôt des demandes internationales (art. L614-18 à L614-23)](#91)
-              - [Paragraphe 2 : Effets en France des demandes internationales (art. L614-24)](#92)
-            - [Section 3 : Brevets communautaires (art. L614-25 à L614-30)](#93)
-            - [Section 4 : Dispositions finales (art. L614-31)](#94)
-          - [Chapitre V : Actions en justice (art. L615-1 à L615-22)](#95)
-            - [Section 1 : Actions civiles (art. L615-1 à L615-10)](#96)
-            - [Section 2 : Actions pénales (art. L615-12 à L615-16)](#97)
-            - [Section 3 : Règles de compétence et de procédure (art. L615-17 à L615-22)](#98)
-        - [Titre II : Protection des connaissances techniques (art. L621-1 à L623-35)](#99)
-          - [Chapitre Ier : Secret de fabrique (art. L621-1)](#100)
-          - [Chapitre II : Produits semi-conducteurs (art. L622-1 à L622-7)](#101)
-            - [Section 1 : Dépôt (art. L622-1 à L622-4)](#102)
-            - [Section 2 : Droits attachés au dépôt (art. L622-5 à L622-7)](#103)
-          - [Chapitre III : Obtention végétale (art. L623-1 à L623-35)](#104)
-            - [Section 1 : Délivrance des certificats d'obtention végétale (art. L623-1 à L623-16)](#105)
-            - [Section 2 : Droits et obligations attachés aux certificats d'obtention végétale (art. L623-17 à L623-24)](#106)
-            - [Section 3 : Actions en justice (art. L623-25 à L623-35)](#107)
-      - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. L711-1 à L721-1)](#108)
-        - [Titre Ier : Marques de fabrique, de commerce ou de service (art. L711-1 à L717-7)](#109)
-          - [Chapitre Ier : Eléments constitutifs de la marque (art. L711-1 à L711-4)](#110)
-          - [Chapitre II : Acquisition du droit sur la marque (art. L712-1 à L712-14)](#111)
-          - [Chapitre III : Droits conférés par l'enregistrement (art. L713-1 à L713-6)](#112)
-          - [Chapitre IV : Transmission et perte du droit sur la marque (art. L714-1 à L714-7)](#113)
-          - [Chapitre V : Marques collectives (art. L715-1 à L715-3)](#114)
-          - [Chapitre VI : Contentieux (art. L716-1 à L716-16)](#115)
-          - [Chapitre VII : La marque communautaire (art. L717-1 à L717-7)](#116)
-        - [Titre II : Appellations d'origine (art. L721-1)](#117)
-          - [Chapitre unique (art. L721-1)](#118)
-    - [Troisième partie : Application aux territoires d'outre-mer et à Mayotte (art. L811-1 à L811-4)](#119)
-      - [Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte (art. L811-1 à L811-4)](#120)
-        - [Titre unique (art. L811-1 à L811-4)](#121)
-          - [Chapitre unique (art. L811-1 à L811-4)](#122)
-  - [Partie réglementaire (art. R111-1 à R811-3)](#123)
-    - [Livre Ier : Le droit d'auteur (art. R111-1 à R133-2)](#124)
-      - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#125)
-        - [Chapitre Ier : Nature du droit d'auteur (art. R111-1 à R111-2)](#126)
-      - [Titre II : Droits des auteurs (art. R122-1 à R122-12)](#127)
-        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-12)](#128)
-      - [Titre III : Exploitation des droits (art. R132-1 à R133-2)](#129)
-        - [Chapitre II : Dispositions particulières à certains contrats (art. R132-1 à R132-17)](#130)
-          - [Section 4 : Contrat de commande pour la publicité (art. R132-1 à R132-7)](#131)
-          - [Section 5 : Nantissement du droit d'exploitation des logiciels (art. R132-8 à R132-17)](#132)
-        - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. R133-1 à R133-2)](#133)
-    - [Livre II : Les droits voisins du droit d'auteur (art. R212-1 à R214-7)](#134)
-      - [Titre unique (art. R212-1 à R214-7)](#135)
-        - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-7)](#136)
-        - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-7)](#137)
-    - [Livre III : Dispositions générales (art. D311-1 à R335-4)](#138)
-      - [Titre Ier : Rémunération pour copie privée (art. D311-1 à R311-7)](#139)
-        - [Chapitre unique (art. D311-1 à R311-7)](#140)
-      - [Titre II : Sociétés de perception et de répartition des droits (art. R321-1 à R326-7)](#141)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à Annexe V)](#142)
-          - [Annexes à l'article R321-8 (art. Annexe I à Annexe V)](#143)
-        - [Chapitre II : Sociétés agréées pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#144)
-        - [Chapitre III : Des sociétés agréées pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#145)
-        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#146)
-        - [Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits (art. R325-1 à R325-4)](#147)
-        - [Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R326-1 à R326-7)](#148)
-      - [Titre III : Procédures et sanctions (art. R331-1 à R335-4)](#149)
-        - [Chapitre Ier : Dispositions générales (art. R331-1 à R331-37)](#150)
-          - [Section 1 : Dispositions communes (art. R331-1)](#151)
-          - [Section 2 : Mesures techniques de protection et d'information (art. R331-2 à R331-37)](#152)
-            - [Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques (art. R331-3 à R331-11)](#153)
-            - [Sous-section 2 : Règles générales de procédure applicables devant l'Autorité (art. R331-12 à R331-19)](#154)
-            - [Sous-section 3 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-20 à R331-25)](#155)
-            - [Sous-section 4 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins (art. R331-26 à R331-27)](#156)
-            - [Sous-section 5 : Voies de recours contre les décisions de l'Autorité de régulation des mesures techniques (art. R331-28 à R331-37)](#157)
-        - [Chapitre V : Dispositions pénales (art. R*335-1-1 à R335-4)](#158)
-    - [Livre IV : Organisation administrative et professionnelle (art. R411-1 à R423-2)](#159)
-      - [Titre Ier : Institutions (art. R411-1 à R413-5)](#160)
-        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. R411-1 à R411-26)](#161)
-          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. R411-1 à R411-16)](#162)
-          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#163)
-          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. R411-19 à R411-26)](#164)
-        - [Chapitre II : Le comité de la protection des obtentions végétales (art. D412-4 à R412-21)](#165)
-          - [Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales (art. D412-4 à R412-14)](#166)
-          - [Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales (art. R412-15 à R412-21)](#167)
-        - [Chapitre III : Le Conseil supérieur de la propriété industrielle (art. R413-1 à R413-5)](#168)
-      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#169)
-        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#170)
-        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#171)
-          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#172)
-          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#173)
-          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#174)
-          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-14)](#175)
-            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#176)
-            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#177)
-            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#178)
-            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#179)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-54)](#180)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#181)
-        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#182)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R521-1)](#183)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#184)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#185)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#186)
-        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#187)
-        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#188)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#189)
-          - [Section 1 : Procédure (art. R514-1 à R514-5)](#190)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#191)
-      - [Titre II : Contentieux (art. R*521-1-1 à R521-1)](#192)
-        - [Chapitre unique : Retenue en douane. (art. R*521-1-1 à R521-1)](#193)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à R631-2)](#194)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#195)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#196)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#197)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#198)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#199)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#200)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#201)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#202)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#203)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#204)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#205)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#206)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#207)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#208)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#209)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#210)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#211)
-          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#212)
-            - [Sous-section 2 : Licences obligatoires. (art. R613-4 à R613-9)](#213)
-            - [Sous-section 3 : Licences d'office dans l'intérêt de la santé publique. (art. R613-10 à R613-25)](#214)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#215)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#216)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#217)
-          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#218)
-          - [Section 4 : Recours en restauration (art. R613-52)](#219)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#220)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#221)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#222)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#223)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#224)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#225)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#226)
-          - [Section 1 : Mesures probatoires. (art. R615-1 à R615-5)](#227)
-          - [Section 2 : Commission paritaire de conciliation. (art. R615-6 à R615-31)](#228)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#229)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#230)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#231)
-          - [Section unique : Procédure (art. R618-1 à R618-5)](#232)
-      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#233)
-        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#234)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#235)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#236)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#237)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#238)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#239)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#240)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#241)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#242)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#243)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#244)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#245)
-        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#246)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. R631-1 à R631-2)](#247)
-        - [Chapitre unique (art. R631-1 à R631-2)](#248)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R718-4)](#249)
-      - [Titre unique : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#250)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#251)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#252)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#253)
-        - [Chapitre VI : Contentieux (art. R*716-1-1 à R716-1)](#254)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#255)
-          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#256)
-          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#257)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#258)
-          - [Section unique (art. R718-1 à R718-4)](#259)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#260)
-      - [Titre unique (art. R811-1 à R811-3)](#261)
-        - [Chapitre unique (art. R811-1 à R811-3)](#262)
+          - [Chapitre V : Dessins ou modèles communautaires (art. L515-1)](#70)
+        - [Titre II : Contentieux (art. L521-1 à L522-2)](#71)
+          - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. L521-1 à L521-19)](#72)
+          - [Chapitre II : Contentieux des dessins ou modèles communautaires (art. L522-1 à L522-2)](#73)
+      - [Livre VI : Protection des inventions et des connaissances techniques (art. L611-1 à L623-35)](#74)
+        - [Titre Ier : Brevets d'invention (art. L611-1 à L615-22)](#75)
+          - [Chapitre Ier : Champ d'application (art. L611-1 à L611-19)](#76)
+            - [Section 1 : Généralités (art. L611-1 à L611-5)](#77)
+            - [Section 2 : Droit au titre (art. L611-6 à L611-9)](#78)
+            - [Section 3 : Inventions brevetables (art. L611-10 à L611-19)](#79)
+          - [Chapitre II : Dépôt et instruction des demandes (art. L612-1 à L612-23)](#80)
+            - [Section 1 : Dépôt des demandes (art. L612-1 à L612-7)](#81)
+            - [Section 2 : Instruction des demandes (art. L612-8 à L612-20)](#82)
+            - [Section 3 : Diffusion légale des inventions (art. L612-21 à L612-23)](#83)
+          - [Chapitre III : Droits attachés aux brevets (art. L613-1 à L613-32)](#84)
+            - [Section 1 : Droit exclusif d'exploitation (art. L613-1 à L613-7)](#85)
+            - [Section 2 : Transmission et perte des droits (art. L613-8 à L613-28)](#86)
+            - [Section 3 : Copropriété des brevets (art. L613-29 à L613-32)](#87)
+          - [Chapitre IV : Application de conventions internationales (art. L614-1 à L614-31)](#88)
+            - [Section 1 : Brevets européens (art. L614-1 à L614-16)](#89)
+              - [Paragraphe 1 : Dépôt des demandes de brevet européen (art. L614-2 à L614-6)](#90)
+              - [Paragraphe 2 : Effets en France des brevets européens (art. L614-7 à L614-16)](#91)
+            - [Section 2 : Demandes internationales (art. L614-17 à L614-24)](#92)
+              - [Paragraphe 1 : Dépôt des demandes internationales (art. L614-18 à L614-23)](#93)
+              - [Paragraphe 2 : Effets en France des demandes internationales (art. L614-24)](#94)
+            - [Section 3 : Brevets communautaires (art. L614-25 à L614-30)](#95)
+            - [Section 4 : Dispositions finales (art. L614-31)](#96)
+          - [Chapitre V : Actions en justice (art. L615-1 à L615-22)](#97)
+            - [Section 1 : Actions civiles (art. L615-1 à L615-10)](#98)
+            - [Section 2 : Actions pénales (art. L615-12 à L615-16)](#99)
+            - [Section 3 : Règles de compétence et de procédure (art. L615-17 à L615-22)](#100)
+        - [Titre II : Protection des connaissances techniques (art. L621-1 à L623-35)](#101)
+          - [Chapitre Ier : Secret de fabrique (art. L621-1)](#102)
+          - [Chapitre II : Produits semi-conducteurs (art. L622-1 à L622-7)](#103)
+            - [Section 1 : Dépôt (art. L622-1 à L622-4)](#104)
+            - [Section 2 : Droits attachés au dépôt (art. L622-5 à L622-7)](#105)
+          - [Chapitre III : Obtention végétale (art. L623-1 à L623-35)](#106)
+            - [Section 1 : Délivrance des certificats d'obtention végétale (art. L623-1 à L623-16)](#107)
+            - [Section 2 : Droits et obligations attachés aux certificats d'obtention végétale (art. L623-17 à L623-24)](#108)
+            - [Section 3 : Actions en justice (art. L623-25 à L623-35)](#109)
+      - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. L711-1 à L722-7)](#110)
+        - [Titre Ier : Marques de fabrique, de commerce ou de service (art. L711-1 à L717-7)](#111)
+          - [Chapitre Ier : Eléments constitutifs de la marque (art. L711-1 à L711-4)](#112)
+          - [Chapitre II : Acquisition du droit sur la marque (art. L712-1 à L712-14)](#113)
+          - [Chapitre III : Droits conférés par l'enregistrement (art. L713-1 à L713-6)](#114)
+          - [Chapitre IV : Transmission et perte du droit sur la marque (art. L714-1 à L714-7)](#115)
+          - [Chapitre V : Marques collectives (art. L715-1 à L715-3)](#116)
+          - [Chapitre VI : Contentieux (art. L716-1 à L716-16)](#117)
+          - [Chapitre VII : La marque communautaire (art. L717-1 à L717-7)](#118)
+        - [Titre II : Indications géographiques (art. L721-1 à L722-7)](#119)
+          - [Chapitre Ier : Généralités (art. L721-1)](#120)
+          - [Chapitre II : Contentieux (art. L722-1 à L722-7)](#121)
+            - [Section unique : Actions civiles (art. L722-1 à L722-7)](#122)
+    - [Troisième partie : Application aux territoires d'outre-mer et à Mayotte (art. L811-1 à L811-4)](#123)
+      - [Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte (art. L811-1 à L811-4)](#124)
+        - [Titre unique (art. L811-1 à L811-4)](#125)
+          - [Chapitre unique (art. L811-1 à L811-4)](#126)
+  - [Partie réglementaire (art. R111-1 à R811-3)](#127)
+    - [Livre Ier : Le droit d'auteur (art. R111-1 à R133-2)](#128)
+      - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#129)
+        - [Chapitre Ier : Nature du droit d'auteur (art. R111-1 à R111-2)](#130)
+      - [Titre II : Droits des auteurs (art. R122-1 à R122-12)](#131)
+        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-12)](#132)
+      - [Titre III : Exploitation des droits (art. R132-1 à R133-2)](#133)
+        - [Chapitre II : Dispositions particulières à certains contrats (art. R132-1 à R132-17)](#134)
+          - [Section 4 : Contrat de commande pour la publicité (art. R132-1 à R132-7)](#135)
+          - [Section 5 : Nantissement du droit d'exploitation des logiciels (art. R132-8 à R132-17)](#136)
+        - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. R133-1 à R133-2)](#137)
+    - [Livre II : Les droits voisins du droit d'auteur (art. R212-1 à R214-7)](#138)
+      - [Titre unique (art. R212-1 à R214-7)](#139)
+        - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-7)](#140)
+        - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-7)](#141)
+    - [Livre III : Dispositions générales (art. D311-1 à R335-4)](#142)
+      - [Titre Ier : Rémunération pour copie privée (art. D311-1 à R311-7)](#143)
+        - [Chapitre unique (art. D311-1 à R311-7)](#144)
+      - [Titre II : Sociétés de perception et de répartition des droits (art. R321-1 à R326-7)](#145)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à Annexe V)](#146)
+          - [Annexes à l'article R321-8 (art. Annexe I à Annexe V)](#147)
+        - [Chapitre II : Sociétés agréées pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#148)
+        - [Chapitre III : Des sociétés agréées pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#149)
+        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#150)
+        - [Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits (art. R325-1 à R325-4)](#151)
+        - [Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R326-1 à R326-7)](#152)
+      - [Titre III : Procédures et sanctions (art. R331-1 à R335-4)](#153)
+        - [Chapitre Ier : Dispositions générales (art. R331-1 à R331-37)](#154)
+          - [Section 1 : Dispositions communes (art. R331-1)](#155)
+          - [Section 2 : Mesures techniques de protection et d'information (art. R331-2 à R331-37)](#156)
+            - [Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques (art. R331-3 à R331-11)](#157)
+            - [Sous-section 2 : Règles générales de procédure applicables devant l'Autorité (art. R331-12 à R331-19)](#158)
+            - [Sous-section 3 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-20 à R331-25)](#159)
+            - [Sous-section 4 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins (art. R331-26 à R331-27)](#160)
+            - [Sous-section 5 : Voies de recours contre les décisions de l'Autorité de régulation des mesures techniques (art. R331-28 à R331-37)](#161)
+        - [Chapitre V : Dispositions pénales (art. R*335-1-1 à R335-4)](#162)
+    - [Livre IV : Organisation administrative et professionnelle (art. R411-1 à R423-2)](#163)
+      - [Titre Ier : Institutions (art. R411-1 à R413-5)](#164)
+        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. R411-1 à R411-26)](#165)
+          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. R411-1 à R411-16)](#166)
+          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#167)
+          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. R411-19 à R411-26)](#168)
+        - [Chapitre II : Le comité de la protection des obtentions végétales (art. D412-4 à R412-21)](#169)
+          - [Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales (art. D412-4 à R412-14)](#170)
+          - [Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales (art. R412-15 à R412-21)](#171)
+        - [Chapitre III : Le Conseil supérieur de la propriété industrielle (art. R413-1 à R413-5)](#172)
+      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#173)
+        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#174)
+        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#175)
+          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#176)
+          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#177)
+          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#178)
+          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-14)](#179)
+            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#180)
+            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#181)
+            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#182)
+            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#183)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-54)](#184)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#185)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#186)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R521-1)](#187)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#188)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#189)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#190)
+        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#191)
+        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#192)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#193)
+          - [Section 1 : Procédure (art. R514-1 à R514-5)](#194)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#195)
+      - [Titre II : Contentieux (art. R*521-1-1 à R521-1)](#196)
+        - [Chapitre unique : Retenue en douane. (art. R*521-1-1 à R521-1)](#197)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à R631-2)](#198)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#199)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#200)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#201)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#202)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#203)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#204)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#205)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#206)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#207)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#208)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#209)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#210)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#211)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#212)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#213)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#214)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#215)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#216)
+            - [Sous-section 2 : Licences obligatoires. (art. R613-4 à R613-9)](#217)
+            - [Sous-section 3 : Licences d'office dans l'intérêt de la santé publique. (art. R613-10 à R613-25)](#218)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#219)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#220)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#221)
+          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#222)
+          - [Section 4 : Recours en restauration (art. R613-52)](#223)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#224)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#225)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#226)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#227)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#228)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#229)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#230)
+          - [Section 1 : Mesures probatoires. (art. R615-1 à R615-5)](#231)
+          - [Section 2 : Commission paritaire de conciliation. (art. R615-6 à R615-31)](#232)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#233)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#234)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#235)
+          - [Section unique : Procédure (art. R618-1 à R618-5)](#236)
+      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#237)
+        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#238)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#239)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#240)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#241)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#242)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#243)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#244)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#245)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#246)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#247)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#248)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#249)
+        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#250)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. R631-1 à R631-2)](#251)
+        - [Chapitre unique (art. R631-1 à R631-2)](#252)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R718-4)](#253)
+      - [Titre unique : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#254)
+        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#255)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#256)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#257)
+        - [Chapitre VI : Contentieux (art. R*716-1-1 à R716-1)](#258)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#259)
+          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#260)
+          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#261)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#262)
+          - [Section unique (art. R718-1 à R718-4)](#263)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#264)
+      - [Titre unique (art. R811-1 à R811-3)](#265)
+        - [Chapitre unique (art. R811-1 à R811-3)](#266)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -5706,7 +5710,7 @@ _Cité par_:
 
 ##### Chapitre Ier : Dispositions générales<a id=37></a>
 
-##### Section 1 : Règles générales de procédure<a id=38></a>
+##### Section 1 : Dispositions communes<a id=38></a>
 
 ###### Article L331-1
 
@@ -5716,6 +5720,14 @@ de se pourvoir devant la juridiction répressive dans les termes du droit commun
 
 Les organismes de défense professionnelle régulièrement constitués ont qualité pour ester en justice pour la défense des
 intérêts dont ils ont statutairement la charge.
+
+Le bénéficiaire valablement investi à titre exclusif, conformément aux dispositions du livre II, d'un droit exclusif
+d'exploitation appartenant à un producteur de phonogrammes ou de vidéogrammes peut, sauf stipulation contraire du contrat de
+licence, exercer l'action en justice au titre de ce droit. L'exercice de l'action est notifié au producteur.
+
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de propriété littéraire et
+artistique, y compris lorsque ces actions et demandes portent à la fois sur une question de propriété littéraire et
+artistique et sur une question connexe de concurrence déloyale, sont déterminés par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -5739,7 +5751,107 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 12 () JORF 3 août 2006
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 30 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 31 () JORF 30 octobre 2007
+
+
+###### Article L331-1-1
+
+Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des dommages et intérêts, la juridiction
+peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu auteur de l'atteinte aux droits,
+notamment le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens
+susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires, financiers,
+comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 32 () JORF 30 octobre 2007
+
+
+###### Article L331-1-2
+
+Si la demande lui est faite, la juridiction saisie d'une procédure civile prévue aux livres Ier, II et III de la première
+partie peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des marchandises
+et services qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le
+défendeur ou par toute personne qui a été trouvée en possession de telles marchandises ou fournissant de tels services ou a
+été signalée comme intervenant dans la production, la fabrication ou la distribution de ces marchandises ou la fourniture de
+ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des
+marchandises ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les
+marchandises ou services en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 32 () JORF 30 octobre 2007
+
+
+###### Article L331-1-3
+
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
+manque à gagner, subies par la partie lésée, les bénéfices réalisés par l'auteur de l'atteinte aux droits et le préjudice
+moral causé au titulaire de ces droits du fait de l'atteinte.
+
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
+intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si
+l'auteur de l'atteinte avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 32 () JORF 30 octobre 2007
+
+
+###### Article L331-1-4
+
+En cas de condamnation civile pour contrefaçon, atteinte à un droit voisin du droit d'auteur ou aux droits du producteur de
+bases de données, la juridiction peut ordonner, à la demande de la partie lésée, que les objets réalisés ou fabriqués portant
+atteinte à ces droits, les supports utilisés pour recueillir les données extraites illégalement de la base de données et les
+matériaux ou instruments ayant principalement servi à leur réalisation ou fabrication soient rappelés des circuits
+commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa
+publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle
+désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de l'auteur de l'atteinte aux droits.
+
+La juridiction peut également ordonner la confiscation de tout ou partie des recettes procurées par la contrefaçon,
+l'atteinte à un droit voisin du droit d'auteur ou aux droits du producteur de bases de données, qui seront remises à la
+partie lésée ou à ses ayants droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 32 () JORF 30 octobre 2007
 
 
 ###### Article L331-2
@@ -5748,15 +5860,16 @@ Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuv
 dispositions des livres Ier, II et III du présent code et de l'article 52 de la loi n° 85-660 du 3 juillet 1985 relative aux
 droits d'auteur et aux droits des artistes interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises
 de communication audiovisuelle peut résulter des constatations d'agents assermentés désignés selon les cas par le Centre
-national de la cinématographie, par les organismes professionnels d'auteurs et par les sociétés mentionnées au titre II du
-présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions prévues par un décret en
-Conseil d'Etat.
+national de la cinématographie, par les organismes de défense professionnelle visés à l'article L. 331-1 et par les sociétés
+mentionnées au titre II du présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions
+prévues par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°85-660 1985-07-03 art. 52
+  - Loi n°85-660 du 3 juillet 1985 - art. 52 (V)
+  - Code de la propriété intellectuelle - art. L331-1 (V)
 
 _Codifié par_:
 
@@ -5764,7 +5877,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 12 () JORF 3 août 2006
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 30 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 33 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -5797,11 +5911,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 12 () JORF 3 août 2006
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 30 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L335-3 (M)
+  - Code de la propriété intellectuelle - art. L335-3 (V)
 
 _Cité par_:
 
@@ -5822,8 +5936,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 12 () JORF 3 août 2006
-  - Loi n°2006-961 du 1 août 2006 - art. 6 () JORF 3 août 2006
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 30 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -6605,33 +6718,39 @@ Les commissaires de police et, dans les lieux où il n'y a pas de commissaire de
 la demande de tout auteur d'une oeuvre protégée par le livre Ier, de ses ayants droit ou de ses ayants cause, de saisir les
 exemplaires constituant une reproduction illicite de cette oeuvre ou tout exemplaire, produit, appareil, dispositif,
 composant ou moyen portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L.
-331-5 et L. 331-22 ;
+331-5 et L. 331-22 ; 
 
 Si la saisie doit avoir pour effet de retarder ou de suspendre des représentations ou des exécutions publiques en cours ou
 déjà annoncées, une autorisation spéciale doit être obtenue du président du tribunal de grande instance, par ordonnance
-rendue sur requête. Le président du tribunal de grande instance peut également, dans la même forme, ordonner :
+rendue sur requête. Le président du tribunal de grande instance peut également, dans la même forme, ordonner : 
 
 1° La suspension de toute fabrication en cours tendant à la reproduction illicite d'une oeuvre ou à la réalisation d'une
-atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ;
+atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ; 
 
 2° La saisie, quels que soient le jour et l'heure, des exemplaires constituant une reproduction illicite de l'oeuvre, déjà
 fabriqués ou en cours de fabrication, ou des exemplaires, produits, appareils, dispositifs, composants ou moyens, fabriqués
 ou en cours de fabrication, portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux
-articles L. 331-5 et L. 331-22, des recettes réalisées, ainsi que des exemplaires illicitement utilisés ;
+articles L. 331-5 et L. 331-22, des recettes réalisées, ainsi que des exemplaires illicitement utilisés ; il peut également
+ordonner la saisie réelle des matériels et instruments utilisés pour produire ou distribuer illicitement les oeuvres, ainsi
+que de tout document s'y rapportant ; 
 
 3° La saisie des recettes provenant de toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une
 oeuvre de l'esprit, effectuée en violation des droits de l'auteur ou provenant d'une atteinte aux mesures techniques et aux
-informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ;
+informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ; 
 
 4° La suspension, par tout moyen, du contenu d'un service de communication au public en ligne portant atteinte à l'un des
-droits de l'auteur, y compris en ordonnant de cesser de stocker ce contenu ou, à défaut, de cesser d'en permettre l'accès.
-Dans ce cas, le délai prévu à l'article L. 332-2 est réduit à quinze jours.
+droits de l'auteur, y compris en ordonnant de cesser de stocker ce contenu ou, à défaut, de cesser d'en permettre l'accès. Le
+délai dans lequel la mainlevée ou le cantonnement des effets de cette mesure peuvent être demandés par le défendeur est fixé
+par voie réglementaire ; 
 
-Le président du tribunal de grande instance peut, dans les mêmes formes, ordonner les mesures prévues aux 1° à 4° à la
-demande des titulaires de droits voisins définis au livre II.
+5° La saisie réelle des oeuvres illicites ou produits soupçonnés de porter atteinte à un droit d'auteur, ou leur remise entre
+les mains d'un tiers afin d'empêcher leur introduction ou leur circulation dans les circuits commerciaux ; 
+
+Le président du tribunal de grande instance peut, dans les mêmes formes, ordonner les mesures prévues aux 1° à 5° à la
+demande des titulaires de droits voisins définis au livre II. 
 
 Le président du tribunal de grande instance peut, dans les ordonnances prévues ci-dessus, ordonner la constitution préalable
-par le saisissant d'un cautionnement convenable.
+de garanties par le saisissant.
 
 **Liens relatifs à cet article**
 
@@ -6645,13 +6764,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 19 () JORF 3 août 2006
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 34 () JORF 30 octobre 2007
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L331-22 (V)
   - Code de la propriété intellectuelle - art. L331-5 (V)
-  - Code de la propriété intellectuelle - art. L332-2 (M)
 
 _Cité par_:
 
@@ -6663,8 +6781,7 @@ _Cité par_:
 
 ###### Article L332-2
 
-Dans les trente jours de la date du procès-verbal de la saisie prévue à l'alinéa premier de l'article L. 332-1 ou de la date
-de l'ordonnance prévue au même article, le saisi ou le tiers saisi peuvent demander au président du tribunal de grande
+Dans un délai fixé par voie réglementaire, le saisi ou le tiers saisi peuvent demander au président du tribunal de grande
 instance de prononcer la mainlevée de la saisie ou d'en cantonner les effets, ou encore d'autoriser la reprise de la
 fabrication ou celle des représentations ou exécutions publiques, sous l'autorité d'un administrateur constitué séquestre,
 pour le compte de qui il appartiendra, des produits de cette fabrication ou de cette exploitation.
@@ -6685,7 +6802,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 35 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -6696,8 +6813,8 @@ _Cité par_:
 
 ###### Article L332-3
 
-Faute par le saisissant de saisir la juridiction compétente dans les trente jours de la saisie, mainlevée de cette saisie
-pourra être ordonnée à la demande du saisi ou du tiers saisi par le président du tribunal, statuant en référé.
+Faute par le saisissant de saisir la juridiction compétente dans un délai fixé par voie réglementaire, mainlevée de cette
+saisie pourra être ordonnée à la demande du saisi ou du tiers saisi par le président du tribunal, statuant en référé.
 
 **Liens relatifs à cet article**
 
@@ -6711,7 +6828,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 36 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -6722,11 +6839,13 @@ _Cité par_:
 ###### Article L332-4
 
 En matière de logiciels et de bases de données, la saisie-contrefaçon est exécutée en vertu d'une ordonnance rendue sur
-requête par le président du tribunal de grande instance. Le président autorise, s'il y a lieu, la saisie réelle.
+requête par le président du tribunal de grande instance. Le président peut ordonner la saisie réelle des objets réalisés ou
+fabriqués illicitement ainsi que celle des matériels et instruments utilisés pour produire ou distribuer illicitement un
+logiciel ou une base de données ainsi que de tout document s'y rapportant.
 
 L'huissier instrumentaire ou le commissaire de police peut être assisté d'un expert désigné par le requérant.
 
-A défaut d'assignation ou de citation dans la quinzaine de la saisie, la saisie-contrefaçon est nulle.
+A défaut d'assignation ou de citation dans un délai fixé par voie réglementaire, la saisie-contrefaçon est nulle.
 
 En outre, les commissaires de police sont tenus, à la demande de tout titulaire de droits sur un logiciel ou sur une base de
 données, d'opérer une saisie-description du logiciel ou de la base de données contrefaisants, saisie-description qui peut se
@@ -6744,8 +6863,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
-  - Loi n°98-536 du 1 juillet 1998 - art. 7
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 37 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -6897,7 +7015,7 @@ contrefaçon est un délit.
 La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de trois ans d'emprisonnement et de 300 000
 euros d'amende.
 
-Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaits.
+Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaisants.
 
 Lorsque les délits prévus par le présent article ont été commis en bande organisée, les peines sont portées à cinq ans
 d'emprisonnement et à 500 000 euros d'amende.
@@ -6930,7 +7048,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 34 () JORF 10 mars 2004
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 _Anciens textes_:
 
@@ -7258,37 +7376,19 @@ _Cite_:
 
 ###### Article L335-6
 
-En cas de condamnation pour l'un des délits prévus et réprimés au présent chapitre, le tribunal peut prononcer la
-confiscation de tout ou partie des recettes procurées par l'infraction ainsi que celle de tous les phonogrammes,
-vidéogrammes, objets et exemplaires contrefaisants ou reproduits illicitement et du matériel spécialement installé en vue de
-la réalisation du délit.
+Les personnes physiques coupables de l'une des infractions prévues aux articles L. 335-2 à L. 335-4-2 peuvent en outre être
+condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou
+était destinée à commettre l'infraction. 
 
-Il peut également ordonner, aux frais du condamné, l'affichage du jugement prononçant la condamnation dans les conditions et
-sous les peines prévues à l'article 131-35 du code pénal, ainsi que sa publication intégrale ou par extraits dans les
-journaux ou sur les services de communication au public en ligne qu'il désigne, sans que les frais de cette publication
-puissent excéder le montant maximum de l'amende encourue.
+La juridiction peut prononcer la confiscation de tout ou partie des recettes procurées par l'infraction ainsi que celle de
+tous les phonogrammes, vidéogrammes, objets et exemplaires contrefaisants ou reproduits illicitement ainsi que du matériel
+spécialement installé en vue de la réalisation du délit. 
 
-**Liens relatifs à cet article**
+Elle peut ordonner la destruction, aux frais du condamné, ou la remise à la partie lésée des objets et choses retirés des
+circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts. 
 
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Modifié par_:
-
-  - Loi n°2006-961 du 1 août 2006 - art. 26 () JORF 3 août 2006
-
-_Cite_:
-
-  - Code pénal - art. 131-35 (M)
-
-
-###### Article L335-7
-
-Lorsqu'il est fait application de l'article précédent, le matériel, les objets contrefaisants et les recettes ayant donné
-lieu à confiscation seront remis à la victime ou à ses ayants droit pour les indemniser de leur préjudice ; le surplus de
-leur indemnité ou l'entière indemnité s'il n'y a eu aucune confiscation de matériel, d'objets contrefaisants ou de recettes,
-sera réglé par les voies ordinaires.
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la
+condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -7297,45 +7397,32 @@ _Codifié par_:
   - Loi n°92-597 1992-07-01
 
 _Modifié par_:
-
-  - Loi n°2006-961 du 1 août 2006 - art. 26 () JORF 3 août 2006
-
-_Abrogé par_:
 
   - Loi n°2007-1544 du 29 octobre 2007 - art. 38 () JORF 30 octobre 2007
 
-_Cité par_:
-
-  - Décret n°2010-236 du 5 mars 2010 - art. (V)
-  - Décret n°2010-236 du 5 mars 2010 - art. 1 (V)
-  - Décret n°2010-236 du 5 mars 2010 - art. 4 (V)
-  - Code de la propriété intellectuelle - art. 331-45 (V)
-  - Code de la propriété intellectuelle - art. 331-46 (V)
-  - Code de la propriété intellectuelle - art. L331-21-1 (V)
-  - Code de la propriété intellectuelle - art. L331-29 (V)
-  - Code de la propriété intellectuelle - art. L335-7-1 (VD)
-  - Code de la propriété intellectuelle - art. L335-7-2 (VD)
-  - Code de la propriété intellectuelle - art. L336-3 (VD)
-  - Code pénal - art. 434-41 (V)
-
 _Cite_:
 
-  - Code de la propriété intellectuelle L. 335-6
+  - Code de la propriété intellectuelle - art. L335-2 (V)
+  - Code pénal - art. 131-35 (V)
 
 
 ###### Article L335-8
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal des délits prévus et réprimés au présent chapitre.
+Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, de
+l'une des infractions prévues aux articles L. 335-2 à L. 335-4-2 du présent code encourent : 
 
-Les peines encourues par les personnes morales sont :
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+2° Les peines mentionnées à l'article 131-39 du même code. 
 
-2° Les peines mentionnées à l'article 131-39.
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise. 
 
-L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
-laquelle l'infraction a été commise.
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction. 
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
 **Liens relatifs à cet article**
 
@@ -7345,17 +7432,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 26 () JORF 3 août 2006
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 38 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L335-2 (V)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. L811-1 (M)
-
-_Cite_:
-
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
 
 
 ###### Article L335-9
@@ -7801,9 +7889,124 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L342-1 (V)
 
 
-##### Chapitre III : Sanctions<a id=50></a>
+##### Chapitre III : Procédures et sanctions<a id=50></a>
 
 ###### Article L343-1
+
+L'atteinte aux droits du producteur de bases de données peut être prouvée par tous moyens. 
+
+A cet effet, toute personne ayant qualité pour agir en vertu du présent titre est en droit de faire procéder par tous
+huissiers, assistés par des experts désignés par le demandeur, sur ordonnance rendue sur requête par la juridiction civile
+compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, des supports ou produits portant
+prétendument atteinte aux droits du producteur de bases de données, soit à la saisie réelle de ces supports ou produits ainsi
+que de tout document s'y rapportant. 
+
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
+produire ou distribuer les supports ou produits portant prétendument atteinte aux droits du producteur de bases de données. 
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
+assurer l'indemnisation éventuelle du défendeur si l'action engagée en vertu du présent titre est ultérieurement jugée non
+fondée ou si la mainlevée de la saisie est prononcée. 
+
+La mainlevée de la saisie peut être prononcée selon les modalités prévues par les articles L. 332-2 et L. 332-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L332-2 (V)
+  - Code de la propriété intellectuelle - art. L332-3 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L343-1-1 (V)
+  - Code de la propriété intellectuelle - art. L343-2 (M)
+  - Code de la propriété intellectuelle - art. L343-3 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. L343-4 (V)
+
+
+###### Article L343-2
+
+Toute personne ayant qualité pour agir dans le cas d'une atteinte aux droits du producteur de bases de données peut saisir en
+référé la juridiction civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu auteur de
+cette atteinte ou des intermédiaires dont il utilise les services, toute mesure urgente destinée à prévenir une atteinte aux
+droits du producteur de bases de données ou à empêcher la poursuite d'actes portant prétendument atteinte à ceux-ci. La
+juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent
+que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice
+irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les
+éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à ses droits ou
+qu'une telle atteinte est imminente.
+
+La juridiction peut interdire la poursuite des actes portant prétendument atteinte aux droits du producteur de bases de
+données, la subordonner à la constitution de garanties destinées à assurer l'indemnisation éventuelle du préjudice subi par
+le demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des produits soupçonnés de porter atteinte aux
+droits conférés par le titre, pour empêcher leur introduction ou leur circulation dans les circuits commerciaux.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement
+contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action engagée en vertu du
+présent titre est ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits du producteur de bases de données sont ordonnées avant
+l'engagement d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie
+réglementaire. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont
+annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R343-1 (V)
+
+
+###### Article L343-3
+
+Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité des infractions définies
+au présent chapitre peut résulter des constatations d'agents assermentés désignés par les organismes professionnels de
+producteurs. Ces agents sont agréés par le ministre chargé de la culture dans les mêmes conditions que celles prévues pour
+les agents visés à l'article L. 331-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L331-2 (V)
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. L343-4 (T)
+
+
+###### Article L343-4
 
 Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait de porter atteinte aux droits du producteur d'une
 base de données tels que définis à l'article L. 342-1. Lorsque le délit a été commis en bande organisée, les peines sont
@@ -7817,37 +8020,38 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 34 () JORF 10 mars 2004
-
-_Transféré par_:
-
   - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L342-1 (V)
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de la propriété intellectuelle - art. L343-1-1 (V)
-  - Code de la propriété intellectuelle - art. L343-2 (M)
-  - Code de la propriété intellectuelle - art. L343-3 (Ab)
+  - Code de la propriété intellectuelle - art. L343-1 (M)
+  - Code de la propriété intellectuelle - art. L343-1 (T)
 
 _Nouveaux textes_:
 
-  - Code de la propriété intellectuelle - art. L343-4 (T)
-  - Code de la propriété intellectuelle - art. L343-4 (V)
+  - Code de la propriété intellectuelle - art. L343-3 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L343-7 (V)
+  - Code de procédure pénale - art. 706-1-2 (VD)
 
 
-###### Article L343-2
+###### Article L343-5
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code
-pénal, des infractions définies à l'article L. 343-1. Les peines encourues par les personnes morales sont :
+Les personnes physiques coupables de l'un des délits prévus au présent chapitre peuvent en outre être condamnées, à leurs
+frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à
+commettre l'infraction. 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts. 
 
-2° Les peines mentionnées à l'article 131-39 du même code ; l'interdiction mentionnée au 2° de cet article porte sur
-l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Elle peut également ordonner, aux frais du condamné, l'affichage ou la diffusion du jugement prononçant la condamnation, dans
+les conditions et sous les peines prévues à l'article 131-35 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -7855,30 +8059,51 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
-
 _Créé par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 40 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L343-1 (M)
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R343-1 (V)
+  - Code pénal - art. 131-35 (V)
 
 
-###### Article L343-3
+###### Article L343-6
 
-En cas de récidive des infractions définies à l'article L. 343-1 ou si le délinquant est ou a été lié à la partie lésée par
-convention, les peines encourues sont portées au double.
+Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal des
+délits prévus et réprimés au présent chapitre encourent : 
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
+
+2° Les peines mentionnées à l'article 131-39 du même code. 
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise. 
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 40 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+
+
+###### Article L343-7
+
+En cas de récidive des infractions définies à l'article L. 343-4 ou si le délinquant est ou a été lié à la partie lésée par
+convention, les peines encourues sont portées au double. 
 
 Les coupables peuvent, en outre, être privés pour un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité
 pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les
@@ -7890,69 +8115,13 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
-
 _Créé par_:
 
-  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
-
-_Abrogé par_:
-
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 40 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L343-1 (M)
-
-_Anciens textes_:
-
-  - Code de la propriété intellectuelle - art. L343-4 (T)
-
-
-###### Article L343-4
-
-Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité des infractions définies
-au présent chapitre peut résulter des constatations d'agents assermentés désignés par les organismes professionnels de
-producteurs. Ces agents sont agréés par le ministre chargé de la culture dans les mêmes conditions que celles prévues pour
-les agents visés à l'article L. 331-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
-
-_Créé par_:
-
-  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
-
-_Transféré par_:
-
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L331-2 (M)
-
-_Anciens textes_:
-
-  - Code de la propriété intellectuelle - art. L343-1 (T)
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. L343-3 (Ab)
-  - Code de la propriété intellectuelle - art. L343-3 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L343-7 (V)
-  - Code de procédure pénale - art. 706-1-2 (VD)
+  - Code de la propriété intellectuelle - art. L343-4 (V)
 
 
 ## Deuxième partie : La propriété industrielle<a id=51></a>
@@ -9609,33 +9778,14 @@ _Créé par_:
   - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
-#### Titre II : Contentieux<a id=70></a>
+##### Chapitre V : Dessins ou modèles communautaires<a id=70></a>
 
-##### Chapitre unique<a id=71></a>
+###### Article L515-1
 
-###### Article L521-1
-
-La partie lésée peut, même avant la publicité du dépôt, faire procéder par tous huissiers à la description détaillée, avec ou
-sans saisie, des objets ou instruments incriminés, en vertu d'une ordonnance rendue par le président du tribunal de grande
-instance dans le ressort duquel les opérations devront être effectuées, sur simple requête et production du certificat de
-dépôt.
-
-Le président a la faculté d'autoriser le requérant à se faire assister d'un officier de police ou du juge du tribunal
-d'instance du canton et d'imposer au requérant un cautionnement que celui-ci est tenu de consigner avant de faire procéder à
-l'opération : ce cautionnement est toujours imposé à l'étranger qui requiert la saisie.
-
-Copie est laissée aux détenteurs des objets décrits tant de l'ordonnance que de l'acte constatant le dépôt du cautionnement,
-le tout à peine de nullité et de dommages-intérêts contre l'huissier.
-
-A défaut par le requérant de s'être pourvu soit par la voie civile, soit par la voie correctionnelle, dans le délai de
-quinzaine, la description ou saisie est nulle de plein droit, sans préjudice des dommages-intérêts.
+Toute atteinte aux droits définis par l'article 19 du règlement (CE) n° 6/2002 du Conseil, du 12 décembre 2001, sur les
+dessins ou modèles communautaires constitue une contrefaçon engageant la responsabilité civile de son auteur.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1909-07-14 du 14 juillet 1909 - art. 12 (Ab)
-  - Loi n°1909-07-14 art. 12
 
 _Codifié par_:
 
@@ -9643,24 +9793,59 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 1 () JORF 30 octobre 2007
+
+
+#### Titre II : Contentieux<a id=71></a>
+
+##### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=72></a>
+
+###### Article L521-1
+
+Toute atteinte portée aux droits du propriétaire d'un dessin ou modèle, tels qu'ils sont définis aux articles L. 513-4 à L.
+513-8, constitue une contrefaçon engageant la responsabilité civile de son auteur. 
+
+Les faits postérieurs au dépôt, mais antérieurs à la publication de l'enregistrement du dessin ou modèle, ne peuvent être
+considérés comme ayant porté atteinte aux droits qui y sont attachés. 
+
+Toutefois, lorsqu'une copie de la demande d'enregistrement a été notifiée à une personne, la responsabilité de celle-ci peut
+être recherchée pour des faits postérieurs à cette notification même s'ils sont antérieurs à la publication de
+l'enregistrement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1909-07-14 art. 12
+  - Loi n°1909-07-14 du 14 juillet 1909 - art. 12 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
 
 _Cité par_:
 
   - Décret n°2016-230 du 26 février 2016 - art.
 
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L513-4 (V)
+
 
 ###### Article L521-2
 
-Les faits antérieurs au dépôt ne donnent lieu à aucune action dérivant du présent livre.
+L'action civile en contrefaçon est exercée par le propriétaire du dessin ou modèle.
 
-Les faits postérieurs au dépôt, mais antérieurs à sa publicité, ne peuvent donner lieu, en vertu de l'article L. 521-4, à une
-action, même au civil, qu'à la charge par la partie lésée d'établir la mauvaise foi de la personne mise en examen.
+Toutefois, le bénéficiaire d'un droit exclusif d'exploitation peut, sauf stipulation contraire du contrat de licence, exercer
+l'action en contrefaçon si, après mise en demeure, le propriétaire du dessin ou modèle n'exerce pas cette action.
 
-Aucune action, pénale ou civile, ne peut être intentée, en vertu du même article, avant que le dépôt n'ait été rendu public.
-
-Lorsque les faits sont postérieurs à la publicité du dépôt, leurs auteurs peuvent exciper de leur bonne foi, mais à la
-condition d'en rapporter la preuve.
+Toute partie à un contrat de licence est recevable à intervenir dans l'instance en contrefaçon engagée par une autre partie
+afin d'obtenir la réparation du préjudice qui lui est propre.
 
 **Liens relatifs à cet article**
 
@@ -9672,26 +9857,15 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 _Modifié par_:
 
-  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L521-4 (M)
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
 
 
 ###### Article L521-3
 
-La confiscation, au profit de la partie lésée, des objets portant atteinte aux droits garantis par le présent livre est
-prononcée même en cas de relaxe.
-
-Le tribunal, en cas de condamnation, peut en outre prononcer la confiscation des instruments ayant servi spécialement à la
-fabrication des objets incriminés.
+L'action civile en contrefaçon se prescrit par trois ans à compter des faits qui en sont la cause.
 
 **Liens relatifs à cet article**
 
@@ -9703,16 +9877,17 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
 
 
 ###### Article L521-3-1
 
-Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues au premier alinéa de
-l'article L. 521-4, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et
-des matériels spécialement installés en vue de tels agissements.
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de dessins et modèles, y compris
+lorsque ces actions et demandes portent à la fois sur une question de dessins et modèles et sur une question connexe de
+concurrence déloyale, sont déterminés par la voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -9720,37 +9895,35 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
-
-_Créé par_:
-
-  - Loi n°94-102 du 5 février 1994 - art. 6 () JORF 8 février 1994
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. D521-6 (VD)
 
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L521-4 (M)
-
 
 ###### Article L521-4
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300
-000 euros d'amende. Lorsque le délit a été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et
-à 500 000 euros d'amende.
+La contrefaçon peut être prouvée par tous moyens.
 
-En outre, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de
-cinq ans, de l'établissement ayant servi à commettre l'infraction.
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
+huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction
+civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des
+objets prétendus contrefaisants ainsi que de tout document s'y rapportant.
 
-La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à
-l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
-dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4
-et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six
-mois d'emprisonnement et de 3 750 euros d'amende.
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
+produire ou distribuer les objets prétendus contrefaisants.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
+assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
+annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
+l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
+demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -9776,77 +9949,82 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 34 () JORF 10 mars 2004
-
-_Cite_:
-
-  - Code du travail - art. L122-14-4 (M)
-  - Code du travail - art. L122-14-5 (Ab)
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
 
 
 ###### Article L521-5
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues à l'article 121-2 du code
-pénal des infractions définies à l'article L. 521-4 du présent code.
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin
+sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits contrefaisants qui portent atteinte
+aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a
+été trouvée en possession de produits contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon
+ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la
+fourniture de ces services.
 
-Les peines encourues par les personnes morales sont :
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
 
-1° L'amende suivant les modalités prévues par l'article 131-38 du code pénal ;
+Les documents ou informations recherchés portent sur :
 
-2° Les peines mentionnées à l'article 131-39 du même code.
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits
+ou services, ainsi que des grossistes destinataires et des détaillants ;
 
-L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
-laquelle l'infraction a été commise.
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que le prix obtenu pour les produits ou
+services en cause.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 17 *date d'effet*, art. 18 *champ d'application*
-
-_Créé par_:
-
-  - Loi n°94-102 du 5 février 1994 - art. 17 (V) JORF 8 février 1994 en vigueur le 1er mars 1994
-  - Loi n°94-102 du 5 février 1994 - art. 8 () JORF 8 février 1994 en vigueur le 1er mars 1994
 
 _Cité par_:
 
   - Loi n°94-102 du 5 février 1994 - art. 17 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la propriété intellectuelle - art. L521-4 (M)
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
 
 
 ###### Article L521-6
 
-En cas de récidive des infractions aux droits garantis par le présent livre, ou si le délinquant est ou a été lié par
-convention avec la partie lésée, les peines encourues sont portées au double.
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir
+ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les
+services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite
+d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête
+lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard
+serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut
+ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable
+qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
 
-Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et
-d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que
-pour les conseils de prud'hommes.
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties
+destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des
+produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation
+dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des
+dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu
+contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer
+les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires,
+financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement
+contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est
+ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
+le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande
+du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages
+et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
-
-_Créé par_:
-
-  - Loi n°94-102 du 5 février 1994 - art. 8 () JORF 8 février 1994
 
 _Cité par_:
 
@@ -9854,9 +10032,10 @@ _Cité par_:
   - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
   - Code de la propriété intellectuelle - art. R521-1 (V)
 
-_Transféré par_:
+_Modifié par_:
 
   - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
 
 _Nouveaux textes_:
 
@@ -9865,29 +10044,13 @@ _Nouveaux textes_:
 
 ###### Article L521-7
 
-L'administration des douanes peut, sur demande écrite du propriétaire d'un dessin ou modèle déposé, retenir dans le cadre de
-ses contrôles les marchandises que celui-ci prétend constituer une contrefaçon desdits dessins ou modèles.
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
+manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au
+titulaire des droits du fait de l'atteinte.
 
-Le procureur de la République, le demandeur, ainsi que le déclarant ou le détenteur des marchandises sont informés sans
-délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
-
-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de
-la notification de la retenue des marchandises, de justifier auprès des services douaniers :
-
-- soit de mesures conservatoires décidées par le président du tribunal de grande instance ;
-
-- soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour
-couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
-
-Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration
-des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues
-ou de leur détenteur ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif
-au secret professionnel auquel sont tenus les agents de l'administration des douanes.
-
-La retenue mentionnée au premier alinéa ne porte pas sur les marchandises de statut communautaire, légalement fabriquées ou
-mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire
-douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la
-Communauté européenne, pour y être légalement commercialisées.
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
+intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le
+contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
 
 **Liens relatifs à cet article**
 
@@ -9902,7 +10065,246 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 84 () JORF 2 août 2003
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+
+
+###### Article L521-8
+
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les
+produits reconnus comme produits contrefaisants, les matériaux et instruments ayant principalement servi à leur création ou
+fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au
+profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa
+publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle
+désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+
+
+###### Article L521-9
+
+Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues au premier alinéa de
+l'article L. 521-10, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et
+des matériels ou instruments spécialement installés en vue de tels agissements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L521-10 (V)
+
+
+###### Article L521-10
+
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300
+000 euros d'amende. Lorsque le délit a été commis en bande organisée ou lorsque les faits portent sur des marchandises
+dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500
+000 euros d'amende. 
+
+En outre, la juridiction peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de
+cinq ans, de l'établissement ayant servi à commettre l'infraction. 
+
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à
+l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
+dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux indemnités prévues aux articles L. 122-14-4 et L.
+122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois
+d'emprisonnement et de 3 750 euros d'amende.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L521-11 (V)
+  - Code de la propriété intellectuelle - art. L521-12 (V)
+  - Code de la propriété intellectuelle - art. L521-9 (V)
+  - Code de procédure pénale - art. 706-1-2 (VD)
+
+_Cite_:
+
+  - Code du travail - art. L122-14-4 (VT)
+
+
+###### Article L521-11
+
+Les personnes physiques coupables du délit prévu au premier alinéa de l'article L. 521-10 peuvent en outre être condamnées, à
+leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée
+à commettre l'infraction. 
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts. 
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la
+condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 4 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L521-10 (V)
+  - Code pénal - art. 131-35 (V)
+
+
+###### Article L521-12
+
+Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, du
+délit prévu au premier alinéa de l'article L. 521-10 du présent code encourent : 
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
+
+2° Les peines mentionnées à l'article 131-39 du même code. 
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise. 
+
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction. 
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 4 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L521-10 (V)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-39 (V)
+
+
+###### Article L521-13
+
+En cas de récidive des infractions aux droits garantis par le présent livre, ou si le délinquant est ou a été lié par
+convention avec la partie lésée, les peines encourues sont portées au double.
+
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et
+d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que
+pour les conseils de prud'hommes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. L521-6 (T)
+
+
+###### Article L521-14
+
+En dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, sur demande
+écrite du propriétaire d'un dessin ou d'un modèle déposé ou du bénéficiaire d'un droit exclusif d'exploitation, assortie des
+justifications de son droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une
+contrefaçon. 
+
+Le procureur de la République, le demandeur ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai,
+par les services douaniers, de la retenue à laquelle ces derniers ont procédé. 
+
+Lors de l'information visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises sont communiquées
+au propriétaire du dessin ou du modèle déposé ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article
+59 bis du code des douanes. 
+
+La mesure de retenue est levée de plein droit à défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois
+jours ouvrables s'il s'agit de denrées périssables, à compter de la notification de la retenue des marchandises, de justifier
+auprès des services douaniers, soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être
+pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation
+éventuelle du détenteur des marchandises au cas où la contrefaçon ne serait pas ultérieurement reconnue. 
+
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
+charge du demandeur. 
+
+Aux fins de l'engagement des actions en justice visées au quatrième alinéa, le demandeur peut obtenir de l'administration des
+douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de
+leur détenteur, ainsi que de leur quantité, leur origine et leur provenance par dérogation à l'article 59 bis du code des
+douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes. 
+
+La retenue mentionnée au premier alinéa ne porte pas :
+
+- sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la
+Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des
+douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne pour y être légalement
+commercialisées ;
+
+- sur les marchandises de statut communautaire, légalement fabriquées ou légalement mises en libre pratique dans un autre
+Etat membre de la Communauté européenne, dans lequel elles ont été placées sous le régime du transit et qui sont destinées,
+après avoir transité sur le territoire douanier tel que défini à l'article 1er du code des douanes, à être exportées vers un
+Etat non membre de la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Décret n°2015-427 du 15 avril 2015 (V)
+  - Arrêté du 29 juin 2015 (V)
+  - Arrêté du 29 juin 2015 - art. 1 (V)
+  - Code de la propriété intellectuelle - art. L521-15 (V)
+  - Code de la propriété intellectuelle - art. L521-17 (V)
+  - Code de la propriété intellectuelle - art. L521-17-1 (V)
+  - Code de la propriété intellectuelle - art. L521-17-2 (V)
+  - Code de la propriété intellectuelle - art. L521-18 (V)
+  - Code de la propriété intellectuelle - art. L521-19 (V)
+  - Code de la propriété intellectuelle - art. R523-1 (V)
+  - Code de la propriété intellectuelle - art. R523-3 (Ab)
+  - Code de la propriété intellectuelle - art. R523-4 (Ab)
+  - Code de la propriété intellectuelle - art. R523-5 (Ab)
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
 
 _Cite_:
 
@@ -9910,13 +10312,203 @@ _Cite_:
   - Code des douanes - art. 59 bis (V)
 
 
-### Livre VI : Protection des inventions et des connaissances techniques<a id=72></a>
+###### Article L521-15
 
-#### Titre Ier : Brevets d'invention<a id=73></a>
+En l'absence de demande écrite du propriétaire d'un dessin ou d'un modèle déposé ou du bénéficiaire d'un droit exclusif
+d'exploitation et en dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut,
+dans le cadre de ses contrôles, retenir une marchandise susceptible de porter atteinte à un dessin ou un modèle déposé ou à
+un droit exclusif d'exploitation. 
 
-##### Chapitre Ier : Champ d'application<a id=74></a>
+Cette retenue est immédiatement notifiée au propriétaire du dessin ou du modèle déposé ou au bénéficiaire du droit exclusif
+d'exploitation. Le procureur de la République est également informé de ladite mesure. 
 
-##### Section 1 : Généralités<a id=75></a>
+Lors de la notification visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises est communiquée
+au propriétaire du dessin ou du modèle déposé ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article
+59 bis du code des douanes. 
+
+La mesure de retenue est levée de plein droit si le propriétaire du dessin ou du modèle déposé ou si le bénéficiaire du droit
+exclusif d'exploitation n'a pas déposé la demande prévue par l'article L. 521-14 du présent code dans un délai de trois jours
+ouvrables à compter de la notification de la retenue visée au deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Code de la propriété intellectuelle - art. L521-17-1 (V)
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L521-14 (V)
+  - Code des douanes - art. 59 bis (V)
+
+
+###### Article L521-16
+
+I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un dessin ou d'un modèle
+déposé, prévue par la réglementation communautaire en vigueur, est mise en oeuvre avant qu'une demande d'intervention du
+propriétaire du dessin ou du modèle déposé ou du bénéficiaire du droit exclusif d'exploitation ait été déposée ou acceptée,
+les agents des douanes peuvent, par dérogation à l'article 59 bis du code des douanes, informer ce propriétaire ou ce
+bénéficiaire du droit exclusif d'exploitation de la mise en oeuvre de cette mesure. Ils peuvent également lui communiquer des
+informations portant sur la quantité des marchandises et leur nature. 
+
+Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon de dessin ou modèle, prévue par la
+réglementation communautaire en vigueur, est mise en oeuvre après qu'une demande d'intervention du propriétaire du dessin ou
+du modèle déposé ou du bénéficiaire d'un droit exclusif d'exploitation a été acceptée, les agents des douanes peuvent
+également communiquer à ce propriétaire ou à ce bénéficiaire les informations prévues par cette réglementation communautaire,
+nécessaires pour déterminer s'il y a eu violation de son droit. 
+
+II.-Les frais générés par la mise en oeuvre d'une retenue prévue par la réglementation communautaire en vigueur sont à la
+charge du propriétaire du dessin ou du modèle déposé ou du bénéficiaire du droit exclusif d'exploitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L521-17 (V)
+  - Code de la propriété intellectuelle - art. R523-2 (Ab)
+  - Code de la propriété intellectuelle - art. R523-4 (Ab)
+  - Code de la propriété intellectuelle - art. R523-5 (Ab)
+
+_Cite_:
+
+  - Code des douanes - art. 59 bis (V)
+
+
+###### Article L521-17
+
+Pendant le délai de la retenue visée aux articles L. 521-14 à L. 521-16, le propriétaire du dessin ou du modèle déposé ou le
+bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de l'administration des douanes, inspecter
+les marchandises retenues. 
+
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons.A la demande
+du propriétaire du dessin ou du modèle déposé ou du bénéficiaire du droit exclusif d'exploitation, ces échantillons peuvent
+lui être remis aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie
+civile ou pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Code de la propriété intellectuelle - art. R523-6 (Ab)
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L521-14 (V)
+
+
+###### Article L521-18
+
+En vue de prononcer les mesures prévues aux articles L. 521-14 à L. 521-17, les agents des douanes appliquent les pouvoirs
+qui leur sont dévolus par le code des douanes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L521-14 (V)
+
+
+###### Article L521-19
+
+Les conditions d'application des mesures prévues aux articles L. 521-14 à L. 521-18 sont définies par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L521-14 (V)
+
+
+##### Chapitre II : Contentieux des dessins ou modèles communautaires<a id=73></a>
+
+###### Article L522-1
+
+Les dispositions du chapitre Ier du présent titre sont applicables aux atteintes portées aux droits du propriétaire d'un
+dessin ou modèle communautaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 6 () JORF 30 octobre 2007
+
+
+###### Article L522-2
+
+Un décret en Conseil d'Etat détermine le siège et le ressort des juridictions de première instance et d'appel qui sont
+compétentes pour connaître des actions et des demandes prévues à l'article 80 du règlement (CE) n° 6/2002 du Conseil, du 12
+décembre 2001, sur les dessins ou modèles communautaires, y compris lorsque ces actions et demandes portent à la fois sur une
+question de dessins ou modèles et sur une question connexe de concurrence déloyale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 6 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R. 522-1 (V)
+
+
+### Livre VI : Protection des inventions et des connaissances techniques<a id=74></a>
+
+#### Titre Ier : Brevets d'invention<a id=75></a>
+
+##### Chapitre Ier : Champ d'application<a id=76></a>
+
+##### Section 1 : Généralités<a id=77></a>
 
 ###### Article L611-1
 
@@ -10113,7 +10705,7 @@ _Créé par_:
   - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
-##### Section 2 : Droit au titre<a id=76></a>
+##### Section 2 : Droit au titre<a id=78></a>
 
 ###### Article L611-6
 
@@ -10283,7 +10875,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
 
 
-##### Section 3 : Inventions brevetables<a id=77></a>
+##### Section 3 : Inventions brevetables<a id=79></a>
 
 ###### Article L611-10
 
@@ -10652,9 +11244,9 @@ _Cite_:
   - Règlement 2100-94 CEE 1994-07-27 art. 5
 
 
-##### Chapitre II : Dépôt et instruction des demandes<a id=78></a>
+##### Chapitre II : Dépôt et instruction des demandes<a id=80></a>
 
-##### Section 1 : Dépôt des demandes<a id=79></a>
+##### Section 1 : Dépôt des demandes<a id=81></a>
 
 ###### Article L612-1
 
@@ -10894,7 +11486,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-24 (V)
 
 
-##### Section 2 : Instruction des demandes<a id=80></a>
+##### Section 2 : Instruction des demandes<a id=82></a>
 
 ###### Article L612-8
 
@@ -11428,7 +12020,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L411-4 (V)
 
 
-##### Section 3 : Diffusion légale des inventions<a id=81></a>
+##### Section 3 : Diffusion légale des inventions<a id=83></a>
 
 ###### Article L612-21
 
@@ -11548,9 +12140,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L611-14 (V)
 
 
-##### Chapitre III : Droits attachés aux brevets<a id=82></a>
+##### Chapitre III : Droits attachés aux brevets<a id=84></a>
 
-##### Section 1 : Droit exclusif d'exploitation<a id=83></a>
+##### Section 1 : Droit exclusif d'exploitation<a id=85></a>
 
 ###### Article L613-1
 
@@ -11967,7 +12559,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
 
 
-##### Section 2 : Transmission et perte des droits<a id=84></a>
+##### Section 2 : Transmission et perte des droits<a id=86></a>
 
 ###### Article L613-8
 
@@ -12348,6 +12940,59 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R613-24 (V)
 
 
+###### Article L613-17-1
+
+La demande d'une licence obligatoire, présentée en application du règlement (CE) n° 816/2006 du Parlement européen et du
+Conseil, du 17 mai 2006, concernant l'octroi de licences obligatoires pour des brevets visant la fabrication de produits
+pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique, est adressée à l'autorité
+administrative. La licence est délivrée conformément aux conditions déterminées par l'article 10 de ce règlement. L'arrêté
+d'octroi de la licence fixe le montant des redevances dues.
+
+La licence prend effet à la date la plus tardive à laquelle l'arrêté est notifié au demandeur et au titulaire du droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 8 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 48 (V)
+  - Code de la propriété intellectuelle - art. L615-2 (VD)
+  - Code de la propriété intellectuelle - art. R613-25-1 (V)
+
+_Cite_:
+
+  - Règlement CE  816-2006 2006-05-17
+
+
+###### Article L613-17-2
+
+Toute violation de l'interdiction prévue à l'article 13 du règlement (CE) n° 816/2006 du Parlement européen et du Conseil, du
+17 mai 2006, précité et à l'article 2 du règlement (CE) n° 953/2003 du Conseil, du 26 mai 2003, visant à éviter le
+détournement vers des pays de l'Union européenne de certains médicaments essentiels constitue une contrefaçon punie des
+peines prévues à l'article L. 615-14 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 8 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L615-14 (V)
+
+
 ###### Article L613-18
 
 Le ministre chargé de la propriété industrielle peut mettre en demeure les propriétaires de brevets d'invention autres que
@@ -12644,7 +13289,7 @@ _Cité par_:
 
 Le brevet est déclaré nul par décision de justice :
 
-a) Si son objet n'est pas brevetable aux termes des articles L. 611-10, L. 611-11 et L. 611-13 à L. 611-17 ;
+a) Si son objet n'est pas brevetable aux termes des articles L. 611-10, L. 611-11 et L. 611-13 à L. 611-19 ;
 
 b) S'il n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter ;
 
@@ -12665,15 +13310,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L611-10 (M)
-  - Code de la propriété intellectuelle - art. L611-11 (V)
-  - Code de la propriété intellectuelle L611-10, L611-11, L611-13 à L611-17
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 9 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -12788,7 +13427,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
 
 
-##### Section 3 : Copropriété des brevets<a id=85></a>
+##### Section 3 : Copropriété des brevets<a id=87></a>
 
 ###### Article L613-29
 
@@ -12920,9 +13559,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L613-29 (V)
 
 
-##### Chapitre IV : Application de conventions internationales<a id=86></a>
+##### Chapitre IV : Application de conventions internationales<a id=88></a>
 
-##### Section 1 : Brevets européens<a id=87></a>
+##### Section 1 : Brevets européens<a id=89></a>
 
 ###### Article L614-1
 
@@ -12948,7 +13587,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
 
 
-##### Paragraphe 1 : Dépôt des demandes de brevet européen<a id=88></a>
+##### Paragraphe 1 : Dépôt des demandes de brevet européen<a id=90></a>
 
 ###### Article L614-2
 
@@ -13122,14 +13761,22 @@ _Créé par_:
   - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
-##### Paragraphe 2 : Effets en France des brevets européens<a id=89></a>
+##### Paragraphe 2 : Effets en France des brevets européens<a id=91></a>
 
 ###### Article L614-7
 
-Lorsque le texte, dans lequel l'Office européen des brevets créé par la Convention de Munich délivre un brevet européen ou
-maintient un tel brevet sous une forme modifiée, n'est pas rédigé en français, le titulaire du brevet doit fournir à
-l'Institut national de la propriété industrielle une traduction de ce texte dans les conditions et délai déterminés par
-décret en Conseil d'Etat. Faute de satisfaire à cette obligation, le brevet est sans effet.
+Le texte de la demande de brevet européen ou du brevet européen rédigé dans la langue de procédure devant l'Office européen
+des brevets créé par la convention de Munich est le texte qui fait foi.
+
+En cas de litige relatif à un brevet européen dont le texte n'est pas rédigé en français, le titulaire du brevet fournit, à
+ses frais, à la demande du présumé contrefacteur ou à la demande de la juridiction compétente, une traduction complète du
+brevet en français.
+
+**Nota:**
+
+Loi 2007-1544 du 29 octobre 2007 art. 10 I : A compter de l'entrée en vigueur de l'accord sur l'application de l'article 65
+de la convention sur la délivrance de brevets européens, l'article L. 614-7 du code de la propriété intellectuelle est ainsi
+rédigé.
 
 **Liens relatifs à cet article**
 
@@ -13141,9 +13788,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 10 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -13154,7 +13801,7 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Date de fin de vigueur indéterminée
+  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
 
 
 ###### Article L614-8
@@ -13221,27 +13868,31 @@ _Cité par_:
 
 ###### Article L614-10
 
-Lorsqu'une traduction en langue française a été produite dans les conditions prévues à l'article L. 614-7 ou au second alinéa
-de l'article L. 614-9, cette traduction est considérée comme faisant foi si la demande de brevet européen ou le brevet
-européen confère dans le texte de la traduction une protection moins étendue que celle qui est conférée par ladite demande ou
-par ledit brevet dans la langue dans laquelle la demande a été déposée. 
+Hormis les cas d'action en nullité et par dérogation au premier alinéa de l'article L. 614-7, lorsqu'une traduction en langue
+française a été produite dans les conditions prévues au second alinéa du même article L. 614-7 ou au second alinéa de
+l'article L. 614-9, cette traduction est considérée comme faisant foi si la demande de brevet européen ou le brevet européen
+confère dans le texte de la traduction une protection moins étendue que celle qui est conférée par ladite demande ou par
+ledit brevet dans la langue dans laquelle la demande a été déposée. 
 
-Toutefois, une traduction révisée peut être produite à tout moment par le titulaire de la demande ou du brevet. Cette
-traduction ne prend cependant effet que lorsque les conditions prévues à l'article L. 614-7 ou au second alinéa de l'article
-L. 614-9 ont été remplies. 
+Toutefois, une traduction révisée peut être produite à tout moment par le titulaire de la demande ou du brevet. La traduction
+révisée des revendications ne prend cependant effet que lorsque les conditions prévues au second alinéa de l'article L. 614-9
+ont été remplies. 
 
 Toute personne qui a, de bonne foi, commencé à exploiter une invention ou fait des préparatifs effectifs et sérieux à cette
 fin, sans que cette exploitation constitue une contrefaçon de la demande ou du brevet dans le texte de la traduction
 initiale, peut, dès que la traduction révisée a pris effet, poursuivre à titre gratuit son exploitation dans son entreprise
-ou pour les besoins de celle-ci. 
+ou pour les besoins de celle-ci.
 
-Par dérogation aux dispositions ci-dessus, la langue de la procédure fait foi dans les actions en nullité.
+**Nota:**
+
+Loi 2007-1544 du 29 octobre 2007 art. 10 II : A compter de l'entrée en vigueur de l'accord sur l'application de l'article 65
+de la convention sur la délivrance de brevets européens, l'article L. 614-10 du même code est ainsi modifié.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - SPEC_APPLI: Date de fin de vigueur indéterminée
+  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
 
 _Anciens textes_:
 
@@ -13251,9 +13902,14 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 10 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L614-7 (V)
+  - Code de la propriété intellectuelle - art. L614-9 (V)
 
 _Cité par_:
 
@@ -13452,7 +14108,7 @@ _Créé par_:
   - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
-##### Section 2 : Demandes internationales<a id=90></a>
+##### Section 2 : Demandes internationales<a id=92></a>
 
 ###### Article L614-17
 
@@ -13478,7 +14134,7 @@ _Cite_:
   - Traité 1970-06-19, signé à Washington
 
 
-##### Paragraphe 1 : Dépôt des demandes internationales<a id=91></a>
+##### Paragraphe 1 : Dépôt des demandes internationales<a id=93></a>
 
 ###### Article L614-18
 
@@ -13671,7 +14327,7 @@ _Créé par_:
   - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
-##### Paragraphe 2 : Effets en France des demandes internationales<a id=92></a>
+##### Paragraphe 2 : Effets en France des demandes internationales<a id=94></a>
 
 ###### Article L614-24
 
@@ -13698,7 +14354,7 @@ _Cite_:
   - Traité 1970-06-19, signé à Washington
 
 
-##### Section 3 : Brevets communautaires<a id=93></a>
+##### Section 3 : Brevets communautaires<a id=95></a>
 
 ###### Article L614-25
 
@@ -13934,7 +14590,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L614-29 (Ab)
 
 
-##### Section 4 : Dispositions finales<a id=94></a>
+##### Section 4 : Dispositions finales<a id=96></a>
 
 ###### Article L614-31
 
@@ -13971,19 +14627,19 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. L614-25 (VD)
 
 
-##### Chapitre V : Actions en justice<a id=95></a>
+##### Chapitre V : Actions en justice<a id=97></a>
 
-##### Section 1 : Actions civiles<a id=96></a>
+##### Section 1 : Actions civiles<a id=98></a>
 
 ###### Article L615-1
 
 Toute atteinte portée aux droits du propriétaire du brevet, tels qu'ils sont définis aux articles L. 613-3 à L. 613-6,
-constitue une contrefaçon.
+constitue une contrefaçon. 
 
-La contrefaçon engage la responsabilité civile de son auteur.
+La contrefaçon engage la responsabilité civile de son auteur. 
 
 Toutefois, l'offre, la mise dans le commerce, l'utilisation, la détention en vue de l'utilisation ou la mise dans le commerce
-d'un produit contrefait, lorsque ces faits sont commis par une autre personne que le fabricant du produit contrefait,
+d'un produit contrefaisant, lorsque ces faits sont commis par une autre personne que le fabricant du produit contrefaisant,
 n'engagent la responsabilité de leur auteur que si les faits ont été commis en connaissance de cause.
 
 **Liens relatifs à cet article**
@@ -13996,32 +14652,32 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L613-3 (V)
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
 
-_Cite_:
-
-  - Code de la propriété intellectuelle L613-3 à L613-6
-
 
 ###### Article L615-2
 
-L'action en contrefaçon est exercée par le propriétaire du brevet.
+L'action en contrefaçon est exercée par le propriétaire du brevet. 
 
 Toutefois, le bénéficiaire d'un droit exclusif d'exploitation peut, sauf stipulation contraire du contrat de licence, exercer
-l'action en contrefaçon si, après mise en demeure, le propriétaire du brevet n'exerce pas cette action.
+l'action en contrefaçon si, après mise en demeure, le propriétaire du brevet n'exerce pas cette action. 
 
 Le breveté est recevable à intervenir dans l'instance en contrefaçon engagée par le licencié, conformément à l'alinéa
-précédent.
+précédent. 
 
-Le titulaire d'une licence de droit, d'une licence obligatoire ou d'une licence d'office, mentionnées aux articles L. 613-10,
-L. 613-11, L. 613-15, L. 613-17 et L. 613-19, peut exercer l'action en contrefaçon si, après la mise en demeure, le
-propriétaire du brevet n'exerce pas cette action.
+Le titulaire d'une licence obligatoire ou d'une licence d'office, mentionnées aux articles L. 613-11, L. 613-15, L. 613-17, 
+L. 613-17-1 et L. 613-19, peut exercer l'action en contrefaçon si, après la mise en demeure, le propriétaire du brevet
+n'exerce pas cette action. 
 
 Tout licencié est recevable à intervenir dans l'instance en contrefaçon engagée par le breveté, afin d'obtenir la réparation
 du préjudice qui lui est propre.
@@ -14036,16 +14692,16 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 17 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-10 (Ab)
-  - Code de la propriété intellectuelle - art. L613-11 (M)
-  - Code de la propriété intellectuelle - art. L613-15 (M)
+  - Code de la propriété intellectuelle - art. L613-11 (V)
+  - Code de la propriété intellectuelle - art. L613-15 (V)
   - Code de la propriété intellectuelle - art. L613-17 (V)
+  - Code de la propriété intellectuelle - art. L613-17-1 (V)
   - Code de la propriété intellectuelle - art. L613-19 (V)
 
 _Cité par_:
@@ -14059,15 +14715,35 @@ _Cité par_:
 
 ###### Article L615-3
 
-Lorsque le tribunal est saisi d'une action en contrefaçon sur le fondement d'un brevet, son président, saisi et statuant en
-la forme des référés, peut interdire, à titre provisoire, sous astreinte, la poursuite des actes argués de contrefaçon, ou
-subordonner cette poursuite à la constitution de garanties destinées à assurer l'indemnisation du breveté.
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir
+ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les
+services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite
+d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête
+lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard
+serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut
+ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable
+qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
 
-La demande d'interdiction ou de constitution de garanties n'est admise que si l'action au fond apparaît sérieuse et a été
-engagée dans un bref délai à compter du jour où le breveté a eu connaissance des faits sur lesquels elle est fondée.
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties
+destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des
+produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation
+dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des
+dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu
+contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer
+les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires,
+financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
 
-Le juge peut subordonner l'interdiction à la constitution par le demandeur de garanties destinées à assurer l'indemnisation
-éventuelle du préjudice subi par le défendeur si l'action en contrefaçon est ultérieurement jugée non fondée.
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement
+contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est
+ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
+le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande
+du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages
+et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -14080,9 +14756,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 11 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -14139,23 +14815,23 @@ _Cité par_:
 
 ###### Article L615-5
 
-Le propriétaire d'une demande de brevet ou le propriétaire d'une demande de certificat d'utilité, ou le propriétaire d'un
-brevet ou d'un certificat d'utilité, a la possibilité de faire la preuve par tous moyens de la contrefaçon dont il se prétend
-victime.
+La contrefaçon peut être prouvée par tous moyens.
 
-Il est par ailleurs en droit de faire procéder, sur ordonnance du président du tribunal de grande instance du lieu de la
-contrefaçon présumée, par tous huissiers assistés d'experts de son choix, à la description détaillée, avec ou sans saisie
-réelle, des produits ou procédés prétendus contrefaits. L'ordonnance est exécutoire par provision. Elle peut être subordonnée
-à une consignation par le requérant. Dans la même ordonnance, le président du tribunal peut autoriser l'huissier à procéder à
-toute constatation utile en vue d'établir l'origine, la consistance et l'étendue de la contrefaçon.
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
+huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction
+civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des
+produits ou procédés prétendus contrefaisants ainsi que de tout document s'y rapportant.
 
-Le même droit est ouvert au concessionnaire d'un droit exclusif d'exploitation sous la condition prévue au deuxième alinéa de
-l'article L. 615-2, ainsi que sous la condition prévue au quatrième alinéa de l'article L. 615-2, au titulaire d'une licence
-de droit, d'une licence obligatoire ou d'une licence d'office visées aux articles L. 613-10, L. 613-11, L. 613-15, L. 613-17
-et L. 613-19.
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
+fabriquer ou distribuer les produits ou pour mettre en oeuvre les procédés prétendus contrefaisants.
 
-A défaut par le requérant de s'être pourvu devant le tribunal dans le délai de quinze jours, la saisie sera nulle de plein
-droit, sans préjudice d'éventuels dommages-intérêts.
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
+assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
+annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
+l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
+demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -14168,9 +14844,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 12 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -14183,15 +14859,6 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R615-1 (M)
   - Code de la propriété intellectuelle - art. R615-2 (V)
   - Code de la propriété intellectuelle - art. R615-3 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L613-10 (Ab)
-  - Code de la propriété intellectuelle - art. L613-11 (M)
-  - Code de la propriété intellectuelle - art. L613-15 (M)
-  - Code de la propriété intellectuelle - art. L613-17 (V)
-  - Code de la propriété intellectuelle - art. L613-19 (V)
-  - Code de la propriété intellectuelle - art. L615-2 (M)
 
 
 ###### Article L615-5-1
@@ -14228,6 +14895,40 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
 
 
+###### Article L615-5-2
+
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin
+sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits ou procédés contrefaisants qui
+portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par
+toute personne qui a été trouvée en possession de produits contrefaisants ou mettant en oeuvre des procédés contrefaisants ou
+qui fournit des services utilisés dans des activités de contrefaçon ou a été signalée comme intervenant dans la production,
+la fabrication ou la distribution de ces produits, la mise en oeuvre de ces procédés ou la fourniture de ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits,
+procédés ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b)  Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits,
+procédés ou services en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 13 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L622-7 (V)
+
+
 ###### Article L615-6
 
 Dans une instance en contrefaçon introduite en vertu d'une demande de certificat d'utilité, le demandeur devra produire un
@@ -14259,13 +14960,13 @@ _Cité par_:
 
 ###### Article L615-7
 
-Sur la demande de la partie lésée, et autant que la mesure s'avère nécessaire pour assurer l'interdiction de continuer la
-contrefaçon, les juges pourront ordonner la confiscation, au profit du demandeur, des objets reconnus contrefaits, qui sont
-la propriété du contrefacteur à la date de l'entrée en vigueur de l'interdiction, et, le cas échéant, celles des dispositifs
-ou moyens spécialement destinés à la réalisation de la contrefaçon.
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
+manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au
+titulaire des droits du fait de l'atteinte.
 
-Il sera tenu compte de la valeur des objets confisqués dans le calcul de l'indemnité allouée au bénéficiaire de la
-condamnation.
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
+intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le
+contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
 
 **Liens relatifs à cet article**
 
@@ -14277,14 +14978,43 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 14 () JORF 30 octobre 2007
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. L615-10 (M)
   - Code de la propriété intellectuelle - art. L622-7 (V)
+  - Code de la propriété intellectuelle - art. L811-1-1 (VD)
+
+
+###### Article L615-7-1
+
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les
+produits reconnus comme produits contrefaisants et les matériaux et instruments ayant principalement servi à leur création ou
+fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au
+profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa
+publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle
+désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 15 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L615-10 (V)
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
 
 
@@ -14349,17 +15079,17 @@ _Cité par_:
 Lorsqu'une invention, objet d'une demande de brevet ou d'un brevet, est exploitée pour les besoins de la défense nationale
 par l'Etat ou ses fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une licence d'exploitation leur ait
 été octroyée, l'action civile est portée devant la chambre du conseil du tribunal de grande instance. Celui-ci ne peut
-ordonner ni la cessation ou l'interruption de l'exploitation ni la confiscation prévue à l'article L. 615-7.
+ordonner ni la cessation ou l'interruption de l'exploitation ni la confiscation prévue aux articles L. 615-3 et L. 615-7-1. 
 
 Si une expertise ou une description avec ou sans saisie réelle telle que prévue à l'article L. 615-5 est ordonnée par le
 président du tribunal, l'officier public commis doit surseoir à la saisie, à la description et à toute recherche dans les
 archives et documents de l'entreprise, si le contrat d'études ou de fabrication comporte une classification de sécurité de
-défense.
+défense. 
 
-Il en est de même si les études ou fabrications sont exécutées dans un établissement des armées.
+Il en est de même si les études ou fabrications sont exécutées dans un établissement des armées. 
 
 Le président du tribunal de grande instance peut, s'il en est requis par l'ayant droit, ordonner une expertise qui ne peut
-être effectuée que par des personnes agréées par le ministre chargé de la défense et devant ses représentants.
+être effectuée que par des personnes agréées par le ministre chargé de la défense et devant ses représentants. 
 
 Les dispositions de l'article L. 615-4 ne sont pas applicables aux demandes de brevet exploité dans les conditions définies
 au présent article aussi longtemps que ces demandes sont soumises aux interdictions prévues par les articles L. 612-9 et L.
@@ -14375,17 +15105,17 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 14 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-10 (V)
   - Code de la propriété intellectuelle - art. L612-9 (V)
+  - Code de la propriété intellectuelle - art. L615-3 (V)
   - Code de la propriété intellectuelle - art. L615-4 (V)
-  - Code de la propriété intellectuelle - art. L615-5 (M)
-  - Code de la propriété intellectuelle - art. L615-7 (M)
+  - Code de la propriété intellectuelle - art. L615-5 (V)
+  - Code de la propriété intellectuelle - art. L615-7-1 (V)
 
 _Cité par_:
 
@@ -14394,7 +15124,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R613-41 (V)
 
 
-##### Section 2 : Actions pénales<a id=97></a>
+##### Section 2 : Actions pénales<a id=99></a>
 
 ###### Article L615-12
 
@@ -14455,8 +15185,9 @@ _Cité par_:
 ###### Article L615-14
 
 1. Sont punies de trois ans d'emprisonnement et de 300 000 euros d'amende les atteintes portées sciemment aux droits du
-propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande
-organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande organisée
+ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines
+sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 2. Alinéa perimé.
 
@@ -14482,7 +15213,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 34 () JORF 10 mars 2004
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 16 () JORF 30 octobre 2007
 
 _Cite_:
 
@@ -14515,6 +15246,78 @@ _Créé par_:
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L615-14 (M)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L811-1-1 (VD)
+
+
+###### Article L615-14-2
+
+Les personnes physiques coupables du délit prévu à l'article L. 615-14 peuvent en outre être condamnées, à leurs frais, à
+retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre
+l'infraction. 
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts. 
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la
+condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 16 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L615-14 (V)
+  - Code pénal - art. 131-35 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L811-1-1 (VD)
+
+
+###### Article L615-14-3
+
+Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal du
+délit prévu à l'article L. 615-14 du présent code encourent :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 16 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L615-14 (M)
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
 
 _Cité par_:
 
@@ -14580,7 +15383,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L614-5 (V)
 
 
-##### Section 3 : Règles de compétence et de procédure<a id=98></a>
+##### Section 3 : Règles de compétence et de procédure<a id=100></a>
 
 ###### Article L615-17
 
@@ -14785,9 +15588,9 @@ _Créé par_:
   - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
-#### Titre II : Protection des connaissances techniques<a id=99></a>
+#### Titre II : Protection des connaissances techniques<a id=101></a>
 
-##### Chapitre Ier : Secret de fabrique<a id=100></a>
+##### Chapitre Ier : Secret de fabrique<a id=102></a>
 
 ###### Article L621-1
 
@@ -14829,9 +15632,9 @@ _Cite_:
   - Code pénal - art. 131-26 (V)
 
 
-##### Chapitre II : Produits semi-conducteurs<a id=101></a>
+##### Chapitre II : Produits semi-conducteurs<a id=103></a>
 
-##### Section 1 : Dépôt<a id=102></a>
+##### Section 1 : Dépôt<a id=104></a>
 
 ###### Article L622-1
 
@@ -14949,7 +15752,7 @@ _Créé par_:
   - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
-##### Section 2 : Droits attachés au dépôt<a id=103></a>
+##### Section 2 : Droits attachés au dépôt<a id=105></a>
 
 ###### Article L622-5
 
@@ -14969,6 +15772,9 @@ présent chapitre.
 L'interdiction ci-dessus n'est pas opposable à l'acquéreur de bonne foi d'un produit semi-conducteur. Celui-ci est cependant
 redevable d'une juste indemnité s'il entend poursuivre l'exploitation commerciale du produit ainsi acquis.
 
+Toute violation de l'interdiction prévue aux alinéas précédents constitue une contrefaçon engageant la responsabilité civile
+de son auteur.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -14979,9 +15785,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 18 () JORF 30 octobre 2007
 
 
 ###### Article L622-6
@@ -15010,8 +15816,10 @@ _Créé par_:
 
 ###### Article L622-7
 
-Les articles L. 411-4, L. 411-5, L. 612-11, L. 613-8, L. 613-9, L. 613-19, L. 615-10 et L. 615-17 sont applicables aux
-conditions et formes dans lesquelles :
+Les articles L. 411-4, L. 411-5, L. 612-11, L. 613-8, L. 613-9, 
+L. 613-19, L. 615-2, L. 615-3, 
+L. 615-5, L. 615-5-2, L. 615-7, L. 615-7-1, L. 615-8, L. 615-10 et L. 615-17 sont applicables aux conditions et formes dans
+lesquelles :
 
 - sont prises les décisions du directeur de l'Institut national de la propriété industrielle mentionnées au présent
 chapitre ;
@@ -15030,9 +15838,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 19 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -15045,18 +15853,20 @@ _Cité par_:
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L411-4 (V)
-  - Code de la propriété intellectuelle - art. L411-5 (V)
   - Code de la propriété intellectuelle - art. L612-11 (V)
   - Code de la propriété intellectuelle - art. L613-19 (V)
   - Code de la propriété intellectuelle - art. L613-8 (V)
-  - Code de la propriété intellectuelle - art. L613-9 (V)
-  - Code de la propriété intellectuelle - art. L615-10 (M)
+  - Code de la propriété intellectuelle - art. L615-10 (V)
   - Code de la propriété intellectuelle - art. L615-17 (V)
+  - Code de la propriété intellectuelle - art. L615-2 (V)
+  - Code de la propriété intellectuelle - art. L615-5 (V)
+  - Code de la propriété intellectuelle - art. L615-5-2 (V)
+  - Code de la propriété intellectuelle - art. L615-7 (V)
 
 
-##### Chapitre III : Obtention végétale<a id=104></a>
+##### Chapitre III : Obtention végétale<a id=106></a>
 
-##### Section 1 : Délivrance des certificats d'obtention végétale<a id=105></a>
+##### Section 1 : Délivrance des certificats d'obtention végétale<a id=107></a>
 
 ###### Article L623-1
 
@@ -15582,7 +16392,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R623-31 (V)
 
 
-##### Section 2 : Droits et obligations attachés aux certificats d'obtention végétale<a id=106></a>
+##### Section 2 : Droits et obligations attachés aux certificats d'obtention végétale<a id=108></a>
 
 ###### Article L623-17
 
@@ -15883,7 +16693,7 @@ _Cite_:
   - Code de la propriété intellectuelle L613-8, L613-29 à L613-32, L613-9, L613-21, 613-24
 
 
-##### Section 3 : Actions en justice<a id=107></a>
+##### Section 3 : Actions en justice<a id=109></a>
 
 ###### Article L623-25
 
@@ -15958,14 +16768,35 @@ _Cité par_:
 
 ###### Article L623-27
 
-Le propriétaire d'une demande de certificat d'obtention ou d'un certificat est en droit de faire procéder, avec autorisation
-de justice, à la description détaillée, avec ou sans saisie réelle, de tous végétaux ou parties de végétaux, de tous éléments
-de reproduction ou de multiplication végétative prétendu obtenus en méconnaissance de ses droits. Ce droit est ouvert au
-concessionnaire d'un droit exclusif d'exploitation ou au titulaire d'une licence d'office sous la condition fixée au
-troisième alinéa de l'article L. 623-25.
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir
+ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les
+services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite
+d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête
+lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard
+serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut
+ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable
+qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
 
-A défaut par le requérant de s'être pourvu devant le tribunal dans le délai fixé par voie réglementaire, la description ou
-saisie est nulle de plein droit, sous préjudice des dommages-intérêts qui peuvent être réclamés s'il y a lieu.
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties
+destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des
+produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation
+dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des
+dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu
+contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer
+les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires,
+financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement
+contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est
+ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
+le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande
+du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages
+et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -15977,20 +16808,88 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 20 () JORF 30 octobre 2007
+
+
+###### Article L623-27-1
+
+La contrefaçon peut être prouvée par tous moyens.
+
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
+huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction
+civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des
+objets prétendus contrefaisants ainsi que de tout document s'y rapportant.
+
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
+produire ou distribuer les objets prétendus contrefaisants.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
+assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
+annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
+l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
+demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
 _Créé par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 20 () JORF 30 octobre 2007
 
-_Cite_:
+_Cité par_:
 
-  - Code de la propriété intellectuelle - art. L623-25 (V)
+  - Code de la propriété intellectuelle - art. L623-27-1-1 (V)
+  - Code de la propriété intellectuelle - art. R623-50-1 (V)
+  - Code de la propriété intellectuelle - art. R623-51 (V)
+  - Code de la propriété intellectuelle - art. R623-53 (V)
+
+
+###### Article L623-27-2
+
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin
+sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits contrefaisants qui portent atteinte
+aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a
+été trouvée en possession de produits contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon
+ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la
+fourniture de ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits
+ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits ou
+services en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 20 () JORF 30 octobre 2007
 
 
 ###### Article L623-28
 
-Le tribunal peut, sur la demande de la partie lésée, prononcer au profit de celle-ci la confiscation de végétaux ou parties
-de végétaux, des éléments de reproduction ou de multiplication végétative obtenus en violation des droits du titulaire d'un
-certificat d'obtention et, le cas échéant, celle des instruments spécialement destinés au cycle de reproduction.
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
+manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au
+titulaire des droits du fait de l'atteinte.
+
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
+intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le
+contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
 
 **Liens relatifs à cet article**
 
@@ -16002,13 +16901,41 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 21 () JORF 30 octobre 2007
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. L623-30 (M)
+
+
+###### Article L623-28-1
+
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les
+produits reconnus comme produits contrefaisants et les matériaux et instruments ayant principalement servi à leur création ou
+fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au
+profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa
+publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle
+désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 21 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L623-30 (V)
 
 
 ###### Article L623-29
@@ -16038,16 +16965,16 @@ _Créé par_:
 Lorsqu'une variété objet d'une demande de certificat ou d'un certificat d'obtention est exploitée pour les besoins de la
 défense nationale par l'Etat ou ses fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une licence
 d'exploitation leur ait été octroyée, la juridiction saisie ne peut ordonner ni la cessation ou l'interruption de
-l'exploitation, ni la confiscation prévue à l'article L. 623-28.
+l'exploitation, ni la confiscation prévue à l'article L. 623-28-1. 
 
 Si une expertise ou une description, avec ou sans saisie réelle, est ordonnée par le président de la juridiction saisie,
 l'officier public commis doit surseoir à la saisie, à la description et à toute recherche dans l'entreprise si le contrat
-d'études ou de reproduction ou de multiplication comporte une classification de sécurité de défense.
+d'études ou de reproduction ou de multiplication comporte une classification de sécurité de défense. 
 
-Il en est de même si les études, la reproduction, la multiplication sont effectuées dans un établissement des armées.
+Il en est de même si les études, la reproduction, la multiplication sont effectuées dans un établissement des armées. 
 
 Le président de la juridiction saisie peut, s'il en est requis par l'ayant droit, ordonner une expertise qui ne peut être
-effectuée que par des personnes agréées par le ministre chargé de la défense et devant ses représentants.
+effectuée que par des personnes agréées par le ministre chargé de la défense et devant ses représentants. 
 
 Les dispositions de l'article L. 623-26 ne sont pas applicables aux demandes de certificat d'obtention végétale exploitées
 dans les conditions définies au présent article aussi longtemps que ces demandes sont soumises aux interdictions prévues par
@@ -16065,15 +16992,14 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 21 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-10 (V)
   - Code de la propriété intellectuelle - art. L623-26 (V)
-  - Code de la propriété intellectuelle - art. L623-28 (M)
+  - Code de la propriété intellectuelle - art. L623-28-1 (V)
   - Code de la propriété intellectuelle - art. L623-9 (V)
 
 
@@ -16145,6 +17071,70 @@ _Modifié par_:
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L623-4 (V)
+
+
+###### Article L623-32-1
+
+Les personnes physiques coupables du délit prévu à l'article L. 623-32 peuvent en outre être condamnées, à leurs frais, à
+retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre
+l'infraction. 
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts. 
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la
+condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 22 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L623-32 (V)
+  - Code pénal - art. 131-35 (V)
+
+
+###### Article L623-32-2
+
+Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal du
+délit prévu à l'article L. 623-32 du présent code encourent :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 22 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L623-32 (M)
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
 
 
 ###### Article L623-33
@@ -16242,11 +17232,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-9 (V)
 
 
-### Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=108></a>
+### Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=110></a>
 
-#### Titre Ier : Marques de fabrique, de commerce ou de service<a id=109></a>
+#### Titre Ier : Marques de fabrique, de commerce ou de service<a id=111></a>
 
-##### Chapitre Ier : Eléments constitutifs de la marque<a id=110></a>
+##### Chapitre Ier : Eléments constitutifs de la marque<a id=112></a>
 
 ###### Article L711-1
 
@@ -16410,7 +17400,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L714-3 (V)
 
 
-##### Chapitre II : Acquisition du droit sur la marque<a id=111></a>
+##### Chapitre II : Acquisition du droit sur la marque<a id=113></a>
 
 ###### Article L712-1
 
@@ -16875,7 +17865,7 @@ _Anciens textes_:
   - Code du travail - art. L413-2 (M)
 
 
-##### Chapitre III : Droits conférés par l'enregistrement<a id=112></a>
+##### Chapitre III : Droits conférés par l'enregistrement<a id=114></a>
 
 ###### Article L713-1
 
@@ -17032,7 +18022,7 @@ _Créé par_:
   - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
-##### Chapitre IV : Transmission et perte du droit sur la marque<a id=113></a>
+##### Chapitre IV : Transmission et perte du droit sur la marque<a id=115></a>
 
 ###### Article L714-1
 
@@ -17250,7 +18240,7 @@ _Cité par_:
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
 
 
-##### Chapitre V : Marques collectives<a id=114></a>
+##### Chapitre V : Marques collectives<a id=116></a>
 
 ###### Article L715-1
 
@@ -17354,7 +18344,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L715-2 (V)
 
 
-##### Chapitre VI : Contentieux<a id=115></a>
+##### Chapitre VI : Contentieux<a id=117></a>
 
 ###### Article L716-1
 
@@ -17407,8 +18397,9 @@ _Créé par_:
 
 ###### Article L716-3
 
-Les actions civiles relatives aux marques sont portées devant les tribunaux de grande instance ainsi que les actions mettant
-en jeu à la fois une question de marque et une question de dessin et de modèle ou de concurrence déloyale connexes.
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de marques, y compris lorsque ces
+actions et demandes portent à la fois sur une question de marques et sur une question connexe de concurrence déloyale, sont
+déterminés par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -17421,9 +18412,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 23 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -17490,16 +18481,35 @@ _Créé par_:
 
 ###### Article L716-6
 
-Lorsque le tribunal est saisi d'une action en contrefaçon, son président, saisi et statuant en la forme des référés, peut
-interdire, à titre provisoire, sous astreinte, la poursuite des actes argués de contrefaçon, ou subordonner cette poursuite à
-la constitution de garanties destinées à assurer l'indemnisation du propriétaire de la marque ou du bénéficiaire d'un droit
-exclusif d'exploitation.
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir
+ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les
+services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite
+d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête
+lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard
+serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut
+ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable
+qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
 
-La demande d'interdiction ou de constitution de garanties n'est admise que si l'action au fond apparaît sérieuse et a été
-engagée dans un bref délai à compter du jour où le propriétaire de la marque ou le bénéficiaire d'un droit exclusif
-d'exploitation a eu connaissance des faits sur lesquels elle est fondée. Le juge peut subordonner l'interdiction à la
-constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du préjudice subi par le défendeur
-si l'action en contrefaçon est ultérieurement jugée non fondée.
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties
+destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des
+produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation
+dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des
+dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu
+contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer
+les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires,
+financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement
+contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est
+ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
+le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande
+du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages
+et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -17512,33 +18522,34 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 24 () JORF 30 octobre 2007
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R716-1 (V)
 
-**Liens**:
-
-  - TXT_ASSOCIE: Nouveau code de procédure civile 809 al. 1 *référé de droit commun*
-
 
 ###### Article L716-7
 
-Le titulaire d'une demande d'enregistrement, le propriétaire d'une marque enregistrée ou le bénéficiaire d'un droit exclusif
-d'exploitation est en droit de faire procéder en tout lieu par tout huissier assisté d'experts de son choix, en vertu d'une
-ordonnance du président du tribunal de grande instance rendue sur requête, soit à la description détaillée avec ou sans
-prélèvement d'échantillons, soit à la saisie réelle des produits ou des services qu'il prétend marqués, offerts à la vente,
-livrés ou fournis à son préjudice en violation de ses droits.
+La contrefaçon peut être prouvée par tous moyens.
 
-La saisie réelle peut être subordonnée par le président du tribunal à la constitution de garanties par le demandeur destinées
-à assurer l'indemnisation éventuelle du préjudice subi par le défendeur si l'action en contrefaçon est ultérieurement jugée
-non fondée.
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
+huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction
+civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des
+produits ou services prétendus contrefaisants ainsi que de tout document s'y rapportant.
 
-A défaut pour le requérant de s'être pourvu soit par la voie civile, soit par la voie correctionnelle dans le délai de
-quinzaine, la saisie est nulle de plein droit, sans préjudice des dommages-intérêts qui peuvent être réclamés.
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
+fabriquer ou distribuer les produits ou fournir les services prétendus contrefaisants.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
+assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
+annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
+l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
+demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -17551,9 +18562,9 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 25 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -17563,33 +18574,75 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R716-4 (V)
 
 
+###### Article L716-7-1
+
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin
+sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits contrefaisants qui portent atteinte
+aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a
+été trouvée en possession de produits contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon
+ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la
+fourniture de ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits
+ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits ou
+services en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 26 () JORF 30 octobre 2007
+
+
 ###### Article L716-8
 
-L'administration des douanes peut, sur demande écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit
-exclusif d'exploitation, retenir dans le cadre de ses contrôles les marchandises qu'il prétend présentées sous une marque
-constituant la contrefaçon de celle dont il a obtenu l'enregistrement ou sur laquelle il bénéficie d'un droit d'usage
-exclusif.
+En dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, sur demande
+écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation, assortie des
+justifications de son droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une
+contrefaçon. 
 
 Le procureur de la République, le demandeur ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai,
-par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
+par les services douaniers, de la retenue à laquelle ces derniers ont procédé. 
 
-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de
-la notification de la retenue des marchandises, de justifier auprès des services douaniers :
+Lors de l'information visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises sont communiquées
+au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article 59
+bis du code des douanes. 
 
-- soit de mesures conservatoires décidées par le président du tribunal de grande instance ;
+La mesure de retenue est levée de plein droit à défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois
+jours ouvrables s'il s'agit de denrées périssables, à compter de la notification de la retenue des marchandises, de justifier
+auprès des services douaniers soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être
+pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation
+éventuelle du détenteur des marchandises au cas où la contrefaçon ne serait pas ultérieurement reconnue. 
 
-- soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour
-couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
+charge du demandeur. 
 
-Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration
-des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues
-ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes relatif
-au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+Aux fins de l'engagement des actions en justice visées au quatrième alinéa, le demandeur peut obtenir de l'administration des
+douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de
+leur détenteur, ainsi que de leur quantité, leur origine et leur provenance par dérogation à l'article 59 bis du code des
+douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes. 
 
-La retenue mentionnée au premier alinéa ne porte pas sur les marchandises de statut communautaire, légalement fabriquées ou
-mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire
-douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la
-Communauté européenne, pour y être légalement commercialisées.
+La retenue mentionnée au premier alinéa ne porte pas :
+
+- sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la
+Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des
+douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne pour y être légalement
+commercialisées ;
+
+- sur les marchandises de statut communautaire, légalement fabriquées ou légalement mises en libre pratique dans un autre
+Etat membre de la Communauté européenne, dans lequel elles ont été placées sous le régime du transit et qui sont destinées,
+après avoir transité sur le territoire douanier tel que défini à l'article 1er du code des douanes, à être exportées vers un
+Etat non membre de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
@@ -17623,7 +18676,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 84 () JORF 2 août 2003
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
 
 _Cite_:
 
@@ -17632,6 +18685,160 @@ _Cite_:
 
 
 ###### Article L716-8-1
+
+En l'absence de demande écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation
+et en dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, dans le cadre
+de ses contrôles, retenir une marchandise susceptible de porter atteinte à une marque enregistrée ou à un droit exclusif
+d'exploitation. 
+
+Cette retenue est immédiatement notifiée au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif
+d'exploitation. Le procureur de la République est également informé de ladite mesure. 
+
+Lors de la notification visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises est communiquée
+au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article 59
+bis du code des douanes. 
+
+La mesure de retenue est levée de plein droit si le propriétaire de la marque enregistrée ou le bénéficiaire du droit
+exclusif d'exploitation n'a pas déposé la demande prévue par l'article L. 716-8 du présent code dans un délai de trois jours
+ouvrables à compter de la notification de la retenue visée au deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Code de la propriété intellectuelle - art. L716-8-4 (V)
+
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8 (V)
+
+
+###### Article L716-8-2
+
+I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée, prévue
+par la réglementation communautaire en vigueur, est mise en oeuvre avant qu'une demande d'intervention du propriétaire de la
+marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation ait été déposée ou acceptée, les agents des douanes
+peuvent, par dérogation à l'article 59 bis du code des douanes, informer ce propriétaire ou ce bénéficiaire du droit exclusif
+d'exploitation de la mise en oeuvre de cette mesure. Ils peuvent également lui communiquer des informations portant sur la
+quantité des marchandises et leur nature. 
+
+Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon de marque, prévue par la
+réglementation communautaire en vigueur, est mise en oeuvre après qu'une demande d'intervention du propriétaire de la marque
+enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation a été acceptée, les agents des douanes peuvent également
+communiquer à ce propriétaire ou à ce bénéficiaire les informations prévues par cette réglementation communautaire
+nécessaires pour déterminer s'il y a eu violation de son droit. 
+
+II.-Les frais générés par la mise en oeuvre d'une retenue prévue par la réglementation communautaire en vigueur sont à la
+charge du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L716-8-3 (V)
+  - Code de la propriété intellectuelle - art. R716-10 (Ab)
+  - Code de la propriété intellectuelle - art. R716-7 (Ab)
+  - Code de la propriété intellectuelle - art. R716-9 (Ab)
+
+_Cite_:
+
+  - Code des douanes - art. 59 bis (V)
+
+
+###### Article L716-8-3
+
+Pendant le délai de la retenue visée aux articles L. 716-8 à L. 716-8-2, le propriétaire de la marque enregistrée ou le
+bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de l'administration des douanes, inspecter
+les marchandises retenues. 
+
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons.A la demande
+du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation, ces échantillons peuvent lui
+être remis aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou
+pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Code de la propriété intellectuelle - art. R716-11 (Ab)
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8 (V)
+
+
+###### Article L716-8-4
+
+En vue de prononcer les mesures prévues aux articles L. 716-8 à L. 716-8-3, les agents des douanes appliquent les pouvoirs
+qui leur sont dévolus par le code des douanes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Code de la propriété intellectuelle - art. L716-8 (V)
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+
+
+###### Article L716-8-5
+
+Les conditions d'application des mesures prévues aux articles L. 716-8 à L. 716-8-4 sont définies par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8 (V)
+
+
+###### Article L716-8-6
 
 Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues aux articles L. 716-9 et L.
 716-10, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels
@@ -17643,23 +18850,13 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
-
 _Créé par_:
 
-  - Loi n°94-102 du 5 février 1994 - art. 12 () JORF 8 février 1994
-
-_Cité par_:
-
-  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
-  - Code de la propriété intellectuelle - art. L716-8-4 (V)
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L716-10 (M)
-  - Code de la propriété intellectuelle - art. L716-9 (M)
+  - Code de la propriété intellectuelle - art. L716-9 (V)
 
 
 ###### Article L716-9
@@ -17667,14 +18864,14 @@ _Cite_:
 Est puni de quatre ans d'emprisonnement et de 400 000 euros d'amende le fait pour toute personne, en vue de vendre, fournir,
 offrir à la vente ou louer des marchandises présentées sous une marque contrefaite :
 
-a) D'importer sous tout régime douanier, d'exporter, de réexporter ou de transborder des marchandises présentées sous une
-marque contrefaite ;
+a) D'importer, d'exporter, de réexporter ou de transborder des marchandises présentées sous une marque contrefaisante ;
 
-b) De produire industriellement des marchandises présentées sous une marque contrefaite ;
+b) De produire industriellement des marchandises présentées sous une marque contrefaisante ;
 
 c) De donner des instructions ou des ordres pour la commission des actes visés aux a et b.
 
-Lorsque les délits prévus au présent article ont été commis en bande organisée, les peines sont portées à cinq ans
+Lorsque les délits prévus au présent article ont été commis en bande organisée ou lorsque les faits portent sur des
+marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans
 d'emprisonnement et à 500 000 euros d'amende.
 
 **Liens relatifs à cet article**
@@ -17716,17 +18913,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 34 () JORF 10 mars 2004
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 42 () JORF 30 octobre 2007
 
 
 ###### Article L716-10
 
 Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait pour toute personne :
 
-a) De détenir sans motif légitime, d'importer sous tous régimes douaniers ou d'exporter des marchandises présentées sous une
-marque contrefaite ;
+a) De détenir sans motif légitime, d'importer ou d'exporter des marchandises présentées sous une marque contrefaisante ;
 
-b) D'offrir à la vente ou de vendre des marchandises présentées sous une marque contrefaite ;
+b) D'offrir à la vente ou de vendre des marchandises présentées sous une marque contrefaisante ;
 
 c) De reproduire, d'imiter, d'utiliser, d'apposer, de supprimer, de modifier une marque, une marque collective ou une marque
 collective de certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de
@@ -17756,7 +18954,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 34 () JORF 10 mars 2004
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 42 () JORF 30 octobre 2007
 
 _Cite_:
 
@@ -17832,17 +19031,21 @@ _Cite_:
 
 ###### Article L716-11-2
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues à l'article 121-2 du code
-pénal des infractions définies aux articles L. 716-9 à L. 716-11 du présent code.
+Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal des
+infractions définies aux articles L. 716-9 à L. 716-11 du présent code encourent :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende suivant les modalités prévues par l'article 131-38 du code pénal ;
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
 
 2° Les peines mentionnées à l'article 131-39 du même code.
 
-L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
-laquelle l'infraction a été commise.
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
 **Liens relatifs à cet article**
 
@@ -17850,18 +19053,13 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 17 *date d'effet*, art. 18 *champ d'application*
-
-_Créé par_:
-
-  - Loi n°94-102 du 5 février 1994 - art. 14 () JORF 8 février 1994 en vigueur le 1er mars 1994
-  - Loi n°94-102 du 5 février 1994 - art. 17 (V) JORF 8 février 1994 en vigueur le 1er mars 1994
-
 _Cité par_:
 
   - Loi n°94-102 du 5 février 1994 - art. 17 (V)
+
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
 
 _Cite_:
 
@@ -17910,10 +19108,15 @@ _Cite_:
 
 ###### Article L716-13
 
-Le tribunal peut dans tous les cas ordonner, aux frais du condamné, l'affichage du jugement prononçant la condamnation dans
-les conditions et sous les peines prévues à l'article 131-35 du code pénal, ainsi que sa publication intégrale ou par extrait
-dans les journaux qu'il désigne, sans que les frais de cette publication puissent excéder le montant maximum de l'amende
-encourue.
+Les personnes physiques coupables de l'un des délits prévus aux articles L. 716-9 et L. 716-10 peuvent être condamnées, à
+leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée
+à commettre l'infraction. 
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts. 
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la
+condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -17927,27 +19130,28 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-9 (V)
+  - Code pénal - art. 131-35 (V)
 
 _Cité par_:
 
   - Code du sport. - art. L141-5 (V)
   - Code du sport. - art. L141-7 (V)
 
-_Cite_:
-
-  - Code pénal - art. 131-35 (M)
-
 
 ###### Article L716-14
 
-En cas de condamnation pour infraction aux articles L. 716-9 et L. 716-10, le tribunal peut prononcer la confiscation des
-produits ainsi que celle des instruments ayant servi à commettre le délit.
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
+manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au
+titulaire des droits du fait de l'atteinte.
 
-Il peut ordonner que les produits confisqués soient remis au propriétaire de la marque contrefaite sans préjudice de tous
-dommages et intérêts.
-
-Il peut également prescrire leur destruction.
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
+intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le
+contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
 
 **Liens relatifs à cet article**
 
@@ -17959,19 +19163,23 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-10 (M)
-  - Code de la propriété intellectuelle - art. L716-9 (M)
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007 rectificatif JORF 10 novembre 2007
 
 
 ###### Article L716-15
 
-Des décrets en Conseil d'Etat fixent en tant que de besoin les conditions d'application du présent livre.
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les
+produits reconnus comme produits contrefaisants et les matériaux et instruments ayant principalement servi à leur création ou
+fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au
+profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa
+publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle
+désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
 
 **Liens relatifs à cet article**
 
@@ -17983,50 +19191,35 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-_Transféré par_:
+_Modifié par_:
 
   - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
 
 _Nouveaux textes_:
 
-  - Code de la propriété intellectuelle - art. L716-16 (M)
   - Code de la propriété intellectuelle - art. L716-16 (V)
 
 
 ###### Article L716-16
 
-Les dispositions de l'article L. 712-4 seront appliquées progressivement par référence à la classification internationale des
-produits et services aux fins de l'enregistrement des marques.
-
-Les demandes déposées antérieurement au 28 décembre 1991 seront examinées et enregistrées selon la procédure instituée par la
-loi n° 64-1360 du 31 décembre 1964 sur les marques de fabrique, de commerce ou de service.
+Des décrets en Conseil d'Etat fixent en tant que de besoin les conditions d'application du présent livre.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°64-1360 1964-12-31
-  - Code de la propriété intellectuelle - art. L712-4 (V)
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 41
-  - Code de la propriété intellectuelle - art. L716-15 (T)
 
 _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. L716-15 (T)
 
 
-##### Chapitre VII : La marque communautaire<a id=116></a>
+##### Chapitre VII : La marque communautaire<a id=118></a>
 
 ###### Article L717-1
 
@@ -18057,7 +19250,7 @@ _Cite_:
 
 ###### Article L717-2
 
-Les dispositions des articles L. 716-8 à L. 716-14 sont applicables aux atteintes portées au droit du propriétaire d'une
+Les dispositions des articles L. 716-8 à L. 716-15 sont applicables aux atteintes portées au droit du propriétaire d'une
 marque communautaire.
 
 **Liens relatifs à cet article**
@@ -18066,13 +19259,13 @@ _Codifié par_:
 
   - Loi n°92-597 1992-07-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle L716-8 à L716-14
+  - Code de la propriété intellectuelle - art. L716-8 (V)
 
 
 ###### Article L717-3
@@ -18200,20 +19393,20 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-4 (V)
 
 
-#### Titre II : Appellations d'origine<a id=117></a>
+#### Titre II : Indications géographiques<a id=119></a>
 
-##### Chapitre unique<a id=118></a>
+##### Chapitre Ier : Généralités<a id=120></a>
 
 ###### Article L721-1
 
 Les règles relatives à la détermination des appellations d'origine sont fixées par l'article L. 115-1 du code de la
-consommation reproduit ci-après :
+consommation reproduit ci-après : 
 
-"Article L. 115-1 :
+" Article L. 115-1 : 
 
 Constitue une appellation d'origine la dénomination d'un pays, d'une région ou d'une localité servant à désigner un produit
 qui en est originaire et dont la qualité ou les caractères sont dus au milieu géographique, comprenant des facteurs naturels
-et des facteurs humains."
+et des facteurs humains. "
 
 **Liens relatifs à cet article**
 
@@ -18223,20 +19416,236 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-949 du 26 juillet 1993 - art. 5 () JORF 27 juillet 1993
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+
+
+##### Chapitre II : Contentieux<a id=121></a>
+
+##### Section unique : Actions civiles<a id=122></a>
+
+###### Article L722-1
+
+Toute atteinte portée à une indication géographique engage la responsabilité civile de son auteur. 
+
+Pour l'application du présent chapitre, on entend par " indication géographique " : 
+
+a) Les appellations d'origine définies à l'article L. 115-1 du code de la consommation ; 
+
+b) Les appellations d'origine protégées et les indications géographiques protégées prévues par la réglementation
+communautaire relative à la protection des indications géographiques et des appellations d'origine des produits agricoles et
+des denrées alimentaires ; 
+
+c) Les noms des vins de qualité produits dans une région déterminée et les indications géographiques prévues par la
+réglementation communautaire portant organisation commune du marché vitivinicole ; 
+
+d) Les dénominations géographiques prévues par la réglementation communautaire établissant les règles générales relatives à
+la définition, à la désignation et à la présentation des boissons spiritueuses.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L721-8 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L115-1 (V)
 
 
-## Troisième partie : Application aux territoires d'outre-mer et à Mayotte<a id=119></a>
+###### Article L722-2
 
-### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte<a id=120></a>
+L'action civile pour atteinte à une indication géographique est exercée par toute personne autorisée à utiliser cette
+indication géographique ou tout organisme auquel la législation donne pour mission la défense des indications géographiques.
 
-#### Titre unique<a id=121></a>
+Toute personne mentionnée au premier alinéa est recevable à intervenir dans l'instance engagée par une autre partie pour
+atteinte à l'indication géographique.
 
-##### Chapitre unique<a id=122></a>
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+
+
+###### Article L722-3
+
+Toute personne ayant qualité pour agir pour une atteinte à une indication géographique peut saisir en référé la juridiction
+civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu auteur de cette atteinte ou des
+intermédiaires dont il utilise les services, toute mesure destinée à prévenir une atteinte imminente à une indication
+géographique ou à empêcher la poursuite d'actes portant prétendument atteinte à celle-ci. La juridiction civile compétente
+peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent que ces mesures ne soient pas
+prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice irréparable au demandeur.
+Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les éléments de preuve,
+raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à une indication géographique ou
+qu'une telle atteinte est imminente.
+
+La juridiction peut interdire la poursuite des actes portant prétendument atteinte à une indication géographique, la
+subordonner à la constitution de garanties destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie
+ou la remise entre les mains d'un tiers des produits portant prétendument atteinte à une indication géographique, pour
+empêcher leur introduction ou leur circulation dans les circuits commerciaux. Si le demandeur justifie de circonstances de
+nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des
+biens mobiliers et immobiliers du prétendu auteur de l'atteinte à l'indication géographique, y compris le blocage de ses
+comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens susceptibles de faire l'objet de
+la saisie, elle peut ordonner la communication des documents bancaires, financiers, comptables ou commerciaux ou l'accès aux
+informations pertinentes.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement
+contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action pour atteinte à
+l'indication géographique est ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte à une indication géographique sont ordonnées avant l'engagement
+d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire.
+A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans
+préjudice des dommages et intérêts qui peuvent être réclamés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R722-1 (V)
+
+
+###### Article L722-4
+
+L'atteinte à une indication géographique peut être prouvée par tous moyens.
+
+A cet effet, toute personne ayant qualité pour agir en vertu du présent titre est en droit de faire procéder en tout lieu et
+par tous huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
+juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie
+réelle des objets portant prétendument atteinte à une indication géographique ainsi que de tout document s'y rapportant.
+
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
+produire ou distribuer les objets portant prétendument atteinte à une indication géographique.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
+assurer l'indemnisation éventuelle du défendeur si l'action engagée en vertu du présent titre est ultérieurement jugée non
+fondée ou la saisie annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
+l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
+demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L722-4-1 (V)
+  - Code de la propriété intellectuelle - art. R722-2 (V)
+  - Code de la propriété intellectuelle - art. R722-4 (V)
+
+
+###### Article L722-5
+
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent chapitre peut ordonner, au
+besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits, la production de tous
+documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de produits portant
+atteinte à une indication géographique ou qui fournit des services utilisés dans des activités portant atteinte à une
+indication géographique ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution
+de ces produits ou la fourniture de ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits
+ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits ou
+services en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+
+
+###### Article L722-6
+
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
+manque à gagner, subies par la partie lésée, les bénéfices réalisés par l'auteur de l'atteinte à une indication géographique
+et le préjudice moral causé à la partie lésée du fait de l'atteinte.
+
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
+intérêts une somme forfaitaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+
+
+###### Article L722-7
+
+En cas de condamnation civile pour atteinte à une indication géographique, la juridiction peut ordonner, à la demande de la
+partie lésée, que les produits reconnus comme portant atteinte à une indication géographique et les matériaux et instruments
+ayant principalement servi à leur création ou fabrication soient rappelés des circuits commerciaux, écartés définitivement de
+ces circuits, détruits ou confisqués au profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa
+publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle
+désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de l'auteur de l'atteinte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 1992-07-01
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+
+
+## Troisième partie : Application aux territoires d'outre-mer et à Mayotte<a id=123></a>
+
+### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte<a id=124></a>
+
+#### Titre unique<a id=125></a>
+
+##### Chapitre unique<a id=126></a>
 
 ###### Article L811-1
 
@@ -18531,13 +19940,13 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L717-7 (V)
 
 
-# Partie réglementaire<a id=123></a>
+# Partie réglementaire<a id=127></a>
 
-## Livre Ier : Le droit d'auteur<a id=124></a>
+## Livre Ier : Le droit d'auteur<a id=128></a>
 
-### Titre Ier : Objet du droit d'auteur<a id=125></a>
+### Titre Ier : Objet du droit d'auteur<a id=129></a>
 
-#### Chapitre Ier : Nature du droit d'auteur<a id=126></a>
+#### Chapitre Ier : Nature du droit d'auteur<a id=130></a>
 
 ###### Article R111-1
 
@@ -18602,9 +20011,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-### Titre II : Droits des auteurs<a id=127></a>
+### Titre II : Droits des auteurs<a id=131></a>
 
-#### Chapitre II : Droits patrimoniaux<a id=128></a>
+#### Chapitre II : Droits patrimoniaux<a id=132></a>
 
 ###### Article R122-1
 
@@ -19189,11 +20598,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre III : Exploitation des droits<a id=129></a>
+### Titre III : Exploitation des droits<a id=133></a>
 
-#### Chapitre II : Dispositions particulières à certains contrats<a id=130></a>
+#### Chapitre II : Dispositions particulières à certains contrats<a id=134></a>
 
-##### Section 4 : Contrat de commande pour la publicité<a id=131></a>
+##### Section 4 : Contrat de commande pour la publicité<a id=135></a>
 
 ###### Article R132-1
 
@@ -19386,7 +20795,7 @@ _Abrogé par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 1
 
 
-##### Section 5 : Nantissement du droit d'exploitation des logiciels<a id=132></a>
+##### Section 5 : Nantissement du droit d'exploitation des logiciels<a id=136></a>
 
 ###### Article R132-8
 
@@ -19715,7 +21124,7 @@ _Créé par_:
   - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
 
 
-#### Chapitre III : Rémunération au titre du prêt en bibliothèque<a id=133></a>
+#### Chapitre III : Rémunération au titre du prêt en bibliothèque<a id=137></a>
 
 ###### Article R133-1
 
@@ -19810,11 +21219,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre II : Les droits voisins du droit d'auteur<a id=134></a>
+## Livre II : Les droits voisins du droit d'auteur<a id=138></a>
 
-### Titre unique<a id=135></a>
+### Titre unique<a id=139></a>
 
-#### Chapitre II : Droits des artistes-interprètes<a id=136></a>
+#### Chapitre II : Droits des artistes-interprètes<a id=140></a>
 
 ###### Article R212-1
 
@@ -19976,7 +21385,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=137></a>
+#### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=141></a>
 
 ###### Article R214-1
 
@@ -20139,11 +21548,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-## Livre III : Dispositions générales<a id=138></a>
+## Livre III : Dispositions générales<a id=142></a>
 
-### Titre Ier : Rémunération pour copie privée<a id=139></a>
+### Titre Ier : Rémunération pour copie privée<a id=143></a>
 
-#### Chapitre unique<a id=140></a>
+#### Chapitre unique<a id=144></a>
 
 ###### Article D311-1
 
@@ -20350,9 +21759,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-### Titre II : Sociétés de perception et de répartition des droits<a id=141></a>
+### Titre II : Sociétés de perception et de répartition des droits<a id=145></a>
 
-#### Chapitre Ier : Dispositions générales<a id=142></a>
+#### Chapitre Ier : Dispositions générales<a id=146></a>
 
 ###### Article R321-1
 
@@ -20900,7 +22309,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Annexes à l'article R321-8<a id=143></a>
+##### Annexes à l'article R321-8<a id=147></a>
 
 ###### Article Annexe I
 
@@ -21424,7 +22833,7 @@ _Abrogé par_:
   - Décret n°2009-1309 du 26 octobre 2009 - art. 2
 
 
-#### Chapitre II : Sociétés agréées pour la gestion du droit de reproduction par reprographie<a id=144></a>
+#### Chapitre II : Sociétés agréées pour la gestion du droit de reproduction par reprographie<a id=148></a>
 
 ###### Article R322-1
 
@@ -21566,7 +22975,7 @@ _Codifié par_:
   - Décret n°95-406 1955-04-14
 
 
-#### Chapitre III : Des sociétés agréées pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=145></a>
+#### Chapitre III : Des sociétés agréées pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=149></a>
 
 ###### Article R323-1
 
@@ -21728,7 +23137,7 @@ _Codifié par_:
   - Décret n°95-406 1955-04-14
 
 
-#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=146></a>
+#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=150></a>
 
 ###### Article R324-1
 
@@ -22053,7 +23462,7 @@ _Créé par_:
   - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
 
 
-#### Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits<a id=147></a>
+#### Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits<a id=151></a>
 
 ###### Article R325-1
 
@@ -22168,7 +23577,7 @@ _Créé par_:
   - Décret n°2001-334 du 17 avril 2001 - art. 3 () JORF 18 avril 2001
 
 
-#### Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=148></a>
+#### Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=152></a>
 
 ###### Article R326-1
 
@@ -22408,11 +23817,11 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R325-7 (V)
 
 
-### Titre III : Procédures et sanctions<a id=149></a>
+### Titre III : Procédures et sanctions<a id=153></a>
 
-#### Chapitre Ier : Dispositions générales<a id=150></a>
+#### Chapitre Ier : Dispositions générales<a id=154></a>
 
-##### Section 1 : Dispositions communes<a id=151></a>
+##### Section 1 : Dispositions communes<a id=155></a>
 
 ###### Article R331-1
 
@@ -22437,7 +23846,7 @@ _Modifié par_:
   - Décret n°2007-510 2007-04-04 art. 1 1° JORF 5 avril 2007
 
 
-##### Section 2 : Mesures techniques de protection et d'information<a id=152></a>
+##### Section 2 : Mesures techniques de protection et d'information<a id=156></a>
 
 ###### Article R331-2
 
@@ -22457,7 +23866,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques<a id=153></a>
+##### Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques<a id=157></a>
 
 ###### Article R331-3
 
@@ -22684,7 +24093,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Règles générales de procédure applicables devant l'Autorité<a id=154></a>
+##### Sous-section 2 : Règles générales de procédure applicables devant l'Autorité<a id=158></a>
 
 ###### Article R331-12
 
@@ -22994,7 +24403,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=155></a>
+##### Sous-section 3 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=159></a>
 
 ###### Article R331-20
 
@@ -23221,7 +24630,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins<a id=156></a>
+##### Sous-section 4 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins<a id=160></a>
 
 ###### Article R331-26
 
@@ -23287,7 +24696,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Voies de recours contre les décisions de l'Autorité de régulation des mesures techniques<a id=157></a>
+##### Sous-section 5 : Voies de recours contre les décisions de l'Autorité de régulation des mesures techniques<a id=161></a>
 
 ###### Article R331-28
 
@@ -23571,7 +24980,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre V : Dispositions pénales<a id=158></a>
+#### Chapitre V : Dispositions pénales<a id=162></a>
 
 ###### Article R*335-1-1
 
@@ -23733,13 +25142,13 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-22 (V)
 
 
-## Livre IV : Organisation administrative et professionnelle<a id=159></a>
+## Livre IV : Organisation administrative et professionnelle<a id=163></a>
 
-### Titre Ier : Institutions<a id=160></a>
+### Titre Ier : Institutions<a id=164></a>
 
-#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=161></a>
+#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=165></a>
 
-##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=162></a>
+##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=166></a>
 
 ###### Article R411-1
 
@@ -24345,7 +25754,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=163></a>
+##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=167></a>
 
 ###### Article R411-17
 
@@ -24514,7 +25923,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle<a id=164></a>
+##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle<a id=168></a>
 
 ###### Article R411-19
 
@@ -24764,9 +26173,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Le comité de la protection des obtentions végétales<a id=165></a>
+#### Chapitre II : Le comité de la protection des obtentions végétales<a id=169></a>
 
-##### Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales<a id=166></a>
+##### Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales<a id=170></a>
 
 ###### Article D412-4
 
@@ -25239,7 +26648,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales<a id=167></a>
+##### Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales<a id=171></a>
 
 ###### Article R412-15
 
@@ -25391,7 +26800,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Le Conseil supérieur de la propriété industrielle<a id=168></a>
+#### Chapitre III : Le Conseil supérieur de la propriété industrielle<a id=172></a>
 
 ###### Article R413-1
 
@@ -25591,9 +27000,9 @@ _Abrogé par_:
   - Décret n°2015-515 du 7 mai 2015 - art. 1
 
 
-### Titre II : Qualification en propriété industrielle<a id=169></a>
+### Titre II : Qualification en propriété industrielle<a id=173></a>
 
-#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=170></a>
+#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=174></a>
 
 ###### Article R421-1
 
@@ -26184,9 +27593,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=171></a>
+#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=175></a>
 
-##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=172></a>
+##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=176></a>
 
 ###### Article R422-1
 
@@ -26457,7 +27866,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L423-2 (V)
 
 
-##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=173></a>
+##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=177></a>
 
 ###### Article R422-7-1
 
@@ -26526,7 +27935,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=174></a>
+##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=178></a>
 
 ###### Article R422-8
 
@@ -26631,9 +28040,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Exercice sous forme de société<a id=175></a>
+##### Section 3 : Exercice sous forme de société<a id=179></a>
 
-##### Sous-section 1 : Sociétés civiles professionnelles<a id=176></a>
+##### Sous-section 1 : Sociétés civiles professionnelles<a id=180></a>
 
 ###### Article R422-12
 
@@ -27499,7 +28908,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Sociétés d'exercice libéral<a id=177></a>
+##### Sous-section 2 : Sociétés d'exercice libéral<a id=181></a>
 
 ###### Article R422-41
 
@@ -27757,7 +29166,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Sociétés en participation<a id=178></a>
+##### Sous-section 3 : Sociétés en participation<a id=182></a>
 
 ###### Article R422-50
 
@@ -27806,7 +29215,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=179></a>
+##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=183></a>
 
 ###### Article R422-51-1
 
@@ -28207,7 +29616,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
 
 
-##### Section 4 : Obligations professionnelles<a id=180></a>
+##### Section 4 : Obligations professionnelles<a id=184></a>
 
 ###### Article R422-52
 
@@ -28303,7 +29712,7 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 10 () JORF 3 mars 2004
 
 
-##### Section 5 : Régime disciplinaire<a id=181></a>
+##### Section 5 : Régime disciplinaire<a id=185></a>
 
 ###### Article R422-56
 
@@ -28652,7 +30061,7 @@ _Créé par_:
   - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-#### Chapitre III : Dispositions diverses<a id=182></a>
+#### Chapitre III : Dispositions diverses<a id=186></a>
 
 ###### Article R423-1
 
@@ -28734,13 +30143,13 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre V : Les dessins et modèles<a id=183></a>
+## Livre V : Les dessins et modèles<a id=187></a>
 
-### Titre Ier : Acquisition des droits<a id=184></a>
+### Titre Ier : Acquisition des droits<a id=188></a>
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=185></a>
+#### Chapitre Ier : Droits et oeuvres protégés<a id=189></a>
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=186></a>
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=190></a>
 
 ###### Article R511-1
 
@@ -28903,7 +30312,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=187></a>
+#### Chapitre II : Formalités de dépôt<a id=191></a>
 
 ###### Article R512-1
 
@@ -29718,7 +31127,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=188></a>
+#### Chapitre III : Durée de la protection<a id=192></a>
 
 ###### Article R513-1
 
@@ -29851,9 +31260,9 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 28 () JORF 3 mars 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=189></a>
+#### Chapitre IV : Dispositions communes<a id=193></a>
 
-##### Section 1 : Procédure<a id=190></a>
+##### Section 1 : Procédure<a id=194></a>
 
 ###### Article R514-1
 
@@ -30031,7 +31440,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R513-1 (VD)
 
 
-##### Section 2 : Dispositions transitoires<a id=191></a>
+##### Section 2 : Dispositions transitoires<a id=195></a>
 
 ###### Article R514-6
 
@@ -30077,9 +31486,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=192></a>
+### Titre II : Contentieux<a id=196></a>
 
-#### Chapitre unique : Retenue en douane.<a id=193></a>
+#### Chapitre unique : Retenue en douane.<a id=197></a>
 
 ###### Article R*521-1-1
 
@@ -30144,15 +31553,15 @@ _Modifié par_:
   - Décret n°2005-1298 du 20 octobre 2005 - art. 1 () JORF 21 octobre 2005
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=194></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=198></a>
 
-### Titre Ier : Brevets d'invention<a id=195></a>
+### Titre Ier : Brevets d'invention<a id=199></a>
 
-#### Chapitre Ier : Champ d'application<a id=196></a>
+#### Chapitre Ier : Champ d'application<a id=200></a>
 
-##### Section 2 : Droit au titre<a id=197></a>
+##### Section 2 : Droit au titre<a id=201></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=198></a>
+##### Sous-section 1 : Inventions de salariés<a id=202></a>
 
 ###### Article R611-1
 
@@ -30462,7 +31871,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=199></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=203></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -30956,7 +32365,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=200></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=204></a>
 
 ###### Article R611-15
 
@@ -31134,9 +32543,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=201></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=205></a>
 
-##### Section 1 : Dépôt des demandes<a id=202></a>
+##### Section 1 : Dépôt des demandes<a id=206></a>
 
 ###### Article R612-1
 
@@ -32010,9 +33419,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=203></a>
+##### Section 2 : L'instruction des demandes<a id=207></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=204></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=208></a>
 
 ###### Article R612-26
 
@@ -32254,7 +33663,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=205></a>
+##### Sous-section 2 : Division de la demande<a id=209></a>
 
 ###### Article R612-33
 
@@ -32366,7 +33775,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-45 (V)
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=206></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=210></a>
 
 ###### Article R612-36
 
@@ -32711,7 +34120,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=207></a>
+##### Sous-section 4 : Rejet de la demande<a id=211></a>
 
 ###### Article R612-45
 
@@ -32986,7 +34395,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=208></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=212></a>
 
 ###### Article R612-53
 
@@ -33524,7 +34933,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=209></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=213></a>
 
 ###### Article R612-70
 
@@ -33660,7 +35069,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : Diffusion légale des inventions<a id=210></a>
+##### Section 3 : Diffusion légale des inventions<a id=214></a>
 
 ###### Article R612-74
 
@@ -33714,11 +35123,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=211></a>
+#### Chapitre III : Droits attachés aux brevets<a id=215></a>
 
-##### Section 1 : Droits d'exploitation<a id=212></a>
+##### Section 1 : Droits d'exploitation<a id=216></a>
 
-##### Sous-section 2 : Licences obligatoires.<a id=213></a>
+##### Sous-section 2 : Licences obligatoires.<a id=217></a>
 
 ###### Article R613-4
 
@@ -33869,7 +35278,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.<a id=214></a>
+##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.<a id=218></a>
 
 ###### Article R613-10
 
@@ -34331,7 +35740,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=215></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=219></a>
 
 ###### Article R613-26
 
@@ -34560,7 +35969,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=216></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=220></a>
 
 ###### Article R613-34
 
@@ -34834,7 +36243,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=217></a>
+##### Sous-section 6 : Dispositions diverses<a id=221></a>
 
 ###### Article R613-43
 
@@ -34891,7 +36300,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=218></a>
+##### Section 2 : Transmission et perte des droits<a id=222></a>
 
 ###### Article R613-45
 
@@ -35133,7 +36542,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=219></a>
+##### Section 4 : Recours en restauration<a id=223></a>
 
 ###### Article R613-52
 
@@ -35177,7 +36586,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 5 : Registre national des brevets<a id=220></a>
+##### Section 5 : Registre national des brevets<a id=224></a>
 
 ###### Article R613-53
 
@@ -35437,7 +36846,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=221></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=225></a>
 
 ###### Article R613-60
 
@@ -35538,7 +36947,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=222></a>
+##### Section 7 : Réduction des redevances<a id=226></a>
 
 ###### Article R613-63
 
@@ -35593,9 +37002,9 @@ _Modifié par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 17 () JORF 3 mars 2007
 
 
-#### Chapitre IV : Application de conventions internationales<a id=223></a>
+#### Chapitre IV : Application de conventions internationales<a id=227></a>
 
-##### Section 1 : Brevets européens<a id=224></a>
+##### Section 1 : Brevets européens<a id=228></a>
 
 ###### Article R614-1
 
@@ -36161,7 +37570,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=225></a>
+##### Section 2 : Demandes internationales<a id=229></a>
 
 ###### Article R614-21
 
@@ -36526,9 +37935,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre V : Actions en justice<a id=226></a>
+#### Chapitre V : Actions en justice<a id=230></a>
 
-##### Section 1 : Mesures probatoires.<a id=227></a>
+##### Section 1 : Mesures probatoires.<a id=231></a>
 
 ###### Article R615-1
 
@@ -36690,7 +38099,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Commission paritaire de conciliation.<a id=228></a>
+##### Section 2 : Commission paritaire de conciliation.<a id=232></a>
 
 ###### Article R615-6
 
@@ -37441,7 +38850,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=229></a>
+#### Chapitre VI : Le certificat d'utilité<a id=233></a>
 
 ###### Article R616-1
 
@@ -37527,7 +38936,7 @@ _Cite_:
   - Code de la propriété intellectuelle R612-71, R613-1 à R613-3, R613-60 à R613-62
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=230></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=234></a>
 
 ###### Article R617-1
 
@@ -37587,9 +38996,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VIII : Dispositions communes<a id=231></a>
+#### Chapitre VIII : Dispositions communes<a id=235></a>
 
-##### Section unique : Procédure<a id=232></a>
+##### Section unique : Procédure<a id=236></a>
 
 ###### Article R618-1
 
@@ -37769,9 +39178,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-53 (V)
 
 
-### Titre II : Protection des connaissances techniques<a id=233></a>
+### Titre II : Protection des connaissances techniques<a id=237></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=234></a>
+#### Chapitre II : Produits semi-conducteurs<a id=238></a>
 
 ###### Article R622-1
 
@@ -37973,11 +39382,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre III : Obtentions végétales<a id=235></a>
+#### Chapitre III : Obtentions végétales<a id=239></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=236></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=240></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=237></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=241></a>
 
 ###### Article R623-1
 
@@ -38451,7 +39860,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=238></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=242></a>
 
 ###### Article R623-16
 
@@ -38698,7 +40107,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=239></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=243></a>
 
 ###### Article R623-25
 
@@ -38852,7 +40261,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Redevances annuelles<a id=240></a>
+##### Sous-section 4 : Redevances annuelles<a id=244></a>
 
 ###### Article R623-31
 
@@ -39000,7 +40409,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=241></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=245></a>
 
 ###### Article R623-36
 
@@ -39062,7 +40471,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-33 (V)
 
 
-##### Sous-section 6 : Registres nationaux<a id=242></a>
+##### Sous-section 6 : Registres nationaux<a id=246></a>
 
 ###### Article R623-38
 
@@ -39230,7 +40639,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=243></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=247></a>
 
 ###### Article R623-43
 
@@ -39410,7 +40819,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=244></a>
+##### Sous-section 8 : Dispositions diverses<a id=248></a>
 
 ###### Article R623-48
 
@@ -39575,7 +40984,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=245></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=249></a>
 
 ###### Article R623-55
 
@@ -39709,7 +41118,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transferts techniques internationaux<a id=246></a>
+#### Chapitre IV : Transferts techniques internationaux<a id=250></a>
 
 ###### Article R624-1
 
@@ -39918,9 +41327,9 @@ _Abrogé par_:
   - Décret n°2008-1472 du 30 décembre 2008 - art. 19
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=247></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=251></a>
 
-#### Chapitre unique<a id=248></a>
+#### Chapitre unique<a id=252></a>
 
 ###### Article R631-1
 
@@ -39996,11 +41405,11 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=249></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=253></a>
 
-### Titre unique : Marques de fabrique, de commerce ou de service<a id=250></a>
+### Titre unique : Marques de fabrique, de commerce ou de service<a id=254></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=251></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=255></a>
 
 ###### Article R712-1
 
@@ -40991,7 +42400,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=252></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=256></a>
 
 ###### Article R714-1
 
@@ -41341,7 +42750,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=253></a>
+#### Chapitre V : Marques collectives<a id=257></a>
 
 ###### Article R715-1
 
@@ -41386,7 +42795,7 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=254></a>
+#### Chapitre VI : Contentieux<a id=258></a>
 
 ###### Article R*716-1-1
 
@@ -41458,9 +42867,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=255></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=259></a>
 
-##### Section 1 : Marque internationale<a id=256></a>
+##### Section 1 : Marque internationale<a id=260></a>
 
 ###### Article R717-1
 
@@ -41736,7 +43145,7 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 83 () JORF 3 mars 2004
 
 
-##### Section 2 : Marque communautaire<a id=257></a>
+##### Section 2 : Marque communautaire<a id=261></a>
 
 ###### Article R717-9
 
@@ -41826,9 +43235,9 @@ _Créé par_:
   - Décret n°2002-216 du 18 février 2002 - art. 2 () JORF 20 février 2002
 
 
-#### Chapitre VIII : Dispositions communes<a id=258></a>
+#### Chapitre VIII : Dispositions communes<a id=262></a>
 
-##### Section unique<a id=259></a>
+##### Section unique<a id=263></a>
 
 ###### Article R718-1
 
@@ -41964,11 +43373,11 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 87 () JORF 3 mars 2004
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=260></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=264></a>
 
-### Titre unique<a id=261></a>
+### Titre unique<a id=265></a>
 
-#### Chapitre unique<a id=262></a>
+#### Chapitre unique<a id=266></a>
 
 ###### Article R811-1
 
