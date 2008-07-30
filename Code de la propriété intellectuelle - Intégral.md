@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-06-30
+Version Consolidée au 2008-07-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -199,101 +199,90 @@ et la protection des droits sur internet (art. L331-22)](#40)
         - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#195)
           - [Section 1 : Procédure (art. R514-1 à R514-5)](#196)
           - [Section 2 : Dispositions transitoires (art. R514-6)](#197)
-      - [Titre II : Contentieux (art. R522-1)](#198)
-        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#199)
-      - [Titre II : Contentieux (art. R521-1 à R523-6)](#200)
-        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à R521-5)](#201)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#202)
-          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#203)
-        - [Chapitre II : Contentieux des dessins et modèles communautaires (art.  à R521-5)](#204)
-        - [Chapitre III : Retenue en douane (art. R523-1 à R523-6)](#205)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#206)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#207)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#208)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#209)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#210)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#211)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#212)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#213)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#214)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#215)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#216)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#217)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#218)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#219)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#220)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#221)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#222)
-        - [Chapitre III : Droits attachés aux brevets (art.  à R613-63)](#223)
-          - [Section 1 : Droits d'exploitation (art.  à R613-44)](#224)
-            - [Sous-section 2 : Licences obligatoires. (art.  à R612-75)](#225)
-            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#226)
-            - [Sous-section 3 : Licences d'office dans l'intérêt de la santé publique. (art.  à R613-9)](#227)
-            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#228)
-            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#229)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#230)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#231)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#232)
-          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#233)
-          - [Section 4 : Recours en restauration (art. R613-52)](#234)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#235)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#236)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#237)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#238)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#239)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#240)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#241)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#242)
-          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#243)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#244)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#245)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#246)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#247)
-          - [Section unique : Procédure (art. R618-1 à R618-5)](#248)
-      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#249)
-        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#250)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#251)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#252)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#253)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#254)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#255)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#256)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#257)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#258)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#259)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#260)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#261)
-        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#262)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#263)
-        - [Chapitre unique (art. D631-1 à D631-2)](#264)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R722-5)](#265)
-      - [Titre unique : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#266)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#267)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#268)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#269)
-        - [Chapitre VI : Contentieux (art. R716-1 à R716-11)](#270)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#271)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#272)
-          - [Section 3 : Retenue en douane (art. R716-6 à R716-11)](#273)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#274)
-          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#275)
-          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#276)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#277)
-          - [Section unique (art. R718-1 à R718-4)](#278)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art.  à R718-4)](#279)
-        - [Chapitre II : Acquisition du droit sur la marque (art.  à R718-4)](#280)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art.  à R718-4)](#281)
-        - [Chapitre V : Marques collectives (art.  à R718-4)](#282)
-        - [Chapitre VI : Contentieux (art.  à R718-4)](#283)
-        - [Chapitre VII : Marque internationale et marque communautaire (art.  à R718-4)](#284)
-        - [Chapitre VIII : Dispositions communes (art.  à R718-4)](#285)
-      - [Titre II : Indications géographiques (art. R722-1 à R722-5)](#286)
-        - [Chapitre II : Contentieux (art. R722-1 à R722-5)](#287)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R722-1)](#288)
-          - [Section 2 : Mesures probatoires (art. R722-2 à R722-5)](#289)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#290)
-      - [Titre unique (art. R811-1 à R811-3)](#291)
-        - [Chapitre unique (art. R811-1 à R811-3)](#292)
+      - [Titre II : Contentieux (art. R521-1 à R523-6)](#198)
+        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à R521-5)](#199)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#200)
+          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#201)
+        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#202)
+        - [Chapitre III : Retenue en douane (art. R523-1 à R523-6)](#203)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#204)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#205)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#206)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#207)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#208)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#209)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#210)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#211)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#212)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#213)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#214)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#215)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#216)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#217)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#218)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#219)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#220)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#221)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#222)
+            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#223)
+            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#224)
+            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#225)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#226)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#227)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#228)
+          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#229)
+          - [Section 4 : Recours en restauration (art. R613-52)](#230)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#231)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#232)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#233)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#234)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#235)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#236)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#237)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#238)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#239)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#240)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#241)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#242)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#243)
+          - [Section unique : Procédure (art. R618-1 à R618-5)](#244)
+      - [Titre II : Protection des connaissances techniques (art. R622-1 à R624-7)](#245)
+        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#246)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#247)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#248)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#249)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#250)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#251)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#252)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#253)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#254)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#255)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#256)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#257)
+        - [Chapitre IV : Transferts techniques internationaux (art. R624-1 à R624-7)](#258)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#259)
+        - [Chapitre unique (art. D631-1 à D631-2)](#260)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R722-5)](#261)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#262)
+        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#263)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#264)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#265)
+        - [Chapitre VI : Contentieux (art. R716-1 à R716-11)](#266)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#267)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#268)
+          - [Section 3 : Retenue en douane (art. R716-6 à R716-11)](#269)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#270)
+          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#271)
+          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#272)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#273)
+          - [Section unique (art. R718-1 à R718-4)](#274)
+      - [Titre II : Indications géographiques (art. R722-1 à R722-5)](#275)
+        - [Chapitre II : Contentieux (art. R722-1 à R722-5)](#276)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R722-1)](#277)
+          - [Section 2 : Mesures probatoires (art. R722-2 à R722-5)](#278)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#279)
+      - [Titre unique (art. R811-1 à R811-3)](#280)
+        - [Chapitre unique (art. R811-1 à R811-3)](#281)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -31709,35 +31698,9 @@ _Codifié par_:
 
 ### Titre II : Contentieux<a id=198></a>
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=199></a>
+#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=199></a>
 
-###### Article R522-1
-
-Les actions et demandes en matière de dessins ou modèles communautaires prévues par l'article L. 522-2 sont portées devant
-les tribunaux de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-624 du 27 juin 2008 - art. 5
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L522-2
-  - Code de l'organisation judiciaire - art. R211-7
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R811-1 (VT)
-  - Code de la propriété intellectuelle - art. R811-2 (V)
-
-
-### Titre II : Contentieux<a id=200></a>
-
-#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=201></a>
-
-##### Section 1 : Mesures provisoires et conservatoires<a id=202></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=200></a>
 
 ###### Article R521-1
 
@@ -31759,7 +31722,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-6
 
 
-##### Section 2 : Mesures probatoires<a id=203></a>
+##### Section 2 : Mesures probatoires<a id=201></a>
 
 ###### Article R521-2
 
@@ -31826,9 +31789,31 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 5
 
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=204></a>
+#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=202></a>
 
-#### Chapitre III : Retenue en douane<a id=205></a>
+###### Article R522-1
+
+Les actions et demandes en matière de dessins ou modèles communautaires prévues par l'article L. 522-2 sont portées devant
+les tribunaux de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2008-624 du 27 juin 2008 - art. 5
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L522-2
+  - Code de l'organisation judiciaire - art. R211-7
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R811-1 (VT)
+  - Code de la propriété intellectuelle - art. R811-2 (V)
+
+
+#### Chapitre III : Retenue en douane<a id=203></a>
 
 ###### Article R523-1
 
@@ -32055,15 +32040,15 @@ _Cite_:
   - Code des douanes - art. 334
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=206></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=204></a>
 
-### Titre Ier : Brevets d'invention<a id=207></a>
+### Titre Ier : Brevets d'invention<a id=205></a>
 
-#### Chapitre Ier : Champ d'application<a id=208></a>
+#### Chapitre Ier : Champ d'application<a id=206></a>
 
-##### Section 2 : Droit au titre<a id=209></a>
+##### Section 2 : Droit au titre<a id=207></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=210></a>
+##### Sous-section 1 : Inventions de salariés<a id=208></a>
 
 ###### Article R611-1
 
@@ -32373,51 +32358,74 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=211></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=209></a>
 
 ###### Article Annexe art. R611-14-1
 
-Education nationale, enseignement supérieur et recherche.
+**
+
+**
+
+**Education nationale, enseignement supérieur et recherche. **
 
 Corps de fonctionnaires :
 
-- chercheurs, ingénieurs, assistants ingénieurs et techniciens de la recherche régis par le décret n° 83-1260 du 30 décembre
-1983 modifié.
+- chercheurs, ingénieurs, assistants ingénieurs et techniciens de la recherche régis par le 
+décret n° 83-1260 du 30 décembre 1983
+modifié.
 
-- enseignants chercheurs régis par le décret n° 84-431 du 6 juin 1984 modifié et enseignants-chercheurs appartenant à des
-corps propres dont la liste figure en annexe dudit décret.
+- enseignants chercheurs régis par le 
+décret n° 84-431 du 6 juin 1984
+modifié et enseignants-chercheurs appartenant à des corps propres dont la liste figure en annexe dudit décret.
 
-- ingénieurs, assistants ingénieurs et techniciens de recherche et de formation régis par le décret n° 85-1534 du 31 décembre
-1985 modifié.
+- ingénieurs, assistants ingénieurs et techniciens de recherche et de formation régis par le 
+décret n° 85-1534 du 31 décembre 1985
+modifié.
 
 - Ingénieurs principaux de physique nucléaire, ingénieurs de physique nucléaire, techniciens principaux de physique
 nucléaire, techniciens de physique nucléaire, techniciens d'atelier de physique nucléaire, techniciens d'études de physique
-nucléaire, préparateurs de physique nucléaire et prototypistes de physique nucléaire, régis par le décret n° 85-1462 du 30
-décembre 1985 modifié.
+nucléaire, préparateurs de physique nucléaire et prototypistes de physique nucléaire, régis par le 
+décret n° 85-1462 du 30 décembre 1985
+modifié.
 
-- Chargés de mission de la recherche du Centre national de la recherche scientifique, régis par le décret n° 85-1461 du 30
-décembre 1985 ;
+- Chargés de mission de la recherche du Centre national de la recherche scientifique, régis par le 
+décret n° 85-1461 du 30 décembre 1985
+; 
 
 Agents non titulaires :
 
-- chercheurs régis par le décret n° 80-31 du 17 janvier 1980 modifié.
+- chercheurs régis par le 
+décret n° 80-31 du 17 janvier 1980
+modifié.
 
-- ingénieurs et spécialistes régis par le décret n° 59-1405 du 9 décembre 1959 modifié.
+- ingénieurs et spécialistes régis par le 
+décret n° 59-1405 du 9 décembre 1959
+modifié.
 
-- attachés scientifiques et contractuels régis par le décret n° 80-479 du 27 juin 1980.
+- attachés scientifiques et contractuels régis par le 
+décret n° 80-479 du 27 juin 1980.
 
-- professeurs et maîtres de conférences associés relevant de l'article 54, alinéa 2, de la loi n° 84-52 du 26 janvier 1984 et
-de la loi n° 85-1223 du 22 novembre 1985.
+- professeurs et maîtres de conférences associés relevant de l'article 54, alinéa 2, de la loi n° 84-52 du 26 janvier 1984
+et de la loi n° 85-1223 du 22 novembre 1985.
 
-- allocataires de recherche régis par le décret n° 85-402 du 3 avril 1985 modifié par le décret n° 92-339 du 30 mars 1992.
+- allocataires de recherche régis par le 
+décret n° 85-402 du 3 avril 1985
+modifié par le décret n° 92-339 du 30 mars 1992.
 
-- moniteurs et allocataires-moniteurs normaliens régis par le décret n° 89-794 du 30 octobre 1989 modifié.
+- moniteurs et allocataires-moniteurs normaliens régis par le 
+décret n° 89-794 du 30 octobre 1989
+modifié.
 
-- moniteurs en pharmacie régis par le décret n° 92-1229 du 19 novembre 1992 modifié.
+- moniteurs en pharmacie régis par le 
+décret n° 92-1229 du 19 novembre 1992
+modifié.
 
-- attachés temporaires d'enseignement et de recherche régis par le décret n° 88-654 du 7 mai 1988 modifié.
+- attachés temporaires d'enseignement et de recherche régis par le 
+décret n° 88-654 du 7 mai 1988
+modifié.
 
-- Chercheurs associés au Centre national de la recherche scientifique régis par le décret n° 69-894 du 26 septembre 1969
+- Chercheurs associés au Centre national de la recherche scientifique régis par le 
+décret n° 69-894 du 26 septembre 1969
 modifié.
 
 - Agents contractuels hors catégorie, de catégorie exceptionnelle et de première catégorie régis par le règlement intérieur
@@ -32427,36 +32435,46 @@ rural, des eaux et des forêts.
 - Ingénieurs et spécialistes de l'Institut national de la santé et de la recherche médicale régis par le décret n° 64-420 du
 12 mai 1964 modifié.
 
-- Ingénieurs experts de l'Institut national de recherche en informatique et en automatique régis par le décret n° 86-83 du 17
-janvier 1986 modifié.
+- Ingénieurs experts de l'Institut national de recherche en informatique et en automatique régis par le 
+décret n° 86-83 du 17 janvier 1986
+modifié.
 
 - Agents recrutés par les établissements publics à caractère scientifique et technologique en application des dispositions de
-l'article 23 de la loi n° 82-610 du 15 juillet 1982 modifiée d'orientation et de programmation pour la recherche et le
-développement technologique de la France.
+l'article 23 de la loi n° 82-610 du 15 juillet 1982
+modifiée d'orientation et de programmation pour la recherche et le développement technologique de la France.
 
 - autres agents recrutés par les établissements publics à caractère scientifique et technologique et les établissements
-d'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant
-dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de
-la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel
-doctorat.
+d'enseignement supérieur en application des 
+articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984
+modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche
+dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après
+l'obtention d'un tel doctorat.
 
 - agents recrutés dans les services d'activités industrielles et commerciales des établissements publics d'enseignement
 supérieur en application de l'article L. 123-5 du code de l'éducation pour effectuer des travaux de recherche dans le cadre
 de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel
-doctorat.
+doctorat. 
 
-Enseignement supérieur, recherche et affaires sociales :
+**Enseignement supérieur, recherche et affaires sociales :**
 
-- personnels enseignants et hospitaliers des centres hospitaliers et universitaires, régis par le décret n° 84-135 du 24
-février 1984 modifié.
+- personnels enseignants et hospitaliers des centres hospitaliers et universitaires, régis par le 
+décret n° 84-135 du 24 février 1984
+modifié.
 
 - personnels enseignants et hospitaliers des centres de soins, d'enseignement et de recherche dentaires des centres
-hospitaliers et universitaires, régis par le décret n° 90-92 du 24 janvier 1990 modifié.
+hospitaliers et universitaires, régis par le 
+décret n° 90-92 du 24 janvier 1990
+modifié.
 
 - professeurs du premier et du deuxième grade de chirurgien dentaire-odontologiste des services de consultations et de
-traitement dentaire, régis par le décret n° 65-803 du 22 septembre 1965 modifié.
+traitement dentaire, régis par le 
+décret n° 65-803 du 22 septembre 1965
+modifié. 
 
-Agriculture, pêche et alimentation.
+personnels enseignants des universités, titulaires et non titulaires de médecine générale, régis par le 
+décret n° 2008-744 du 28 juillet 2008. 
+
+**Agriculture, pêche et alimentation. **
 
 Corps de fonctionnaires :
 
@@ -32466,59 +32484,76 @@ Corps de fonctionnaires :
 
 - ingénieurs des travaux des eaux et forêts régis par le décret n° 70-128 du 14 février 1970 modifié.
 
-- ingénieurs des travaux ruraux régis par le décret n° 65-688 du 10 août 1965 modifié.
+- ingénieurs des travaux ruraux régis par le 
+décret n° 65-688 du 10 août 1965
+modifié.
 
-- ingénieurs des travaux agricoles régis par le décret n° 65-690 du 10 août 1965 modifié.
+- ingénieurs des travaux agricoles régis par le 
+décret n° 65-690 du 10 août 1965
+modifié.
 
-- vétérinaires inspecteurs régis par le décret n° 62-1439 du 26 novembre 1962 modifié.
+- vétérinaires inspecteurs régis par le 
+décret n° 62-1439 du 26 novembre 1962
+modifié.
 
 - personnels scientifiques du Centre national d'études vétérinaires et alimentaires régis par le décret n° 64-642 du 29 juin
 1964 modifié.
 
 - enseignants-chercheurs des établissements d'enseignement supérieur public relevant du ministre chargé de l'agriculture
-régis par le décret n° 92-171 du 21 février 1992.
+régis par le 
+décret n° 92-171 du 21 février 1992.
 
-- ingénieurs, assistants ingénieurs et techniciens régis par le décret n° 95-370 du 6 avril 1995.
+- ingénieurs, assistants ingénieurs et techniciens régis par le 
+décret n° 95-370 du 6 avril 1995.
 
-- techniciens des services du ministère chargé de l'agriculture régis par le décret n° 96-501 du 7 juin 1996.
+- techniciens des services du ministère chargé de l'agriculture régis par le décret n° 96-501 du 7 juin 1996. 
 
 Agents non titulaires :
 
 - personnels associés ou invités dans les établissements d'enseignement supérieur et de la recherche relevant du ministre
-chargé de l'agriculture, régis par le décret n° 95-621 du 6 mai 1995.
+chargé de l'agriculture, régis par le 
+décret n° 95-621 du 6 mai 1995.
 
 - assistants d'enseignement et de recherche contractuels des établissements d'enseignement supérieur publics relevant du
-ministre chargé de l'agriculture, régis par le décret n° 91-374 du 16 avril 1991.
+ministre chargé de l'agriculture, régis par le 
+décret n° 91-374 du 16 avril 1991.
 
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
 la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
-doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
 
-Industrie  :
+**Industrie : **
 
 Corps de fonctionnaires :
 
-- Corps des ingénieurs des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
+- Corps des ingénieurs des mines régis par le 
+décret n° 88-507 du 29 avril 1988
+modifié.
 
 - Ingénieurs de l'industrie et des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
 
 - Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales
-supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007.
+supérieures des techniques industrielles et des mines régis par le 
+décret n° 2007-468 du 28 mars 2007.
 
 - Techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales
-supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
+supérieures des techniques industrielles et des mines et régis par le 
+décret n° 96-273 du 26 mars 1996
+modifié.
 
-- Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
+- Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le 
+décret n° 67-715 du 16 août 1967.
 
 - Fonctionnaires de l'Etat détachés sur des emplois du groupe des écoles des télécommunications en vertu du 1° de l'article
-36 du décret n° 96-1177 du 27 décembre 1996.
+36 du décret n° 96-1177 du 27 décembre 1996. 
 
 Agents non titulaires
 
-- chercheurs et ingénieurs régis par le décret n° 2000-677 du 18 juillet 2000 portant dispositions statutaires communes aux
-agents contractuels des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques
-industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
+- chercheurs et ingénieurs régis par le 
+décret n° 2000-677 du 18 juillet 2000
+portant dispositions statutaires communes aux agents contractuels des écoles nationales supérieures des mines et des écoles
+nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
 
 - attachés de recherche régis par le décret n° 71-999 du 7 décembre 1971 ;
 
@@ -32534,15 +32569,16 @@ du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 d
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
 la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
-doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
 
-Equipement, transports et logement.
+**Equipement, transports et logement. **
 
 Corps de fonctionnaires :
 
 - ingénieurs des ponts et chaussées régis par le décret n° 59-358 du 20 février 1959 modifié ;
 
-- chargés de recherche et directeurs de recherche régis par le décret n° 94-943 du 28 octobre 1994 ;
+- chargés de recherche et directeurs de recherche régis par le 
+décret n° 94-943 du 28 octobre 1994 ;
 
 - ingénieurs des travaux publics de l'Etat régis par le décret n° 71-345 du 5 mai 1971 modifié ;
 
@@ -32551,18 +32587,25 @@ Corps de fonctionnaires :
 
 - ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 modifié ;
 
-- ingénieurs de l'aviation civile régis par le décret n° 71-234 du 30 mars 1971 modifié ;
+- ingénieurs de l'aviation civile régis par le 
+décret n° 71-234 du 30 mars 1971
+modifié ;
 
-- ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-907 du 8 novembre 1971 modifié ;
+- ingénieurs des études et de l'exploitation de l'aviation civile régis par le 
+décret n° 71-907 du 8 novembre 1971
+modifié ;
 
 - ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 modifié ;
 
-- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991, modifié par
-le décret n° 94-278 du 11 avril 1994 ;
+- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le 
+décret n° 91-56 du 16 janvier 1991
+, modifié par le décret n° 94-278 du 11 avril 1994 ;
 
 - ingénieurs de la météorologie régis par le décret n° 63-1376 du 24 décembre 1963 modifié ;
 
-- ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 modifié.
+- ingénieurs des travaux de la météorologie régis par le 
+décret n° 65-184 du 5 mars 1965
+modifié. 
 
 Agents non titulaires :
 
@@ -32595,32 +32638,45 @@ l'équipement de l'Ile-de-France.
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
 la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
-doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
 
-Défense.
+**Défense. **
 
 Corps de fonctionnaires civils et militaires :
 
-- ingénieurs de l'armement régis par le décret n° 82-1067 du 15 décembre 1982 modifié ;
-
-- ingénieurs militaires des essences régis par le décret n° 76-802 du 19 août 1976 modifié ;
-
-- praticiens des armées régis par le décret n° 2004-534 du 14 juin 2004 ;
-
-- ingénieurs des études et techniques régis par le décret n° 79-1135 du 27 décembre 1979 modifié ;
-
-- ingénieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-750 du 18 octobre 1989
+- ingénieurs de l'armement régis par le 
+décret n° 82-1067 du 15 décembre 1982
 modifié ;
 
-- techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-749 du 18 octobre
-1989 modifié ;
+- ingénieurs militaires des essences régis par le 
+décret n° 76-802 du 19 août 1976
+modifié ;
 
-- techniciens du ministère de la défense régis par le décret n° 98-203 du 20 mars 1998 modifié.
+- praticiens des armées régis par le 
+décret n° 2004-534 du 14 juin 2004
+;
+
+- ingénieurs des études et techniques régis par le 
+décret n° 79-1135 du 27 décembre 1979
+modifié ;
+
+- ingénieurs d'études et de fabrications du ministère de la défense régis par le 
+décret n° 89-750 du 18 octobre 1989
+modifié ;
+
+- techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le 
+décret n° 89-749 du 18 octobre 1989
+modifié ;
+
+- techniciens du ministère de la défense régis par le 
+décret n° 98-203 du 20 mars 1998
+modifié. 
 
 Agents non titulaires :
 
-- agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A, régis par le décret n° 49-1378 du 3 octobre
-1949 modifié ;
+- agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A, régis par le 
+décret n° 49-1378 du 3 octobre 1949
+modifié ;
 
 - professeurs à occupation principale de l'Ecole nationale supérieure de l'aéronautique régis par le décret n° 67-962 du 23
 octobre 1967 ;
@@ -32631,13 +32687,16 @@ octobre 1967 ;
 - ingénieurs et spécialistes des laboratoires et centres de recherche de l'Ecole polytechnique régis par le décret n° 73-312
 du 14 mars 1973 modifié ;
 
-- agents non titulaires ingénieurs régis par le décret n° 88-541 du 4 mai 1988 relatif à certains agents sur contrat des
-services à caractère industriel ou commercial du ministère de la défense ;
+- agents non titulaires ingénieurs régis par le 
+décret n° 88-541 du 4 mai 1988
+relatif à certains agents sur contrat des services à caractère industriel ou commercial du ministère de la défense ;
 
-- personnels enseignants de l'Ecole polytechnique régis par le décret n° 2000-497 du 5 juin 2000 ;
+- personnels enseignants de l'Ecole polytechnique régis par le 
+décret n° 2000-497 du 5 juin 2000 ;
 
-- personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le
-décret n° 2003-1006 du 21 octobre 2003 ;
+- personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le 
+décret n° 2003-1006 du 21 octobre 2003
+ ;
 
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
@@ -32646,9 +32705,88 @@ doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obten
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°49-1378 du 3 octobre 1949 (V)
+  - Décret n°59-358 du 20 février 1959, v. init.
+  - Décret n°59-1405 du 9 décembre 1959 (V)
+  - Décret n°62-1439 du 26 novembre 1962 (V)
+  - Décret n°63-1376 du 24 décembre 1963, v. init.
+  - Décret n°64-420 du 12 mai 1964, v. init.
+  - Décret n°64-642 du 29 juin 1964, v. init.
+  - Décret n°65-184 du 5 mars 1965 (V)
+  - Décret n°65-427 du 4 juin 1965, v. init.
+  - Décret n°65-426 du 4 juin 1965, v. init.
+  - Décret n°65-688 du 10 août 1965 (Ab)
+  - Décret n°65-690 du 10 août 1965 (Ab)
+  - Décret n°65-793 du 16 septembre 1965, v. init.
+  - Décret n°65-803 du 22 septembre 1965 (V)
+  - Décret n°67-715 du 16 août 1967 (Ab)
+  - Décret n°67-962 du 23 octobre 1967, v. init.
+  - Décret n°68-313 du 1 avril 1968, v. init.
+  - Décret n°69-894 du 26 septembre 1969 (V)
+  - Décret n°70-128 du 14 février 1970 (Ab)
+  - Décret n°70-663 du 10 juillet 1970, v. init.
+  - Décret n°71-234 du 30 mars 1971 (Ab)
+  - Décret n°71-345 du 5 mai 1971 (Ab)
+  - Décret n°73-264 du 6 mars 1973 (V)
+  - Décret n°73-311 du 14 mars 1973, v. init.
+  - Décret n°75-62 du 28 janvier 1975, v. init.
+  - Décret n°75-1355 du 18 décembre 1975, v. init.
+  - Décret n°76-802 du 19 août 1976 (Ab)
+  - Décret n°79-1135 du 27 décembre 1979 (V)
+  - Décret n°80-31 du 17 janvier 1980 (V)
+  - Décret n°80-479 du 27 juin 1980 (V)
+  - Loi n°82-610 du 15 juillet 1982 - art. 23 (V)
+  - Décret n°82-1067 du 15 décembre 1982 (Ab)
+  - Décret n°83-1260 du 30 décembre 1983 (V)
+  - Loi n°84-16 du 11 janvier 1984 - art. 4 (V)
+  - Loi n°84-52 du 26 janvier 1984 - art. 54 (M)
+  - Décret n°84-135 du 24 février 1984 (V)
+  - Décret n°84-431 du 6 juin 1984 (V)
+  - Décret n°85-402 du 3 avril 1985 (Ab)
+  - Loi n°85-1223 du 22 novembre 1985, v. init.
+  - Décret n°85-1461 du 30 décembre 1985 (V)
+  - Décret n°85-1462 du 30 décembre 1985 (V)
+  - Décret n°85-1534 du 31 décembre 1985 (V)
+  - Décret n°86-83 du 17 janvier 1986 (V)
+  - Décret n°88-507 du 29 avril 1988 (V)
+  - Décret n°88-541 du 4 mai 1988 (V)
+  - Décret n°88-654 du 7 mai 1988 (V)
+  - Décret n°89-749 du 18 octobre 1989 (V)
+  - Décret n°89-750 du 18 octobre 1989 (V)
+  - Décret n°89-794 du 30 octobre 1989 (Ab)
+  - Décret n°90-92 du 24 janvier 1990 (V)
+  - Décret n°90-160 du 16 février 1990, v. init.
+  - Décret n°90-998 du 8 novembre 1990 (V)
+  - Décret n°91-56 du 16 janvier 1991 (V)
+  - Décret n°91-374 du 16 avril 1991 (V)
+  - Décret n°92-171 du 21 février 1992 (V)
+  - Décret n°92-339 du 30 mars 1992, v. init.
+  - Décret n°92-1229 du 19 novembre 1992 (V)
+  - Décret n°94-278 du 11 avril 1994 (V)
+  - Décret n°94-943 du 28 octobre 1994 (M)
+  - Décret n°95-370 du 6 avril 1995 (V)
+  - Décret n°95-621 du 6 mai 1995 (V)
+  - Décret n°96-273 du 26 mars 1996 (V)
+  - Décret n°96-501 du 7 juin 1996 (V)
+  - Décret n°96-1177 du 27 décembre 1996 - art. 36 (V)
+  - Décret n°98-203 du 20 mars 1998 (V)
+  - Décret n°2000-497 du 5 juin 2000 (V)
+  - Décret n°2000-677 du 18 juillet 2000 (V)
+  - Décret n°2003-1006 du 21 octobre 2003 (V)
+  - Décret n°2004-534 du 14 juin 2004 (Ab)
+  - Décret n°2007-468 du 28 mars 2007 (V)
+  - Décret n°2008-744  du 28 juillet 2008 (V)
+  - Code de l'éducation - art. L123-5 (M)
+  - Code de l'éducation - art. L612-7 (M)
+  - arrêté du 27 mars 1973
+  - décret n°71-907 du 8 novembre 1971
+  - règlement intérieur du 30 mars 1988
+
 _Modifié par_:
 
-  - Décret n°2007-468 du 28 mars 2007 - art. 45 (V)
+  - Décret n°2008-744 du 28 juillet 2008 - art. 48
 
 
 ###### Article R611-11
@@ -32799,44 +32937,44 @@ _Cite_:
 
 ###### Article R611-14-1
 
-I. - Pour les fonctionnaires ou agents publics de l'Etat et de ses établissements publics relevant des catégories définies
-dans l'annexe au présent article et qui sont les auteurs d'une invention mentionnée au 1 de l'article R. 611-12, la
-rémunération supplémentaire prévue par l'article L. 611-7 est constituée par une prime d'intéressement aux produits tirés de
-l'invention par la personne publique qui en est bénéficiaire et par une prime au brevet d'invention.
+I.-Pour les fonctionnaires ou agents publics de l'Etat et de ses établissements publics relevant des catégories définies dans
+l'annexe au présent article et qui sont les auteurs d'une invention mentionnée au 1 de l'article R. 611-12, la rémunération
+supplémentaire prévue par l'article L. 611-7 est constituée par une prime d'intéressement aux produits tirés de l'invention
+par la personne publique qui en est bénéficiaire et par une prime au brevet d'invention. 
 
-II. - La prime d'intéressement est calculée, pour chaque invention, sur une base constituée du produit hors taxes des
+II.-La prime d'intéressement est calculée, pour chaque invention, sur une base constituée du produit hors taxes des
 redevances perçues chaque année au titre de l'invention par la personne publique, après déduction de la totalité des frais
 directs supportés par celle-ci, et affectée du coefficient représentant la contribution à l'invention de l'agent concerné. La
-prime au brevet d'invention n'est pas prise en compte dans les frais directs.
+prime au brevet d'invention n'est pas prise en compte dans les frais directs. 
 
 Le montant versé à chaque agent auteur d'une invention est égal à 50 % de la base définie ci-dessus, dans la limite du
 montant du traitement brut annuel soumis à retenue pour pension correspondant au deuxième chevron du groupe hors échelle D,
-et, au-delà de ce montant, à 25 % de cette base.
+et, au-delà de ce montant, à 25 % de cette base. 
 
-La prime d'intéressement est versée annuellement et peut faire l'objet d'avances en cours d'année.
+La prime d'intéressement est versée annuellement et peut faire l'objet d'avances en cours d'année. 
 
-III. - La prime au brevet d'invention a un caractère forfaitaire. Son montant est fixé par arrêté conjoint des ministres
+III.-La prime au brevet d'invention a un caractère forfaitaire. Son montant est fixé par arrêté conjoint des ministres
 chargés du budget, de la fonction publique et de la recherche. Elle est pour chaque agent affectée du coefficient
-représentant sa contribution à l'invention.
+représentant sa contribution à l'invention. 
 
 Cette prime est versée en deux tranches. Le droit au versement de la première tranche, qui représente 20 % du montant de la
 prime, est ouvert à l'issue d'un délai d'un an à compter du premier dépôt de la demande de brevet. Le droit au versement de
 la seconde tranche est ouvert lors de la signature d'une concession de licence d'exploitation ou d'un contrat de cession
-dudit brevet.
+dudit brevet. 
 
-IV. - Lorsque plusieurs agents sont auteurs d'une même invention, la contribution respective de chacun d'eux à l'invention,
+IV.-Lorsque plusieurs agents sont auteurs d'une même invention, la contribution respective de chacun d'eux à l'invention,
 représentée par un coefficient, est déterminée définitivement avant le premier versement annuel au titre de la rémunération
 supplémentaire mentionnée au I ou, le cas échéant, avant le versement d'avances, selon des modalités arrêtées par le ministre
 ayant autorité sur le service ou par l'ordonnateur principal de la personne publique. Lorsqu'un seul agent est auteur de
-l'invention, le coefficient représentant sa contribution est égal à 1.
+l'invention, le coefficient représentant sa contribution est égal à 1. 
 
 Si l'invention résulte d'une collaboration entre agents relevant de plusieurs personnes publiques, les modalités de
 répartition et de paiement de la prime d'intéressement et de la prime au brevet d'invention sont arrêtées de concert par les
 personnes publiques concernées.
 
-V. - Lorsque l'invention a été réalisée par l'agent dans le cadre de son activité principale, la rémunération due au titre de
+V.-Lorsque l'invention a été réalisée par l'agent dans le cadre de son activité principale, la rémunération due au titre de
 la prime d'intéressement et de la prime au brevet d'invention lui est versée, en complément de sa rémunération d'activité,
-sans autre limitation que celle prévue par le présent article.
+sans autre limitation que celle prévue par le présent article. 
 
 Le cas échéant, la prime d'intéressement continue d'être versée à l'agent pendant le temps d'exploitation de l'invention,
 s'il quitte ses fonctions pour quelque cause que ce soit ou est admis à faire valoir ses droits à pension de retraite. En cas
@@ -32860,14 +32998,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-468 du 28 mars 2007 - art. 45 (V) JORF 30 mars 2007 en vigueur le 1er avril 2007
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
+  - Décret n°2008-744 du 28 juillet 2008 - art. 48
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=212></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=210></a>
 
 ###### Article R611-15
 
@@ -33045,9 +33179,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=213></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=211></a>
 
-##### Section 1 : Dépôt des demandes<a id=214></a>
+##### Section 1 : Dépôt des demandes<a id=212></a>
 
 ###### Article R612-1
 
@@ -33921,9 +34055,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=215></a>
+##### Section 2 : L'instruction des demandes<a id=213></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=216></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=214></a>
 
 ###### Article R612-26
 
@@ -34165,7 +34299,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=217></a>
+##### Sous-section 2 : Division de la demande<a id=215></a>
 
 ###### Article R612-33
 
@@ -34277,7 +34411,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-45 (V)
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=218></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=216></a>
 
 ###### Article R612-36
 
@@ -34622,7 +34756,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=219></a>
+##### Sous-section 4 : Rejet de la demande<a id=217></a>
 
 ###### Article R612-45
 
@@ -34897,7 +35031,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=220></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=218></a>
 
 ###### Article R612-53
 
@@ -35435,7 +35569,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=221></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=219></a>
 
 ###### Article R612-70
 
@@ -35571,7 +35705,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : Diffusion légale des inventions<a id=222></a>
+##### Section 3 : Diffusion légale des inventions<a id=220></a>
 
 ###### Article R612-74
 
@@ -35625,13 +35759,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=223></a>
+#### Chapitre III : Droits attachés aux brevets<a id=221></a>
 
-##### Section 1 : Droits d'exploitation<a id=224></a>
+##### Section 1 : Droits d'exploitation<a id=222></a>
 
-##### Sous-section 2 : Licences obligatoires.<a id=225></a>
-
-##### Sous-section 1 : Licences obligatoires<a id=226></a>
+##### Sous-section 1 : Licences obligatoires<a id=223></a>
 
 ###### Article R613-4
 
@@ -35782,9 +35914,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.<a id=227></a>
-
-##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=228></a>
+##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=224></a>
 
 ###### Article R613-10
 
@@ -36246,7 +36376,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=229></a>
+##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=225></a>
 
 ###### Article R613-25-1
 
@@ -36326,7 +36456,7 @@ _Créé par_:
   - Décret n°2008-625 du 27 juin 2008 - art. 5
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=230></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=226></a>
 
 ###### Article R613-26
 
@@ -36555,7 +36685,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=231></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=227></a>
 
 ###### Article R613-34
 
@@ -36829,7 +36959,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=232></a>
+##### Sous-section 6 : Dispositions diverses<a id=228></a>
 
 ###### Article R613-43
 
@@ -36886,7 +37016,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=233></a>
+##### Section 2 : Transmission et perte des droits<a id=229></a>
 
 ###### Article R613-45
 
@@ -37128,7 +37258,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=234></a>
+##### Section 4 : Recours en restauration<a id=230></a>
 
 ###### Article R613-52
 
@@ -37172,7 +37302,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 5 : Registre national des brevets<a id=235></a>
+##### Section 5 : Registre national des brevets<a id=231></a>
 
 ###### Article R613-53
 
@@ -37432,7 +37562,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=236></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=232></a>
 
 ###### Article R613-60
 
@@ -37533,7 +37663,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=237></a>
+##### Section 7 : Réduction des redevances<a id=233></a>
 
 ###### Article R613-63
 
@@ -37584,9 +37714,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
-#### Chapitre IV : Application de conventions internationales<a id=238></a>
+#### Chapitre IV : Application de conventions internationales<a id=234></a>
 
-##### Section 1 : Brevets européens<a id=239></a>
+##### Section 1 : Brevets européens<a id=235></a>
 
 ###### Article R614-1
 
@@ -38063,7 +38193,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=240></a>
+##### Section 2 : Demandes internationales<a id=236></a>
 
 ###### Article R614-21
 
@@ -38428,9 +38558,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre V : Actions en justice<a id=241></a>
+#### Chapitre V : Actions en justice<a id=237></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=242></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=238></a>
 
 ###### Article R615-1
 
@@ -38461,7 +38591,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=243></a>
+##### Section 2 : Mesures probatoires<a id=239></a>
 
 ###### Article R615-2
 
@@ -38617,7 +38747,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (VD)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=244></a>
+##### Section 3 : Commission paritaire de conciliation<a id=240></a>
 
 ###### Article R615-6
 
@@ -39328,7 +39458,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (VD)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=245></a>
+#### Chapitre VI : Le certificat d'utilité<a id=241></a>
 
 ###### Article R616-1
 
@@ -39414,7 +39544,7 @@ _Cite_:
   - Code de la propriété intellectuelle R612-71, R613-1 à R613-3, R613-60 à R613-62
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=246></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=242></a>
 
 ###### Article R617-1
 
@@ -39474,9 +39604,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre VIII : Dispositions communes<a id=247></a>
+#### Chapitre VIII : Dispositions communes<a id=243></a>
 
-##### Section unique : Procédure<a id=248></a>
+##### Section unique : Procédure<a id=244></a>
 
 ###### Article R618-1
 
@@ -39656,9 +39786,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-53 (V)
 
 
-### Titre II : Protection des connaissances techniques<a id=249></a>
+### Titre II : Protection des connaissances techniques<a id=245></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=250></a>
+#### Chapitre II : Produits semi-conducteurs<a id=246></a>
 
 ###### Article R622-1
 
@@ -39867,11 +39997,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre III : Obtentions végétales<a id=251></a>
+#### Chapitre III : Obtentions végétales<a id=247></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=252></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=248></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=253></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=249></a>
 
 ###### Article R623-1
 
@@ -40345,7 +40475,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=254></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=250></a>
 
 ###### Article R623-16
 
@@ -40592,7 +40722,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=255></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=251></a>
 
 ###### Article R623-25
 
@@ -40746,7 +40876,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Redevances annuelles<a id=256></a>
+##### Sous-section 4 : Redevances annuelles<a id=252></a>
 
 ###### Article R623-31
 
@@ -40894,7 +41024,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=257></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=253></a>
 
 ###### Article R623-36
 
@@ -40956,7 +41086,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-33 (V)
 
 
-##### Sous-section 6 : Registres nationaux<a id=258></a>
+##### Sous-section 6 : Registres nationaux<a id=254></a>
 
 ###### Article R623-38
 
@@ -41124,7 +41254,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=259></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=255></a>
 
 ###### Article R623-43
 
@@ -41304,7 +41434,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=260></a>
+##### Sous-section 8 : Dispositions diverses<a id=256></a>
 
 ###### Article R623-48
 
@@ -41522,7 +41652,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=261></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=257></a>
 
 ###### Article R623-55
 
@@ -41656,7 +41786,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transferts techniques internationaux<a id=262></a>
+#### Chapitre IV : Transferts techniques internationaux<a id=258></a>
 
 ###### Article R624-1
 
@@ -41865,9 +41995,9 @@ _Abrogé par_:
   - Décret n°2008-1472 du 30 décembre 2008 - art. 19
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=263></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=259></a>
 
-#### Chapitre unique<a id=264></a>
+#### Chapitre unique<a id=260></a>
 
 ###### Article D631-1
 
@@ -42068,11 +42198,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=265></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=261></a>
 
-### Titre unique : Marques de fabrique, de commerce ou de service<a id=266></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=262></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=267></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=263></a>
 
 ###### Article R712-1
 
@@ -43063,7 +43193,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=268></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=264></a>
 
 ###### Article R714-1
 
@@ -43413,7 +43543,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=269></a>
+#### Chapitre V : Marques collectives<a id=265></a>
 
 ###### Article R715-1
 
@@ -43458,9 +43588,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=270></a>
+#### Chapitre VI : Contentieux<a id=266></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=271></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=267></a>
 
 ###### Article R716-1
 
@@ -43486,7 +43616,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-##### Section 2 :  Mesures probatoires<a id=272></a>
+##### Section 2 :  Mesures probatoires<a id=268></a>
 
 ###### Article R716-2
 
@@ -43556,7 +43686,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 
-##### Section 3 : Retenue en douane<a id=273></a>
+##### Section 3 : Retenue en douane<a id=269></a>
 
 ###### Article R716-6
 
@@ -43782,9 +43912,9 @@ _Cite_:
   - Code des douanes - art. 334
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=274></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=270></a>
 
-##### Section 1 : Marque internationale<a id=275></a>
+##### Section 1 : Marque internationale<a id=271></a>
 
 ###### Article R717-1
 
@@ -44060,7 +44190,7 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 83 () JORF 3 mars 2004
 
 
-##### Section 2 : Marque communautaire<a id=276></a>
+##### Section 2 : Marque communautaire<a id=272></a>
 
 ###### Article R717-9
 
@@ -44151,9 +44281,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
 
-#### Chapitre VIII : Dispositions communes<a id=277></a>
+#### Chapitre VIII : Dispositions communes<a id=273></a>
 
-##### Section unique<a id=278></a>
+##### Section unique<a id=274></a>
 
 ###### Article R718-1
 
@@ -44289,25 +44419,11 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 87 () JORF 3 mars 2004
 
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=279></a>
+### Titre II : Indications géographiques<a id=275></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=280></a>
+#### Chapitre II : Contentieux<a id=276></a>
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=281></a>
-
-#### Chapitre V : Marques collectives<a id=282></a>
-
-#### Chapitre VI : Contentieux<a id=283></a>
-
-#### Chapitre VII : Marque internationale et marque communautaire<a id=284></a>
-
-#### Chapitre VIII : Dispositions communes<a id=285></a>
-
-### Titre II : Indications géographiques<a id=286></a>
-
-#### Chapitre II : Contentieux<a id=287></a>
-
-##### Section 1 : Mesures provisoires et conservatoires<a id=288></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=277></a>
 
 ###### Article R722-1
 
@@ -44325,7 +44441,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L722-3
 
 
-##### Section 2 : Mesures probatoires<a id=289></a>
+##### Section 2 : Mesures probatoires<a id=278></a>
 
 ###### Article R722-2
 
@@ -44393,11 +44509,11 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=290></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=279></a>
 
-### Titre unique<a id=291></a>
+### Titre unique<a id=280></a>
 
-#### Chapitre unique<a id=292></a>
+#### Chapitre unique<a id=281></a>
 
 ###### Article R811-1
 
