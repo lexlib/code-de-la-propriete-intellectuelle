@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-07-31
+Version Consolidée au 2008-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -52,7 +52,7 @@ et la protection des droits sur internet (art. L331-22)](#40)
           - [Chapitre Ier : Champ d'application (art. L341-1 à L341-2)](#48)
           - [Chapitre II : Etendue de la protection (art. L342-1 à L342-5)](#49)
           - [Chapitre III : Procédures et sanctions (art. L343-1 à L343-7)](#50)
-    - [Deuxième partie : La propriété industrielle (art. L411-1 à L722-7)](#51)
+    - [Deuxième partie : La propriété industrielle (art. L411-1 à L722-8)](#51)
       - [Livre IV : Organisation administrative et professionnelle (art. L411-1 à L423-2)](#52)
         - [Titre Ier : Institutions (art. L411-1 à L412-1)](#53)
           - [Chapitre Ier : L'Institut national de la propriété industrielle (art. L411-1 à L411-5)](#54)
@@ -111,7 +111,7 @@ et la protection des droits sur internet (art. L331-22)](#40)
             - [Section 1 : Délivrance des certificats d'obtention végétale (art. L623-1 à L623-16)](#107)
             - [Section 2 : Droits et obligations attachés aux certificats d'obtention végétale (art. L623-17 à L623-24)](#108)
             - [Section 3 : Actions en justice (art. L623-25 à L623-35)](#109)
-      - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. L711-1 à L722-7)](#110)
+      - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. L711-1 à L722-8)](#110)
         - [Titre Ier : Marques de fabrique, de commerce ou de service (art. L711-1 à L717-7)](#111)
           - [Chapitre Ier : Eléments constitutifs de la marque (art. L711-1 à L711-4)](#112)
           - [Chapitre II : Acquisition du droit sur la marque (art. L712-1 à L712-14)](#113)
@@ -120,10 +120,10 @@ et la protection des droits sur internet (art. L331-22)](#40)
           - [Chapitre V : Marques collectives (art. L715-1 à L715-3)](#116)
           - [Chapitre VI : Contentieux (art. L716-1 à L716-16)](#117)
           - [Chapitre VII : La marque communautaire (art. L717-1 à L717-7)](#118)
-        - [Titre II : Indications géographiques (art. L721-1 à L722-7)](#119)
+        - [Titre II : Indications géographiques (art. L721-1 à L722-8)](#119)
           - [Chapitre Ier : Généralités (art. L721-1)](#120)
-          - [Chapitre II : Contentieux (art. L722-1 à L722-7)](#121)
-            - [Section unique : Actions civiles (art. L722-1 à L722-7)](#122)
+          - [Chapitre II : Contentieux (art. L722-1 à L722-8)](#121)
+            - [Section unique : Actions civiles (art. L722-1 à L722-8)](#122)
     - [Troisième partie : Application aux territoires d'outre-mer et à Mayotte (art. L811-1 à L811-4)](#123)
       - [Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte (art. L811-1 à L811-4)](#124)
         - [Titre unique (art. L811-1 à L811-4)](#125)
@@ -5758,15 +5758,15 @@ _Cité par_:
 ###### Article L331-1
 
 Toutes les contestations relatives à l'application des dispositions de la première partie du présent code qui relèvent des
-juridictions de l'ordre judiciaire sont portées devant les tribunaux compétents, sans préjudice du droit pour la partie lésée
-de se pourvoir devant la juridiction répressive dans les termes du droit commun.
+juridictions de l'ordre judiciaire sont    exclusivement portées devant les tribunaux de grande instance, sans préjudice du
+droit pour la partie lésée de se pourvoir devant la juridiction répressive dans les termes du droit commun. 
 
 Les organismes de défense professionnelle régulièrement constitués ont qualité pour ester en justice pour la défense des
-intérêts dont ils ont statutairement la charge.
+intérêts dont ils ont statutairement la charge. 
 
 Le bénéficiaire valablement investi à titre exclusif, conformément aux dispositions du livre II, d'un droit exclusif
 d'exploitation appartenant à un producteur de phonogrammes ou de vidéogrammes peut, sauf stipulation contraire du contrat de
-licence, exercer l'action en justice au titre de ce droit. L'exercice de l'action est notifié au producteur.
+licence, exercer l'action en justice au titre de ce droit.L'exercice de l'action est notifié au producteur. 
 
 Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de propriété littéraire et
 artistique, y compris lorsque ces actions et demandes portent à la fois sur une question de propriété littéraire et
@@ -5789,14 +5789,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L336-2 (VD)
   - Code de la propriété intellectuelle - art. R331-1 (VT)
 
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
 _Modifié par_:
 
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 30 () JORF 30 octobre 2007
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 31 () JORF 30 octobre 2007
+  - Loi n°2008-776 du 4 août 2008 - art. 135
 
 
 ###### Article L331-1-1
@@ -9658,19 +9653,18 @@ _Créé par_:
 Tout acte modifiant ou transmettant les droits attachés à un dessin ou modèle déposé n'est opposable aux tiers que s'il a été
 inscrit au Registre national des dessins et modèles.
 
+Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis des droits après la date de cet acte mais
+qui avaient connaissance de celui-ci lors de l'acquisition de ces droits. 
+
+Le licencié, partie à un contrat de licence non inscrit sur le Registre national ou international des dessins et modèles, est
+également recevable à intervenir dans l'instance en contrefaçon engagée par le propriétaire du dessin ou modèle afin
+d'obtenir la réparation du préjudice qui lui est propre.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
-
-_Créé par_:
-
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+  - Loi n°2008-776 du 4 août 2008 - art. 133
 
 _Cité par_:
 
@@ -9956,20 +9950,18 @@ _Cité par_:
 
 ###### Article L521-3-1
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de dessins et modèles, y compris
-lorsque ces actions et demandes portent à la fois sur une question de dessins et modèles et sur une question connexe de
-concurrence déloyale, sont déterminés par la voie réglementaire.
+Les actions civiles et les demandes relatives aux dessins et modèles sont exclusivement portées devant les tribunaux de
+grande instance, y compris lorsqu'elles portent à la fois sur une question de dessins et modèles et sur une question connexe
+de concurrence déloyale.
+
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de dessins et modèles sont
+déterminés par voie réglementaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
 _Modifié par_:
 
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+  - Loi n°2008-776 du 4 août 2008 - art. 135
 
 _Cité par_:
 
@@ -10955,25 +10947,26 @@ _Cité par_:
 
 ###### Article L611-10
 
-1. Sont brevetables les inventions nouvelles impliquant une activité inventive et susceptibles d'application industrielle.
+1. Sont brevetables, dans tous les domaines technologiques, les inventions nouvelles impliquant une activité inventive et
+susceptibles d'application industrielle. 
 
-2. Ne sont pas considérées comme des inventions au sens du premier alinéa du présent article notamment :
+2. Ne sont pas considérées comme des inventions au sens du premier alinéa du présent article notamment : 
 
-a) Les découvertes ainsi que les théories scientifiques et les méthodes mathématiques ;
+a) Les découvertes ainsi que les théories scientifiques et les méthodes mathématiques ; 
 
-b) Les créations esthétiques ;
+b) Les créations esthétiques ; 
 
 c) Les plans, principes et méthodes dans l'exercice d'activités intellectuelles, en matière de jeu ou dans le domaine des
-activités économiques, ainsi que les programmes d'ordinateurs ;
+activités économiques, ainsi que les programmes d'ordinateurs ; 
 
-d) Les présentations d'informations.
+d) Les présentations d'informations. 
 
 3. Les dispositions du 2 du présent article n'excluent la brevetabilité des éléments énumérés auxdites dispositions que dans
-la mesure où la demande de brevet ou le brevet ne concerne que l'un de ces éléments considéré en tant que tel.
+la mesure où la demande de brevet ou le brevet ne concerne que l'un de ces éléments considéré en tant que tel. 
 
-4. Sous réserve des dispositions des articles L. 611-17, L. 611-18 et L. 611-19, sont brevetables aux conditions prévues au 1
-les inventions portant sur un produit constitué en totalité ou en partie de matière biologique, ou sur un procédé permettant
-de produire, de traiter ou d'utiliser de la matière biologique.
+4. Sous réserve des dispositions des articles L. 611-16 à L. 611-19, sont brevetables aux conditions prévues au 1 les
+inventions portant sur un produit constitué en totalité ou en partie de matière biologique, ou sur un procédé permettant de
+produire, de traiter ou d'utiliser de la matière biologique. 
 
 Est regardée comme matière biologique la matière qui contient des informations génétiques et peut se reproduire ou être
 reproduite dans un système biologique.
@@ -10984,17 +10977,16 @@ _Anciens textes_:
 
   - Loi n°68-1 du 2 janvier 1968 - art. 6 (Ab)
 
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
 _Modifié par_:
 
-  - Loi n°2004-1338 du 8 décembre 2004 - art. 1 () JORF 9 décembre 2004
+  - Loi n°2008-776 du 4 août 2008 - art. 132
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L611-16
 
 _Cité par_:
 
-  - Code de la propriété intellectuelle - art. L611-16 (V)
   - Code de la propriété intellectuelle - art. L612-12 (VD)
   - Code de la propriété intellectuelle - art. L613-25 (V)
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
@@ -11011,11 +11003,15 @@ brevet par une description écrite ou orale, un usage ou tout autre moyen.
 Est également considéré comme compris dans l'état de la technique le contenu de demandes de brevet français et de demandes de
 brevet européen ou international désignant la France, telles qu'elles ont été déposées, qui ont une date de dépôt antérieure
 à celle mentionnée au second alinéa du présent article et qui n'ont été publiées qu'à cette date ou qu'à une date
-postérieure.
+postérieure. 
 
-Les dispositions des alinéas précédents n'excluent pas la brevetabilité, pour la mise en oeuvre d'une des méthodes visées à
-l'article L. 611-16, d'une substance ou composition exposée dans l'état de la technique, à condition que son utilisation pour
-toute méthode visée audit article ne soit pas contenue dans l'état de la technique.
+Les deuxième et troisième alinéas n'excluent pas la brevetabilité d'une substance ou composition comprise dans l'état de la
+technique pour la mise en œuvre des méthodes visées à l'article L. 611-16, à condition que son utilisation pour l'une
+quelconque de ces méthodes ne soit pas comprise dans l'état de la technique. 
+
+Les deuxième et troisième alinéas n'excluent pas non plus la brevetabilité d'une substance ou composition visée au quatrième
+alinéa pour toute utilisation spécifique dans toute méthode visée à l'article L. 611-16, à condition que cette utilisation ne
+soit pas comprise dans l'état de la technique.
 
 **Liens relatifs à cet article**
 
@@ -11037,13 +11033,13 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-20 (V)
   - Code de la propriété intellectuelle - art. R612-69 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°2008-776 du 4 août 2008 - art. 132
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Code de la propriété intellectuelle - art. L611-16
 
 
 ###### Article L611-12
@@ -11180,10 +11176,9 @@ _Créé par_:
 
 ###### Article L611-16
 
-Ne sont pas considérées comme des inventions susceptibles d'application industrielle au sens de l'article L. 611-10 les
-méthodes de traitement chirurgical ou thérapeutique du corps humain ou animal et les méthodes de diagnostic appliquées au
-corps humain ou animal. Cette disposition ne s'applique pas aux produits, notamment aux substances ou compositions, pour la
-mise en oeuvre d'une de ces méthodes.
+Ne sont pas brevetables les méthodes de traitement chirurgical ou thérapeutique du corps humain ou animal et les méthodes de
+diagnostic appliquées au corps humain ou animal. Cette disposition ne s'applique pas aux produits, notamment aux substances
+ou compositions, pour la mise en oeuvre d'une de ces méthodes.
 
 **Liens relatifs à cet article**
 
@@ -11191,13 +11186,9 @@ _Anciens textes_:
 
   - Loi n°68-1 du 2 janvier 1968 - art. 6 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2008-776 du 4 août 2008 - art. 132
 
 _Cité par_:
 
@@ -11719,35 +11710,35 @@ _Cite_:
 
 ###### Article L612-12
 
-Est rejetée, en tout ou partie, toute demande de brevet :
+Est rejetée, en tout ou partie, toute demande de brevet : 
 
-1° Qui ne satisfait pas aux conditions visées à l'article L. 612-1 ;
+1° Qui ne satisfait pas aux conditions visées à l'article L. 612-1 ; 
 
-2° Qui n'a pas été divisée conformément à l'article L. 612-4 ;
+2° Qui n'a pas été divisée conformément à l'article L. 612-4 ; 
 
-3° Qui porte sur une demande divisionnaire dont l'objet s'étend au-delà du contenu de la description de la demande initiale ;
+3° Qui porte sur une demande divisionnaire dont l'objet s'étend au-delà du contenu de la description de la demande
+initiale ; 
 
-4° Qui a pour objet une invention manifestement non brevetable en application des articles L. 611-17, L. 611-18 et L.
-611-19 ;
+4° Qui a pour objet une invention manifestement non brevetable en application des articles L. 611-16 à L. 611-19 ; 
 
-5° Dont l'objet ne peut manifestement être considéré comme une invention au sens de l'article L. 611-10, deuxième paragraphe,
-ou comme une invention susceptible d'application industrielle au sens de l'article L. 611-16 ;
+5° Dont l'objet ne peut manifestement être considéré comme une invention au sens de l'article L. 611-10, deuxième
+paragraphe ; 
 
-6° Dont la description ou les revendications ne permettent pas d'appliquer les dispositions de l'article L. 612-14 ;
+6° Dont la description ou les revendications ne permettent pas d'appliquer les dispositions de l'article L. 612-14 ; 
 
 7° Qui n'a pas été modifiée, après mise en demeure, alors que l'absence de nouveauté résultait manifestement du rapport de
-recherche ;
+recherche ; 
 
-8° Dont les revendications ne se fondent pas sur la description ;
+8° Dont les revendications ne se fondent pas sur la description ; 
 
 9° Lorsque le demandeur n'a pas, s'il y a lieu, présenté d'observations ni déposé de nouvelles revendications au cours de la
-procédure d'établissement du rapport de recherche prévu à l'article L. 612-14.
+procédure d'établissement du rapport de recherche prévu à l'article L. 612-14. 
 
 Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les revendications correspondantes sont
-rejetées.
+rejetées. 
 
-En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17 et L. 611-18 ou L. 612-1, il est
-procédé d'office à la suppression des parties correspondantes de la description et des dessins.
+En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17, L. 611-18, L. 611-19 (4° du I) ou
+L. 612-1, il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
 
 **Liens relatifs à cet article**
 
@@ -11756,13 +11747,20 @@ _Anciens textes_:
   - Loi n°68-1 du 2 janvier 1968 - art. 16 (M)
   - Loi n°68-1 du 2 janvier 1968 - art. 16 (Ab)
 
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
 _Modifié par_:
 
-  - Loi n°2004-1338 du 8 décembre 2004 - art. 4 () JORF 9 décembre 2004
+  - Loi n°2008-776 du 4 août 2008 - art. 132
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L611-10
+  - Code de la propriété intellectuelle - art. L611-16
+  - Code de la propriété intellectuelle - art. L612-1 (V)
+  - Code de la propriété intellectuelle - art. L612-14 (V)
+  - Code de la propriété intellectuelle - art. L612-17 (V)
+  - Code de la propriété intellectuelle - art. L612-18 (V)
+  - Code de la propriété intellectuelle - art. L612-19 (V)
+  - Code de la propriété intellectuelle - art. L612-4
 
 _Cité par_:
 
@@ -12255,8 +12253,8 @@ _Cité par_:
 
 ###### Article L613-2
 
-L'étendue de la protection conférée par le brevet est déterminée par la teneur des revendications. Toutefois, la description
-et les dessins servent à interpréter les revendications.
+L'étendue de la protection conférée par le brevet est déterminée par les revendications. Toutefois, la description et les
+dessins servent à interpréter les revendications.
 
 Si l'objet du brevet porte sur un procédé, la protection conférée par le brevet s'étend aux produits obtenus directement par
 ce procédé.
@@ -12267,13 +12265,9 @@ _Anciens textes_:
 
   - Loi n°68-1 du 2 janvier 1968 - art. 28 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2008-776 du 4 août 2008 - art. 132
 
 
 ###### Article L613-2-1
@@ -12691,19 +12685,19 @@ propriété industrielle.
 Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis des droits après la date de cet acte, mais
 qui avaient connaissance de celui-ci lors de l'acquisition de ces droits.
 
+Le licencié, partie à un contrat de licence non inscrit sur le Registre national des brevets, est également recevable à
+intervenir dans l'instance en contrefaçon engagée par le propriétaire du brevet afin d'obtenir la réparation du préjudice qui
+lui est propre.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°68-1 du 2 janvier 1968 - art. 46 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2008-776 du 4 août 2008 - art. 133
 
 _Cité par_:
 
@@ -13332,17 +13326,18 @@ _Cite_:
 
 ###### Article L613-24
 
-Le propriétaire du brevet peut à tout moment renoncer soit à la totalité du brevet, soit à une ou plusieurs revendications du
-brevet.
+Le propriétaire du brevet peut à tout moment soit renoncer à la totalité du brevet ou à une ou plusieurs revendications, soit
+limiter la portée du brevet en modifiant une ou plusieurs revendications. 
 
-La renonciation est faite par écrit auprès de l'Institut national de la propriété industrielle. Elle prend effet à compter du
-jour de sa publication.
+La requête en renonciation ou en limitation est présentée auprès de l'Institut national de la propriété industrielle dans des
+conditions fixées par voie réglementaire. 
 
-Si des droits réels, de gage ou de licence, ont été inscrits au registre national des brevets, la renonciation n'est
-recevable que si les titulaires de ces droits y consentent.
+Le directeur de l'Institut national de la propriété industrielle examine la conformité de la requête avec les dispositions
+réglementaires mentionnées à l'alinéa précédent. 
 
-Les dispositions des deuxième et troisième alinéas du présent article ne s'appliquent pas aux renonciations effectuées en
-application des dispositions de l'article L. 612-15.
+Les effets de la renonciation ou de la limitation rétroagissent à la date du dépôt de la demande de brevet. 
+
+Les deuxième et troisième alinéas s'appliquent aux limitations effectuées en application des articles L. 613-25 et L. 614-12.
 
 **Liens relatifs à cet article**
 
@@ -13350,13 +13345,9 @@ _Anciens textes_:
 
   - Loi n°68-1 du 2 janvier 1968 - art. 47 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2008-776 du 4 août 2008 - art. 132
 
 _Cité par_:
 
@@ -13366,21 +13357,35 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L623-25 (V)
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
 
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L613-25
+  - Code de la propriété intellectuelle - art. L614-12
+
 
 ###### Article L613-25
 
-Le brevet est déclaré nul par décision de justice :
+Le brevet est déclaré nul par décision de justice : 
 
 a) Si son objet n'est pas brevetable aux termes des articles L. 611-10, L. 611-11 et L. 611-13 à L. 611-19 ;
 
-b) S'il n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter ;
+b) S'il n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter ; 
 
 c) Si son objet s'étend au-delà du contenu de la demande telle qu'elle a été déposée ou, lorsque le brevet a été délivré sur
 la base d'une demande divisionnaire, si son objet s'étend au-delà du contenu de la demande initiale telle qu'elle a été
-déposée.
+déposée ; 
+
+d) Si, après limitation, l'étendue de la protection conférée par le brevet a été accrue. 
 
 Si les motifs de nullité n'affectent le brevet qu'en partie, la nullité est prononcée sous la forme d'une limitation
-correspondante des revendications.
+correspondante des revendications. 
+
+Dans le cadre d'une action en nullité du brevet, son titulaire est habilité à limiter le brevet en modifiant les
+revendications ; le brevet ainsi limité constitue l'objet de l'action en nullité engagée. 
+
+La partie qui, lors d'une même instance, procède à plusieurs limitations de son brevet, de manière dilatoire ou abusive, peut
+être condamnée à une amende civile d'un montant maximum de 3 000 euros, sans préjudice de dommages et intérêts qui seraient
+réclamés.
 
 **Liens relatifs à cet article**
 
@@ -13388,13 +13393,13 @@ _Anciens textes_:
 
   - Loi n°68-1 du 2 janvier 1968 - art. 49 (Ab)
 
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
 _Modifié par_:
 
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 9 () JORF 30 octobre 2007
+  - Loi n°2008-776 du 4 août 2008 - art. 132
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L611-10
 
 _Cité par_:
 
@@ -13818,14 +13823,14 @@ _Cité par_:
 
 ###### Article L614-6
 
-Une demande de brevet européen ne peut être transformée en demande de brevet français que dans les cas prévus à l'article
-135-1 (a) de la convention de Munich.
+Une demande de brevet européen ne peut être transformée en demande de brevet français que dans le cas prévu à l'article 135-1
+(a) de la convention de Munich. 
 
-Dans ces cas et sous peine de rejet de sa demande de brevet français, le déposant doit satisfaire aux conditions qui sont
-fixées par voie réglementaire.
+Dans ce cas et sous peine de rejet de sa demande de brevet français, le déposant doit satisfaire aux conditions qui sont
+fixées par voie réglementaire. 
 
 Si un rapport de recherche a été établi avant transformation de la demande, ce rapport tient lieu de rapport de recherche
-prévu à l'article L. 612-15.
+prévu à l'article L. 612-14.
 
 **Liens relatifs à cet article**
 
@@ -13838,13 +13843,13 @@ _Cité par_:
   - Décret n°78-1011 du 10 octobre 1978 - art. 17 (Ab)
   - Code de la propriété intellectuelle - art. R614-17 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°2008-776 du 4 août 2008 - art. 132
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Code de la propriété intellectuelle - art. L612-14
 
 
 ##### Paragraphe 2 : Effets en France des brevets européens<a id=91></a>
@@ -14032,8 +14037,16 @@ _Cité par_:
 La nullité du brevet européen est prononcée en ce qui concerne la France par décision de justice pour l'un quelconque des
 motifs visés à l'article 138, paragraphe 1, de la Convention de Munich.
 
-Si les motifs de nullité n'affectent le brevet qu'en partie, la nullité est prononcée sous la forme d'une limitation des
-revendications, de la description ou des dessins.
+Si les motifs de nullité n'affectent le brevet qu'en partie, la nullité est prononcée sous la forme d'une limitation
+correspondante des revendications.
+
+Dans le cadre d'une action en nullité du brevet européen, son titulaire est habilité à limiter le brevet en modifiant les
+revendications conformément à l'article 105 bis de la convention de Munich ; le brevet ainsi limité constitue l'objet de
+l'action en nullité engagée. 
+
+La partie qui, lors d'une même instance, procède à plusieurs limitations de son brevet de manière dilatoire ou abusive peut
+être condamnée à une amende civile d'un montant maximum de 3 000 euros, sans préjudice de dommages et intérêts qui seraient
+réclamés.
 
 **Liens relatifs à cet article**
 
@@ -14041,13 +14054,9 @@ _Anciens textes_:
 
   - Loi n°77-683 du 30 juin 1977 - art. 12 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2008-776 du 4 août 2008 - art. 132
 
 _Cité par_:
 
@@ -18329,6 +18338,13 @@ _Créé par_:
 Toute transmission ou modification des droits attachés à une marque enregistrée doit, pour être opposable aux tiers, être
 inscrite au Registre national des marques.
 
+Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis des droits après la date de cet acte mais
+qui avaient connaissance de celui-ci lors de l'acquisition de ces droits. 
+
+Le licencié, partie à un contrat de licence non inscrit sur le Registre national ou international des marques, est également
+recevable à intervenir dans l'instance en contrefaçon engagée par le propriétaire de la marque afin d'obtenir la réparation
+du préjudice qui lui est propre.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -18336,13 +18352,9 @@ _Anciens textes_:
   - Loi n°91-7 1991-01-04 art. 29
   - Loi n°91-7 du 4 janvier 1991 - art. 29 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2008-776 du 4 août 2008 - art. 133
 
 _Cité par_:
 
@@ -18507,9 +18519,11 @@ _Créé par_:
 
 ###### Article L716-3
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de marques, y compris lorsque ces
-actions et demandes portent à la fois sur une question de marques et sur une question connexe de concurrence déloyale, sont
-déterminés par voie réglementaire.
+Les actions civiles et les demandes relatives aux marques sont exclusivement portées devant les tribunaux de grande instance,
+y compris lorsqu'elles portent à la fois sur une question de marques et sur une question connexe de concurrence déloyale.
+
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de marques sont déterminés par
+voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -18518,13 +18532,9 @@ _Anciens textes_:
   - Loi n°91-7 1991-01-04 art. 34
   - Loi n°91-7 du 4 janvier 1991 - art. 34 (Ab)
 
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
 _Modifié par_:
 
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 23 () JORF 30 octobre 2007
+  - Loi n°2008-776 du 4 août 2008 - art. 135
 
 _Cité par_:
 
@@ -19784,6 +19794,26 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+
+
+###### Article L722-8
+
+Les actions civiles et les demandes relatives aux indications géographiques sont exclusivement portées devant les tribunaux
+de grande instance, y compris lorsqu'elles portent à la fois sur une question d'indications géographiques et sur une question
+connexe de concurrence déloyale. 
+
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière d'indications géographiques sont
+déterminés par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 135
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. D722-6 (VD)
 
 
 ## Troisième partie : Application aux territoires d'outre-mer et à Mayotte<a id=123></a>
