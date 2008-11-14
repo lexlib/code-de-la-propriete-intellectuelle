@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-11-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -6114,7 +6114,7 @@ entreprise et à 1, 5 million d'euros dans les autres cas.
 Les décisions de l'autorité sont rendues publiques dans le respect des secrets protégés par la loi. Elles sont notifiées aux
 parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif. 
 
-Le président de l'Autorité de régulation des mesures techniques saisit le Conseil de la concurrence des abus de position
+Le président de l'Autorité de régulation des mesures techniques saisit l'Autorité de la concurrence des abus de position
 dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur
 des mesures techniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, dans les conditions
 prévues à l'article L. 464-1 du code de commerce. Le président de l'autorité peut également le saisir, pour avis, de toute
@@ -6124,18 +6124,18 @@ techniques mentionnées à l'article L. 331-5 du présent code.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
 _Cite_:
 
   - Loi n°2004-575 du 21 juin 2004 - art. 4 (V)
   - Code de commerce. - art. L464-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 14 () JORF 3 août 2006
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
 
 _Cité par_:
 
@@ -24570,15 +24570,15 @@ est examinée.L'Autorité statue hors de sa présence.
 Lorsqu'elle estime que l'instruction est incomplète, l'Autorité peut décider de renvoyer l'affaire en tout ou partie à
 l'instruction. Cette décision n'est pas susceptible de recours. 
 
-II.-L'Autorité peut, si elle le juge utile, demander à son président de saisir pour avis le Conseil de la concurrence selon
+II.-L'Autorité peut, si elle le juge utile, demander à son président de saisir pour avis l'Autorité de la concurrence selon
 les modalités fixées au dernier alinéa de l'article L. 331-7 et décider de surseoir à statuer, dans l'attente de cet avis,
 sur la demande dont elle a été saisie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-510 2007-04-04 art. 1 2° JORF 5 avril 2007
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cite_:
 
@@ -24591,10 +24591,6 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-23 (V)
   - Code de la propriété intellectuelle - art. R331-24 (V)
   - Code de la propriété intellectuelle - art. R331-27 (V)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
 
 
 ###### Article R331-22
