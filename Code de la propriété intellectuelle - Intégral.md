@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -5634,16 +5634,16 @@ _Abrogé par_:
 
 La société de perception et de répartition des droits communique ses comptes annuels au ministre chargé de la culture et
 porte à sa connaissance, deux mois au moins avant son examen par l'assemblée générale, tout projet de modification de ses
-statuts ou des règles de perception et de répartition des droits.
+statuts ou des règles de perception et de répartition des droits. 
 
 Elle adresse au ministre chargé de la culture, à la demande de celui-ci, tout document relatif à la perception et à la
-répartition des droits ainsi que la copie des conventions passées avec les tiers.
+répartition des droits ainsi que la copie des conventions passées avec les tiers. 
 
 Le ministre chargé de la culture ou son représentant peut recueillir, sur pièces et sur place, les renseignements mentionnés
-au présent article.
+au présent article. 
 
 Les règles comptables communes aux sociétés de perception et de répartition des droits sont établies dans les conditions
-fixées par le Comité de la réglementation comptable.
+fixées par l'Autorité des normes comptables.
 
 **Liens relatifs à cet article**
 
@@ -5651,13 +5651,13 @@ _Anciens textes_:
 
   - Loi n°85-660 du 3 juillet 1985 - art. 41 (Ab)
 
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 35 () JORF 3 août 2006
+  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
 
 _Cité par_:
 
