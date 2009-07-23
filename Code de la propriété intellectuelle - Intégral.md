@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2009-06-22
+Version Consolidée au 2009-07-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -167,7 +167,7 @@ et la protection des droits sur internet (art. L331-22 à L331-25)](#41)
         - [Chapitre Ier : Dispositions générales (art. R331-1 à R331-37)](#163)
           - [Section 1 : Dispositions communes (art. R331-1)](#164)
           - [Section 2 : Mesures techniques de protection et d'information (art. R331-2 à R331-37)](#165)
-            - [Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques (art. R331-3 à R331-11)](#166)
+            - [Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques (art. Annexe art. D331-9-1 à R331-11)](#166)
             - [Sous-section 2 : Règles générales de procédure applicables devant l'Autorité (art. R331-12 à R331-19)](#167)
             - [Sous-section 3 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-20 à R331-25)](#168)
             - [Sous-section 4 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins (art. R331-26 à R331-27)](#169)
@@ -24217,6 +24217,160 @@ _Codifié par_:
 
 
 ##### Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques<a id=166></a>
+
+###### Article Annexe art. D331-9-1
+
+En application de l'article L. 331-18 du code de la propriété intellectuelle, les fonctions de membres et de secrétaire
+général de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet sont incompatibles avec le
+fait d'exercer ou d'avoir exercé, au cours des trois dernières années, une fonction de dirigeant, de salarié ou de
+conseiller :
+
+- d'une société de perception et de répartition des droits ;
+
+- d'une entreprise exerçant une activité de production de phonogrammes ou de vidéogrammes ou d'édition d'œuvres protégées par
+un droit d'auteur ou des droits voisins ;
+
+- d'une entreprise de communication audiovisuelle ;
+
+- d'une entreprise offrant des services de mise à disposition d'œuvres ou d'objets protégés par un droit d'auteur ou des
+droits voisins ;
+
+- d'une entreprise dont l'activité est d'offrir un accès à des services de communication au public en ligne. 
+
+Les membres et le secrétaire général de la haute autorité ne peuvent par ailleurs détenir d'intérêts dans l'une de ces
+sociétés ou entreprises. Ils ne peuvent participer à une délibération concernant l'une de ces sociétés ou entreprises dans
+laquelle ils auraient un intérêt indirect. 
+
+Les membres et le secrétaire général de la haute autorité adressent, au moment de leur désignation, une déclaration
+mentionnant les intérêts qu'ils détiennent dans l'une des sociétés ou entreprises susmentionnées, conforme au présent
+modèle. 
+
+La présente déclaration d'intérêts a pour objectif la prévention des conflits d'intérêts au sein de la Haute Autorité pour la
+diffusion des œuvres et la protection des droits sur internet. 
+
+**Déclaration d'intérêts **
+
+Je soussigné (e).......... 
+
+Reconnais avoir pris connaissance de l'obligation de déclarer la détention, directe ou indirecte, d'intérêts dans une société
+ou une entreprise mentionnée dans le préambule. 
+
+_Renseignements administratifs _
+
+1. Activité professionnelle principale (précisez les organismes employeurs au sein desquels vous exercez ou avez exercé au
+cours des trois dernières années) : 
+
+2. Adresse professionnelle actuelle : 
+
+_Intérêts _
+
+1. Participation (s) financière (s) : 
+
+Indiquez ici tout intérêt financier dans le capital d'une société ou d'une entreprise mentionnée dans le préambule : valeurs
+mobilières cotées ou non, qu'il s'agisse d'actions, d'obligations ou d'autres avoirs financiers en fonds propres ; doivent
+également être déclarés les intérêts dans une société ou une entreprise concernée, une de ses filiales ou une société ou une
+entreprise dont elle détient une partie du capital dans la limite de votre connaissance immédiate et attendue. 
+
+Société, entreprise.......................................... Nature de la participation
+financière.................................. 
+
+2. Activité (s) donnant lieu à une rémunération personnelle : 
+
+2. 1. Liens durables ou permanents : 
+
+Indiquez ici si vous êtes propriétaire, dirigeant, associé, employé ou si vous êtes membre d'un organe décisionnel d'une
+société ou d'une entreprise mentionnée dans le préambule. 
+
+Société, entreprise....................................... Nature du lien
+durable........................................................ 
+
+ou permanent 
+
+2. 2. Interventions ponctuelles : 
+
+Indiquez ici, notamment, les activités de conseil (consultations ponctuelles, participations à des groupes de travail,
+activités d'audit...) auprès d'une société ou d'une entreprise mentionnée dans le préambule et la participation en qualité
+d'intervenant à des congrès, conférences, colloques, réunions publiques diverses et actions de formation organisés ou
+soutenus financièrement par une société ou une entreprise mentionnée dans le préambule. 
+
+Les rémunération indirectes doivent également être mentionnées, telles que la prise en charge par une société ou une
+entreprise de frais personnels (frais de déplacement ou d'hébergement notamment). 
+
+Société, entreprise......................................... Nature de
+l'activité............................................................ 
+
+3. Activité (s) donnant lieu à un versement au budget d'une institution dont dépend le déclarant ou dont il est
+responsable : 
+
+Indiquez ici les activités réalisées par vous-même ou par une personne dépendant de vous, financées par une société ou une
+entreprise mentionnée dans le préambule et donnant lieu à un versement à une institution dans laquelle vous travaillez
+(organisme de recherche...) où dans laquelle vous exercez une responsabilité (fondation, association...). 
+
+Société, entreprise........................................ Nature de
+l'activité............................................................. 
+
+4. Liens de parenté : 
+
+Indiquez ici si l'un de vos parents proches (conjoint, ascendants ou descendants jusqu'au second degré et collatéraux
+immédiats y compris leurs conjoints) est employé par une société ou une entreprise mentionnée dans le préambule. Le nom des
+membres de la famille n'a pas à être mentionné. 
+
+Société, entreprise.......................................... Lien de
+parenté.............................................................. 
+
+5. Autres (à votre initiative) : 
+
+Indiquez ici les intérêts qui pourraient être considérés comme portant atteinte à votre impartialité ou que vous considérez
+devoir être portés à la connaissance de la haute autorité. 
+
+Je m'engage à actualiser chaque année la présente déclaration. En cas de modification des liens ou activités ci-dessus ou du
+fait de l'acquisition d'intérêts supplémentaires devant être portés à la connaissance de la haute autorité, je m'engage à en
+informer celle-ci et à procéder immédiatement à une nouvelle déclaration d'intérêts 
+
+Fait à.......................................................... le...............................
+signature...............................
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-887 du 21 juillet 2009 - art.
+
+_Abrogé par_:
+
+  - Décret n°2009-1773 du 29 décembre 2009 - art. 2
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L331-18
+
+
+###### Article D331-9-1
+
+La déclaration d'intérêts mentionnée à l'article L. 331-18 est établie conformément au modèle figurant en annexe au présent
+article. 
+
+Les déclarations sont actualisées chaque année et, en tout état de cause, dès qu'un fait nouveau intervient dans la situation
+professionnelle ou personnelle des déclarants.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-887 du 21 juillet 2009 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2009-1773 du 29 décembre 2009 - art. 2
+
+_Cité par_:
+
+  - Décret n°2009-1773 du 29 décembre 2009 - art. 3 (V)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L331-18
+
 
 ###### Article R331-3
 
