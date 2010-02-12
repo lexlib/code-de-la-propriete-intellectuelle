@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-02-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -26579,34 +26579,30 @@ _Créé par_:
 
 ###### Article D412-4
 
-Un représentant de l'Etat, choisi parmi les membres du Conseil général de l'agriculture, de l'alimentation et des espaces
-ruraux et nommé par arrêté du ministre chargé de l'agriculture, assure la présidence du comité.
+Un représentant de l'Etat, choisi parmi les membres du Conseil général de l'alimentation, de l'agriculture et des espaces
+ruraux et nommé par arrêté du ministre chargé de l'agriculture, assure la présidence du comité. 
 
 Le président a pour mission, en dehors des réunions du comité dont il assure la présidence, de veiller à la bonne marche du
 secrétariat général prévu à l'article R. 412-10 et d'assurer avec son aide la préparation et l'exécution des décisions du
 comité.
 
-**Nota:**
-
-Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 57 () JORF 8 juin 2006 en vigueur le 1er août 2006
+  - Décret n°2010-141 du 10 février 2010 - art. 10 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R412-10 (V)
+  - Code de la propriété intellectuelle - art. R412-10
 
 _Anciens textes_:
 
   - Code de la propriété intellectuelle - art. R412-4 (T)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
 
 
 ###### Article R412-1
