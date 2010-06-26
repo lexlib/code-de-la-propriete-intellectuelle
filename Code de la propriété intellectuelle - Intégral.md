@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2010-06-17
+Version Consolidée au 2010-06-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -165,7 +165,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#41)
         - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#161)
         - [Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits (art. R325-1 à R325-4)](#162)
         - [Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R326-1 à R326-7)](#163)
-      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-4)](#164)
+      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-5)](#164)
         - [Chapitre Ier : Dispositions générales (art. D331-1-1 à D331-34)](#165)
           - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#166)
           - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à D331-34)](#167)
@@ -177,7 +177,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#41)
               - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32)](#173)
               - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#174)
         - [Chapitre II : Saisie-contrefaçon (art. R332-1 à R332-4)](#175)
-        - [Chapitre V : Dispositions pénales (art. R*335-1-1 à R335-4)](#176)
+        - [Chapitre V : Dispositions pénales (art. R*335-1-1 à R335-5)](#176)
       - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#177)
       - [Chapitre III : Procédures et sanctions (art. R343-1)](#178)
     - [Livre IV : Organisation administrative et professionnelle (art. R411-1 à R423-2)](#179)
@@ -25559,6 +25559,53 @@ _Créé par_:
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L331-22 (V)
+
+
+###### Article R335-5
+
+I.-Constitue une négligence caractérisée, punie de l'amende prévue pour les contraventions de la cinquième classe, le fait,
+sans motif légitime, pour la personne titulaire d'un accès à des services de communication au public en ligne, lorsque se
+trouvent réunies les conditions prévues au II : 
+
+1° Soit de ne pas avoir mis en place un moyen de sécurisation de cet accès ; 
+
+2° Soit d'avoir manqué de diligence dans la mise en œuvre de ce moyen. 
+
+II.-Les dispositions du I ne sont applicables que lorsque se trouvent réunies les deux conditions suivantes : 
+
+1° En application de l'article L. 331-25 et dans les formes prévues par cet article, le titulaire de l'accès s'est vu
+recommander par la commission de protection des droits de mettre en œuvre un moyen de sécurisation de son accès permettant de
+prévenir le renouvellement d'une utilisation de celui-ci à des fins de reproduction, de représentation ou de mise à
+disposition ou de communication au public d'œuvres ou d'objets protégés par un droit d'auteur ou par un droit voisin sans
+l'autorisation des titulaires des droits prévus aux livres Ier et II lorsqu'elle est requise ; 
+
+2° Dans l'année suivant la présentation de cette recommandation, cet accès est à nouveau utilisé aux fins mentionnées au 1°
+du présent II. 
+
+III.-Les personnes coupables de la contravention définie au I peuvent, en outre, être condamnées à la peine complémentaire de
+suspension de l'accès à un service de communication au public en ligne pour une durée maximale d'un mois, conformément aux
+dispositions de l'article L. 335-7-1.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2010-236 du 5 mars 2010 - art. (V)
+  - Décret n°2010-236 du 5 mars 2010 - art. 1 (V)
+  - Décret n°2010-236 du 5 mars 2010 - art. 4 (V)
+  - Décret n°2013-596 du 8 juillet 2013 (V)
+  - Code de la propriété intellectuelle - art. 331-40 (V)
+  - Code de la propriété intellectuelle - art. 331-42 (V)
+  - Code de la propriété intellectuelle - art. 331-45 (V)
+
+_Créé par_:
+
+  - Décret n°2010-695 du 25 juin 2010 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L331-25
+  - Code de la propriété intellectuelle - art. L335-7-1
 
 
 ### Titre IV : Droits des producteurs de bases de données<a id=177></a>
