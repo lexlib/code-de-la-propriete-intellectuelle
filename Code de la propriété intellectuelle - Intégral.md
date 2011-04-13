@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-04-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -178,7 +178,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#41)
               - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#174)
               - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#175)
             - [Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. R331-35 à R331-46)](#176)
-            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. R331-47 à R331-54)](#177)
+            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. D331-54-1 à R331-54)](#177)
             - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés (art. R331-55 à R331-84)](#178)
               - [Paragraphe 1 : Règles générales de procédure (art. R331-56 à R331-64)](#179)
               - [Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-65 à R331-71)](#180)
@@ -25861,6 +25861,23 @@ _Cite_:
 
 
 ##### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=177></a>
+
+###### Article D331-54-1
+
+La liste des indicateurs, mentionnés à l'article L. 331-23, du développement de l'offre légale, qu'elle soit ou non
+commerciale, et d'observation de l'utilisation, qu'elle soit licite ou illicite, des œuvres et des objets protégés par un
+droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques figure en annexe au présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-386 du 11 avril 2011 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L331-23
+
 
 ###### Article R331-47
 
