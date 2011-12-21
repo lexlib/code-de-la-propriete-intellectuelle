@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2011-12-11
+Version Consolidée au 2011-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -1468,11 +1468,11 @@ Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire :
 
 1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ; 
 
-2° Les copies ou reproductions strictement réservées à l'usage privé du copiste et non destinées à une utilisation
-collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour
-lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de sauvegarde établie dans les
-conditions prévues au II de l'article L. 122-6-1 ainsi que des copies ou des reproductions d'une base de données
-électronique ; 
+2° Les copies ou reproductions réalisées à partir d'une source licite et strictement réservées à l'usage privé du copiste et
+non destinées à une utilisation collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des
+fins identiques à celles pour lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de
+sauvegarde établie dans les conditions prévues au II de l'article L. 122-6-1 ainsi que des copies ou des reproductions d'une
+base de données électronique ; 
 
 3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source : 
 
@@ -1603,7 +1603,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-901 du 28 juillet 2011 - art. 22
+  - Loi n°2011-1898 du 20 décembre 2011 - art. 1
 
 _Cite_:
 
@@ -4282,8 +4282,8 @@ Les bénéficiaires des droits ouverts au présent titre ne peuvent interdire :
 
 1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ; 
 
-2° Les reproductions strictement réservées à l'usage privé de la personne qui les réalise et non destinées à une utilisation
-collective ; 
+2° Les reproductions réalisées à partir d'une source licite, strictement réservées à l'usage privé de la personne qui les
+réalise et non destinées à une utilisation collective ; 
 
 3° Sous réserve d'éléments suffisants d'identification de la source :
 
@@ -4343,7 +4343,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-669 du 12 juin 2009 - art. 21
+  - Loi n°2011-1898 du 20 décembre 2011 - art. 1
 
 _Cite_:
 
@@ -5239,11 +5239,12 @@ _Cité par_:
 ###### Article L311-1
 
 Les auteurs et les artistes-interprètes des oeuvres fixées sur phonogrammes ou vidéogrammes, ainsi que les producteurs de ces
-phonogrammes ou vidéogrammes, ont droit à une rémunération au titre de la reproduction desdites oeuvres, réalisées dans les
-conditions mentionnées au 2° de l'article L. 122-5 et au 2° de l'article L. 211-3. 
+phonogrammes ou vidéogrammes, ont droit à une rémunération au titre de la reproduction desdites oeuvres, réalisée à partir
+d'une source licite dans les conditions mentionnées au 2° de l'article L. 122-5 et au 2° de l'article L. 211-3. 
 
 Cette rémunération est également due aux auteurs et aux éditeurs des oeuvres fixées sur tout autre support, au titre de leur
-reproduction réalisée, dans les conditions prévues au 2° de l'article L. 122-5, sur un support d'enregistrement numérique.
+reproduction réalisée à partir d'une source licite, dans les conditions prévues au 2° de l'article L. 122-5, sur un support
+d'enregistrement numérique.
 
 **Liens relatifs à cet article**
 
@@ -5254,11 +5255,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2001-624 du 17 juillet 2001 - art. 15 () JORF 18 juillet 2001
+  - Loi n°2011-1898 du 20 décembre 2011 - art. 1
 
 _Cité par_:
 
@@ -5272,8 +5273,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L122-5 (V)
-  - Code de la propriété intellectuelle - art. L211-3 (V)
+  - Code de la propriété intellectuelle - art. L122-5
+  - Code de la propriété intellectuelle - art. L211-3
 
 
 ###### Article L311-2
@@ -5338,11 +5339,19 @@ acquisitions intracommunautaires, au sens du 3° du I de l'article 256 bis du co
 d'enregistrement utilisables pour la reproduction à usage privé d'oeuvres, lors de la mise en circulation en France de ces
 supports. 
 
-Le montant de la rémunération est fonction du type de support et de la durée d'enregistrement qu'il permet. 
+Le montant de la rémunération est fonction du type de support et de la durée ou de la capacité d'enregistrement qu'il
+permet. 
 
-Ce montant tient compte du degré d'utilisation des mesures techniques définies à l'article L. 331-5 et de leur incidence sur
-les usages relevant de l'exception pour copie privée. Il ne peut porter rémunération des actes de copie privée ayant déjà
-donné lieu à compensation financière.
+Ce montant est également fonction de l'usage de chaque type de support. Cet usage est apprécié sur le fondement d'enquêtes.
+
+Toutefois, lorsque des éléments objectifs permettent d'établir qu'un support peut être utilisé pour la reproduction à usage
+privé d'œuvres et doit, en conséquence, donner lieu au versement de la rémunération, le montant de cette rémunération peut
+être déterminé par application des seuls critères mentionnés au deuxième alinéa, pour une durée qui ne peut excéder un an à
+compter de cet assujettissement.
+
+Le montant de la rémunération tient compte du degré d'utilisation des mesures techniques définies à l'article L. 331-5 et de
+leur incidence sur les usages relevant de l'exception pour copie privée. Il ne peut porter rémunération des actes de copie
+privée ayant déjà donné lieu à compensation financière.
 
 **Liens relatifs à cet article**
 
@@ -5352,17 +5361,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 9 () JORF 3 août 2006
+  - Loi n°2011-1898 du 20 décembre 2011 - art. 2
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L311-3 (V)
-  - Code de la propriété intellectuelle - art. L331-5 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 256 bis (V)
+  - Code de la propriété intellectuelle - art. L311-3
+  - Code de la propriété intellectuelle - art. L331-5
+  - Code général des impôts, CGI. - art. 256 bis
 
 _Cité par_:
 
@@ -5373,19 +5382,57 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R311-9 (VD)
 
 
+###### Article L311-4-1
+
+Le montant de la rémunération prévue à l'article L. 311-3  propre à chaque support est porté à la connaissance de l'acquéreur
+lors de la mise en vente des supports d'enregistrement mentionnés à l'article L. 311-4. Une notice explicative relative à
+cette rémunération et à ses finalités, qui peut être intégrée au support de façon dématérialisée, est également portée à sa
+connaissance. Cette notice mentionne la possibilité de conclure des conventions d'exonération ou d'obtenir le remboursement
+de la rémunération pour copie privée dans les conditions prévues à l'article L. 311-8. 
+
+Les manquements au présent article sont recherchés et constatés par les agents mentionnés au II de l'article L. 450-1 du code
+de commerce, dans les conditions fixées à l'article L. 141-1 du code de la consommation. Ces manquements sont sanctionnés par
+une amende administrative dont le montant ne peut être supérieur à 3 000 €. 
+
+Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-1898 du 20 décembre 2011 - art. 3
+
+_Cité par_:
+
+  - Décret n°2013-1141 du 10 décembre 2013 (V)
+  - Arrêté du 24 janvier 2014 - art. 1 (V)
+  - Arrêté du 3 février 2015 (V)
+  - Code de la propriété intellectuelle - art. R311-11 (VD)
+  - Code de la propriété intellectuelle - art. R311-12 (VD)
+  - Code de la propriété intellectuelle - art. R311-9 (VD)
+
+_Cite_:
+
+  - Code de commerce - art. L450-1
+  - Code de la propriété intellectuelle - art. L311-3
+  - Code de la propriété intellectuelle - art. L311-4
+  - Code de la propriété intellectuelle - art. L311-8
+  - Code de la consommation - art. L141-1
+
+
 ###### Article L311-5
 
 Les types de support, les taux de rémunération et les modalités de versement de celle-ci sont déterminés par une commission
 présidée par un représentant de l'Etat et composée, en outre, pour moitié, de personnes désignées par les organisations
 représentant les bénéficiaires du droit à rémunération, pour un quart, de personnes désignées par les organisations
-représentant les fabricants ou importateurs des supports mentionnés au premier alinéa du précédent article et, pour un quart,
-de personnes désignées par les organisations représentant les consommateurs.
+représentant les fabricants ou importateurs des supports mentionnés au premier alinéa de l'article L. 311-4 et, pour un
+quart, de personnes désignées par les organisations représentant les consommateurs. 
 
 Les comptes rendus des réunions de la commission sont rendus publics, selon des modalités fixées par décret. La commission
-publie un rapport annuel, transmis au Parlement.
+publie un rapport annuel, transmis au Parlement. 
 
 Les délibérations de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde
-délibération.
+délibération. 
 
 Les décisions de la commission sont publiées au Journal officiel de la République française.
 
@@ -5394,10 +5441,6 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 _Anciens textes_:
 
   - Loi n°85-660 du 3 juillet 1985 - art. 34 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2009-744 du 19 juin 2009 - art. 2
 
 _Cité par_:
 
@@ -5411,6 +5454,14 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L331-18 (V)
   - Code de la propriété intellectuelle - art. R311-1 (VD)
   - Code de la propriété intellectuelle - art. R311-2 (VD)
+
+_Modifié par_:
+
+  - Loi n°2011-1898 du 20 décembre 2011 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L311-4
 
 
 ###### Article L311-6
@@ -5482,18 +5533,28 @@ _Cite_:
 
 ###### Article L311-8
 
-La rémunération pour copie privée donne lieu à remboursement lorsque le support d'enregistrement est acquis pour leur propre
-usage ou production par :
+I.-La rémunération pour copie privée n'est pas due lorsque le support d'enregistrement est acquis pour leur propre usage ou
+production par : 
 
-1° Les entreprises de communication audiovisuelle ;
+1° Les entreprises de communication audiovisuelle ; 
 
 2° Les producteurs de phonogrammes ou de vidéogrammes et les personnes qui assurent, pour le compte des producteurs de
-phonogrammes ou de vidéogrammes, la reproduction de ceux-ci ;
+phonogrammes ou de vidéogrammes, la reproduction de ceux-ci ; 
 
-2° bis Les éditeurs d'oeuvres publiées sur des supports numériques ;
+2° bis Les éditeurs d'oeuvres publiées sur des supports numériques ; 
 
 3° Les personnes morales ou organismes, dont la liste est arrêtée par le ministre chargé de la culture, qui utilisent les
-supports d'enregistrement à des fins d'aide aux handicapés visuels ou auditifs.
+supports d'enregistrement à des fins d'aide aux handicapés visuels ou auditifs. 
+
+II.-La rémunération pour copie privée n'est pas due non plus pour les supports d'enregistrement acquis notamment à des fins
+professionnelles dont les conditions d'utilisation ne permettent pas de présumer un usage à des fins de copie privée. 
+
+III.-Une convention constatant l'exonération et en fixant les modalités peut être conclue entre les personnes bénéficiaires
+des I ou II et l'un des organismes mentionnés au premier alinéa de l'article L. 311-6. En cas de refus de l'un des organismes
+de conclure une convention, ce dernier doit préciser les motifs de ce refus. 
+
+A défaut de conclusion d'une convention, ces personnes ont droit au remboursement de la rémunération sur production de
+justificatifs déterminés par les ministres chargés de la culture et de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -5503,11 +5564,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2001-624 du 17 juillet 2001 - art. 15 () JORF 18 juillet 2001
+  - Loi n°2011-1898 du 20 décembre 2011 - art. 4
 
 _Cité par_:
 
@@ -5518,6 +5579,10 @@ _Cité par_:
   - Arrêté du 24 janvier 2014 - art. (V)
   - Arrêté du 3 août 2018 - art. 1
   - Code de la propriété intellectuelle - art. L311-4-1 (VD)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L311-6
 
 
 #### Titre II : Sociétés de perception et de répartition des droits<a id=35></a>
@@ -5791,9 +5856,9 @@ société, qui se prononce à la majorité des deux tiers. A défaut d'une telle
 convoquée spécialement à cet effet, statue à la majorité simple. 
 
 Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un rapport des sociétés de perception et de
-répartition des droits au ministre chargé de la culture. Le commissaire aux comptes vérifie la sincérité et la concordance
-avec les documents comptables de la société des informations contenues dans ce rapport. Il établit à cet effet un rapport
-spécial.
+répartition des droits au ministre chargé de la culture et aux commissions permanentes compétentes de l'Assemblée nationale
+et du Sénat. Le commissaire aux comptes vérifie la sincérité et la concordance avec les documents comptables de la société
+des informations contenues dans ce rapport. Il établit à cet effet un rapport spécial.
 
 **Liens relatifs à cet article**
 
@@ -5803,24 +5868,20 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-719 2000-08-01 art. 91 (champ d'application territoriale - Nouvelle - Calédonie, TOM, Mayotte)
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2000-719 du 1 août 2000 - art. 11 () JORF 2 août 2000
+  - Loi n°2011-1898 du 20 décembre 2011 - art. 5
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L122-10 (V)
-  - Code de la propriété intellectuelle - art. L132-20-1 (V)
-  - Code de la propriété intellectuelle - art. L214-1 (V)
-  - Code de la propriété intellectuelle - art. L217-2 (V)
-  - Code de la propriété intellectuelle - art. L311-1 (V)
-  - Code de la propriété intellectuelle - art. L321-1 (V)
+  - Code de la propriété intellectuelle - art. L122-10
+  - Code de la propriété intellectuelle - art. L132-20-1
+  - Code de la propriété intellectuelle - art. L214-1
+  - Code de la propriété intellectuelle - art. L217-2
+  - Code de la propriété intellectuelle - art. L311-1
+  - Code de la propriété intellectuelle - art. L321-1
 
 _Cité par_:
 
