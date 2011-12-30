@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2011-12-22
+Version Consolidée au 2011-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -13436,17 +13436,20 @@ _Cité par_:
 
 ###### Article L613-5
 
-Les droits conférés par le brevet ne s'étendent pas :
+Les droits conférés par le brevet ne s'étendent pas : 
 
-a) Aux actes accomplis dans un cadre privé et à des fins non commerciales ;
+a) Aux actes accomplis dans un cadre privé et à des fins non commerciales ; 
 
-b) Aux actes accomplis à titre expérimental qui portent sur l'objet de l'invention brevetée ;
+b) Aux actes accomplis à titre expérimental qui portent sur l'objet de l'invention brevetée ; 
 
 c) A la préparation de médicaments faite extemporanément et par unité dans les officines de pharmacie, sur ordonnance
-médicale, ni aux actes concernant les médicaments ainsi préparés ;
+médicale, ni aux actes concernant les médicaments ainsi préparés ; 
 
 d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise sur le marché pour un médicament, ainsi
-qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation ;
+qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation ; 
+
+d bis) Aux actes nécessaires à l'obtention du visa de publicité mentionné à l'article L. 5122-9 du code de la santé
+publique ; 
 
 e) Aux objets destinés à être lancés dans l'espace extra-atmosphérique introduits sur le territoire français.
 
@@ -13463,9 +13466,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
   - Code des douanes - art. 67 bis (V)
 
-_Modifié par_:
+_Cite_:
 
-  - Loi n°2008-518 du 3 juin 2008 - art. 22
+  - Code de la santé publique - art. L5122-9 (V)
 
 
 ###### Article L613-5-1
