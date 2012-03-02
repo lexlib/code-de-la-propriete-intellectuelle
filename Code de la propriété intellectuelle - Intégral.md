@@ -1,13 +1,13 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-03-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
       - [Livre Ier : Le droit d'auteur (art. L111-1 à L133-4)](#3)
-        - [Titre Ier : Objet du droit d'auteur (art. L111-1 à L113-9)](#4)
+        - [Titre Ier : Objet du droit d'auteur (art. L111-1 à L113-10)](#4)
           - [Chapitre Ier : Nature du droit d'auteur (art. L111-1 à L111-5)](#5)
           - [Chapitre II : Oeuvres protégées (art. L112-1 à L112-4)](#6)
-          - [Chapitre III : Titulaires du droit d'auteur (art. L113-1 à L113-9)](#7)
+          - [Chapitre III : Titulaires du droit d'auteur (art. L113-1 à L113-10)](#7)
         - [Titre II : Droits des auteurs (art. L121-1 à L123-12)](#8)
           - [Chapitre Ier : Droits moraux (art. L121-1 à L121-9)](#9)
           - [Chapitre II : Droits patrimoniaux (art. L122-1 à L122-12)](#10)
@@ -941,6 +941,25 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°94-361 du 10 mai 1994 - art. 2 () JORF 11 mai 1994
+
+
+###### Article L113-10
+
+L'œuvre orpheline est une œuvre protégée et divulguée, dont le titulaire des droits ne peut pas être identifié ou retrouvé,
+malgré des recherches diligentes, avérées et sérieuses.
+
+Lorsqu'une œuvre a plus d'un titulaire de droits et que l'un de ces titulaires a été identifié et retrouvé, elle n'est pas
+considérée comme orpheline.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 2
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L135-1 (V)
 
 
 #### Titre II : Droits des auteurs<a id=8></a>
