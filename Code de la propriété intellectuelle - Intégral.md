@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2012-03-03
+Version Consolidée au 2012-03-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -3984,6 +3984,35 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L382-14-1 (VD)
 
 
+###### Article L132-42-1
+
+Par dérogation à l'article L. 2232-24 du code du travail, dans les entreprises non assujetties à l'obligation d'organiser les
+élections prévues au livre III de la deuxième partie du même code, les accords mentionnés aux articles L. 132-37 à L. 132-41,
+L. 132-43 et L. 132-44 du présent code peuvent être négociés et conclus, dans les conditions prévues aux articles L. 2232-25
+et L. 2232-26 du code du travail, par un ou plusieurs journalistes professionnels au sens des articles L. 7111-3 à L. 7111-5
+du même code collaborant de manière régulière à l'entreprise de presse et mandatés par une ou plusieurs organisations
+syndicales de journalistes professionnels représentatives mentionnées à l'article L. 132-44 du présent code. Ces accords sont
+approuvés à la majorité des suffrages exprimés par les seuls journalistes professionnels au sens des articles L. 7111-3 à L.
+7111-5 du code du travail collaborant de manière régulière à l'entreprise de presse, dans les conditions prévues à l'article
+L. 2232-27 du même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 98
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L132-37 (V)
+  - Code de la propriété intellectuelle - art. L132-43 (V)
+  - Code de la propriété intellectuelle - art. L132-44 (V)
+  - Code du travail - art. L2232-24 (V)
+  - Code du travail - art. L2232-25 (V)
+  - Code du travail - art. L2232-27 (V)
+  - Code du travail - art. L7111-3 (V)
+
+
 ###### Article L132-43
 
 Les accords collectifs peuvent prévoir de confier la gestion des droits mentionnés aux articles L. 132-38 et suivants à une
@@ -4013,6 +4042,12 @@ journalistes professionnels représentatives.
 
 Le représentant de l'Etat est nommé parmi les membres de la Cour de cassation, du Conseil d'Etat ou de la Cour des comptes,
 par arrêté du ministre chargé de la communication. 
+
+Par dérogation au dernier alinéa de l'article L. 2232-21 et à l'article L. 2232-22 du code du travail, la commission se
+prononce, en lieu et place de la commission paritaire de branche, sur la validité des accords relatifs aux droits d'auteur
+des journalistes conclus dans les conditions prévues à l'article L. 2232-21 du même code, dans les deux mois qui suivent leur
+transmission ; à défaut, les accords sont réputés avoir été validés. La commission contrôle que ces accords collectifs
+n'enfreignent pas les dispositions législatives, réglementaires ou conventionnelles applicables. 
 
 A défaut de conclusion d'un accord d'entreprise dans un délai de six mois à compter de la publication de la loi n° 2009-669
 du 12 juin 2009 favorisant la diffusion et la protection de la création sur internet, et en l'absence de tout autre accord
@@ -4060,11 +4095,13 @@ de saisine et de fonctionnement de la commission ainsi que les voies de recours 
 
 _Cite_:
 
-  - Loi n°2009-669 du 12 juin 2009 (V)
-  - Code de la propriété intellectuelle - art. L132-39 (V)
-  - Code du travail - art. L2231-6 (V)
-  - Code du travail - art. L2261-10 (V)
-  - Code du travail - art. L7111-3 (V)
+  - Loi n°2009-669 du 12 juin 2009
+  - Code de la propriété intellectuelle - art. L132-39
+  - Code du travail - art. L2231-6
+  - Code du travail - art. L2232-21 (V)
+  - Code du travail - art. L2232-22 (V)
+  - Code du travail - art. L2261-10
+  - Code du travail - art. L7111-3
 
 _Cité par_:
 
@@ -4077,7 +4114,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 65 (V)
+  - Loi n°2012-387 du 22 mars 2012 - art. 98
 
 
 ###### Article L132-45
