@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-05-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -27126,13 +27126,13 @@ _Créé par_:
 ###### Article R331-82
 
 Les notifications entre parties ont lieu par lettre recommandée avec demande d'avis de réception ou par notification directe
-entre les avocats ou les avoués des parties. Les pièces de procédure doivent être déposées au greffe en triple exemplaire.
+entre les avocats des parties. Les pièces de procédure doivent être déposées au greffe en triple exemplaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1366 du 10 novembre 2010 - art. 2
+  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article R331-83
@@ -28674,22 +28674,21 @@ _Modifié par_:
 
 ###### Article R411-25
 
-Le déclarant peut, devant la cour d'appel, se faire assister par un avocat ou représenter par un avoué.
+Le déclarant peut, devant  la cour d'appel, se faire        assister ou représenter par un avocat.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-251 1992-03-17 art. 9
-  - Décret n°92-251 du 17 mars 1992 - art. 9 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-251 du 17 mars 1992 - art. 9 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article R411-26
@@ -29230,24 +29229,20 @@ _Créé par_:
 ###### Article R412-17
 
 Le recours est formé par requête adressée au premier président de la cour d'appel de Paris par le demandeur en personne ou
-par un avoué exerçant près la cour d'appel ou par un avocat régulièrement inscrit à un barreau.
+par un avocat régulièrement inscrit à un barreau.
 
 Si le demandeur ne comparaît pas en personne, il peut être représenté ou assisté comme il est dit au premier alinéa du
 présent article.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°71-764 1971-09-09 art. 45
-
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article R412-18
