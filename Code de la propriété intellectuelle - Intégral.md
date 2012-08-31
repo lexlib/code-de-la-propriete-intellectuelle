@@ -1,9 +1,9 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
-      - [Livre Ier : Le droit d'auteur (art. L111-1 à L133-4)](#3)
+      - [Livre Ier : Le droit d'auteur (art. L111-1 à L134-9)](#3)
         - [Titre Ier : Objet du droit d'auteur (art. L111-1 à L113-10)](#4)
           - [Chapitre Ier : Nature du droit d'auteur (art. L111-1 à L111-5)](#5)
           - [Chapitre II : Oeuvres protégées (art. L112-1 à L112-4)](#6)
@@ -12,7 +12,7 @@ Version Consolidée au 2012-06-01
           - [Chapitre Ier : Droits moraux (art. L121-1 à L121-9)](#9)
           - [Chapitre II : Droits patrimoniaux (art. L122-1 à L122-12)](#10)
           - [Chapitre III : Durée de la protection (art. L123-1 à L123-12)](#11)
-        - [Titre III : Exploitation des droits (art. L131-1 à L133-4)](#12)
+        - [Titre III : Exploitation des droits (art. L131-1 à L134-9)](#12)
           - [Chapitre Ier : Dispositions générales (art. L131-1 à L131-9)](#13)
           - [Chapitre II : Dispositions particulières à certains contrats (art. L132-4 à L132-45)](#14)
             - [Section 1 : Contrat d'édition (art. L132-4 à L132-17)](#15)
@@ -23,32 +23,32 @@ Version Consolidée au 2012-06-01
             - [Section 5 : Contrat de nantissement du droit d'exploitation des logiciels (art. L132-34)](#20)
             - [Section 6 : Droit d'exploitation des œuvres des journalistes (art. L132-35 à L132-45)](#21)
           - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. L133-1 à L133-4)](#22)
-      - [Livre II : Les droits voisins du droit d'auteur (art. L211-1 à L217-3)](#23)
-        - [Titre unique (art. L211-1 à L217-3)](#24)
-          - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-6)](#25)
-          - [Chapitre II : Droits des artistes-interprètes (art. L212-1 à L212-11)](#26)
-          - [Chapitre III : Droits des producteurs de phonogrammes (art. L213-1)](#27)
-          - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. L214-1 à L214-5)](#28)
-          - [Chapitre V : Droits des producteurs de vidéogrammes (art. L215-1)](#29)
-          - [Chapitre VI : Droits des entreprises de communication audiovisuelle (art. L216-1 à L216-2)](#30)
-          - [Chapitre VII : Dispositions applicables à la télédiffusion par satellite et à la retransmission par câble (art. L217-1 à L217-3)](#31)
-      - [Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données (art. L311-1 à L343-7)](#32)
-        - [Titre Ier : Rémunération pour copie privée (art. L311-1 à L311-8)](#33)
-          - [Chapitre unique (art. L311-1 à L311-8)](#34)
-        - [Titre II : Sociétés de perception et de répartition des droits (art. L321-1 à L321-13)](#35)
-          - [Chapitre unique (art. L321-1 à L321-13)](#36)
-        - [Titre III : Prévention, procédures et sanctions (art. L331-1 à L336-4)](#37)
-          - [Chapitre Ier : Dispositions générales (art. L331-1 à L331-37)](#38)
-            - [Section 1 : Dispositions communes (art. L331-1 à L331-4)](#39)
-            - [Section 2 : Mesures techniques de protection et d'information (art. L331-5 à L331-11)](#40)
+          - [Chapitre IV : Dispositions particulières relatives  à l'exploitation numérique des livres indisponibles (art. L134-1 à L134-9)](#23)
+      - [Livre II : Les droits voisins du droit d'auteur (art. L211-1 à L217-3)](#24)
+        - [Titre unique (art. L211-1 à L217-3)](#25)
+          - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-6)](#26)
+          - [Chapitre II : Droits des artistes-interprètes (art. L212-1 à L212-11)](#27)
+          - [Chapitre III : Droits des producteurs de phonogrammes (art. L213-1)](#28)
+          - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. L214-1 à L214-5)](#29)
+          - [Chapitre V : Droits des producteurs de vidéogrammes (art. L215-1)](#30)
+          - [Chapitre VI : Droits des entreprises de communication audiovisuelle (art. L216-1 à L216-2)](#31)
+          - [Chapitre VII : Dispositions applicables à la télédiffusion par satellite et à la retransmission par câble (art. L217-1 à L217-3)](#32)
+      - [Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données (art. L311-1 à L343-7)](#33)
+        - [Titre Ier : Rémunération pour copie privée (art. L311-1 à L311-8)](#34)
+          - [Chapitre unique (art. L311-1 à L311-8)](#35)
+        - [Titre II : Sociétés de perception et de répartition des droits (art. L321-1 à L321-13)](#36)
+          - [Chapitre unique (art. L321-1 à L321-13)](#37)
+        - [Titre III : Prévention, procédures et sanctions (art. L331-1 à L336-4)](#38)
+          - [Chapitre Ier : Dispositions générales (art. L331-1 à L331-37)](#39)
+            - [Section 1 : Dispositions communes (art. L331-1 à L331-4)](#40)
+            - [Section 2 : Mesures techniques de protection et d'information (art. L331-5 à L331-11)](#41)
             - [Section 3 : Haute Autorité pour la diffusion des œuvres 
-et la protection des droits sur internet (art. L331-12 à L331-37)](#41)
-              - [Sous-section 1 : Compétences, composition et organisation (art. L331-12 à L331-22)](#42)
-              - [Sous-section 2 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. L331-23)](#43)
-              - [Sous-section 3 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. L331-24 à L331-30)](#44)
-              - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés par un droit d'auteur ou un droit voisin (art. L331-31 à L331-37)](#45)
-          - [Chapitre II : Saisie-contrefaçon (art. L332-1 à L332-4)](#46)
-          - [Chapitre III : Saisie-arrêt (art.  à L332-4)](#47)
+et la protection des droits sur internet (art. L331-12 à L331-37)](#42)
+              - [Sous-section 1 : Compétences, composition et organisation (art. L331-12 à L331-22)](#43)
+              - [Sous-section 2 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. L331-23)](#44)
+              - [Sous-section 3 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. L331-24 à L331-30)](#45)
+              - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés par un droit d'auteur ou un droit voisin (art. L331-31 à L331-37)](#46)
+          - [Chapitre II : Saisie-contrefaçon (art. L332-1 à L332-4)](#47)
           - [Chapitre III : Saisies des produits d'exploitation (art. L333-1 à L333-4)](#48)
           - [Chapitre IV : Droit de suite (art. L334-1)](#49)
           - [Chapitre V : Dispositions pénales (art. L335-1 à L335-10)](#50)
@@ -4283,11 +4283,449 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L382-12 (V)
 
 
-### Livre II : Les droits voisins du droit d'auteur<a id=23></a>
+##### Chapitre IV : Dispositions particulières relatives  à l'exploitation numérique des livres indisponibles<a id=23></a>
 
-#### Titre unique<a id=24></a>
+###### Article L134-1
 
-##### Chapitre Ier : Dispositions générales<a id=25></a>
+On entend par livre indisponible au sens du présent chapitre un livre publié en France avant le 1er janvier 2001 qui ne fait
+plus l'objet d'une diffusion commerciale par un éditeur et qui ne fait pas actuellement l'objet d'une publication sous une
+forme imprimée ou numérique.
+
+**Nota:**
+
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
+de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
+la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2012-287 du 1er mars 2012, v. init.
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R326-1 (V)
+  - Code de la propriété intellectuelle - art. R327-1 (V)
+
+
+###### Article L134-2
+
+Il est créé une base de données publique, mise à disposition en accès libre et gratuit par un service de communication au
+public en ligne, qui répertorie les livres indisponibles. La Bibliothèque nationale de France veille à sa mise en œuvre, à
+son actualisation et à l'inscription des mentions prévues aux articles L. 134-4, L. 134-5 et L. 134-6. 
+
+Toute personne peut demander à la Bibliothèque nationale de France l'inscription d'un livre indisponible dans la base de
+données. 
+
+L'inscription d'un livre dans la base de données ne préjuge pas de l'application des articles L. 132-12 et L. 132-17.
+
+**Nota:**
+
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
+de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
+la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2012-287 du 1er mars 2012, v. init.
+
+_Cité par_:
+
+  - Décret n°2013-182 du 27 février 2013 (V)
+  - Arrêté du 18 mars 2013 - art. 1 (V)
+  - Décret n°2014-1304 du 23 octobre 2014 - art. (V)
+  - Code de la propriété intellectuelle - art. L134-3 (V)
+  - Code de la propriété intellectuelle - art. L134-4 (V)
+  - Code de la propriété intellectuelle - art. L134-5 (V)
+  - Code de la propriété intellectuelle - art. L134-6 (V)
+  - Code de la propriété intellectuelle - art. L134-7 (V)
+  - Code de la propriété intellectuelle - art. R134-1 (V)
+  - Code de la propriété intellectuelle - art. R134-10 (V)
+  - Code de la propriété intellectuelle - art. R134-6 (V)
+  - Code de la propriété intellectuelle - art. R326-1 (V)
+  - Code de la propriété intellectuelle - art. R326-7 (V)
+  - Code de la propriété intellectuelle - art. R327-1 (V)
+  - Code de la propriété intellectuelle - art. R327-7 (T)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L132-12
+
+
+###### Article L134-3
+
+I. ― Lorsqu'un livre est inscrit dans la base de données mentionnée à l'article L. 134-2 depuis plus de six mois, le droit
+d'autoriser sa reproduction et sa représentation sous une forme numérique est exercé par une société de perception et de
+répartition des droits régie par le titre II du livre III de la présente partie, agréée à cet effet par le ministre chargé de
+la culture. 
+
+Sauf dans le cas prévu au troisième alinéa de l'article L. 134-5, la reproduction et la représentation du livre sous une
+forme numérique sont autorisées, moyennant une rémunération, à titre non exclusif et pour une durée limitée à cinq ans,
+renouvelable. 
+
+II. ― Les sociétés agréées ont qualité pour ester en justice pour la défense des droits dont elles ont la charge. 
+
+III. ― L'agrément prévu au I est délivré en considération : 
+
+1° De la diversité des associés de la société ; 
+
+2° De la représentation paritaire des auteurs et des éditeurs parmi les associés et au sein des organes dirigeants ; 
+
+3° De la qualification professionnelle des dirigeants de la société ; 
+
+4° Des moyens que la société propose de mettre en œuvre pour assurer la perception des droits et leur répartition ; 
+
+5° Du caractère équitable des règles de répartition des sommes perçues entre les ayants droit, qu'ils soient ou non parties
+au contrat d'édition. Le montant des sommes perçues par le ou les auteurs du livre ne peut être inférieur au montant des
+sommes perçues par l'éditeur ; 
+
+6° Des moyens probants que la société propose de mettre en œuvre afin d'identifier et de retrouver les titulaires de droits
+aux fins de répartir les sommes perçues ; 
+
+7° Des moyens que la société propose de mettre en œuvre pour développer des relations contractuelles permettant d'assurer la
+plus grande disponibilité possible des œuvres ; 
+
+8° Des moyens que la société propose de mettre en œuvre pour veiller à la défense des intérêts légitimes des ayants droit non
+parties au contrat d'édition. 
+
+IV. ― Les sociétés agréées remettent chaque année à la commission permanente de contrôle des sociétés de perception et de
+répartition des droits mentionnée à l'article L. 321-13 un rapport rendant compte des moyens mis en œuvre et des résultats
+obtenus dans la recherche des titulaires de droits, qu'ils soient ou non parties au contrat d'édition. 
+
+La commission peut formuler toute observation ou recommandation d'amélioration des moyens mis en œuvre afin d'identifier et
+de retrouver les titulaires de droits. 
+
+La commission est tenue informée, dans le délai qu'elle fixe, des suites données à ses observations et recommandations. 
+
+La commission rend compte annuellement au Parlement, au Gouvernement et à l'assemblée générale des sociétés agréées, selon
+des modalités qu'elle détermine, des observations et recommandations qu'elle a formulées et des suites qui leur ont été
+données.
+
+**Nota:**
+
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
+de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
+la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2012-287 du 1er mars 2012, v. init.
+
+_Cité par_:
+
+  - Décret n°2013-182 du 27 février 2013 (V)
+  - Arrêté du 18 mars 2013 - art. 4 (V)
+  - Code de la propriété intellectuelle - art. L134-4 (V)
+  - Code de la propriété intellectuelle - art. L134-5 (V)
+  - Code de la propriété intellectuelle - art. L134-6 (VD)
+  - Code de la propriété intellectuelle - art. L134-7 (V)
+  - Code de la propriété intellectuelle - art. L134-8 (Ab)
+  - Code de la propriété intellectuelle - art. L134-9 (V)
+  - Code de la propriété intellectuelle - art. R134-10 (V)
+  - Code de la propriété intellectuelle - art. R134-6 (V)
+  - Code de la propriété intellectuelle - art. R134-7 (V)
+  - Code de la propriété intellectuelle - art. R134-8 (V)
+  - Code de la propriété intellectuelle - art. R134-9 (V)
+  - Code de la propriété intellectuelle - art. R327-1 (V)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L134-2
+  - Code de la propriété intellectuelle - art. L321-13 (V)
+
+
+###### Article L134-4
+
+I. ― L'auteur d'un livre indisponible ou l'éditeur disposant du droit de reproduction sous une forme imprimée de ce livre
+peut s'opposer à l'exercice du droit d'autorisation mentionné au premier alinéa du I de l'article L. 134-3 par une société de
+perception et de répartition des droits agréée. Cette opposition est notifiée par écrit à l'organisme mentionné au premier
+alinéa de l'article L. 134-2 au plus tard six mois après l'inscription du livre concerné dans la base de données mentionnée
+au même alinéa. 
+
+Mention de cette opposition est faite dans la base de données mentionnée au même article L. 134-2. 
+
+Après l'expiration du délai mentionné au premier alinéa du présent I, l'auteur d'un livre indisponible peut s'opposer à
+l'exercice du droit de reproduction ou de représentation de ce livre s'il juge que la reproduction ou la représentation de ce
+livre est susceptible de nuire à son honneur ou à sa réputation. Ce droit est exercé sans indemnisation. 
+
+II. ― L'éditeur ayant notifié son opposition dans les conditions prévues au premier alinéa du I du présent article est tenu
+d'exploiter dans les deux ans suivant cette notification le livre indisponible concerné. Il doit apporter par tout moyen la
+preuve de l'exploitation effective du livre à la société agréée en application de l'article L. 134-3. A défaut d'exploitation
+du livre dans le délai imparti, la mention de l'opposition est supprimée dans la base de données mentionnée à l'article L.
+134-2 et le droit d'autoriser sa reproduction et sa représentation sous une forme numérique est exercé dans les conditions
+prévues au second alinéa du I de l'article L. 134-3. 
+
+La preuve de l'exploitation effective du livre, apportée par l'éditeur dans les conditions prévues au premier alinéa du
+présent II, ne préjuge pas de l'application des articles L. 132-12 et L. 132-17.
+
+**Nota:**
+
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
+de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
+la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2012-287 du 1er mars 2012, v. init.
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. Annexe à l'article R134-1 (V)
+  - Code de la propriété intellectuelle - art. L134-2 (VD)
+  - Code de la propriété intellectuelle - art. L134-5 (M)
+  - Code de la propriété intellectuelle - art. R134-5 (V)
+  - Code de la propriété intellectuelle - art. R134-6 (V)
+  - Code de la propriété intellectuelle - art. R134-7 (V)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L132-12
+  - Code de la propriété intellectuelle - art. L132-17
+  - Code de la propriété intellectuelle - art. L134-3
+
+
+###### Article L134-5
+
+A défaut d'opposition notifiée par l'auteur ou l'éditeur à l'expiration du délai prévu au I de l'article L. 134-4, la société
+de perception et de répartition des droits propose une autorisation de reproduction et de représentation sous une forme
+numérique d'un livre indisponible à l'éditeur disposant du droit de reproduction de ce livre sous une forme imprimée. 
+
+Cette proposition est formulée par écrit. Elle est réputée avoir été refusée si l'éditeur n'a pas notifié sa décision par
+écrit dans un délai de deux mois à la société de perception et de répartition des droits. 
+
+L'autorisation d'exploitation mentionnée au premier alinéa est délivrée par la société de perception et de répartition des
+droits à titre exclusif pour une durée de dix ans tacitement renouvelable, sauf dans le cas mentionné à l'article L. 134-8. 
+
+Mention de l'acceptation de l'éditeur est faite dans la base de données mentionnée à l'article L. 134-2. 
+
+A défaut d'opposition de l'auteur apportant par tout moyen la preuve que cet éditeur ne dispose pas du droit de reproduction
+d'un livre sous une forme imprimée, l'éditeur ayant notifié sa décision d'acceptation est tenu d'exploiter, dans les trois
+ans suivant cette notification, le livre indisponible concerné. Il doit apporter à cette société, par tout moyen, la preuve
+de l'exploitation effective du livre. 
+
+A défaut d'acceptation de la proposition mentionnée au premier alinéa ou d'exploitation de l'œuvre dans le délai prévu au
+cinquième alinéa du présent article, la reproduction et la représentation du livre sous une forme numérique sont autorisées
+par la société de perception et de répartition des droits dans les conditions prévues au second alinéa du I de l'article L.
+134-3. 
+
+L'utilisateur auquel une société de perception et de répartition des droits a accordé une autorisation d'exploitation dans
+les conditions prévues au même second alinéa est considéré comme éditeur de livre numérique au sens de l'article 2 de la loi
+n° 2011-590 du 26 mai 2011 relative au prix du livre numérique. 
+
+L'exploitation de l'œuvre dans les conditions prévues au présent article ne préjuge pas de l'application des articles L.
+132-12 et L. 132-17.
+
+**Nota:**
+
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
+de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
+la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2011-590 du 26 mai 2011 - art. 2
+  - Code de la propriété intellectuelle - art. L132-12
+  - Code de la propriété intellectuelle - art. L132-17
+  - Code de la propriété intellectuelle - art. L134-2
+  - Code de la propriété intellectuelle - art. L134-4
+  - Code de la propriété intellectuelle - art. L134-8
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2012-287 du 1er mars 2012, v. init.
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L134-3 (V)
+  - Code de la propriété intellectuelle - art. L134-6 (VD)
+  - Code de la propriété intellectuelle - art. R134-5 (V)
+  - Code de la propriété intellectuelle - art. R134-8 (V)
+
+
+###### Article L134-6
+
+L'auteur et l'éditeur disposant du droit de reproduction sous une forme imprimée d'un livre indisponible notifient
+conjointement à tout moment à la société de perception et de répartition des droits mentionnée à l'article L. 134-3 leur
+décision de lui retirer le droit d'autoriser la reproduction et la représentation dudit livre sous forme numérique. 
+
+L'auteur d'un livre indisponible peut décider à tout moment de retirer à la société de perception et de répartition des
+droits mentionnée au même article L. 134-3 le droit d'autoriser la reproduction et la représentation du livre sous une forme
+numérique s'il apporte la preuve qu'il est le seul titulaire des droits définis audit article L. 134-3. Il lui notifie cette
+décision. 
+
+Mention des notifications prévues aux deux premiers alinéas du présent article est faite dans la base de données mentionnée à
+l'article L. 134-2. 
+
+L'éditeur ayant notifié sa décision dans les conditions prévues au premier alinéa est tenu d'exploiter le livre concerné dans
+les dix-huit mois suivant cette notification. Il doit apporter à la société de perception et de répartition des droits, par
+tout moyen, la preuve de l'exploitation effective du livre. 
+
+La société informe tous les utilisateurs auxquels elle a accordé une autorisation d'exploitation du livre concerné des
+décisions mentionnées aux deux premiers alinéas du présent article. Les ayants droit ne peuvent s'opposer à la poursuite de
+l'exploitation dudit livre engagée avant la notification pendant la durée restant à courir de l'autorisation mentionnée au
+second alinéa du I de l'article L. 134-3 ou au troisième alinéa de l'article L. 134-5, à concurrence de cinq ans maximum et à
+titre non exclusif.
+
+**Nota:**
+
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
+de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
+la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L134-2
+  - Code de la propriété intellectuelle - art. L134-3
+  - Code de la propriété intellectuelle - art. L134-5
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R134-5 (V)
+  - Code de la propriété intellectuelle - art. R134-9 (V)
+
+
+###### Article L134-7
+
+Les modalités d'application du présent chapitre, notamment les modalités d'accès à la base de données prévue à l'article L.
+134-2, la nature ainsi que le format des données collectées et les mesures de publicité les plus appropriées pour garantir la
+meilleure information possible des ayants droit, les conditions de délivrance et de retrait de l'agrément des sociétés de
+perception et de répartition des droits prévu à l'article L. 134-3, sont précisées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
+de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
+la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2012-287 du 1er mars 2012, v. init.
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L134-2
+  - Code de la propriété intellectuelle - art. L134-3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R134-11 (V)
+
+
+###### Article L134-8
+
+Sauf refus motivé, la société de perception et de répartition des droits mentionnée à l'article L. 134-3 autorise
+gratuitement les bibliothèques accessibles au public à reproduire et à diffuser sous forme numérique à leurs abonnés les
+livres indisponibles conservés dans leurs fonds dont aucun titulaire du droit de reproduction sous une forme imprimée n'a pu
+être trouvé dans un délai de dix ans à compter de la première autorisation d'exploitation. 
+
+L'autorisation mentionnée au premier alinéa est délivrée sous réserve que l'institution bénéficiaire ne recherche aucun
+avantage économique ou commercial. 
+
+Un titulaire du droit de reproduction du livre sous une forme imprimée obtient à tout moment de la société de perception et
+de répartition des droits le retrait immédiat de l'autorisation gratuite.
+
+**Nota:**
+
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
+de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
+la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2015-195 du 20 février 2015 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L134-3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L134-5 (VD)
+  - Code de la propriété intellectuelle - art. R134-5 (V)
+
+
+###### Article L134-9
+
+Par dérogation aux dispositions des trois premiers alinéas de l'article L. 321-9, les sociétés agréées mentionnées à
+l'article L. 134-3 utilisent à des actions d'aide à la création, à des actions de formation des auteurs de l'écrit et à des
+actions de promotion de la lecture publique mises en œuvre par les bibliothèques les sommes perçues au titre de
+l'exploitation des livres indisponibles et qui n'ont pu être réparties parce que leurs destinataires n'ont pu être identifiés
+ou retrouvés avant l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
+
+Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un rapport des sociétés de perception et de
+répartition des droits au ministre chargé de la culture.
+
+**Nota:**
+
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
+de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
+la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-287 du 1er mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L134-3 (VD)
+  - Code de la propriété intellectuelle - art. L321-1 (V)
+  - Code de la propriété intellectuelle - art. L321-9 (V)
+
+
+### Livre II : Les droits voisins du droit d'auteur<a id=24></a>
+
+#### Titre unique<a id=25></a>
+
+##### Chapitre Ier : Dispositions générales<a id=26></a>
 
 ###### Article L211-1
 
@@ -4504,7 +4942,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-2-1 (V)
 
 
-##### Chapitre II : Droits des artistes-interprètes<a id=26></a>
+##### Chapitre II : Droits des artistes-interprètes<a id=27></a>
 
 ###### Article L212-1
 
@@ -4838,7 +5276,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. L212-3-6 (V)
 
 
-##### Chapitre III : Droits des producteurs de phonogrammes<a id=27></a>
+##### Chapitre III : Droits des producteurs de phonogrammes<a id=28></a>
 
 ###### Article L213-1
 
@@ -4874,7 +5312,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 220 octies (V)
 
 
-##### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=28></a>
+##### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=29></a>
 
 ###### Article L214-1
 
@@ -5076,7 +5514,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L214-1 (V)
 
 
-##### Chapitre V : Droits des producteurs de vidéogrammes<a id=29></a>
+##### Chapitre V : Droits des producteurs de vidéogrammes<a id=30></a>
 
 ###### Article L215-1
 
@@ -5109,7 +5547,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L321-10 (Ab)
 
 
-##### Chapitre VI : Droits des entreprises de communication audiovisuelle<a id=30></a>
+##### Chapitre VI : Droits des entreprises de communication audiovisuelle<a id=31></a>
 
 ###### Article L216-1
 
@@ -5166,7 +5604,7 @@ _Créé par_:
   - Loi n°2006-961 du 1 août 2006 - art. 30 () JORF 3 août 2006
 
 
-##### Chapitre VII : Dispositions applicables à la télédiffusion par satellite et à la retransmission par câble<a id=31></a>
+##### Chapitre VII : Dispositions applicables à la télédiffusion par satellite et à la retransmission par câble<a id=32></a>
 
 ###### Article L217-1
 
@@ -5285,11 +5723,11 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R324-1 (V)
 
 
-### Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données<a id=32></a>
+### Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données<a id=33></a>
 
-#### Titre Ier : Rémunération pour copie privée<a id=33></a>
+#### Titre Ier : Rémunération pour copie privée<a id=34></a>
 
-##### Chapitre unique<a id=34></a>
+##### Chapitre unique<a id=35></a>
 
 ###### Article L311-1
 
@@ -5640,9 +6078,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L311-6
 
 
-#### Titre II : Sociétés de perception et de répartition des droits<a id=35></a>
+#### Titre II : Sociétés de perception et de répartition des droits<a id=36></a>
 
-##### Chapitre unique<a id=36></a>
+##### Chapitre unique<a id=37></a>
 
 ###### Article L321-1
 
@@ -6115,11 +6553,11 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R325-4 (V)
 
 
-#### Titre III : Prévention, procédures et sanctions<a id=37></a>
+#### Titre III : Prévention, procédures et sanctions<a id=38></a>
 
-##### Chapitre Ier : Dispositions générales<a id=38></a>
+##### Chapitre Ier : Dispositions générales<a id=39></a>
 
-##### Section 1 : Dispositions communes<a id=39></a>
+##### Section 1 : Dispositions communes<a id=40></a>
 
 ###### Article L331-1
 
@@ -6338,7 +6776,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-9 (V)
 
 
-##### Section 2 : Mesures techniques de protection et d'information<a id=40></a>
+##### Section 2 : Mesures techniques de protection et d'information<a id=41></a>
 
 ###### Article L331-5
 
@@ -6620,9 +7058,9 @@ _Anciens textes_:
 
 
 ##### Section 3 : Haute Autorité pour la diffusion des œuvres 
-et la protection des droits sur internet<a id=41></a>
+et la protection des droits sur internet<a id=42></a>
 
-##### Sous-section 1 : Compétences, composition et organisation<a id=42></a>
+##### Sous-section 1 : Compétences, composition et organisation<a id=43></a>
 
 ###### Article L331-12
 
@@ -7114,7 +7552,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R335-4 (V)
 
 
-##### Sous-section 2 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=43></a>
+##### Sous-section 2 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=44></a>
 
 ###### Article L331-23
 
@@ -7167,7 +7605,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-14
 
 
-##### Sous-section 3 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=44></a>
+##### Sous-section 3 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=45></a>
 
 ###### Article L331-24
 
@@ -7451,7 +7889,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. L331-38 (MMN)
 
 
-##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés par un droit d'auteur ou un droit voisin<a id=45></a>
+##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés par un droit d'auteur ou un droit voisin<a id=46></a>
 
 ###### Article L331-31
 
@@ -7743,7 +8181,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. L331-45 (MMN)
 
 
-##### Chapitre II : Saisie-contrefaçon<a id=46></a>
+##### Chapitre II : Saisie-contrefaçon<a id=47></a>
 
 ###### Article L332-1
 
@@ -7897,8 +8335,6 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L336-1 (V)
   - Code de la propriété intellectuelle - art. R332-4 (V)
 
-
-##### Chapitre III : Saisie-arrêt<a id=47></a>
 
 ##### Chapitre III : Saisies des produits d'exploitation<a id=48></a>
 
@@ -34755,7 +35191,7 @@ Corps de fonctionnaires :
 supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007.
 
 - Techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales
-supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
+supérieures des techniques industrielles et des mines et régis par le décret n° 2012-1002 du 29 août 2012.
 
 - Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
 
@@ -34973,6 +35409,11 @@ _Cite_:
   - Décret n°2007-468 du 28 mars 2007
   - Code de l'éducation - art. L123-5
   - Code de l'éducation - art. L612-7
+
+_Modifié par_:
+
+  - Décret n°2012-279 du 28 février 2012 - art. 48 (V)
+  - Décret n°2012-1002 du 29 août 2012 - art. 12 (VD)
 
 
 ###### Article R611-11
