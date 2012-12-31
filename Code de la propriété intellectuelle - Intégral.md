@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2012-09-01
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -18774,15 +18774,15 @@ _Cite_:
 ###### Article L623-31
 
 Les actions civiles et les demandes relatives aux obtentions végétales, y compris lorsqu'elles portent également sur une
-question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, dont le nombre
-ne peut être inférieur à dix, à l'exception des recours formés contre les actes administratifs ministériels, qui relèvent de
-la juridiction administrative. 
+question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance           à
+l'exception des recours formés contre les actes administratifs ministériels, qui relèvent de la juridiction administrative. 
 
 La cour d'appel de Paris connaît directement des recours formés contre les décisions de l'organisme mentionné à l'article L.
 412-1 prises en application du présent chapitre. 
 
-Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
-et 2060 du code civil.
+Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux 
+articles 2059 et 2060 du code civil
+.
 
 **Liens relatifs à cet article**
 
@@ -18796,7 +18796,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1843 du 8 décembre 2011 - art. 1
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 7
 
 _Cité par_:
 
@@ -18810,7 +18810,7 @@ _Cité par_:
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L412-1
-  - Code civil - art. 2059 (V)
+  - Code civil - art. 2059
 
 
 ###### Article L623-32
@@ -26003,19 +26003,18 @@ _Cité par_:
 
 ###### Article R331-31
 
-Les fonds de l'agence sont déposés et placés dans les conditions prévues par les articles 174 et 175 du décret n° 62-1587 du
-29 décembre 1962 modifié portant règlement général sur la comptabilité publique.
+Les fonds de l'agence sont déposés et placés dans les conditions prévues par l'article 197 du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°62-1587 du 29 décembre 1962 - art. 174 (V)
-  - Décret n°62-1587 du 29 décembre 1962 - art. 175 (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 197
 
 _Modifié par_:
 
-  - Décret n°2009-1773 du 29 décembre 2009 - art. 2
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 39
 
 _Cité par_:
 
@@ -28214,8 +28213,8 @@ d'administration.
 Les fonctions de membre du conseil d'administration ne sont pas rémunérées. Elles ouvrent droit aux indemnités de déplacement
 et de séjour prévues par le décret n° 2006-781 du 3 juillet 2006. 
 
-Le directeur général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux
-séances du conseil d'administration avec voix consultative. 
+Le directeur général, le        contrôleur budgétaire et l'agent comptable assistent aux séances du conseil d'administration
+avec voix consultative. 
 
 Le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile. 
 
@@ -28223,10 +28222,6 @@ Le secrétariat du conseil d'administration est assuré par un agent de l'instit
 général.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°2015-515 du 7 mai 2015 - art. 2 (V)
 
 _Codifié par_:
 
@@ -28238,12 +28233,15 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Décret n°2006-781 du 3 juillet 2006 (V)
+  - Décret n°2006-781 du 3 juillet 2006
 
 _Modifié par_:
 
-  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
-  - Décret n°2007-280 du 1 mars 2007 - art. 4 () JORF 3 mars 2007
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+_Cité par_:
+
+  - Décret n°2015-515 du 7 mai 2015 - art. 2 (V)
 
 
 ###### Article R411-4
@@ -28341,57 +28339,16 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-###### Article R411-7
+###### Article R411-8
 
-L'agent comptable est nommé et, le cas échéant, remplacé ou révoqué, par arrêté du ministre intéressé et du ministre chargé
-des finances. Sa rémunération est fixée dans les mêmes formes.
-
-Il est placé sous l'autorité du directeur général. Toutefois, il est personnellement et pécuniairement responsable des actes
-de sa gestion et reçoit du ministre chargé des finances les directives concernant l'exécution de la partie financière de son
-service.
-
-Il est tenu, avant son installation, de prêter serment devant la Cour des comptes et de justifier de la constitution d'un
-cautionnement dont le montant est fixé par arrêté du ministre chargé des finances et des affaires économiques. Sa gestion est
-soumise aux vérifications de l'inspection générale des finances et du receveur général des finances de Paris et au contrôle
-de la Cour des comptes.
-
-Il peut, sous sa responsabilité, déléguer sa signature à un ou plusieurs agents de l'établissement, qu'il constitue ses
-fondés de pouvoir par une procuration régulière.
+L'institut est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-1469 du 22 décembre 1951 - art. 7 (Ab)
-
-_Cité par_:
-
-  - Arrêté du 31 janvier 1992 - art. 6 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 39
-
-
-###### Article R411-8
-
-Le contrôle de l'Institut national de la propriété industrielle, et notamment le contrôle a posteriori de l'exécution du
-budget, est exercé par un membre du corps du contrôle général économique et financier, selon les modalités fixées par le
-décret n° 55-733 du 26 mai 1955 modifié portant codification et aménagement des textes relatifs au contrôle économique et
-financier de l'Etat.
-
-Les modalités spéciales d'exercice de ce contrôle sont fixées par arrêté conjoint des ministres chargés de la propriété
-industrielle, de l'économie et du budget.
-
-**Liens relatifs à cet article**
 
 _Anciens textes_:
 
@@ -28399,34 +28356,28 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Décret n°55-733 1955-05-26
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
+  - Décret n°2012-1246 du 7 novembre 2012
 
 _Modifié par_:
 
-  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 39
 
 
 ###### Article R411-9
 
 Le directeur général de l'institut transmet pour approbation aux ministres chargés de la propriété industrielle et du budget,
 accompagnées le cas échéant de l'avis du membre du corps du contrôle général économique et financier, les délibérations
-prises par le conseil d'administration dans l'exercice des attributions suivantes :
-
-approbation du budget et de ses modifications, du compte financier de l'exercice clos et de l'affectation du résultat,
-fixation des orientations de la politique tarifaire, des conditions générales d'emploi et de rémunération du personnel,
-décisions de création ou de suppression de filiales, d'acquisitions ou de cessions de participations, d'achat, de vente ou de
-location d'immeubles, autorisation des emprunts et acceptation de dons et legs.
-
-Les délibérations portant sur le projet de budget de l'institut et les modifications qui peuvent lui être apportées en cours
-d'exercice sont transmises dans les délais prévus en ce qui concerne le budget général des services civils par la lettre
-commune du ministre du budget.
+prises par le conseil d'administration dans l'exercice des attributions suivantes : approbation du budget et de ses
+modifications, du compte financier de l'exercice clos et de l'affectation du résultat, fixation des orientations de la
+politique tarifaire, des conditions générales d'emploi et de rémunération du personnel, décisions de création ou de
+suppression de filiales, d'acquisitions ou de cessions de participations, d'achat, de vente ou de location d'immeubles,
+autorisation des emprunts et acceptation de dons et legs.
 
 Les délibérations transmises sont exécutoires de plein droit un mois au plus tard après leur réception par les ministres
 chargés de la propriété industrielle et du budget si aucun d'eux n'y a fait opposition dans ce délai.
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Le ministre chargé du budget peut déléguer sa signature au membre du corps du contrôle général économique et financier pour
 les décisions d'approbation prévues au présent article.
@@ -28445,9 +28396,13 @@ _Cité par_:
 
   - Arrêté du 10 septembre 1997 - art. 3 (Ab)
 
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012
+
 _Modifié par_:
 
-  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 39
 
 
 ###### Article R411-10
@@ -28551,82 +28506,6 @@ _Anciens textes_:
 _Créé par_:
 
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R411-14
-
-L'agent comptable est seul chargé de la réalisation des recouvrements et des paiements.
-
-Il prend en charge les titres de perception qui lui sont remis par le directeur général. Il est tenu, sous sa responsabilité
-personnelle, de faire toute diligence pour assurer la rentrée de toutes les ressources de l'établissement, de faire procéder
-contre les débiteurs en retard aux mesures d'exécution nécessaires, d'avertir le directeur général de l'expiration des baux,
-d'empêcher les prescriptions, de veiller à la conservation des droits, privilèges et hypothèques et de requérir l'inscription
-hypothécaire des titres qui en sont susceptibles.
-
-Il procède à l'encaissement amiable des créances à recouvrer. En cas d'échec, il en rend compte au directeur général, qui
-fait donner force exécutoire aux titres de recettes dans les conditions prévues à l'article 2 du décret du 30 octobre 1935
-tendant à améliorer et à faciliter le fonctionnement du service du contentieux et de l'agence judiciaire du Trésor.
-
-Il ne peut surseoir aux poursuites que sur un ordre écrit du directeur général.
-
-Il est chargé du paiement des dépenses régulièrement mandatées par le directeur général.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1935-10-30 art. 2
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°51-1469 du 22 décembre 1951 - art. 14 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 39
-
-
-###### Article R411-15
-
-Le compte administratif de l'ordonnateur et le compte de gestion de l'agent comptable sont soumis chaque année au conseil
-d'administration.
-
-Le compte administratif, accompagné de l'avis du conseil d'administration et du membre du corps du contrôle général
-économique et financier, est soumis à l'approbation du ministre chargé du budget et du ministre intéressé dans les trois mois
-qui suivent la clôture de l'exercice.
-
-Le ministre chargé du budget peut déléguer sa signature au membre du corps du contrôle général économique et financier pour
-l'approbation du compte administratif.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°51-1469 du 22 décembre 1951 - art. 15 (Ab)
-
-_Cité par_:
-
-  - Arrêté du 10 septembre 1997 - art. 7 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 39
 
 
 ###### Article R411-16
