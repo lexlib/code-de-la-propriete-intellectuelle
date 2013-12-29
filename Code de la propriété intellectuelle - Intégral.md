@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2013-12-20
+Version Consolidée au 2013-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -27817,21 +27817,13 @@ la partie qui l'a produite. Dans le cas contraire, il autorise la communication 
 qui en a fait la demande ainsi que, le cas échéant, aux autres parties pour lesquelles la pièce est nécessaire à l'exercice
 de leurs droits. Les parties concernées ne peuvent utiliser cette pièce, qui demeure couverte par le secret protégé par la
 loi, que dans le cadre de la procédure devant la Haute Autorité et des voies de recours éventuelles contre les décisions de
-celle-ci. 
-
-IV.-Les décisions prises par le président de la Haute Autorité en application des dispositions du présent article ne peuvent
-être contestées qu'à l'occasion du recours dirigé contre les décisions de la Haute Autorité rendues en application des
-articles R. 331-68 à R. 331-70.
+celle-ci.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1366 du 10 novembre 2010 - art. 2
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R331-68 (V)
+  - Décision n°347076 (ECLI:FR:CESSR:2013:347076.20131230) du 30 décembre 2013, v. init.
 
 _Cité par_:
 
