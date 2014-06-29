@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-06-23
+Version Consolidée au 2014-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -213,119 +213,121 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#42)
           - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. R411-1 à R411-16)](#209)
           - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#210)
           - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. D411-19-1 à R411-26)](#211)
-        - [Chapitre II : Le comité de la protection des obtentions végétales (art. D412-4 à R412-21)](#212)
-          - [Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales (art. D412-4 à R412-14)](#213)
-          - [Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales (art. R412-15 à R412-21)](#214)
-        - [Chapitre III : Le Conseil supérieur de la propriété industrielle (art. R413-1 à R413-5)](#215)
-      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#216)
-        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#217)
-        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#218)
-          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#219)
-          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#220)
-          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#221)
-          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-14)](#222)
-            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#223)
-            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#224)
-            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#225)
-            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#226)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55)](#227)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#228)
-        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#229)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R523-6)](#230)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#231)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#232)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#233)
-        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#234)
-        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#235)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#236)
-          - [Section 1 : Procédure (art. R514-1 à R514-5)](#237)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#238)
-      - [Titre II : Contentieux (art. R521-1 à R523-6)](#239)
-        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#240)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#241)
-          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#242)
-          - [Section 3 : Dispositions communes (art. D521-6)](#243)
-        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#244)
-        - [Chapitre III : Retenue en douane (art. R523-1 à R523-6)](#245)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#246)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#247)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#248)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#249)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#250)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#251)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#252)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#253)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#254)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#255)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#256)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#257)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#258)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#259)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#260)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#261)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#262)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#263)
-          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#264)
-            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#265)
-            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#266)
-            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#267)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#268)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#269)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#270)
-          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#271)
-          - [Section 4 : Recours en restauration (art. R613-52)](#272)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#273)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#274)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#275)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#276)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#277)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#278)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#279)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1 à R615-2)](#280)
-          - [Section 2 : Mesures probatoires (art. R615-2-1 à R615-5)](#281)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#282)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#283)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#284)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#285)
-          - [Section unique : Procédure (art. R618-1 à R618-5)](#286)
-      - [Titre II : Protection des connaissances techniques (art. R622-1 à R623-58)](#287)
-        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#288)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#289)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#290)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#291)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#292)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#293)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#294)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#295)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#296)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#297)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#298)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-55 à R623-58)](#299)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#300)
-        - [Chapitre unique (art. D631-1 à D631-2)](#301)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à D722-6)](#302)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#303)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#304)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#305)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#306)
-        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#307)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#308)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#309)
-          - [Section 3 : Retenue en douane (art. R716-6 à R716-11)](#310)
-          - [Section 4 : Dispositions communes (art. D716-12)](#311)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#312)
-          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#313)
-          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#314)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#315)
-          - [Section unique (art. R718-1 à R718-4)](#316)
-      - [Titre II : Indications géographiques (art. R722-1 à D722-6)](#317)
-        - [Chapitre II : Contentieux (art. R722-1 à D722-6)](#318)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R722-1)](#319)
-          - [Section 2 : Mesures probatoires (art. R722-2 à R722-5)](#320)
-          - [Section 3 : Dispositions communes (art. D722-6)](#321)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#322)
-      - [Titre unique (art. R811-1 à R811-3)](#323)
-        - [Chapitre unique (art. R811-1 à R811-3)](#324)
+        - [Chapitre II : Le comité de la protection des obtentions végétales (art.  à R411-26)](#212)
+          - [Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales (art.  à R411-26)](#213)
+        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#214)
+          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#215)
+          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#216)
+        - [Chapitre III : Le Conseil supérieur de la propriété industrielle (art. R413-1 à R413-5)](#217)
+      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#218)
+        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#219)
+        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#220)
+          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#221)
+          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#222)
+          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#223)
+          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-14)](#224)
+            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#225)
+            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#226)
+            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#227)
+            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#228)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55)](#229)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#230)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#231)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R523-6)](#232)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#233)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#234)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#235)
+        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#236)
+        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#237)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#238)
+          - [Section 1 : Procédure (art. R514-1 à R514-5)](#239)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#240)
+      - [Titre II : Contentieux (art. R521-1 à R523-6)](#241)
+        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#242)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#243)
+          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#244)
+          - [Section 3 : Dispositions communes (art. D521-6)](#245)
+        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#246)
+        - [Chapitre III : Retenue en douane (art. R523-1 à R523-6)](#247)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#248)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-5)](#249)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#250)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#251)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#252)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#253)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#254)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#255)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#256)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#257)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#258)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#259)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#260)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#261)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#262)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#263)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#264)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#265)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#266)
+            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#267)
+            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#268)
+            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#269)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#270)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#271)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#272)
+          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#273)
+          - [Section 4 : Recours en restauration (art. R613-52)](#274)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#275)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#276)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#277)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#278)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#279)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#280)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#281)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1 à R615-2)](#282)
+          - [Section 2 : Mesures probatoires (art. R615-2-1 à R615-5)](#283)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#284)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#285)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#286)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-5)](#287)
+          - [Section unique : Procédure (art. R618-1 à R618-5)](#288)
+      - [Titre II : Protection des connaissances techniques (art. R622-1 à R623-58)](#289)
+        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#290)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#291)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#292)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#293)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#294)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#295)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#296)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#297)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#298)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#299)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#300)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-58)](#301)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#302)
+        - [Chapitre unique (art. D631-1 à D631-2)](#303)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à D722-6)](#304)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-4)](#305)
+        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#306)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#307)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#308)
+        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#309)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#310)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#311)
+          - [Section 3 : Retenue en douane (art. R716-6 à R716-11)](#312)
+          - [Section 4 : Dispositions communes (art. D716-12)](#313)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#314)
+          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#315)
+          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#316)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-4)](#317)
+          - [Section unique (art. R718-1 à R718-4)](#318)
+      - [Titre II : Indications géographiques (art. R722-1 à D722-6)](#319)
+        - [Chapitre II : Contentieux (art. R722-1 à D722-6)](#320)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R722-1)](#321)
+          - [Section 2 : Mesures probatoires (art. R722-2 à R722-5)](#322)
+          - [Section 3 : Dispositions communes (art. D722-6)](#323)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#324)
+      - [Titre unique (art. R811-1 à R811-3)](#325)
+        - [Chapitre unique (art. R811-1 à R811-3)](#326)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -31996,279 +31998,47 @@ _Créé par_:
 
 #### Chapitre II : Le comité de la protection des obtentions végétales<a id=212></a>
 
-##### Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales<a id=213></a>
+##### Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales<a id=213></a>
 
-###### Article D412-4
+#### Chapitre II : L'instance nationale des obtentions végétales<a id=214></a>
 
-Un représentant de l'Etat, choisi parmi les membres du Conseil général de l'alimentation, de l'agriculture et des espaces
-ruraux et nommé par arrêté du ministre chargé de l'agriculture, assure la présidence du comité. 
+##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=215></a>
 
-Le président a pour mission, en dehors des réunions du comité dont il assure la présidence, de veiller à la bonne marche du
-secrétariat général prévu à l'article R. 412-10 et d'assurer avec son aide la préparation et l'exécution des décisions du
-comité.
+###### Article D412-7
 
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2010-141 du 10 février 2010 - art. 10 (V)
-
-_Abrogé par_:
-
-  - Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R412-10
-
-_Anciens textes_:
-
-  - Code de la propriété intellectuelle - art. R412-4 (T)
-
-
-###### Article R412-1
-
-Le comité de la protection des obtentions végétales créé par l'article L. 412-1 a pour mission d'assurer : 
-
-La délivrance des certificats d'obtention végétale correspondant aux demandes qui satisfont aux exigences prévues aux
-articles L. 623-1 à L. 623-16, ainsi que de tous documents officiels concernant ces demandes et ces certificats. 
-
-La constatation de la déchéance du droit de l'obtenteur dans les conditions prévues par l'article L. 623-23.
+Le responsable des missions relevant de l'instance nationale des obtentions végétales est tenu de garder le secret sur tout
+ce qui est venu à sa connaissance dans l'exercice de ses fonctions.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 1
 
 _Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
   - Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L412-1
-  - Code de la propriété intellectuelle - art. L623-1
-  - Code de la propriété intellectuelle - art. L623-23
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R412-2
-
-Le comité de la protection des obtentions végétales peut proposer au ministre chargé de l'agriculture les dispositions
-d'ordre réglementaire nécessaires pour l'application des articles L. 412-1 et L. 623-1 à L. 623-35 et, d'une manière
-générale, lui soumettre toutes suggestions relatives à la mise en oeuvre de la protection des obtentions végétales.
-
-**Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°71-454 1971-06-07 art. 2
+  - Code de la propriété intellectuelle - art. R412-7 (T)
+
+
+###### Article D412-9
+
+Le responsable des missions relevant de l'instance nationale des obtentions végétales peut faire appel à tout expert ou à
+toute personne dont l'avis lui paraît nécessaire.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
 
   - Décret n°2014-731 du 27 juin 2014 - art. 1
 
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L412-1
-  - Code de la propriété intellectuelle - art. L623-1
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R412-3
-
-Le comité de la protection des obtentions végétales a son siège à Paris. Outre son président, il comprend dix membres nommés
-par arrêté du ministre chargé de l'agriculture dont un sur proposition du ministre chargé des départements et territoires
-d'outre-mer, dans les conditions prévues à l'article L. 412-1.
-
-**Liens relatifs à cet article**
-
 _Anciens textes_:
 
-  - Décret n°71-454 1971-06-07 art. 3
+  - Code de la propriété intellectuelle - art. R412-9 (T)
 
-_Abrogé par_:
 
-  - Décret n°2014-731 du 27 juin 2014 - art. 1
+###### Article D412-10
 
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L412-1
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R412-5
-
-Le président et les membres du comité sont désignés pour quatre ans. Leur mandat est renouvelable. Les membres du comité sont
-renouvelés par moitié tous les deux ans. Lorsqu'un membre, par suite de décès ou pour toute autre cause, a cessé d'exercer
-ses fonctions, il est pourvu à son remplacement dans le délai de deux mois. Le membre nouvellement nommé reste en fonctions
-jusqu'à la date normale d'expiration du mandat de celui qu'il remplace.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 5
-
-_Abrogé par_:
-
-  - Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R412-6
-
-Les membres du comité n'ayant pas la qualité de fonctionnaire sont soumis aux dispositions du décret n° 2006-781 du 3 juillet
-2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des
-personnels civils de l'Etat et autres personnes qui collaborent aux conseils, comités, commissions et autres organismes qui
-apportent leurs concours à l'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2006-781 du 3 juillet 2006
-
-_Modifié par_:
-
-  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
-
-_Abrogé par_:
-
-  - Décret n°2014-731 du 27 juin 2014 - art. 1
-
-
-###### Article R412-7
-
-Le président et les membres du comité sont tenus de garder le secret sur tout ce qui est venu à leur connaissance dans
-l'exercice de leurs fonctions. En outre, un membre du comité ne peut prendre part aux délibérations relatives à une variété
-créée s'il a un intérêt direct à l'admission ou au rejet d'une demande de certificat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 7
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. D412-7 (V)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R412-8
-
-Le comité se réunit sur la convocation de son président aussi souvent qu'il est nécessaire. Il ne peut délibérer valablement
-que si le nombre des membres présents est supérieur à la moitié des membres en exercice. En cas de partage des voix, celle du
-président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 8
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Abrogé par_:
-
-  - Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R412-9
-
-Pour faciliter la préparation et l'instruction des affaires qui lui sont soumises, le comité peut :
-
-- désigner parmi ses membres un bureau permanent ;
-
-- constituer des commissions spécialisées d'experts ;
-
-- faire appel à tout expert ou à toute personne dont l'avis lui paraît nécessaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 9
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. D412-9 (V)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R412-10
-
-Le comité de la protection des obtentions végétales dispose d'un secrétariat général. Le secrétaire général est nommé par
-arrêté du ministre de l'agriculture sur la proposition du comité et après avis du directeur général de l'Institut national de
-la recherche agronomique. 
-
-Le secrétaire général fait appel à des agents recrutés par le directeur général de l'Institut national de la recherche
-agronomique dans les mêmes conditions que ses propres agents. Leur rémunération est supportée par la section spéciale visée à
-l'article L. 623-16. 
-
-La gestion de ce personnel est assurée par le secrétaire général, par délégation du directeur de l'Institut national de la
-recherche agronomique. 
-
-Le secrétaire général a notamment pour mission, selon les directives du comité et sous l'autorité du président, et dans le
-cadre des articles L. 412-1 et L. 623-1 à L. 623-35 et des textes pris pour leur application :
+Le responsable des missions relevant de l'instance nationale des obtentions végétales a pour mission :
 
 - de recevoir, enregistrer et instruire les demandes de certificats d'obtention ainsi que les oppositions à la délivrance des
 certificats ;
@@ -32276,236 +32046,133 @@ certificats ;
 - de tenir les différents registres relatifs à la protection des obtentions végétales et d'assurer l'enregistrement de tous
 actes affectant la propriété des certificats ainsi que les différentes publicités prévues ;
 
-- d'assurer la liaison avec toutes les instances compétentes et, notamment, pour les questions de dénomination, avec
-l'Institut national de la propriété industrielle et le bureau de l'Union internationale pour la protection des obtentions
-végétales ainsi qu'avec les experts auxquels est confié l'examen technique des variétés ;
-
-- d'assurer le secrétariat des réunions du comité ;
+- d'assurer la liaison avec toutes les instances compétentes et, notamment, pour les questions de dénominations variétales et
+d'examen technique, avec le bureau de l'Union internationale pour la protection des obtentions végétales, l'Office
+communautaire des variétés végétales et ses offices d'examen, ainsi que les instances nationales étrangères en charge de la
+protection des obtentions végétales ;
 
 - d'établir les certificats d'obtention et de délivrer toutes copies de pièces officielles ;
 
-- d'assurer ou de faire assurer l'inspection de la conservation des variétés pour lesquelles des certificats ont été
-délivrés ;
+- d'assurer ou faire assurer l'inspection de la conservation des variétés pour lesquelles des certificats ont été délivrés ;
 
-- de préparer le budget afférent à la section spéciale du budget de l'Institut national de la recherche agronomique visée à
-l'article L. 623-16. 
+- de participer à la préparation du budget du groupement d'intérêt public mentionné à l'article L. 412-1 pour ce qui concerne
+les missions relevant de l'instance nationale des obtentions végétales. 
 
-Il prépare les textes d'application des dispositions précitées qui seront soumis par le comité au ministre chargé de
-l'agriculture. Il prépare et participe à la négociation des accords internationaux que le comité proposera au ministre chargé
-de l'agriculture et au ministre des affaires étrangères de passer, en vue de faciliter ou d'améliorer la protection des
-obtentions végétales.
+Il participe à la préparation des textes réglementaires relatifs à la protection des obtentions végétales ; il participe à la
+préparation et à la négociation des accords internationaux, en vue de faciliter ou d'améliorer la protection des obtentions
+végétales. 
+
+Il établit annuellement un rapport de son activité, qu'il présente au comité technique permanent de la sélection des plantes
+cultivées mentionné aux articles D. 661-1 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 10
 
 _Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. D412-10 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. D412-4 (Ab)
-  - Code de la propriété intellectuelle - art. R412-4 (T)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L412-1
-  - Code de la propriété intellectuelle - art. L623-1
-  - Code de la propriété intellectuelle - art. L623-16
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R412-11
-
-Le comité de la protection des obtentions végétales et son secrétariat général sont considérés, selon les stipulations de
-l'article 30-1 (B) de la convention de Paris du 2 décembre 1961 pour la protection des obtentions végétales, comme
-constituant pour la France le service chargé de la protection des obtentions végétales. A cet effet, le secrétariat général
-du comité assure les liaisons avec l'Union internationale pour la protection des obtentions végétales aux travaux de laquelle
-il participe.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 11
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. D412-11 (V)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R412-12
-
-La section spéciale du budget de l'Institut national de la recherche agronomique, créée par l'article L. 623-16, est arrêtée
-par le conseil d'administration de cet institut après avis du comité de la protection des obtentions végétales. Les recettes
-et les dépenses de cette section spéciale sont exécutées par le secrétaire général du comité de la protection des obtentions
-végétales, par délégation du directeur de l'Institut national de la recherche agronomique et dans les mêmes conditions que
-les recettes et les dépenses de cet institut.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 12
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. D412-12 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L623-16
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R412-13
-
-Les ressources de la section spéciale sont notamment constituées par le produit de toutes les redevances dont la perception
-est autorisée en matière de protection des obtentions végétales, conformément à l'article L. 623-16.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 13
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2014-731 du 27 juin 2014 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. D412-13 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L623-16
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R412-14
-
-Les charges de la section spéciale sont constituées par :
-
-- les dépenses de fonctionnement et d'équipement du comité et de son secrétariat général, y compris celles relatives à la
-rémunération et aux déplacements du personnel ;
-
-- les frais d'examen technique et, s'il y a lieu, de constitution de collections de références ;
-
-- la participation financière de la France aux organisations internationales concernées par la protection des obtentions
-végétales ;
-
-- toute autre dépense résultant de l'application des articles L. 412-1 et L. 623-1 à L. 623-35.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-454 1971-06-07 art. 14
-
-_Abrogé par_:
 
   - Décret n°2014-731 du 27 juin 2014 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L412-1
-  - Code de la propriété intellectuelle - art. L623-1
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-##### Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales<a id=214></a>
-
-###### Article R412-15
-
-Le délai de recours devant la cour d'appel de Paris contre les décisions du comité de la protection des obtentions végétales
-est d'un mois. Lorsque le requérant demeure hors de France métropolitaine, ce délai est augmenté d'un mois s'il demeure en
-Europe et de deux mois s'il demeure dans toute autre partie du monde.
-
-**Liens relatifs à cet article**
+  - Code de la propriété intellectuelle - art. L412-1 (V)
+  - Code rural - art. D661-1 (V)
 
 _Anciens textes_:
 
-  - Décret n°71-764 1971-09-09 art. 43
+  - Code de la propriété intellectuelle - art. R412-10 (T)
+
+
+###### Article D412-11
+
+L'instance nationale des obtentions végétales est, pour la France, le service chargé de la protection des obtentions
+végétales au sens des stipulations du ii du 1 de l'article 30 de la convention internationale pour la protection des
+obtentions végétales. A cet effet, le responsable des missions relevant de l'instance nationale des obtentions végétales
+assure les liaisons avec l'Union internationale pour la protection des obtentions végétales aux travaux de laquelle il
+participe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 1
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. R412-11 (T)
+
+
+###### Article D412-12
+
+Les recettes et les dépenses relatives à l'exercice des missions relevant de l'instance nationale des obtentions végétales
+sont identifiables au sein du budget et de la comptabilité du groupement d'intérêt public mentionné à l'article L. 412-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L412-1 (V)
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. R412-12 (T)
+
+
+###### Article D412-13
+
+Les charges relatives à l'exercice des missions de l'instance nationale des obtentions végétales sont constituées par : 
+
+- les dépenses de fonctionnement et d'équipement, y compris celles relatives à la rémunération et aux déplacements du
+personnel qui lui est affecté ; 
+
+- les frais d'examen technique et, s'il y a lieu, de constitution des collections de référence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 1
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. R412-13 (T)
+
+
+##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=216></a>
+
+###### Article R412-15
+
+Le délai de recours devant la cour d'appel de Paris contre les décisions du responsable des missions relevant de l'instance
+nationale des obtentions végétales est d'un mois. Lorsque le requérant demeure hors de France métropolitaine, ce délai est
+augmenté d'un mois s'il demeure en Europe et de deux mois s'il demeure dans toute autre partie du monde.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 1
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R412-16
 
 Le délai de recours prévu à l'article précédent court à compter de la date de réception par le requérant de la notification
-de la décision du comité.
+de la décision du responsable des missions relevant de l'instance nationale des obtentions végétales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 44
+  - Décret n°2014-731 du 27 juin 2014 - art. 1
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R412-17
@@ -32570,50 +32237,44 @@ _Créé par_:
 ###### Article R412-20
 
 Tout recours formé contre les décisions du comité de la protection des obtentions végétales est dénoncé dans les quinze jours
-par le greffier de la cour d'appel au comité par lettre recommandée avec demande d'avis de réception.
+par le greffier de la cour d'appel au responsable des missions relevant de l'instance nationale des obtentions végétales par
+lettre recommandée avec demande d'avis de réception.
 
-L'arrêt rendu par la cour d'appel sur le recours est notifié au demandeur et au comité de la protection des obtentions
-végétales par le greffier dans les mêmes formes.
+L'arrêt rendu par la cour d'appel sur le recours est notifié au demandeur et au responsable des missions relevant de
+l'instance nationale des obtentions végétales par le greffier dans les mêmes formes.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 48
+  - Décret n°2014-731 du 27 juin 2014 - art. 1
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R412-21
 
-Le greffier adresse une expédition de l'arrêt rendu au comité de la protection des obtentions végétales.
+Le greffier adresse une expédition de l'arrêt rendu au responsable des missions relevant de l'instance nationale des
+obtentions végétales.
 
-Cet arrêt est inscrit d'office au Registre national des certificats d'obtention.
+Cet arrêt est inscrit d'office au Registre national des certificats d'obtention végétale prévu à l'article R. 623-38.
 
 L'arrêt de la cour d'appel est exécuté dans les deux mois de sa notification.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 49
+  - Décret n°2014-731 du 27 juin 2014 - art. 1
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-#### Chapitre III : Le Conseil supérieur de la propriété industrielle<a id=215></a>
+#### Chapitre III : Le Conseil supérieur de la propriété industrielle<a id=217></a>
 
 ###### Article R413-1
 
@@ -32813,9 +32474,9 @@ _Abrogé par_:
   - Décret n°2015-515 du 7 mai 2015 - art. 1
 
 
-### Titre II : Qualification en propriété industrielle<a id=216></a>
+### Titre II : Qualification en propriété industrielle<a id=218></a>
 
-#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=217></a>
+#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=219></a>
 
 ###### Article R421-1
 
@@ -33407,9 +33068,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=218></a>
+#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=220></a>
 
-##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=219></a>
+##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=221></a>
 
 ###### Article R422-1
 
@@ -33680,7 +33341,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L423-2 (V)
 
 
-##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=220></a>
+##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=222></a>
 
 ###### Article R422-7-1
 
@@ -33749,7 +33410,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=221></a>
+##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=223></a>
 
 ###### Article R422-8
 
@@ -33854,9 +33515,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Exercice sous forme de société<a id=222></a>
+##### Section 3 : Exercice sous forme de société<a id=224></a>
 
-##### Sous-section 1 : Sociétés civiles professionnelles<a id=223></a>
+##### Sous-section 1 : Sociétés civiles professionnelles<a id=225></a>
 
 ###### Article R422-12
 
@@ -34722,7 +34383,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Sociétés d'exercice libéral<a id=224></a>
+##### Sous-section 2 : Sociétés d'exercice libéral<a id=226></a>
 
 ###### Article R422-41
 
@@ -34980,7 +34641,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Sociétés en participation<a id=225></a>
+##### Sous-section 3 : Sociétés en participation<a id=227></a>
 
 ###### Article R422-50
 
@@ -35029,7 +34690,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=226></a>
+##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=228></a>
 
 ###### Article R422-51-1
 
@@ -35364,7 +35025,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
 
 
-##### Section 4 : Obligations professionnelles<a id=227></a>
+##### Section 4 : Obligations professionnelles<a id=229></a>
 
 ###### Article R422-52
 
@@ -35491,7 +35152,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R422-53 (M)
 
 
-##### Section 5 : Régime disciplinaire<a id=228></a>
+##### Section 5 : Régime disciplinaire<a id=230></a>
 
 ###### Article R422-56
 
@@ -35840,7 +35501,7 @@ _Créé par_:
   - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-#### Chapitre III : Dispositions diverses<a id=229></a>
+#### Chapitre III : Dispositions diverses<a id=231></a>
 
 ###### Article R423-1
 
@@ -35922,13 +35583,13 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre V : Les dessins et modèles<a id=230></a>
+## Livre V : Les dessins et modèles<a id=232></a>
 
-### Titre Ier : Acquisition des droits<a id=231></a>
+### Titre Ier : Acquisition des droits<a id=233></a>
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=232></a>
+#### Chapitre Ier : Droits et oeuvres protégés<a id=234></a>
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=233></a>
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=235></a>
 
 ###### Article R511-1
 
@@ -36091,7 +35752,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=234></a>
+#### Chapitre II : Formalités de dépôt<a id=236></a>
 
 ###### Article R512-1
 
@@ -36906,7 +36567,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=235></a>
+#### Chapitre III : Durée de la protection<a id=237></a>
 
 ###### Article R513-1
 
@@ -37039,9 +36700,9 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 28 () JORF 3 mars 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=236></a>
+#### Chapitre IV : Dispositions communes<a id=238></a>
 
-##### Section 1 : Procédure<a id=237></a>
+##### Section 1 : Procédure<a id=239></a>
 
 ###### Article R514-1
 
@@ -37203,7 +36864,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R513-1 (VD)
 
 
-##### Section 2 : Dispositions transitoires<a id=238></a>
+##### Section 2 : Dispositions transitoires<a id=240></a>
 
 ###### Article R514-6
 
@@ -37249,11 +36910,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=239></a>
+### Titre II : Contentieux<a id=241></a>
 
-#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=240></a>
+#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=242></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=241></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=243></a>
 
 ###### Article R521-1
 
@@ -37275,7 +36936,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-6
 
 
-##### Section 2 : Mesures probatoires<a id=242></a>
+##### Section 2 : Mesures probatoires<a id=244></a>
 
 ###### Article R521-2
 
@@ -37342,7 +37003,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 5
 
 
-##### Section 3 : Dispositions communes<a id=243></a>
+##### Section 3 : Dispositions communes<a id=245></a>
 
 ###### Article D521-6
 
@@ -37362,7 +37023,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=244></a>
+#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=246></a>
 
 ###### Article R522-1
 
@@ -37386,7 +37047,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-2 (V)
 
 
-#### Chapitre III : Retenue en douane<a id=245></a>
+#### Chapitre III : Retenue en douane<a id=247></a>
 
 ###### Article R523-1
 
@@ -37613,15 +37274,15 @@ _Cite_:
   - Code des douanes - art. 334
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=246></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=248></a>
 
-### Titre Ier : Brevets d'invention<a id=247></a>
+### Titre Ier : Brevets d'invention<a id=249></a>
 
-#### Chapitre Ier : Champ d'application<a id=248></a>
+#### Chapitre Ier : Champ d'application<a id=250></a>
 
-##### Section 2 : Droit au titre<a id=249></a>
+##### Section 2 : Droit au titre<a id=251></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=250></a>
+##### Sous-section 1 : Inventions de salariés<a id=252></a>
 
 ###### Article R611-1
 
@@ -37931,7 +37592,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=251></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=253></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -38566,7 +38227,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R611-12 (V)
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=252></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=254></a>
 
 ###### Article R611-15
 
@@ -38740,9 +38401,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=253></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=255></a>
 
-##### Section 1 : Dépôt des demandes<a id=254></a>
+##### Section 1 : Dépôt des demandes<a id=256></a>
 
 ###### Article R612-1
 
@@ -39615,9 +39276,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=255></a>
+##### Section 2 : L'instruction des demandes<a id=257></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=256></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=258></a>
 
 ###### Article R612-26
 
@@ -39859,7 +39520,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=257></a>
+##### Sous-section 2 : Division de la demande<a id=259></a>
 
 ###### Article R612-33
 
@@ -39972,7 +39633,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=258></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=260></a>
 
 ###### Article R612-36
 
@@ -40319,7 +39980,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=259></a>
+##### Sous-section 4 : Rejet de la demande<a id=261></a>
 
 ###### Article R612-45
 
@@ -40589,7 +40250,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=260></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=262></a>
 
 ###### Article R612-55
 
@@ -41004,7 +40665,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=261></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=263></a>
 
 ###### Article R612-70
 
@@ -41141,7 +40802,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : Diffusion légale des inventions<a id=262></a>
+##### Section 3 : Diffusion légale des inventions<a id=264></a>
 
 ###### Article R612-74
 
@@ -41195,11 +40856,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=263></a>
+#### Chapitre III : Droits attachés aux brevets<a id=265></a>
 
-##### Section 1 : Droits d'exploitation<a id=264></a>
+##### Section 1 : Droits d'exploitation<a id=266></a>
 
-##### Sous-section 1 : Licences obligatoires<a id=265></a>
+##### Sous-section 1 : Licences obligatoires<a id=267></a>
 
 ###### Article R613-4
 
@@ -41350,7 +41011,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=266></a>
+##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=268></a>
 
 ###### Article R613-10
 
@@ -41812,7 +41473,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=267></a>
+##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=269></a>
 
 ###### Article R613-25-1
 
@@ -41892,7 +41553,7 @@ _Modifié par_:
   - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=268></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=270></a>
 
 ###### Article R613-26
 
@@ -42121,7 +41782,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=269></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=271></a>
 
 ###### Article R613-34
 
@@ -42395,7 +42056,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=270></a>
+##### Sous-section 6 : Dispositions diverses<a id=272></a>
 
 ###### Article R613-43
 
@@ -42457,7 +42118,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=271></a>
+##### Section 2 : Transmission et perte des droits<a id=273></a>
 
 ###### Article R613-45
 
@@ -42702,7 +42363,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=272></a>
+##### Section 4 : Recours en restauration<a id=274></a>
 
 ###### Article R613-52
 
@@ -42738,7 +42399,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-16-1
 
 
-##### Section 5 : Registre national des brevets<a id=273></a>
+##### Section 5 : Registre national des brevets<a id=275></a>
 
 ###### Article R613-53
 
@@ -42998,7 +42659,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=274></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=276></a>
 
 ###### Article R613-60
 
@@ -43099,7 +42760,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=275></a>
+##### Section 7 : Réduction des redevances<a id=277></a>
 
 ###### Article R613-63
 
@@ -43150,9 +42811,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
-#### Chapitre IV : Application de conventions internationales<a id=276></a>
+#### Chapitre IV : Application de conventions internationales<a id=278></a>
 
-##### Section 1 : Brevets européens<a id=277></a>
+##### Section 1 : Brevets européens<a id=279></a>
 
 ###### Article R614-1
 
@@ -43629,7 +43290,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=278></a>
+##### Section 2 : Demandes internationales<a id=280></a>
 
 ###### Article R614-21
 
@@ -43994,9 +43655,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre V : Actions en justice<a id=279></a>
+#### Chapitre V : Actions en justice<a id=281></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=280></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=282></a>
 
 ###### Article R615-1
 
@@ -44078,7 +43739,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-4 (VD)
 
 
-##### Section 2 : Mesures probatoires<a id=281></a>
+##### Section 2 : Mesures probatoires<a id=283></a>
 
 ###### Article R615-2-1
 
@@ -44183,7 +43844,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (VD)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=282></a>
+##### Section 3 : Commission paritaire de conciliation<a id=284></a>
 
 ###### Article R615-6
 
@@ -44894,7 +44555,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (VD)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=283></a>
+#### Chapitre VI : Le certificat d'utilité<a id=285></a>
 
 ###### Article R616-1
 
@@ -44978,7 +44639,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60 (V)
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=284></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=286></a>
 
 ###### Article R617-1
 
@@ -45032,9 +44693,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R618-1 (V)
 
 
-#### Chapitre VIII : Dispositions communes<a id=285></a>
+#### Chapitre VIII : Dispositions communes<a id=287></a>
 
-##### Section unique : Procédure<a id=286></a>
+##### Section unique : Procédure<a id=288></a>
 
 ###### Article R618-1
 
@@ -45201,9 +44862,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-53 (V)
 
 
-### Titre II : Protection des connaissances techniques<a id=287></a>
+### Titre II : Protection des connaissances techniques<a id=289></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=288></a>
+#### Chapitre II : Produits semi-conducteurs<a id=290></a>
 
 ###### Article R622-1
 
@@ -45412,41 +45073,40 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre III : Obtentions végétales<a id=289></a>
+#### Chapitre III : Obtentions végétales<a id=291></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=290></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=292></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=291></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=293></a>
 
 ###### Article R623-1
 
-La demande de certificat d'obtention végétale est déposée au secrétariat général du comité de la protection des obtentions
-végétales. Le dépôt de la demande peut aussi être fait par envoi recommandé avec demande d'avis de réception.
+La demande de certificat d'obtention végétale est déposée au siège de l'instance nationale des obtentions végétales. Le dépôt
+de la demande peut aussi résulter d'un envoi fait à l'instance nationale des obtentions végétales soit par pli postal
+recommandé avec demande d'avis de réception soit par un message utilisant tout mode de télétransmission, selon les modalités
+fixées par le responsable de l'instance nationale des obtentions végétales pour garantir notamment la sécurité de l'envoi.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 1
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R623-2
 
-Le dépôt peut être fait par le demandeur ou par un mandataire ayant son domicile, siège ou établissement en France.
+Le dépôt peut être fait par le demandeur ou par un mandataire ayant son domicile, siège ou établissement dans un Etat membre
+de l'Union européenne.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 2
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Cité par_:
 
@@ -45456,17 +45116,13 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R623-3
 
-Les personnes physiques ou morales n'ayant pas leur domicile, siège ou établissement en France et qui, en application de
-l'article L. 623-6, demandent des certificats d'obtention végétale, doivent, dans un délai de deux mois à compter de la
-réception de la notification qui leur est adressée à cet effet, constituer un mandataire ayant son domicile, siège ou
-établissement en France. 
+Les personnes physiques ou morales n'ayant pas leur domicile, siège ou établissement dans un Etat membre de l'Union
+européenne et qui, en application de l'article L. 623-6, demandent des certificats d'obtention végétale, doivent, dans un
+délai de deux mois à compter de la réception de la notification qui leur est adressée à cet effet, constituer un mandataire
+ayant son domicile, siège ou établissement dans un Etat membre de l'Union européenne. 
 
 Sauf stipulation contraire, le pouvoir du mandataire désigné dans les conditions prévues à l'article R. 623-2 ainsi qu'à
 l'alinéa précédent s'étend à tous les actes et à la réception de toutes les notifications prévus à la présente section, à
@@ -45476,17 +45132,13 @@ Le pouvoir est dispensé de légalisation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 3
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-6 (V)
+  - Code de la propriété intellectuelle - art. L623-6
   - Code de la propriété intellectuelle - art. R623-2 (V)
 
 _Codifié par_:
@@ -45507,23 +45159,20 @@ caractères de cette autre variété doivent être également décrits ;
 - la dénomination proposée par l'obtenteur ;
 
 - l'indication, le cas échéant, des Etats dans lesquels une demande de protection a été déposée et l'autorisation pour le
-comité d'échanger avec les autorités compétentes de tout Etat membre ou non de l'Union internationale pour la protection des
+responsable des missions relevant de l'instance nationale des obtentions végétales d'échanger avec les autorités compétentes
+de tout Etat ou de toute organisation intergouvernementale membre ou non de l'Union internationale pour la protection des
 obtentions végétales tous les éléments d'information sur les résultats des examens qui sont en cours ou qui ont pu être
 effectués sur ladite variété.
 
-Peuvent être annexés à la demande des dessins ou photographies et tous renseignements susceptibles d'éclairer le comité de la
-protection des obtentions végétales et concernant notamment des examens en culture, officiels ou privés, entrepris en France
+Peuvent être annexés à la demande des dessins ou photographies et tous renseignements susceptibles d'éclairer l'instance
+nationale des obtentions végétales et concernant notamment des examens en culture, officiels ou privés, entrepris en France
 ou à l'étranger.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 4
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Cité par_:
 
@@ -45545,8 +45194,8 @@ Le déposant doit joindre à la demande de certificat d'obtention végétale :
 - que la variété pour laquelle la protection est demandée constitue à sa connaissance une obtention au sens de l'article L.
 623-1 ;
 
-- qu'elle n'a pas été offerte à la vente ou commercialisée en France avec l'accord de l'obtenteur ou de son ou de ses ayants
-cause ;
+- qu'elle n'a pas été offerte à la vente ou commercialisée en France ou sur le territoire de l'Espace économique européen
+avec l'accord de l'obtenteur ou de son ou de ses ayants cause depuis plus de douze mois à la date de la demande ;
 
 - qu'elle n'a pas été offerte à la vente ou commercialisée avec l'accord de l'obtenteur sur le territoire de tout autre Etat
 depuis plus de six ans dans le cas de la vigne, des arbres forestiers, des arbres fruitiers et des arbres d'ornement, y
@@ -45555,9 +45204,10 @@ compris dans chaque cas leurs porte-greffes, ou depuis plus de quatre ans dans l
 2° Le cas échéant, si la demande porte sur une variété dont la production commerciale exige l'emploi répété d'une variété
 protégée, l'autorisation écrite du titulaire du certificat d'obtention végétale d'utiliser cette variété protégée ; 
 
-3° L'engagement de fournir à la requête du comité dans les délais fixés, sous peine de rejet de la demande, le matériel de
-reproduction ou de multiplication végétative de la variété destiné à permettre un examen de ladite variété, y compris, le cas
-échéant, les différents composants héréditaires nécessaires à la reproduction de la variété ; 
+3° L'engagement de fournir à la requête du responsable des missions relevant de l'instance nationale des obtentions végétales
+dans les délais qu'il fixe, sous peine de rejet de la demande, le matériel de reproduction ou de multiplication végétative de
+la variété destiné à permettre un examen de ladite variété, y compris, le cas échéant, les différents composants héréditaires
+nécessaires à la reproduction de la variété ; 
 
 4° Eventuellement, le pouvoir du mandataire ; 
 
@@ -45565,21 +45215,13 @@ reproduction ou de multiplication végétative de la variété destiné à perme
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 5
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-1 (V)
+  - Code de la propriété intellectuelle - art. L623-1
 
 _Cité par_:
 
@@ -45587,28 +45229,35 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R623-43 (V)
   - Code de la propriété intellectuelle - art. R623-8 (V)
 
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
 
 ###### Article R623-6
 
 Sous réserve des dispositions prévues à l'article R. 623-7, la dénomination, pour pouvoir être enregistrée, doit permettre
 d'identifier la variété par rapport à toute autre variété et d'éviter tout risque de confusion avec toute autre variété de la
-même espèce botanique ou d'une espèce voisine, en France ou dans les Etats parties à la convention de Paris du 2 décembre
-1961 relative à la protection des obtentions végétales. Elle ne doit pas être susceptible d'induire en erreur ou de prêter
-confusion en ce qui concerne l'origine, la provenance, les caractéristiques ou la valeur de la variété ou la personne de
-l'obtenteur. Elle ne doit pas être contraire aux bonnes moeurs ou à l'ordre public. 
+même espèce botanique ou d'une espèce voisine, en France ou dans les Etats parties à la convention internationale pour la
+protection des obtentions végétales. Elle ne doit pas être susceptible d'induire en erreur ou de prêter confusion en ce qui
+concerne l'origine, la provenance, les caractéristiques ou la valeur de la variété ou la personne de l'obtenteur. Elle ne
+doit pas être contraire aux bonnes moeurs ou à l'ordre public. 
 
 Dans le cas où cette dénomination aurait fait l'objet par l'obtenteur, son ou ses ayants cause d'un dépôt de marque, au sens
 de la législation sur les marques de fabrique, de commerce et de service telle qu'elle résulte du livre VII du présent code,
-en France ou dans un des Etats parties à la convention susvisée pour des produits identiques ou similaires ou serait
+en France ou auprès d'une des parties à la convention susvisée pour des produits identiques ou similaires ou serait
 susceptible de créer une confusion avec une autre marque dont il a la jouissance, l'obtenteur doit souscrire un engagement
 pour lui et, éventuellement, tous ses ayants cause de renoncer définitivement, du jour de la délivrance du certificat
-d'obtention, au bénéfice de la jouissance de ladite marque en France et dans les Etats de l'Union dans lesquels sa variété
-peut être protégée par une législation prise en application de la convention susvisée. 
+d'obtention végétale, au bénéfice de la jouissance de ladite marque en France et auprès des membres de l'Union internationale
+pour la protection des obtentions végétales dans lesquels sa variété peut être protégée par une législation prise en
+application de la convention susvisée. 
 
 Sont assimilées aux marques déposées en application du livre VII du présent code, les marques de fabrique ou de commerce qui
 ont été internationalement enregistrées et étendues à la France, conformément à l'arrangement de Madrid du 14 avril 1891
-concernant l'enregistrement international des marques de fabrique ou de commerce et qui jouissent de la protection dans les
-territoires où la législation relative à la protection des obtentions végétales est applicable. 
+concernant l'enregistrement international des marques de fabrique ou de commerce ou les marques communautaires enregistrées
+conformément au titre IV du règlement (CE) n° 207/2009 du Conseil du 26 février 2009 sur la marque communautaire et qui
+jouissent de la protection dans les territoires où la législation relative à la protection des obtentions végétales est
+applicable. 
 
 Cette renonciation ne porte pas atteinte à la validité du dépôt de la marque elle-même.
 
@@ -45618,9 +45267,9 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 6
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Cité par_:
 
@@ -45634,13 +45283,13 @@ _Codifié par_:
 
 ###### Article R623-7
 
-Dans le cas où la variété a déjà fait l'objet d'une demande de protection dans un autre Etat de l'Union internationale pour
-la protection des obtentions végétales et si une dénomination a été acceptée par cet Etat, cette dénomination doit
-obligatoirement être utilisée en France pour désigner ladite variété, à moins qu'elle n'ait fait l'objet d'observations
-reconnues justifiées dans les conditions prévues par les articles R. 623-17 à R. 623-26 ou que soit constaté par le comité de
-la protection des obtentions végétales sa non-convenance sur les territoires où la législation relative à la protection des
-obtentions végétales est applicable ou que la dénomination ne soit pas conforme aux prescriptions du premier alinéa de
-l'article R. 623-6.
+Dans le cas où la variété a déjà fait l'objet d'une demande de protection dans un autre Etat auprès d'un membre de l'Union
+internationale pour la protection des obtentions végétales et si une dénomination a été acceptée par ce membre, cette
+dénomination doit obligatoirement être utilisée en France pour désigner ladite variété, à moins qu'elle n'ait fait l'objet
+d'observations reconnues justifiées dans les conditions prévues par les articles R. 623-17 à R. 623-26 ou que soit constaté
+par le responsable des missions relevant de l'instance nationale des obtentions végétales sa non-convenance sur les
+territoires où la législation relative à la protection des obtentions végétales est applicable ou que la dénomination ne soit
+pas conforme aux prescriptions du premier alinéa de l'article R. 623-6.
 
 **Liens relatifs à cet article**
 
@@ -45648,13 +45297,13 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 7
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R623-17 (V)
+  - Code de la propriété intellectuelle - art. R623-17
 
 _Cité par_:
 
@@ -45670,56 +45319,50 @@ _Codifié par_:
 ###### Article R623-8
 
 La demande de certificat d'obtention végétale peut comporter dans les conditions prévues par l'article L. 623-6 une
-revendication de priorité attachée à un dépôt antérieur fait dans un des Etats de l'Union internationale pour la protection
-des obtentions végétales. Cette revendication doit être présentée par écrit en même temps que les pièces prévues à l'article
-R. 623-5. Elle doit mentionner la date et les références du dépôt antérieur, la dénomination sous laquelle la variété a été
-enregistrée ou, à défaut, la référence provisoire d'obtenteur, le pays dans lequel a été fait le dépôt et le nom du titulaire
-des droits attachés au dépôt. Elle doit être accompagnée de la justification de la redevance exigible.
+revendication de priorité attachée à un dépôt antérieur fait auprès d'un des membres de l'Union internationale pour la
+protection des obtentions végétales. Cette revendication doit être présentée par écrit en même temps que les pièces prévues à
+l'article R. 623-5. Elle doit mentionner la date et les références du dépôt antérieur, la dénomination sous laquelle la
+variété a été enregistrée ou, à défaut, la référence provisoire d'obtenteur, le membre de l'Union internationale pour la
+protection des obtentions végétales auprès duquel a été fait le dépôt et le nom du titulaire des droits attachés au dépôt.
+Elle doit être accompagnée de la justification de la redevance exigible.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 8
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L623-6
+  - Code de la propriété intellectuelle - art. R623-5 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L623-6 (V)
-  - Code de la propriété intellectuelle - art. R623-5 (V)
 
 
 ###### Article R623-9
 
 Le bénéfice du droit de priorité ne peut être accordé que si :
 
-1. Dans un délai de trois mois à dater du dépôt de la demande, le déposant remet au secrétariat général du comité une copie
-des documents constituant le dépôt antérieur dans tout autre pays de l'Union, certifiée conforme par l'administration qui
+1. Dans un délai de trois mois à dater du dépôt de la demande, le déposant remet au responsable des missions relevant de
+l'instance nationale des obtentions végétales une copie des documents constituant le dépôt antérieur auprès de tout autre
+membre de l'Union internationale pour la protection des obtentions végétales, certifiée conforme par l'administration qui
 l'aura reçue accompagnée d'une traduction ;
 
-2. Dans un délai de quatre ans à compter de la même date, il fournit les documents complémentaires ainsi que, s'il y a lieu,
-le matériel de multiplication ou de reproduction végétative nécessaire à l'examen préalable.
+2. Dans un délai de deux ans après l'expiration du délai de priorité, il fournit les documents complémentaires ainsi que,
+s'il y a lieu, le matériel de multiplication ou de reproduction végétative nécessaire à l'examen préalable.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 9
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-10
@@ -45727,24 +45370,21 @@ _Créé par_:
 Les pièces dont la production est prévue aux articles R. 623-4 à R. 623-6 ainsi qu'aux articles R. 623-15, R. 623-17 et R.
 623-36 doivent être rédigées en langue française. 
 
-Le comité peut exiger que tout autre document à lui adresser soit établi en langue française ou accompagné d'une traduction.
+Le responsable des missions relevant de l'instance nationale des obtentions végétales peut exiger que tout autre document à
+lui adresser soit établi en langue française ou accompagné d'une traduction.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R623-15 (V)
+  - Code de la propriété intellectuelle - art. R623-15
   - Code de la propriété intellectuelle - art. R623-17 (V)
   - Code de la propriété intellectuelle - art. R623-36 (V)
-  - Code de la propriété intellectuelle - art. R623-4 (V)
+  - Code de la propriété intellectuelle - art. R623-4
 
 _Codifié par_:
 
@@ -45786,25 +45426,22 @@ _Codifié par_:
 Par dérogation aux dispositions de l'article R. 623-4, une référence provisoire peut être donnée à la place d'une
 dénomination pour désigner la variété qui fait l'objet de la demande au moment du dépôt de celle-ci. Dans ce cas, la
 dénomination doit être proposée sous peine d'irrecevabilité de la demande dans les deux mois de la notification qui est
-adressée au titulaire de la demande par le comité.
+adressée au titulaire de la demande par le responsable des missions relevant de l'instance nationale des obtentions
+végétales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 12
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. R623-4 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R623-13
@@ -45812,27 +45449,23 @@ _Cite_:
 Un exemplaire de la demande de certificat d'obtention végétale est remis au déposant lors du dépôt, revêtu d'un visa
 attestant le jour et l'heure du dépôt de la demande et comportant un numéro d'enregistrement.
 
-Lorsque le dépôt est fait par voie postale, l'exemplaire de la demande destiné au déposant peut lui être adressé par la même
-voie. La date et l'heure du dépôt sont alors celles de la réception au secrétariat général du comité de la protection des
-obtentions végétales du pli contenant la demande ; si le versement des redevances exigibles au moment du dépôt n'est fait
-qu'ultérieurement, la date du dépôt de la demande transmise par voie postale est celle de ce versement et l'heure du dépôt
-celle de la fermeture, ce jour-là, des bureaux du secrétariat général du comité. La demande est déclarée irrecevable si ce
-versement n'intervient pas dans les deux mois qui suivent la réception de la demande par le secrétariat général du comité de
-la protection des obtentions végétales.
+Lorsque le dépôt est fait par voie postale ou télétransmis, l'exemplaire de la demande destiné au déposant peut lui être
+adressé par la même voie. La date et l'heure du dépôt sont alors celles de la réception au siège de l'instance nationale des
+obtentions végétales du pli ou du message contenant la demande ; si le versement des redevances exigibles au moment du dépôt
+n'est fait qu'ultérieurement, la date du dépôt de la demande transmise par voie postale ou télétransmise est celle de ce
+versement et l'heure du dépôt celle de la fermeture, ce jour-là, du siège de l'instance nationale des obtentions végétales.
+La demande est déclarée irrecevable si ce versement n'intervient pas dans les deux mois qui suivent la réception de la
+demande au siège de l'instance nationale des obtentions végétales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 13
+  - Décret n°2014-731 du 27 juin 2014 - art. 2
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-14
@@ -45890,13 +45523,12 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=292></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=294></a>
 
 ###### Article R623-16
 
 Sous réserve des dispositions de l'article R. 623-44, toute demande de certificat d'obtention végétale régulièrement déposée
-fait l'objet d'une publication dans un bulletin officiel qui sera édité par le comité de la protection des obtentions
-végétales. 
+fait l'objet d'une publication dans un bulletin officiel qui sera édité par l'instance nationale des obtentions végétales. 
 
 Cette publication a notamment pour objet de porter la demande de certificat d'obtention végétale à la connaissance de toute
 personne y ayant intérêt. 
@@ -45910,9 +45542,9 @@ telle qu'elle est inscrite au Registre des demandes de certificat d'obtention v�
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 16
+  - Décret n°2014-731 du 27 juin 2014 - art. 3
 
 _Cité par_:
 
@@ -45922,25 +45554,18 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R623-17
 
 Dans un délai de deux mois à compter de la date de la publication prévue à l'article précédent, toute personne y ayant
-intérêt peut présenter des observations au comité de la protection des obtentions végétales.
+intérêt peut présenter des observations au responsable des missions relevant de l'instance nationale des obtentions
+végétales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 17
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 3
 
 _Cité par_:
 
@@ -45979,48 +45604,42 @@ _Créé par_:
 ###### Article R623-19
 
 Lorsque la dénomination de la variété proposée par l'obtenteur ou son ayant cause n'a pas figuré dans la demande initiale ou
-lorsque l'obtenteur propose, à la demande du comité, une nouvelle dénomination, il est procédé à une publication de cette
-dénomination dans le Bulletin officiel du comité de la protection des obtentions végétales.
+lorsque l'obtenteur propose, à la demande du responsable des missions relevant de l'instance nationale des obtentions
+végétales, une nouvelle dénomination, il est procédé à une publication de cette dénomination dans le Bulletin officiel de
+l'instance nationale des obtentions végétales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 19
+  - Décret n°2014-731 du 27 juin 2014 - art. 3
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-20
 
-Les observations présentées sont notifiées par le comité de la protection des obtentions végétales au titulaire de la
-demande, le comité fixe le délai dans lequel le demandeur doit répondre.
+Les observations présentées sont notifiées au demandeur par le responsable des missions relevant de l'instance nationale des
+obtentions végétales, qui fixe le délai dans lequel il doit y être répondu.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 20
+  - Décret n°2014-731 du 27 juin 2014 - art. 3
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R623-21
 
-Le comité régulièrement saisi dans les conditions prévues ci-dessus procède à l'instruction de la demande de certificat
-d'obtention végétale et, le cas échéant, à l'examen des observations qui s'y rapportent. 
+Le responsable des missions relevant de l'instance nationale des obtentions végétales régulièrement saisi dans les conditions
+prévues ci-dessus procède à l'instruction de la demande de certificat d'obtention végétale et, le cas échéant, à l'examen des
+observations qui s'y rapportent. 
 
 Il arrête les modalités de l'instruction. 
 
@@ -46028,23 +45647,20 @@ Par application des dispositions de l'article L. 623-12, il peut décider de ne 
 résulte des documents français ou étrangers en sa possession qu'un tel examen a déjà été effectué et que les renseignements
 qu'ils contiennent lui apparaissent suffisants pour lui permettre de prendre une décision. 
 
-Dans le cas où le comité décide de faire procéder à un examen de la variété, il en fixe la durée et les modalités. Cet examen
-porte sur la nouveauté, l'homogénéité et la stabilité, à l'exclusion de toute appréciation sur la valeur culturale ; il n'est
-effectué que sur justification du paiement de la redevance exigible.
+Dans le cas où le responsable des missions relevant de l'instance nationale des obtentions végétales décide de faire procéder
+à un examen de la variété, il en fixe la durée et les modalités. Cet examen porte sur la distinction, l'homogénéité et la
+stabilité, à l'exclusion de toute appréciation sur la valeur culturale ; il n'est effectué que sur justification du paiement
+de la redevance exigible.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 21
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 3
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-12 (V)
+  - Code de la propriété intellectuelle - art. L623-12
 
 _Codifié par_:
 
@@ -46053,22 +45669,19 @@ _Codifié par_:
 
 ###### Article R623-22
 
-Dans le cas où la dénomination proposée est reconnue par le comité comme n'étant pas conforme aux dispositions des articles
-R. 623-6 et R. 623-7 et des arrêtés pris pour l'application de la présente section, ou fait l'objet d'observations reconnues
-valables par le comité, l'obtenteur est invité à présenter une nouvelle dénomination dans un délai de deux mois à compter de
-la notification qui lui est faite. Cette nouvelle dénomination donne lieu aux mêmes mesures d'instruction et de publication.
-Dans le cas où l'obtenteur ne propose pas une nouvelle dénomination dans ce délai, la demande de certificat est déclarée
-irrecevable. Les redevances déjà perçues ne sont pas restituées.
+Dans le cas où la dénomination proposée est reconnue par le responsable des missions relevant de l'instance nationale des
+obtentions végétales comme n'étant pas conforme aux dispositions des articles R. 623-6 et R. 623-7 et des arrêtés pris pour
+l'application de la présente section, ou fait l'objet d'observations reconnues valables par le responsable des missions
+relevant de l'instance nationale des obtentions végétales, l'obtenteur est invité à présenter une nouvelle dénomination dans
+un délai de deux mois à compter de la notification qui lui est faite. Cette nouvelle dénomination donne lieu aux mêmes
+mesures d'instruction et de publication. Dans le cas où l'obtenteur ne propose pas une nouvelle dénomination dans ce délai,
+la demande de certificat est déclarée irrecevable. Les redevances déjà perçues ne sont pas restituées.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 22
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 3
 
 _Cité par_:
 
@@ -46076,8 +45689,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R623-6 (V)
-  - Code de la propriété intellectuelle - art. R623-7 (V)
+  - Code de la propriété intellectuelle - art. R623-6
 
 _Codifié par_:
 
@@ -46088,7 +45700,8 @@ _Codifié par_:
 
 L'instruction est suspendue à la requête écrite de toute personne qui apporte la preuve qu'elle a intenté auprès du tribunal
 de grande instance ou, dans les territoires d'outre-mer, du tribunal de première instance une action en revendication de la
-propriété de la demande de certificat d'obtention. Toutefois, les essais décidés par le comité peuvent être effectués.
+propriété de la demande de certificat d'obtention végétale. Toutefois, les essais décidés par le responsable des missions
+relevant de l'instance nationale des obtentions végétales peuvent être effectués.
 
 L'instruction est reprise dès que la décision du tribunal est passée en force de chose jugée. Elle peut être également
 reprise à tout moment sur le consentement écrit de la personne qui a intenté l'action en revendication. Ce consentement est
@@ -46102,48 +45715,47 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 23
 
+_Modifié par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 3
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-24
 
-Lorsque les différentes mesures d'instruction décidées par le comité ont été accomplies, un rapport sommaire résumant les
-résultats de l'instruction est notifié au titulaire de la demande, celui-ci a deux mois pour présenter ses observations. Il
-peut, pendant ce délai, prendre connaissance de l'ensemble du dossier d'enquête au secrétariat général du comité.
+Lorsque les différentes mesures d'instruction décidées par le responsable des missions relevant de l'instance nationale des
+obtentions végétales ont été accomplies, un rapport sommaire résumant les résultats de l'instruction est notifié au titulaire
+de la demande, celui-ci a deux mois pour présenter ses observations. Il peut, pendant ce délai, prendre connaissance de
+l'ensemble du dossier d'instruction auprès du responsable des missions relevant de l'instance nationale des obtentions
+végétales.
 
 Toute personne ayant présenté des observations dans les conditions prescrites par la présente section et par les arrêtés du
 ministre de l'agriculture qui pourront être pris pour son application est informée des conclusions du rapport concernant son
-intervention. Sur sa requête, le comité peut l'autoriser à prendre connaissance du dossier ayant trait à cette intervention.
-Elle peut présenter de nouvelles observations dans le même délai que ci-dessus.
+intervention. Sur sa requête, le responsable des missions relevant de l'instance nationale des obtentions végétales peut
+l'autoriser à prendre connaissance du dossier ayant trait à cette intervention. Elle peut présenter de nouvelles observations
+dans le même délai que ci-dessus.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 24
+  - Décret n°2014-731 du 27 juin 2014 - art. 3
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=293></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=295></a>
 
 ###### Article R623-25
 
-A l'expiration du délai prévu à l'article précédent, le comité statue sur la demande. Il peut décider soit la délivrance du
-certificat d'obtention végétale, soit le rejet de la demande, soit un supplément d'enquête dans des conditions et délais
-qu'il doit fixer.
+A l'expiration du délai prévu à l'article précédent, le responsable des missions relevant de l'instance nationale des
+obtentions végétales statue sur la demande. Il peut décider soit la délivrance du certificat d'obtention végétale, soit le
+rejet de la demande, soit un supplément d'enquête dans des conditions et délais qu'il doit fixer.
 
 Sa décision est motivée. Elle est notifiée au déposant et, le cas échéant, aux auteurs des observations.
 
@@ -46153,48 +45765,45 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 25
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 4
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R623-43 (V)
 
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
 
 ###### Article R623-26
 
-Le certificat d'obtention végétale est délivré par le comité de la protection des obtentions végétales. Il est établi au nom
-du titulaire de la demande de certificat d'obtention végétale. Si le titulaire de la demande n'est pas l'obtenteur, le nom de
-ce dernier doit être mentionné sur le certificat d'obtention végétale. 
+Le certificat d'obtention végétale est délivré par le responsable des missions relevant de l'instance nationale des
+obtentions végétales. Il est établi au nom du titulaire de la demande de certificat d'obtention végétale. Si le titulaire de
+la demande n'est pas l'obtenteur, le nom de ce dernier doit être mentionné sur le certificat d'obtention végétale. 
 
 Le certificat comporte notamment, en dehors de la dénomination de la variété et de sa description botanique, les indications
 relatives à la date du dépôt de la demande, de la délivrance, des différentes mesures de publicité, les mentions concernant
 les priorités dans le cas où il en serait revendiqué. 
 
 Dans le cas où, par application des dispositions des articles R. 623-4, R. 623-7 et R. 623-22, la variété est désignée par
-une ou plusieurs autres dénominations dans les différents Etats de l'Union internationale pour la protection des obtentions
-végétales, ces différentes dénominations sont mentionnées à titre indicatif sur le certificat d'obtention.
+une ou plusieurs autres dénominations auprès des différents membres de l'Union internationale pour la protection des
+obtentions végétales, ces différentes dénominations sont mentionnées à titre indicatif sur le certificat d'obtention
+végétale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 26
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R623-22 (V)
-  - Code de la propriété intellectuelle - art. R623-4 (V)
-  - Code de la propriété intellectuelle - art. R623-7 (V)
+  - Code de la propriété intellectuelle - art. R623-22
+  - Code de la propriété intellectuelle - art. R623-4
+  - Code de la propriété intellectuelle - art. R623-7
 
 _Codifié par_:
 
@@ -46227,77 +45836,66 @@ _Créé par_:
 
 ###### Article R623-28
 
-La délivrance du certificat d'obtention végétale est publiée au Bulletin officiel du comité de la protection des obtentions
+La délivrance du certificat d'obtention végétale est publiée au Bulletin officiel de l'instance nationale des obtentions
 végétales dans un délai de trois mois à compter de la date de notification de délivrance faite au propriétaire du certificat
 d'obtention végétale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 28
+  - Décret n°2014-731 du 27 juin 2014 - art. 4
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-29
 
-A partir du jour de la publication au Bulletin officiel, toute personne peut prendre connaissance au siège du comité du
-certificat d'obtention végétale tel qu'il est inscrit au Registre national des certificats d'obtention végétale. Elle peut se
-faire délivrer à ses frais des extraits de registre. Elle peut également prendre connaissance des pièces du dossier relatives
-au dépôt, à la procédure d'examen ou en obtenir reproduction à ses frais et, d'une manière générale, recevoir toutes
-informations sur l'obtention dont il s'agit, sous réserve des mesures particulières susceptibles d'être décidées par le
-comité de la protection des obtentions végétales pour sauvegarder le droit de l'obtenteur sur les variétés dont la production
-commerciale exige l'emploi répété d'une ou plusieurs autres variétés.
+A partir du jour de la publication au Bulletin officiel, toute personne peut prendre connaissance au siège de l'instance
+nationale des obtentions végétales du certificat d'obtention végétale tel qu'il est inscrit au Registre national des
+certificats d'obtention végétale. Elle peut se faire délivrer à ses frais des extraits de registre. Elle peut également
+prendre connaissance des pièces du dossier relatives au dépôt, à la procédure d'examen ou en obtenir reproduction à ses frais
+et, d'une manière générale, recevoir toutes informations sur l'obtention dont il s'agit, sous réserve des mesures
+particulières susceptibles d'être décidées par l'instance nationale des obtentions végétales pour sauvegarder le droit de
+l'obtenteur sur les variétés dont la production commerciale exige l'emploi répété d'une ou plusieurs autres variétés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 29
+  - Décret n°2014-731 du 27 juin 2014 - art. 4
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-30
 
-Le comité de la protection des obtentions végétales n'est tenu de conserver les demandes de certificats d'obtention végétale
-que pendant une période de dix ans après l'extinction des droits attachés aux certificats correspondants.
+Le responsable des missions relevant de l'instance nationale des obtentions végétales n'est tenu de conserver les demandes de
+certificats d'obtention végétale que pendant une période de dix ans après l'extinction des droits attachés aux certificats
+correspondants.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 30
+  - Décret n°2014-731 du 27 juin 2014 - art. 4
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-##### Sous-section 4 : Redevances annuelles<a id=294></a>
+##### Sous-section 4 : Redevances annuelles<a id=296></a>
 
 ###### Article R623-31
 
-La redevance annuelle prévue par l'article L. 623-16 (2e alinéa) est exigible pour la première fois à la date de la
+La redevance annuelle prévue au deuxième alinéa de l'article L. 623-16 est exigible pour la première fois à la date de la
 délivrance du certificat d'obtention végétale. Elle doit être versée dans les deux mois de la notification qui est faite par
-le comité de la protection des obtentions végétales au propriétaire du certificat d'obtention végétale. 
+l'instance nationale des obtentions végétales au propriétaire du certificat d'obtention végétale. 
 
 Pour les années suivantes, elle vient à échéance le dernier jour du mois de la date anniversaire de la délivrance du
 certificat d'obtention végétale. 
@@ -46312,13 +45910,9 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 31
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 5
 
 _Cite_:
 
@@ -46327,6 +45921,10 @@ _Cite_:
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R623-32 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R623-32
@@ -46359,14 +45957,15 @@ _Codifié par_:
 ###### Article R623-33
 
 Lorsque le paiement d'une redevance annuelle, accompagné, le cas échéant, de la redevance de retard, n'a pas été effectué
-dans les délais prescrits ci-dessus, le comité de la protection des obtentions végétales constate la déchéance du droit de
-l'obtenteur. 
+dans les délais prescrits ci-dessus, le responsable des missions relevant de l'instance nationale des obtentions végétales
+constate la déchéance du droit de l'obtenteur. 
 
-Cette déchéance est inscrite au Registre national des certificats d'obtention et publiée au Bulletin officiel du comité de la
-protection des obtentions végétales. Elle est motivée et notifiée au propriétaire du certificat d'obtention végétale à la
-date de l'inscription au Registre national des certificats d'obtention. L'intéressé est avisé qu'il dispose d'un délai de six
-mois à compter de l'expiration du dernier délai pour présenter au comité un recours en vue d'être restauré dans ses droits,
-dans les conditions prévues par l'article L. 623-23. 
+Cette déchéance est inscrite au Registre national des certificats d'obtention végétale et publiée au Bulletin officiel de
+l'instance nationale des obtentions végétales. Elle est motivée et notifiée au propriétaire du certificat d'obtention
+végétale à la date de l'inscription au Registre national des certificats d'obtention végétale. L'intéressé est avisé qu'il
+dispose d'un délai de six mois à compter de l'expiration du dernier délai pour présenter au responsable des missions relevant
+de l'instance nationale des obtentions végétales un recours en vue d'être restauré dans ses droits, dans les conditions
+prévues par l'article L. 623-23. 
 
 Pour être valable, le recours doit être accompagné de la justification du versement de la redevance annuelle et d'une
 redevance pour inscription du recours au Registre national des certificats d'obtention végétale.
@@ -46377,22 +45976,27 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 33
 
+_Modifié par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 5
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L623-23 (V)
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R623-34
 
-Le comité de la protection des obtentions végétales statue dans un délai de deux mois. Dans le cas de rejet du recours, le
-montant de la dernière redevance annuelle est restitué.
+Le responsable des missions relevant de l'instance nationale des obtentions végétales statue dans un délai de deux mois. Dans
+le cas de rejet du recours, le montant de la dernière redevance annuelle est restitué.
 
-La décision du comité est notifiée au propriétaire du certificat d'obtention ; elle est inscrite au Registre national des
-certificats d'obtention végétale et publiée au Bulletin officiel du comité de la protection des obtentions végétales.
+La décision du responsable des missions relevant de l'instance nationale des obtentions végétales est notifiée au
+propriétaire du certificat d'obtention ; elle est inscrite au Registre national des certificats d'obtention végétale et
+publiée au Bulletin officiel de l'instance nationale des obtentions végétales.
 
 **Liens relatifs à cet article**
 
@@ -46400,21 +46004,21 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 34
 
+_Modifié par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 5
+
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-35
 
 Si le propriétaire du certificat d'obtention végétale a formé devant la cour d'appel de Paris un recours contre la décision
-du comité prise en application de l'article L. 623-23, mention de l'introduction du recours est portée d'office au Registre
-national des certificats d'obtention végétale et les effets de la déchéance sont suspendus jusqu'à ce que l'arrêt de la cour
-soit devenu définitif. 
+du responsable des missions relevant de l'instance nationale des obtentions végétales prise en application de l'article L.
+623-23, mention de l'introduction du recours est portée d'office au Registre national des certificats d'obtention végétale et
+les effets de la déchéance sont suspendus jusqu'à ce que l'arrêt de la cour soit devenu définitif. 
 
 La décision de la cour d'appel de Paris est inscrite au Registre national des certificats d'obtention végétale. Elle est
 accompagnée, le cas échéant, de la mention que le propriétaire du certificat d'obtention végétale s'est pourvu en cassation.
@@ -46426,26 +46030,27 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 35
 
+_Modifié par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 5
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-33 (V)
+  - Code de la propriété intellectuelle - art. L623-23 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-##### Sous-section 5 : Renonciation - Déchéance<a id=295></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=297></a>
 
 ###### Article R623-36
 
-La renonciation à un certificat d'obtention végétale est faite par une déclaration écrite. Elle est formulée au comité par le
-propriétaire du certificat ou par un mandataire muni d'un pouvoir spécial. Si le certificat appartient à plusieurs personnes,
-la renonciation ne peut être effectuée que si elle est requise par l'ensemble de celles-ci.
+La renonciation à un certificat d'obtention végétale est faite par une déclaration écrite. Elle est formulée au responsable
+des missions relevant de l'instance nationale des obtentions végétales par le propriétaire du certificat ou par un mandataire
+muni d'un pouvoir spécial. Si le certificat appartient à plusieurs personnes, la renonciation ne peut être effectuée que si
+elle est requise par l'ensemble de celles-ci.
 
 Si les droits réels, de gage ou de licence ont été inscrits au Registre national des certificats d'obtention végétale, la
 renonciation n'est recevable que si elle est accompagnée du consentement des titulaires de ces droits.
@@ -46455,64 +46060,58 @@ végétale. Elle prend effet à la date de cette inscription.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 36
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 6
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R623-10 (V)
 
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
 
 ###### Article R623-37
 
 L'obtenteur susceptible d'être déchu de ses droits en application du 1° et du 2° du premier alinéa de l'article L. 623-23 est
-mis en demeure de faire cesser cette situation par une notification qui lui est adressée par le comité de protection des
-obtentions végétales. Si, à l'expiration d'un délai de deux mois à compter de la réception de la notification, cette mise en
-demeure est restée sans effet, le comité constate la déchéance du droit de l'obtenteur. 
+mis en demeure de faire cesser cette situation par une notification qui lui est adressée par le responsable des missions
+relevant de l'instance nationale des obtentions végétales. Si, à l'expiration d'un délai de deux mois à compter de la
+réception de la notification, cette mise en demeure est restée sans effet, le responsable des missions relevant de l'instance
+nationale des obtentions végétales constate la déchéance du droit de l'obtenteur. 
 
-La décision du comité est notifiée au propriétaire du certificat d'obtention végétale. Elle est inscrite au Registre national
-des certificats d'obtention végétale et publiée au Bulletin officiel du comité de la protection des obtentions végétales.
+La décision du responsable des missions relevant de l'instance nationale des obtentions végétales est notifiée au
+propriétaire du certificat d'obtention végétale. Elle est inscrite au Registre national des certificats d'obtention végétale
+et publiée au Bulletin officiel de l'instance nationale des obtentions végétales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 37
+  - Décret n°2014-731 du 27 juin 2014 - art. 6
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L623-23 (V)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L623-33 (V)
-
-
-##### Sous-section 6 : Registres nationaux<a id=296></a>
+##### Sous-section 6 : Registres nationaux<a id=298></a>
 
 ###### Article R623-38
 
-Le comité de la protection des obtentions végétales tient un Registre des demandes de certificat d'obtention végétale et un
-Registre national des certificats d'obtention végétale.
+Le responsable des missions relevant de l'instance nationale des obtentions végétales tient un Registre des demandes de
+certificat d'obtention végétale et un Registre national des certificats d'obtention végétale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 38
+  - Décret n°2014-731 du 27 juin 2014 - art. 7
 
 _Cité par_:
 
@@ -46521,10 +46120,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-39
@@ -46544,7 +46139,7 @@ Pour chaque demande, l'inscription comporte notamment :
 déposant ;
 
 - la dénomination proposée ou, à défaut, la référence d'obtenteur ainsi que, le cas échéant, la dénomination sous laquelle la
-variété a été désignée dans les autres Etats de l'Union ;
+variété a été désignée par les autres membres de l'Union internationale pour la protection des obtentions végétales ;
 
 - la revendication de priorité dans le cas où il en a été formulé ;
 
@@ -46558,18 +46153,14 @@ réserve des dispositions de l'article R. 623-44.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 39
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 7
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R623-17 (V)
-  - Code de la propriété intellectuelle - art. R623-44 (V)
+  - Code de la propriété intellectuelle - art. R623-17
+  - Code de la propriété intellectuelle - art. R623-44
 
 _Codifié par_:
 
@@ -46578,8 +46169,8 @@ _Codifié par_:
 
 ###### Article R623-40
 
-L'inscription des certificats d'obtention végétale au Registre national des certificats d'obtention a lieu dans l'ordre de
-leur délivrance.
+L'inscription des certificats d'obtention végétale au Registre national des certificats d'obtention végétale a lieu dans
+l'ordre de leur délivrance. 
 
 L'inscription comporte :
 
@@ -46587,8 +46178,8 @@ L'inscription comporte :
 
 - le genre ou espèce auquel appartient la variété ;
 
-- la dénomination ainsi que, le cas échéant, toute autre dénomination sous laquelle elle est déjà désignée dans les autres
-Etats de l'Union ;
+- la dénomination ainsi que, le cas échéant, toute autre dénomination sous laquelle elle est déjà désignée par les autres
+membres de l'Union internationale pour la protection des obtentions végétales ;
 
 - une description botanique ;
 
@@ -46598,24 +46189,25 @@ celui-ci n'est pas le propriétaire du certificat d'obtention végétale ;
 - éventuellement, la revendication de priorité ;
 
 - les dates auxquelles commence et expire la protection et, s'il y a lieu, la renonciation anticipée ou la décision
-constatant la déchéance du droit du propriétaire.
+constatant la déchéance du droit du propriétaire. 
 
-Cette inscription est complétée, s'il y a lieu, par la mention des décisions judiciaires déterminant le titulaire du droit.
+Cette inscription est complétée, s'il y a lieu, par la mention des décisions judiciaires déterminant le titulaire du droit. 
 
 Elle est également complétée par la mention de tous actes relatifs à la transmission de propriété du droit d'obtenteur, la
 cession ou la concession d'un droit d'exploitation, la licence d'office et tous actes transmettant ou modifiant les droits
-attachés à un certificat d'obtention végétale. Ces différentes inscriptions complémentaires seront faites moyennant le
-versement de redevances.
+attachés à un certificat d'obtention végétale y compris, le cas échéant, ceux relatifs à la reconnaissance de variétés
+essentiellement dérivées au sens du IV de l'article L. 623-4. Ces différentes inscriptions complémentaires seront faites
+moyennant le versement de redevances.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 40
+  - Décret n°2014-731 du 27 juin 2014 - art. 7
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Code de la propriété intellectuelle - art. L623-4 (V)
 
 _Cité par_:
 
@@ -46624,6 +46216,42 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+
+###### Article R623-40-1
+
+La mention de variétés essentiellement dérivées au sens du IV de l'article L. 623-4, faisant ou non l'objet d'un certificat
+d'obtention végétale, identifiées par leur dénomination variétale, peut être inscrite en complément des mentions obligatoires
+relatives au certificat d'obtention végétale d'une variété initiale protégée. 
+
+Elle peut également être inscrite en complément des mentions obligatoires relatives au certificat d'une variété
+essentiellement dérivée. 
+
+Cette mention complémentaire est inscrite :
+
+- sur notification au responsable des missions relevant de l'instance nationale des obtentions végétales d'une décision
+judiciaire passée en force de chose jugée ;
+
+- sur production de l'un des originaux de l'acte sous seing privé portant reconnaissance par les parties concernées des
+qualifications de variété initiale et variété essentiellement dérivée ; ou
+
+- sur production d'une déclaration du titulaire du certificat portant sur une variété initiale s'il est également obtenteur
+de variétés essentiellement dérivées au sens du IV de l'article L. 623-4. 
+
+L'inscription de mentions complémentaires n'engage pas la responsabilité de l'instance nationale des obtentions végétales. 
+
+Les mentions complémentaires relatives aux variétés essentiellement dérivées peuvent être publiées au Bulletin officiel de
+l'instance nationale des obtentions végétales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 7
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L623-4 (V)
 
 
 ###### Article R623-41
@@ -46669,22 +46297,23 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=297></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=299></a>
 
 ###### Article R623-43
 
 Des délégués du ministre chargé de la défense nationale, spécialement habilités à cet effet et dont les noms et qualités ont
 été portés à la connaissance du ministre chargé de l'agriculture par le ministre chargé de la défense nationale, prennent
-connaissance, dans les locaux du comité de la protection des obtentions végétales, des demandes de certificat d'obtention
+connaissance, dans les locaux de l'instance nationale des obtentions végétales, des demandes de certificat d'obtention
 végétale déposées. 
 
-Celles-ci sont présentées, dans le délai de quinze jours à compter de la date de leur réception, au comité de la protection
-des obtentions végétales. 
+Celles-ci sont présentées, dans le délai de quinze jours à compter de la date de leur réception, par le responsable de
+l'instance nationale des obtentions végétales. 
 
-Lorsque la demande est formulée par les délégués du ministre chargé de la défense nationale, le comité de la protection des
-obtentions végétales doit, s'il ne l'a déjà fait, inviter l'obtenteur ou son ayant cause à fournir dans les plus courts
-délais compatibles avec le mode de reproduction ou de multiplication végétative de la variété, le matériel visé à l'article
-R. 623-5 (3°) et le communiquer dès sa réception aux délégués du ministre chargé de la défense nationale.
+Lorsque la demande est formulée par les délégués du ministre chargé de la défense nationale, le responsable des missions
+relevant de l'instance nationale des obtentions végétales doit, s'il ne l'a déjà fait, inviter l'obtenteur ou son ayant cause
+à fournir dans les plus courts délais compatibles avec le mode de reproduction ou de multiplication végétative de la variété,
+le matériel visé au 3° de l'article R. 623-25 et le communiquer dès sa réception aux délégués du ministre chargé de la
+défense nationale.
 
 **Liens relatifs à cet article**
 
@@ -46692,13 +46321,13 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 50
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 8
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R623-5 (V)
+  - Code de la propriété intellectuelle - art. R623-25 (V)
 
 _Codifié par_:
 
@@ -46745,9 +46374,10 @@ _Cité par_:
 ###### Article R623-45
 
 La demande d'autorisation de divulguer et d'exploiter librement une obtention appartenant à l'une des espèces visées à
-l'article ci-dessus avant le terme du délai prévu à l'article L. 623-9 doit être formulée auprès du comité de la protection
-des obtentions végétales ; elle peut l'être dès le dépôt de la demande de certificat. L'autorisation est notifiée au déposant
-par le ministre chargé de l'agriculture sur avis du ministre chargé de la défense nationale. 
+l'article ci-dessus avant le terme du délai prévu à l'article L. 623-9 doit être formulée auprès du responsable des missions
+relevant de l'instance nationale des obtentions végétales ; elle peut l'être dès le dépôt de la demande de certificat.
+L'autorisation est notifiée au déposant par le ministre chargé de l'agriculture sur avis du ministre chargé de la défense
+nationale. 
 
 En l'absence d'une telle autorisation et à tout moment, une demande d'autorisation particulière en vue d'accomplir des actes
 déterminés d'exploitation peut être adressée directement par le titulaire de la demande de certificat au ministre chargé de
@@ -46763,14 +46393,14 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 52
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 8
 
 _Cité par_:
 
   - Décret n°2014-1285 du 23 octobre 2014 - art. (VT)
-  - Code de la propriété intellectuelle - art. R623-46 (V)
+  - Code de la propriété intellectuelle - art. R623-46 (M)
 
 _Cite_:
 
@@ -46785,8 +46415,8 @@ _Codifié par_:
 
 La réquisition adressée au ministre chargé de l'agriculture par le ministre chargé de la défense nationale aux fins de
 prorogation des interdictions de divulgation et de libre exploitation d'une obtention, objet de la demande de certificat,
-doit parvenir au comité de la protection des obtentions végétales au plus tard quinze jours avant le terme du délai de cinq
-mois prévu à l'article L. 623-9. 
+doit parvenir au responsable des missions relevant de l'instance nationale des obtentions végétales au plus tard quinze jours
+avant le terme du délai de cinq mois prévu à l'article L. 623-9. 
 
 Toute réquisition aux fins de renouvellement d'une prorogation doit parvenir dans les mêmes conditions au plus tard quinze
 jours avant l'expiration de la période d'un an en cours. 
@@ -46807,19 +46437,19 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 53
 
+_Modifié par_:
+
+  - Décret n°2014-731 du 27 juin 2014 - art. 8
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-10 (V)
-  - Code de la propriété intellectuelle - art. L623-9 (V)
-  - Code de la propriété intellectuelle - art. R623-45 (V)
+  - Code de la propriété intellectuelle - art. L623-10
+  - Code de la propriété intellectuelle - art. L623-9
+  - Code de la propriété intellectuelle - art. R623-45 (M)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-47
@@ -46849,26 +46479,30 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=298></a>
+##### Sous-section 8 : Dispositions diverses<a id=300></a>
 
 ###### Article R623-48
 
 Les notifications prévues par la présente section ainsi que par l'article L. 623-18 sont faites par lettre recommandée avec
 demande d'avis de réception.
 
+L'envoi de la lettre recommandée avec demande d'avis de réception peut être remplacé par la remise de la lettre au
+destinataire contre récépissé, au siège de l'instance nationale des obtentions végétales, ou par un message sous forme
+électronique selon les modalités fixées par le responsable de l'instance nationale pour garantir notamment la sécurité de
+l'envoi. 
+
+Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de
+l'instance nationale des obtentions végétales.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 55
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2014-731 du 27 juin 2014 - art. 9
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-18 (V)
+  - Code de la propriété intellectuelle - art. L623-18
 
 _Codifié par_:
 
@@ -46882,21 +46516,17 @@ végétale, ou du certificat d'obtention végétale tel qu'il figure au Registre
 ou au Registre national des certificats d'obtention végétale.
 
 Si le propriétaire est domicilié à l'étranger, la notification est faite au dernier mandataire et au dernier domicile élu
-qu'il a désigné au comité de la protection des obtentions végétales.
+qu'il a désigné au responsable des missions relevant de l'instance nationale des obtentions végétales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°71-764 1971-09-09 art. 56
+  - Décret n°2014-731 du 27 juin 2014 - art. 9
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R623-50
@@ -46941,15 +46571,15 @@ _Cite_:
 ###### Article R623-51
 
 La saisie, descriptive ou réelle, prévue à l'article L. 623-27-1 est ordonnée par le président de l'un des tribunaux de
-grande instance mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées.
+grande instance mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées. 
 
 L'ordonnance est rendue sur simple requête et sur la présentation du certificat d'obtention végétale, soit dans le cas prévu
 à l'article L. 623-26, d'une copie certifiée conforme de la demande de certificat d'obtention végétale. Dans ce dernier cas,
 le demandeur doit justifier en outre que les conditions prévues audit article L. 623-26 sont remplies. 
 
 Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
-octroyée en vertu de l'article L. 623-18, le requérant doit justifier que les conditions de l'article L. 623-25 sont
-remplies. 
+octroyée en vertu des articles L. 623-17 ou L. 623-20, le requérant doit justifier que les conditions de l'article L. 623-25
+sont remplies. 
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
 l'étendue de la contrefaçon.
@@ -46962,12 +46592,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 12
+  - Décret n°2014-731 du 27 juin 2014 - art. 9
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. D631-1
-  - Code de la propriété intellectuelle - art. L623-18
+  - Code de la propriété intellectuelle - art. L623-17 (V)
+  - Code de la propriété intellectuelle - art. L623-20 (V)
   - Code de la propriété intellectuelle - art. L623-25
   - Code de la propriété intellectuelle - art. L623-26
   - Code de la propriété intellectuelle - art. L623-27-1
@@ -47014,20 +46645,15 @@ _Créé par_:
 
 ###### Article R623-53
 
-Le délai prévu au dernier alinéa de l'article L. 623-7-1 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+Le délai prévu au dernier alinéa de l'article L. 623-27-1 et imparti au demandeur pour se pourvoir au fond est de vingt jours
 ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la
 description.
-
-**Nota:**
-
-Une anomalie s'est glissée dans la rédaction de l'article R. 623-53. Au lieu de " L. 623-7-1 " ; il faut lire " L. 623-27-1
-".
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 14
+  - Décret n°2014-731 du 27 juin 2014 - art. 9
 
 _Cite_:
 
@@ -47049,138 +46675,30 @@ _Créé par_:
 
 ###### Article R623-54
 
-Des arrêtés du ministre chargé de l'agriculture pris après avis du comité de la protection des obtentions végétales
-préciseront, en tant que de besoin, les conditions d'application de la présente section.
+Des arrêtés du ministre chargé de l'agriculture pris après avis du responsable des missions relevant de l'instance nationale
+des obtentions végétales préciseront, en tant que de besoin, les conditions d'application de la présente section.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°71-764 1971-09-09 art. 63
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=299></a>
-
-###### Article R623-55
-
-1. Des certificats d'obtention végétale peuvent être délivrés, dans les conditions prévues par les articles L. 623-1 à L.
-623-35 et les articles R. 623-1 à R. 623-54, pour toute variété appartenant à une espèce du règne végétal. 
-
-Tout étranger ayant la nationalité d'un Etat partie à la convention internationale pour la protection des obtentions
-végétales du 2 décembre 1961, modifiée par l'acte additionnel du 10 novembre 1972, ou ayant son domicile, siège ou
-établissement dans l'un de ces Etats peut obtenir un certificat d'obtention végétale pour les variétés appartenant aux genres
-ou espèces faisant l'objet de la part de cet Etat de la même protection et figurant sur la liste annexée à cette convention
-ou sur une liste complémentaire établie en application des dispositions de celle-ci. 
-
-Tout étranger ayant la nationalité d'un Etat partie à la convention internationale pour la protection des obtentions
-végétales dans le texte révisé du 23 octobre 1978 ou ayant son domicile, siège ou établissement dans l'un de ces Etats peut
-obtenir un certificat d'obtention végétale dans les mêmes conditions que les Français. 
-
-2. Les étrangers n'ayant ni la nationalité d'un des Etats mentionnés au 1 ni leur domicile, siège ou établissement dans l'un
-de ceux-ci ne peuvent obtenir de certificats d'obtention végétale qu'à la condition que les Français bénéficient de la
-réciprocité de protection de la part de l'Etat dont l'étranger a la nationalité ou dans lequel il a son domicile, siège ou
-établissement. 
-
-Des arrêtés du ministre des affaires étrangères et du ministre chargé de l'agriculture pris sur proposition du comité de la
-protection des obtentions végétales établissent la liste des Etats dont la législation satisfait à la condition de
-réciprocité. Ces arrêtés peuvent comporter une liste limitative d'espèces végétales pour lesquelles la condition de
-réciprocité est satisfaite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°71-765 du 9 septembre 1971 - art. 1 (Ab)
 
 _Modifié par_:
 
-  - Décret n°95-1407 du 28 décembre 1995 - art. 1 () JORF 4 janvier 1996
-
-_Abrogé par_:
-
-  - Décret n°2014-731 du 27 juin 2014 - art. 10
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L623-1
-  - Code de la propriété intellectuelle - art. R613-1
-
-
-###### Article R623-56
-
-La durée de la protection est de vingt ans.
-
-Pour les arbres forestiers, fruitiers ou d'ornement, pour la vigne ainsi que pour les graminées et légumineuses fourragères
-pérennes, les pommes de terre et les lignées endogames utilisées pour la production de variétés hybrides, la durée de la
-protection est fixée à vingt-cinq ans.
-
-**Liens relatifs à cet article**
+  - Décret n°2014-731 du 27 juin 2014 - art. 9
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Anciens textes_:
 
-  - Décret n°71-765 du 9 septembre 1971 - art. 2 (Ab)
-
-_Modifié par_:
-
-  - Décret n°95-1407 du 28 décembre 1995 - art. 1 () JORF 4 janvier 1996
-
-_Abrogé par_:
-
-  - Décret n°2014-731 du 27 juin 2014 - art. 10
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R623-55 (M)
-
-
-###### Article R623-57
-
-Le droit de l'obtenteur porte sur tous les éléments de reproduction ou de multiplication végétative de la variété considérée
-ainsi que sur tout ou partie de la plante de cette variété.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°2014-731 du 27 juin 2014 - art. 10
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°71-765 du 9 septembre 1971 - art. 2 bis (Ab)
-
-_Modifié par_:
-
-  - Décret n°95-1407 du 28 décembre 1995 - art. 1 () JORF 4 janvier 1996
-
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=301></a>
 
 ###### Article R623-58
 
-Toute personne qui, à l'occasion de tous actes de cession, de concession ou de commercialisation des variétés visées aux
-articles précédents, désire user de la faculté qui lui est offerte par l'article L. 623-15 d'adjoindre à la dénomination
-variétale une marque de commerce ou de fabrique, que cette marque lui soit propre ou qu'elle lui soit concédée, doit prendre
-les précautions nécessaires notamment dans la correspondance, dans la publicité, dans l'établissement des catalogues
-commerciaux, sur les emballages ou étiquettes, afin que cette dénomination soit suffisamment apparente dans son contexte pour
-qu'aucune confusion ne soit susceptible de s'établir dans l'esprit de l'acheteur sur l'identité de la variété.
+Toute personne qui, à l'occasion de tous actes de cession, de concession ou de commercialisation d'une variété bénéficiant
+d'un certificat d'obtention végétale, désire user de la faculté qui lui est offerte par l'article L. 623-15 d'adjoindre à la
+dénomination variétale une marque de commerce ou de fabrique, que cette marque lui soit propre ou qu'elle lui soit concédée,
+doit prendre les précautions nécessaires notamment dans la correspondance, dans la publicité, dans l'établissement des
+catalogues commerciaux, sur les emballages ou étiquettes, afin que cette dénomination soit suffisamment apparente dans son
+contexte pour qu'aucune confusion ne soit susceptible de s'établir dans l'esprit de l'acheteur sur l'identité de la variété.
 
 **Liens relatifs à cet article**
 
@@ -47194,16 +46712,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-1407 du 28 décembre 1995 - art. 1 () JORF 4 janvier 1996
+  - Décret n°2014-731 du 27 juin 2014 - art. 10
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-15 (V)
+  - Code de la propriété intellectuelle - art. L623-15
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=300></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=302></a>
 
-#### Chapitre unique<a id=301></a>
+#### Chapitre unique<a id=303></a>
 
 ###### Article D631-1
 
@@ -47474,11 +46992,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=302></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=304></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=303></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=305></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=304></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=306></a>
 
 ###### Article R712-1
 
@@ -48499,7 +48017,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=305></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=307></a>
 
 ###### Article R714-1
 
@@ -48854,7 +48372,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=306></a>
+#### Chapitre V : Marques collectives<a id=308></a>
 
 ###### Article R715-1
 
@@ -48903,9 +48421,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=307></a>
+#### Chapitre VI : Contentieux<a id=309></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=308></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=310></a>
 
 ###### Article R716-1
 
@@ -48938,7 +48456,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R716-15 (V)
 
 
-##### Section 2 :  Mesures probatoires<a id=309></a>
+##### Section 2 :  Mesures probatoires<a id=311></a>
 
 ###### Article R716-2
 
@@ -49036,7 +48554,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R716-19, v. 0.1 (V)
 
 
-##### Section 3 : Retenue en douane<a id=310></a>
+##### Section 3 : Retenue en douane<a id=312></a>
 
 ###### Article R716-6
 
@@ -49271,7 +48789,7 @@ _Cite_:
   - Code des douanes - art. 334
 
 
-##### Section 4 : Dispositions communes<a id=311></a>
+##### Section 4 : Dispositions communes<a id=313></a>
 
 ###### Article D716-12
 
@@ -49299,9 +48817,9 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R716-21 (VT)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=312></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=314></a>
 
-##### Section 1 : Marque internationale<a id=313></a>
+##### Section 1 : Marque internationale<a id=315></a>
 
 ###### Article R717-1
 
@@ -49567,7 +49085,7 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 83 () JORF 3 mars 2004
 
 
-##### Section 2 : Marque communautaire<a id=314></a>
+##### Section 2 : Marque communautaire<a id=316></a>
 
 ###### Article R717-9
 
@@ -49662,9 +49180,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
 
-#### Chapitre VIII : Dispositions communes<a id=315></a>
+#### Chapitre VIII : Dispositions communes<a id=317></a>
 
-##### Section unique<a id=316></a>
+##### Section unique<a id=318></a>
 
 ###### Article R718-1
 
@@ -49787,11 +49305,11 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 87 () JORF 3 mars 2004
 
 
-### Titre II : Indications géographiques<a id=317></a>
+### Titre II : Indications géographiques<a id=319></a>
 
-#### Chapitre II : Contentieux<a id=318></a>
+#### Chapitre II : Contentieux<a id=320></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=319></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=321></a>
 
 ###### Article R722-1
 
@@ -49809,7 +49327,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L722-3
 
 
-##### Section 2 : Mesures probatoires<a id=320></a>
+##### Section 2 : Mesures probatoires<a id=322></a>
 
 ###### Article R722-2
 
@@ -49877,7 +49395,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 
-##### Section 3 : Dispositions communes<a id=321></a>
+##### Section 3 : Dispositions communes<a id=323></a>
 
 ###### Article D722-6
 
@@ -49897,11 +49415,11 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=322></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=324></a>
 
-### Titre unique<a id=323></a>
+### Titre unique<a id=325></a>
 
-#### Chapitre unique<a id=324></a>
+#### Chapitre unique<a id=326></a>
 
 ###### Article R811-1
 
