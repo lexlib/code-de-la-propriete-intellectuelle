@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-07-01
+Version Consolidée au 2014-08-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -288,9 +288,9 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#42)
         - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#284)
         - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#285)
           - [Section unique : Procédure (art. R618-1 à R618-6)](#286)
-      - [Titre II : Protection des connaissances techniques (art. R622-1 à R623-58)](#287)
+      - [Titre II : Protection des connaissances techniques (art. R622-1 à R623-59)](#287)
         - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#288)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-58)](#289)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-59)](#289)
           - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#290)
             - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#291)
             - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#292)
@@ -301,31 +301,32 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#42)
             - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#297)
             - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#298)
           - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-58)](#299)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#300)
-        - [Chapitre unique (art. D631-1 à D631-2)](#301)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à D722-6)](#302)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-5)](#303)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#304)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#305)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#306)
-        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#307)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#308)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#309)
-          - [Section 3 : Retenue en douane (art. R716-6 à R716-11)](#310)
-          - [Section 4 : Dispositions communes (art. D716-12)](#311)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#312)
-          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#313)
-          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#314)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#315)
-          - [Section unique (art. R718-1 à R718-5)](#316)
-      - [Titre II : Indications géographiques (art. R722-1 à D722-6)](#317)
-        - [Chapitre II : Contentieux (art. R722-1 à D722-6)](#318)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R722-1)](#319)
-          - [Section 2 : Mesures probatoires (art. R722-2 à R722-5)](#320)
-          - [Section 3 : Dispositions communes (art. D722-6)](#321)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#322)
-      - [Titre unique (art. R811-1 à R811-3)](#323)
-        - [Chapitre unique (art. R811-1 à R811-3)](#324)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#300)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#301)
+        - [Chapitre unique (art. D631-1 à D631-2)](#302)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à D722-6)](#303)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-5)](#304)
+        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#305)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#306)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#307)
+        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#308)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#309)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#310)
+          - [Section 3 : Retenue en douane (art. R716-6 à R716-11)](#311)
+          - [Section 4 : Dispositions communes (art. D716-12)](#312)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#313)
+          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#314)
+          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#315)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#316)
+          - [Section unique (art. R718-1 à R718-5)](#317)
+      - [Titre II : Indications géographiques (art. R722-1 à D722-6)](#318)
+        - [Chapitre II : Contentieux (art. R722-1 à D722-6)](#319)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R722-1)](#320)
+          - [Section 2 : Mesures probatoires (art. R722-2 à R722-5)](#321)
+          - [Section 3 : Dispositions communes (art. D722-6)](#322)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#323)
+      - [Titre unique (art. R811-1 à R811-3)](#324)
+        - [Chapitre unique (art. R811-1 à R811-3)](#325)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -46657,9 +46658,82 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-15
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=300></a>
+##### Section 2 bis : Semences de ferme<a id=300></a>
 
-#### Chapitre unique<a id=301></a>
+###### Article R623-59
+
+I.-Les espèces, autres que celles énumérées par le règlement (CE) n° 2100/94 du Conseil du 27 juillet 1994 instituant un
+régime de protection communautaire des obtentions végétales, pour lesquelles les agriculteurs ont le droit, en application de
+l'article L. 623-24-1, d'utiliser sur leur propre exploitation, sans l'autorisation de l'obtenteur, à des fins de
+reproduction ou de multiplication, le produit de la récolte qu'ils ont obtenu par la mise en culture d'une variété protégée,
+sont : 
+
+1° Plantes fourragères : 
+
+a) Trifolium pratense - Trèfle violet ; 
+
+b) Trifolium incarnatum - Trèfle incarnat ; 
+
+c) Lolium multiflorum - Ray Grass d'Italie ; 
+
+d) Lolium hybridum - Ray Grass hybride ; 
+
+e) Lathyrus spp. - Gesses ; 
+
+2° Plantes oléagineuses : 
+
+Glycine max - Soja ; 
+
+3° Plantes à usage de cultures intermédiaires piège à nitrates : 
+
+a) Sinapis alba - Moutarde blanche ; 
+
+b) Avena strigosa - Avoine rude ; 
+
+4° Plantes protéagineuses : 
+
+a) Pisum sativum - Pois protéagineux ; 
+
+b) Lupinus albus - Lupin blanc ; 
+
+c) Lupinus angustifolius - Lupin bleu ; 
+
+5° Plantes potagères : 
+
+a) Lens culinaris - Lentille ; 
+
+b) Phaseolus vulgaris - Haricot. 
+
+II.-Sauf en ce qui concerne les petits agriculteurs au sens de l'article L. 623-24-2, l'entrée en vigueur du I est
+subordonnée à la conclusion des contrats ou accords mentionnés à l'article L. 623-24-3 ou à défaut à l'entrée en vigueur du
+décret d'application mentionné au même article déterminant les modalités de fixation du montant de l'indemnité prévue à
+l'article L. 623-24-2.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°71-765 du 9 septembre 1971 - art. 4 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2014-869 du 1er août 2014 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L623-24-1
+  - Code de la propriété intellectuelle - art. L623-24-2
+  - Code de la propriété intellectuelle - art. L623-24-3
+  - règlement (CE) n°2100/94
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=301></a>
+
+#### Chapitre unique<a id=302></a>
 
 ###### Article D631-1
 
@@ -46930,11 +47004,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=302></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=303></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=303></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=304></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=304></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=305></a>
 
 ###### Article R712-1
 
@@ -47955,7 +48029,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=305></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=306></a>
 
 ###### Article R714-1
 
@@ -48310,7 +48384,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=306></a>
+#### Chapitre V : Marques collectives<a id=307></a>
 
 ###### Article R715-1
 
@@ -48359,9 +48433,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=307></a>
+#### Chapitre VI : Contentieux<a id=308></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=308></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=309></a>
 
 ###### Article R716-1
 
@@ -48394,7 +48468,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R716-15 (V)
 
 
-##### Section 2 :  Mesures probatoires<a id=309></a>
+##### Section 2 :  Mesures probatoires<a id=310></a>
 
 ###### Article R716-2
 
@@ -48492,7 +48566,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R716-19, v. 0.1 (V)
 
 
-##### Section 3 : Retenue en douane<a id=310></a>
+##### Section 3 : Retenue en douane<a id=311></a>
 
 ###### Article R716-6
 
@@ -48727,7 +48801,7 @@ _Cite_:
   - Code des douanes - art. 334
 
 
-##### Section 4 : Dispositions communes<a id=311></a>
+##### Section 4 : Dispositions communes<a id=312></a>
 
 ###### Article D716-12
 
@@ -48755,9 +48829,9 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R716-21 (VT)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=312></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=313></a>
 
-##### Section 1 : Marque internationale<a id=313></a>
+##### Section 1 : Marque internationale<a id=314></a>
 
 ###### Article R717-1
 
@@ -49019,7 +49093,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque communautaire<a id=314></a>
+##### Section 2 : Marque communautaire<a id=315></a>
 
 ###### Article R717-9
 
@@ -49114,9 +49188,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
 
-#### Chapitre VIII : Dispositions communes<a id=315></a>
+#### Chapitre VIII : Dispositions communes<a id=316></a>
 
-##### Section unique<a id=316></a>
+##### Section unique<a id=317></a>
 
 ###### Article R718-1
 
@@ -49258,11 +49332,11 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Indications géographiques<a id=317></a>
+### Titre II : Indications géographiques<a id=318></a>
 
-#### Chapitre II : Contentieux<a id=318></a>
+#### Chapitre II : Contentieux<a id=319></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=319></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=320></a>
 
 ###### Article R722-1
 
@@ -49280,7 +49354,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L722-3
 
 
-##### Section 2 : Mesures probatoires<a id=320></a>
+##### Section 2 : Mesures probatoires<a id=321></a>
 
 ###### Article R722-2
 
@@ -49348,7 +49422,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 
-##### Section 3 : Dispositions communes<a id=321></a>
+##### Section 3 : Dispositions communes<a id=322></a>
 
 ###### Article D722-6
 
@@ -49368,11 +49442,11 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=322></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=323></a>
 
-### Titre unique<a id=323></a>
+### Titre unique<a id=324></a>
 
-#### Chapitre unique<a id=324></a>
+#### Chapitre unique<a id=325></a>
 
 ###### Article R811-1
 
