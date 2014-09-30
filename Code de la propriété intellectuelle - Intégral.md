@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-08-04
+Version Consolidée au 2014-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -207,10 +207,10 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#42)
         - [Chapitre V : Dispositions pénales (art. R*335-1-1 à R335-5)](#203)
       - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#204)
       - [Chapitre III : Procédures et sanctions (art. R343-1)](#205)
-    - [Livre IV : Organisation administrative et professionnelle (art. R411-1 à R423-2)](#206)
-      - [Titre Ier : Institutions (art. R411-1 à R413-5)](#207)
-        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. R411-1 à R411-26)](#208)
-          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. R411-1 à R411-16)](#209)
+    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#206)
+      - [Titre Ier : Institutions (art. D411-1-3 à R413-5)](#207)
+        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#208)
+          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#209)
           - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#210)
           - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. D411-19-1 à R411-26)](#211)
         - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#212)
@@ -31079,6 +31079,32 @@ _Cite_:
 #### Chapitre Ier : L'Institut national de la propriété industrielle<a id=208></a>
 
 ##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=209></a>
+
+###### Article D411-1-3
+
+Les informations publiques de l'Institut national de la propriété industrielle relatives aux titres de propriété industrielle
+peuvent être mises à la disposition du public sur demande, par voie électronique ou sur support informatique, à des fins de
+réutilisation. 
+
+La réutilisation de tout ou partie de ces informations publiques est soumise à l'acceptation par le demandeur d'une licence
+incluant l'engagement à ne pas faire un usage des données à caractère personnel contraire aux dispositions de la 
+loi n° 78-753 du 17 juillet 1978
+portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre
+administratif, social et fiscal. 
+
+La description de ces informations ainsi que le modèle de licence sont accessibles sur le site internet de l'Institut
+national de la propriété industrielle.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-753 du 17 juillet 1978
+
+_Créé par_:
+
+  - Décret n°2014-917 du 19 août 2014 - art. 1
+
 
 ###### Article R411-1
 
