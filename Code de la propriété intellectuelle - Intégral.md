@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-10-01
+Version Consolidée au 2014-10-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -14391,20 +14391,23 @@ Sous réserve des dispositions des articles L. 613-2-1 et L. 611-18, la protecti
 contenant une information génétique ou consistant en une information génétique s'étend à toute matière dans laquelle le
 produit est incorporé et dans laquelle l'information génétique est contenue et exerce la fonction indiquée.
 
+Cette protection ne s'applique pas en cas de présence fortuite ou accidentelle d'une information génétique brevetée dans des
+semences, des matériels de multiplication des végétaux, des plants et plantes ou parties de plantes.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-1338 du 8 décembre 2004 - art. 5 () JORF 9 décembre 2004
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 57
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L611-18 (V)
-  - Code de la propriété intellectuelle - art. L613-2-1 (V)
+  - Code de la propriété intellectuelle - art. L611-18
+  - Code de la propriété intellectuelle - art. L613-2-1
 
 _Cité par_:
 
@@ -18355,9 +18358,9 @@ titulaire un droit exclusif de produire, reproduire, conditionner aux fins de la
 à la vente, vendre ou commercialiser sous toute autre forme, exporter, importer ou détenir à l'une de ces fins du matériel de
 reproduction ou de multiplication de la variété protégée. 
 
-II.-Lorsque les produits mentionnés aux 1° et 2° du présent II ont été obtenus par l'utilisation non autorisée de matériel de
-reproduction ou de multiplication de la variété protégée, le droit exclusif s'étend, à moins que l'obtenteur ait
-raisonnablement pu exercer son droit sur les produits en question : 
+II.-Lorsque les produits mentionnés aux 1° et 2° du présent II ont été obtenus par l'utilisation autre que fortuite ou
+accidentelle et non autorisée de matériel de reproduction ou de multiplication de la variété protégée, le droit exclusif
+s'étend, à moins que l'obtenteur ait raisonnablement pu exercer son droit sur les produits en question : 
 
 1° Au produit de la récolte, y compris aux plantes entières et aux parties de plantes ; 
 
@@ -18384,7 +18387,7 @@ des caractères essentiels résultant du génotype ou de la combinaison de géno
 
 V.-Sous réserve des dispositions de l'article L. 623-24-1, sont interdits, à défaut de consentement du titulaire du
 certificat d'obtention végétale, la production, l'offre, la vente, la mise sur le marché, l'importation, l'exportation, le
-transbordement, l'utilisation ou la détention à ces fins du matériel de reproduction ou de multiplication de la variété
+transbordement, l'utilisation et ou la détention à ces fins du matériel de reproduction ou de multiplication de la variété
 protégée.
 
 **Liens relatifs à cet article**
@@ -18397,24 +18400,24 @@ _Codifié par_:
 
   - Loi n°92-597 du 1 juillet 1992
 
-_Modifié par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 6
-
 _Cité par_:
 
   - Décret n°2014-731 du 27 juin 2014 (V)
   - Code de la propriété intellectuelle - art. L412-1 (V)
-  - Code de la propriété intellectuelle - art. L623-24-1 (V)
   - Code de la propriété intellectuelle - art. L623-25 (V)
   - Code de la propriété intellectuelle - art. L623-32 (V)
   - Code de la propriété intellectuelle - art. L623-4-1 (V)
   - Code de la propriété intellectuelle - art. R623-40 (V)
   - Code de la propriété intellectuelle - art. R623-40-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 58
+
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L623-2
+  - Code de la propriété intellectuelle - art. L623-24-1 (V)
 
 
 ###### Article L623-4-1
@@ -19256,15 +19259,11 @@ _Cite_:
 
 Par dérogation à l'article L. 623-4, pour les espèces énumérées par le règlement (CE) n° 2100/94 du Conseil du 27 juillet
 1994 instituant un régime de protection communautaire des obtentions végétales ainsi que pour d'autres espèces qui peuvent
-être énumérées par décret en Conseil d'Etat, les agriculteurs ont le droit d'utiliser sur leur propre exploitation, sans
-l'autorisation de l'obtenteur, à des fins de reproduction ou de multiplication, le produit de la récolte qu'ils ont obtenu
-par la mise en culture d'une variété protégée. Cette utilisation ne constitue pas une contrefaçon.
+être énumérées par décret, les agriculteurs ont le droit d'utiliser sur leur propre exploitation, sans l'autorisation de
+l'obtenteur, à des fins de reproduction ou de multiplication, le produit de la récolte qu'ils ont obtenu par la mise en
+culture d'une variété protégée. Cette utilisation ne constitue pas une contrefaçon.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 6
 
 _Cité par_:
 
@@ -19272,8 +19271,12 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L623-24-3 (V)
   - Code de la propriété intellectuelle - art. L623-24-5 (V)
   - Code de la propriété intellectuelle - art. L623-25 (V)
-  - Code de la propriété intellectuelle - art. L623-4 (M)
+  - Code de la propriété intellectuelle - art. L623-4 (V)
   - Code de la propriété intellectuelle - art. R623-59 (V)
+
+_Modifié par_:
+
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 58
 
 
 ###### Article L623-24-2
@@ -19305,29 +19308,24 @@ ou plusieurs titulaires de certificats d'obtention végétale et un groupe d'agr
 interprofessionnel conclu dans les conditions prévues au chapitre II du titre III du livre VI du code rural et de la pêche
 maritime, les conditions d'application de la dérogation définie à l'article L. 623-24-1 du présent code, y compris les
 modalités de fixation du montant de l'indemnité visée à l'article L. 623-24-2, dont le montant est sensiblement inférieur au
-montant perçu pour la production sous licence de matériel de multiplication de la même variété, sont établies par le décret
-en Conseil d'Etat prévu à l'article L. 623-24-1.
-
-**Nota:**
-
-Loi n° 2011-1843 du 8 décembre 2011 article 19 II : Les présentes dispositions sont applicables aux certificats d'obtention
-végétale délivrés avant le 11 décembre 2011.
+montant perçu pour la production sous licence de matériel de multiplication de la même variété, sont établies par
+décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2011-1843 du 8 décembre 2011 - art. 16
 
 _Cité par_:
 
   - Décret n°2014-869 du 1er août 2014 (V)
   - Code de la propriété intellectuelle - art. R623-59 (V)
 
+_Modifié par_:
+
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 58
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-24-1 (V)
-  - Code de la propriété intellectuelle - art. L623-24-2 (V)
+  - Code de la propriété intellectuelle - art. L623-24-1
+  - Code de la propriété intellectuelle - art. L623-24-2
 
 
 ###### Article L623-24-4
@@ -20483,6 +20481,10 @@ de l'Institut national de la propriété industrielle par :
 1° Le propriétaire d'une marque enregistrée ou déposée antérieurement ou bénéficiant d'une date de priorité antérieure, ou le
 propriétaire d'une marque antérieure notoirement connue ; 
 
+1° bis Le directeur de l'Institut national de l'origine et de la qualité, dès lors qu'il y a un risque d'atteinte au nom, à
+l'image, à la réputation ou à la notoriété d'une appellation d'origine ou d'une indication géographique mentionnées aux
+articles L. 641-5, L. 641-10, L. 641-11 et L. 641-11-1 du code rural et de la pêche maritime ; 
+
 2° Le bénéficiaire d'un droit exclusif d'exploitation, sauf stipulation contraire du contrat ; 
 
 3° Une collectivité territoriale au titre du h de l'article L. 711-4 ou au titre d'une atteinte à une indication géographique
@@ -20543,15 +20545,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 23
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L711-4
   - Code de la propriété intellectuelle - art. L712-3
-  - Code de la propriété intellectuelle - art. L721-2 (V)
-  - Code de la propriété intellectuelle - art. L721-3 (V)
-  - Code de la propriété intellectuelle - art. L721-4 (V)
+  - Code de la propriété intellectuelle - art. L721-2
+  - Code de la propriété intellectuelle - art. L721-3
+  - Code de la propriété intellectuelle - art. L721-4
+  - Code rural - art. L641-10
+  - Code rural - art. L641-11 (V)
+  - Code rural - art. L641-5
 
 
 ###### Article L712-5
