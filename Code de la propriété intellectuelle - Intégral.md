@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-12-19
+Version Consolidée au 2014-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -207,7 +207,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#46)
               - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#203)
               - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#204)
             - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#205)
-        - [Chapitre II : Saisie-contrefaçon (art. R332-1 à R332-4)](#206)
+        - [Chapitre II : Saisie-contrefaçon (art. R332-2 à R332-4)](#206)
         - [Chapitre V : Dispositions pénales (art. R*335-1-1 à R335-5)](#207)
       - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#208)
       - [Chapitre III : Procédures et sanctions (art. R343-1)](#209)
@@ -30867,37 +30867,16 @@ _Cite_:
 
 #### Chapitre II : Saisie-contrefaçon<a id=206></a>
 
-###### Article R332-1
-
-Le délai prévu à la seconde phrase du 4° de l'article L. 332-1 est de vingt jours ouvrables ou de trente et un jours civils
-si ce délai est plus long, à compter du jour de l'exécution de l'ordonnance.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-624 du 27 juin 2008 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2014-1550 du 19 décembre 2014 - art. 2
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L332-1
-
-
 ###### Article R332-2
 
 Le délai prévu au premier alinéa de l'article L. 332-2 est de vingt jours ouvrables ou de trente et un jours civils si ce
-délai est plus long, à compter, selon le cas, du jour de la signature du procès-verbal de la saisie prévue au premier alinéa
-de l'article L. 332-1 ou du jour de l'exécution de l'ordonnance prévue au même article.
+délai est plus long, à compter du jour où est intervenue la saisie ou la description.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 3
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 3
 
 _Cite_:
 
@@ -30907,15 +30886,15 @@ _Cite_:
 
 ###### Article R332-3
 
-Le délai prévu à l'article L. 332-3 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de
-trente et un jours civils si ce délai est plus long, à compter, selon le cas, du jour de la signature du procès-verbal de la
-saisie prévue au premier alinéa de l'article L. 332-1 ou de la date de l'ordonnance prévue au même article.
+Le délai prévu à l'article L. 332-3 et imparti au demandeur pour se pourvoir au fond par la voie civile ou pénale, ou déposer
+une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours civils si ce délai
+est plus long, à compter du jour où est intervenue la saisie ou la description.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 3
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 4
 
 _Cite_:
 
@@ -30925,14 +30904,15 @@ _Cite_:
 
 ###### Article R332-4
 
-Le délai prévu au troisième alinéa de l'article L. 332-4 et imparti au demandeur pour se pourvoir au fond est de vingt jours
-ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+Le délai prévu au troisième alinéa de l'article L. 332-4 et imparti au demandeur pour se pourvoir au fond par la voie civile
+ou pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
+civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la description.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 3
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 5
 
 _Cite_:
 
@@ -31165,14 +31145,15 @@ _Cite_:
 
 ###### Article R343-1
 
-Le délai prévu au dernier alinéa de l'article L. 343-2 et imparti au demandeur pour se pourvoir au fond est de vingt jours
-ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+Le délai prévu au dernier alinéa de l'article L. 343-2 et imparti au demandeur pour se pourvoir au fond par la voie civile ou
+pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
+civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 4
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 6
 
 _Cite_:
 
@@ -37026,8 +37007,9 @@ _Codifié par_:
 
 ###### Article R521-1
 
-Le délai prévu au dernier alinéa de l'article L. 521-6 et imparti au demandeur pour se pourvoir au fond est de vingt jours
-ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+Le délai prévu au dernier alinéa de l'article L. 521-6 et imparti au demandeur pour se pourvoir au fond par la voie civile ou
+pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
+civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -37037,7 +37019,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 5
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 6
 
 _Cite_:
 
@@ -43559,8 +43541,9 @@ _Cite_:
 
 ###### Article R615-1
 
-Le délai prévu au dernier alinéa de l'article L. 615-3 et imparti au demandeur pour se pourvoir au fond est de vingt jours
-ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+Le délai prévu au dernier alinéa de l'article L. 615-3 et imparti au demandeur pour se pourvoir au fond par la voie civile ou
+pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
+civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -43570,7 +43553,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 6
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 6
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cite_:
 
@@ -46445,14 +46432,15 @@ _Créé par_:
 
 ###### Article R623-50-1
 
-Le délai prévu au dernier alinéa de l'article L. 623-27-1 et imparti au demandeur pour se pourvoir au fond est de vingt jours
-ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+Le délai prévu au dernier alinéa de l'article L. 623-27 et imparti au demandeur pour se pourvoir au fond par la voie civile
+ou pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
+civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 11
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 7
 
 _Cite_:
 
@@ -46544,7 +46532,7 @@ description.
 
 _Modifié par_:
 
-  - Décret n°2014-731 du 27 juin 2014 - art. 9
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 8
 
 _Cite_:
 
@@ -48352,8 +48340,9 @@ _Créé par_:
 
 ###### Article R716-1
 
-Le délai prévu au dernier alinéa de l'article L. 716-6 et imparti au demandeur pour se pourvoir au fond est de vingt jours
-ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+Le délai prévu au dernier alinéa de l'article L. 716-6 et imparti au demandeur pour se pourvoir au fond par la voie civile ou
+pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
+civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -48363,7 +48352,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 6
 
 _Cite_:
 
@@ -49187,14 +49176,15 @@ _Créé par_:
 
 ###### Article R722-1
 
-Le délai prévu au dernier alinéa de l'article L. 722-3 et imparti au demandeur pour se pourvoir au fond est de vingt jours
-ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+Le délai prévu au dernier alinéa de l'article L. 722-3 et imparti au demandeur pour se pourvoir au fond par la voie civile ou
+pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
+civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - Décret n°2014-1550 du 19 décembre 2014 - art. 6
 
 _Cite_:
 
