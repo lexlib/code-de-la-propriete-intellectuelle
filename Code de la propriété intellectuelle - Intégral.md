@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-12-22
+Version Consolidée au 2015-02-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -304,7 +304,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#46)
             - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#300)
             - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#301)
             - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#302)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. R623-58)](#303)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#303)
           - [Section 2 bis : Semences de ferme (art. R623-59)](#304)
       - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#305)
         - [Chapitre unique (art. D631-1 à D631-2)](#306)
@@ -46664,6 +46664,32 @@ _Codifié par_:
 
 
 ##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=303></a>
+
+###### Article D623-58-1
+
+La composition et le fonctionnement de la commission paritaire de conciliation spécifique au domaine des obtentions végétales
+sont régis par les articles R. 615-6 à R. 615-8, R. 615-10 à R. 615-31, sous réserve des adaptations suivantes : 
+
+1° Les mots : " directeur général de l'Institut national de la propriété industrielle " sont remplacés par les mots : "
+responsable de l'instance nationale des obtentions végétales " et les mots : " Institut national de la propriété industrielle
+" sont remplacés par les mots : " instance nationale des obtentions végétales " ; 
+
+2° Les arrêtés mentionnés aux articles R. 615-6 et R. 615-10 sont pris conjointement par le ministre de la justice et le
+ministre chargé de l'agriculture. 
+
+La commission paritaire de conciliation se réunit au siège de l'instance nationale des obtentions végétales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-164 du 12 février 2015 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R615-10
+  - Code de la propriété intellectuelle - art. R615-6
+
 
 ###### Article R623-58
 
