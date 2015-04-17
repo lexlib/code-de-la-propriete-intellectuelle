@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-02-23
+Version Consolidée au 2015-04-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -188,7 +188,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#47)
         - [Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits (art. R325-1 à R325-4)](#184)
         - [Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R326-1 à R326-7)](#185)
         - [Chapitre VII : Sociétés agréées pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle (art. R327-1 à R327-7)](#186)
-      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-5)](#187)
+      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#187)
         - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#188)
           - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#189)
           - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à R331-95)](#190)
@@ -209,129 +209,132 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#47)
               - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#205)
             - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#206)
         - [Chapitre II : Saisie-contrefaçon (art. R332-2 à R332-4)](#207)
-        - [Chapitre V : Dispositions pénales (art. R*335-1-1 à R335-5)](#208)
-      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#209)
-      - [Chapitre III : Procédures et sanctions (art. R343-1)](#210)
-    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#211)
-      - [Titre Ier : Institutions (art. D411-1-3 à R413-5)](#212)
-        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#213)
-          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#214)
-          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#215)
-          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. D411-19-1 à R411-26)](#216)
-        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#217)
-          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#218)
-          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#219)
-        - [Chapitre III : Le Conseil supérieur de la propriété industrielle (art. R413-1 à R413-5)](#220)
-      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#221)
-        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#222)
-        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#223)
-          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#224)
-          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#225)
-          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#226)
-          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-14)](#227)
-            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#228)
-            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#229)
-            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#230)
-            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#231)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55)](#232)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#233)
-        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#234)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R523-6)](#235)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#236)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#237)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#238)
-        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#239)
-        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#240)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#241)
-          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#242)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#243)
-      - [Titre II : Contentieux (art. R521-1 à R523-6)](#244)
-        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#245)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#246)
-          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#247)
-          - [Section 3 : Dispositions communes (art. D521-6)](#248)
-        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#249)
-        - [Chapitre III : Retenue en douane (art. R523-1 à R523-6)](#250)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#251)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#252)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#253)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#254)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#255)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#256)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#257)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#258)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#259)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#260)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#261)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#262)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#263)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#264)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#265)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#266)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#267)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#268)
-          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#269)
-            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#270)
-            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#271)
-            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#272)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#273)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#274)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#275)
-          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#276)
-          - [Section 4 : Recours en restauration (art. R613-52)](#277)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#278)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#279)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#280)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#281)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#282)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#283)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#284)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#285)
-          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#286)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#287)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#288)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#289)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#290)
-          - [Section unique : Procédure (art. R618-1 à R618-6)](#291)
-      - [Titre II : Protection des connaissances techniques (art. R622-1 à R623-59)](#292)
-        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-8)](#293)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-59)](#294)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#295)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#296)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#297)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#298)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#299)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#300)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#301)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#302)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#303)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#304)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#305)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#306)
-        - [Chapitre unique (art. D631-1 à D631-2)](#307)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à D722-6)](#308)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-5)](#309)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#310)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#311)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#312)
-        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#313)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#314)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#315)
-          - [Section 3 : Retenue en douane (art. R716-6 à R716-11)](#316)
-          - [Section 4 : Dispositions communes (art. D716-12)](#317)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#318)
-          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#319)
-          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#320)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#321)
-          - [Section unique (art. R718-1 à R718-5)](#322)
-      - [Titre II : Indications géographiques (art. R722-1 à D722-6)](#323)
-        - [Chapitre II : Contentieux (art. R722-1 à D722-6)](#324)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R722-1)](#325)
-          - [Section 2 : Mesures probatoires (art. R722-2 à R722-5)](#326)
-          - [Section 3 : Dispositions communes (art. D722-6)](#327)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#328)
-      - [Titre unique (art. R811-1 à R811-3)](#329)
-        - [Chapitre unique (art. R811-1 à R811-3)](#330)
+        - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#208)
+        - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#209)
+      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#210)
+      - [Chapitre III : Procédures et sanctions (art. R343-1)](#211)
+    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#212)
+      - [Titre Ier : Institutions (art. D411-1-3 à R413-5)](#213)
+        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#214)
+          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#215)
+          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#216)
+          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. D411-19-1 à R411-26)](#217)
+        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#218)
+          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#219)
+          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#220)
+        - [Chapitre III : Le Conseil supérieur de la propriété industrielle (art. R413-1 à R413-5)](#221)
+      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#222)
+        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#223)
+        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#224)
+          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#225)
+          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#226)
+          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#227)
+          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-14)](#228)
+            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#229)
+            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#230)
+            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#231)
+            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#232)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55)](#233)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#234)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#235)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#236)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#237)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#238)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#239)
+        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#240)
+        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#241)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#242)
+          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#243)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#244)
+      - [Titre II : Contentieux (art. R521-1 à R523-1)](#245)
+        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#246)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#247)
+          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#248)
+          - [Section 3 : Dispositions communes (art. D521-6)](#249)
+        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#250)
+        - [Chapitre III : Retenue en douane (art. R523-1)](#251)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#252)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#253)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#254)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#255)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#256)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#257)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#258)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#259)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#260)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73)](#261)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#262)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#263)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#264)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#265)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#266)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R612-70 à R612-73)](#267)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#268)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#269)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#270)
+            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#271)
+            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#272)
+            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#273)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#274)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#275)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#276)
+          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#277)
+          - [Section 4 : Recours en restauration (art. R613-52)](#278)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#279)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#280)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#281)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#282)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#283)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#284)
+        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#285)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#286)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#287)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#288)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#289)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#290)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R617-1 à R617-2)](#291)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#292)
+          - [Section unique : Procédure (art. R618-1 à R618-6)](#293)
+      - [Titre II : Protection des connaissances techniques (art. R622-1 à R623-60)](#294)
+        - [Chapitre II : Produits semi-conducteurs (art. R622-1 à R622-9)](#295)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#296)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#297)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#298)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#299)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#300)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#301)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#302)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#303)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#304)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#305)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#306)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#307)
+          - [Section 3 : La retenue (art. R623-60)](#308)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#309)
+        - [Chapitre unique (art. D631-1 à D631-2)](#310)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R722-7)](#311)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-5)](#312)
+        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#313)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#314)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#315)
+        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#316)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#317)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#318)
+          - [Section 3 : Retenue en douane (art. R716-6)](#319)
+          - [Section 4 : Dispositions communes (art. D716-12)](#320)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R717-1 à R717-11)](#321)
+          - [Section 1 : Marque internationale (art. R717-1 à R717-8)](#322)
+          - [Section 2 : Marque communautaire (art. R717-9 à R717-11)](#323)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#324)
+          - [Section unique (art. R718-1 à R718-5)](#325)
+      - [Titre II : Indications géographiques (art.  à R722-7)](#326)
+        - [Chapitre II : Contentieux (art.  à R722-7)](#327)
+          - [Section 1 : Mesures provisoires et conservatoires (art.  à R718-5)](#328)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#329)
+          - [Section 2 : La retenue (art. R722-7)](#330)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#331)
+      - [Titre unique (art. R811-1 à R811-3)](#332)
+        - [Chapitre unique (art. R811-1 à R811-3)](#333)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -31087,85 +31090,6 @@ _Cite_:
 
 #### Chapitre V : Dispositions pénales<a id=208></a>
 
-###### Article R*335-1-1
-
-L'autorité administrative compétente mentionnée aux I et II de l'article R. 335-1 est le ministre chargé des douanes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-836 du 27 septembre 1994 - art. 1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2005-1298 du 20 octobre 2005 - art. 2 () JORF 21 octobre 2005
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 1
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R335-1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R335-1
-
-I.-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 335-10 comporte : 
-
-1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ; 
-
-2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ; 
-
-3° La qualité du demandeur au regard des droits qu'il invoque, attestée par tous moyens ; 
-
-4° Tous éléments permettant d'identifier l'oeuvre ou la prestation contrefaites ; 
-
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ; 
-
-6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont
-légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté
-européenne. 
-
-II.-La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des
-marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée. 
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-836 du 27 septembre 1994 - art. 1 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2005-1298 du 20 octobre 2005 - art. 1 () JORF 21 octobre 2005
-
-_Cité par_:
-
-  - Arrêté du 23 septembre 2008 - art. 1 (Ab)
-  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-  - Code de la propriété intellectuelle - art. R*335-1-1 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 1
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L335-10
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
 ###### Article R335-2
 
 Toute publicité ou notice d'utilisation relative à un moyen permettant la suppression ou la neutralisation de tout dispositif
@@ -31289,7 +31213,324 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-25
 
 
-### Titre IV : Droits des producteurs de bases de données<a id=209></a>
+#### Chapitre V bis : La retenue<a id=209></a>
+
+###### Article R335-6
+
+I.-La demande écrite sollicitant l'intervention de la douane, qu'elle soit préalable ou présentée après que le demandeur a
+été informé du placement de la marchandise en retenue, comporte : 
+
+1° Les prénom et nom ou la raison sociale et les coordonnées du demandeur ; 
+
+2° Le statut du demandeur au regard du ou des droits de propriété intellectuelle pour lesquels l'intervention de la douane
+est demandée ; 
+
+3° Les documents justificatifs permettant au service douanier compétent de s'assurer que le demandeur est habilité à
+présenter la demande ; 
+
+4° Le cas échéant, les coordonnées du représentant du demandeur ainsi que les documents justifiant la représentation ; 
+
+5° La liste du ou des droits dont la protection est demandée ; 
+
+6° Les données spécifiques et techniques sur les marchandises authentiques, telles que les marquages, les codes-barres ou
+images ; 
+
+7° Les informations nécessaires pour permettre aux autorités douanières de reconnaître facilement les marchandises
+authentiques ; 
+
+8° Toutes informations utiles au service pour évaluer le risque de violation du ou des droits protégés, telles que la liste
+des distributeurs autorisés, le ou les pays de fabrication ainsi que la valeur des marchandises authentiques ; 
+
+9° L'engagement du demandeur de respecter les obligations découlant de la demande d'intervention. 
+
+II.-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 29 juin 2015 (V)
+  - Arrêté du 29 juin 2015 - art. 1 (V)
+  - Arrêté du 29 juin 2015 - art. 2 (V)
+
+
+###### Article R335-7
+
+I.-Le ministre chargé des douanes accepte ou rejette la demande écrite dans un délai de trente jours ouvrables à compter de
+sa réception. 
+
+II.-Lorsque la demande est incomplète, le demandeur est invité à fournir les informations manquantes dans un délai suspensif
+de dix jours ouvrables. 
+
+III.-La décision du ministre est valable pendant une durée qui ne peut excéder un an à compter du lendemain de l'acceptation
+de la demande. 
+
+IV.-La demande est renouvelable sur demande expresse de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+###### Article R335-8
+
+Lorsque la demande écrite est présentée après que le demandeur a été informé du placement de la marchandise en retenue, le
+ministre chargé des douanes l'accepte ou la rejette dans un délai de deux jours ouvrables à compter de sa réception. 
+
+Si la demande ne contient pas les données spécifiques et techniques sur les marchandises authentiques, les informations
+nécessaires pour permettre aux autorités douanières de reconnaître facilement les marchandises authentiques et les
+informations utiles au service pour évaluer le risque de violation du ou des droits protégés, il n'y est fait droit que pour
+la retenue en cours des marchandises, sauf si ces informations sont communiquées dans un délai de dix jours ouvrables à
+compter de la notification de la retenue.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+###### Article R335-9
+
+Le ministre chargé des douanes peut suspendre ou abroger la décision faisant droit à la demande écrite ou refuser de faire
+droit à la demande de renouvellement qui lui est présentée. Il en informe le demandeur, qui dispose d'un délai pour présenter
+ses observations. Ce délai, fixé par le ministre chargé des douanes, ne peut être inférieur à quinze jours. La décision n'est
+notifiée à l'intéressé qu'après l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+###### Article R335-10
+
+Le directeur régional des douanes territorialement compétent se prononce sur la demande de prorogation du délai de dix jours
+de la retenue.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+###### Article R335-11
+
+Le ministre chargé des douanes prononce les décisions relevant des articles 9, 12 et 16 du règlement (UE) n° 608/2013 du
+Parlement européen et du Conseil du 12 juin 2013.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+###### Article R335-12
+
+A défaut de réponse de l'autorité compétente dans les délais prévus au présent chapitre, les demandes concernées sont
+considérées comme rejetées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+###### Article R335-13
+
+Les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises, au cas où la contrefaçon ne serait pas
+ultérieurement reconnue, qui peuvent être exigées du titulaire du droit d'auteur ou du droit voisin, lequel s'est pourvu par
+la voie civile ou correctionnelle, sont fixées par l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+###### Article R335-14
+
+La définition des denrées périssables est précisée par arrêté du ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 29 juin 2015 (V)
+  - Arrêté du 29 juin 2015 - art. 1 (V)
+
+
+###### Article R335-15
+
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile mis à la charge du
+titulaire du droit d'auteur ou du droit voisin en application du présent code ainsi que de l'article 29 du règlement (UE) n°
+608/2013 du Parlement européen et du Conseil du 12 juin 2013 comprennent les dépenses de stockage, de manutention, de
+transport et de destruction des marchandises. 
+
+Les modalités de calcul des frais visés à l'alinéa précédent sont déterminées par un arrêté du ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 11 décembre 2018 (V)
+
+
+###### Article R335-16
+
+I.-Lorsque l'administration des douanes décide de procéder à un prélèvement d'échantillon, trois exemplaires sont prélevés
+par les agents des douanes. L'un est remis au titulaire du droit d'auteur ou du droit voisin ou à son représentant, l'autre
+est remis au détenteur ou au déclarant ou au représentant de l'un d'entre eux et le dernier est conservé par l'administration
+des douanes. Les trois échantillons doivent être, autant que possible, identiques. 
+
+Le prélèvement est réalisé en présence soit du détenteur de la marchandise, soit du déclarant ou d'un représentant de l'un
+d'entre eux. Le titulaire du droit d'auteur ou du droit voisin ou son représentant peut également être présent. Ils sont
+informés de l'heure, du lieu du prélèvement d'échantillons et de la faculté dont ils disposent d'être présents. 
+
+En cas d'absence du détenteur de la marchandise ou du déclarant ou du représentant de l'un d'entre eux, un témoin
+n'appartenant pas à l'administration des douanes est requis par deux agents des douanes pour assister au prélèvement. 
+
+Lorsque le titulaire du droit d'auteur ou du droit voisin ou son représentant n'est pas présent, l'échantillon qui lui est
+destiné peut, sur sa demande expresse et à ses frais, lui être envoyé ou être envoyé à son représentant. Lorsque le détenteur
+de la marchandise ou le déclarant ou le représentant de l'un d'eux n'est pas présent, l'échantillon qui lui est destiné est
+conservé par l'administration. 
+
+Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop
+faible quantité de produit, ne peut faire l'objet d'un prélèvement de trois échantillons, la marchandise ou l'objet est
+prélevé dans sa totalité et constitue un seul et unique échantillon, qui est remis au titulaire du droit d'auteur ou du droit
+voisin ou à son représentant. 
+
+II.-Tout échantillon prélevé est mis sous scellé. Chacun doit retenir une étiquette d'identification portant les mentions
+suivantes : 
+
+1° Les nom, prénom ou raison sociale et adresse du détenteur de la marchandise ou du déclarant ; 
+
+2° Le cas échéant, les nom, prénom et adresse du témoin requis ; 
+
+3° Les nom, prénom ou raison sociale et adresse du titulaire du droit d'auteur ou du droit voisin ou de son représentant
+auquel l'échantillon est remis ou envoyé ; 
+
+4° La dénomination de la marchandise ; 
+
+5° La date, l'heure et le lieu du prélèvement ; 
+
+6° Le numéro d'ordre de chaque échantillon ; 
+
+7° Les nom, prénom et qualité de l'agent ayant effectué le prélèvement ainsi que sa signature. 
+
+III.-Tout prélèvement donne lieu à la rédaction d'un procès-verbal de constat au sens de l'article 334 du code des douanes.
+Le procès-verbal comporte, outre les mentions prévues par ce code, les mentions suivantes : 
+
+1° La date, l'heure et le lieu du prélèvement ; 
+
+2° Les nom, prénom ou raison sociale et adresse de toutes les personnes ayant assisté au prélèvement ; 
+
+3° Le cas échéant, la mention de l'absence du titulaire du droit d'auteur ou du droit voisin ou de son représentant et de
+l'information qui lui a été faite de l'heure et du lieu du prélèvement d'échantillons et de la faculté dont il disposait
+d'être présent ; 
+
+4° Le cas échéant, mention du défaut ou du refus de la présence du détenteur de la marchandise, du déclarant ou du
+représentant de l'un d'entre eux ; 
+
+5° Un exposé succinct des circonstances dans lesquelles le prélèvement a été effectué ; 
+
+6° L'identification du ou des échantillons ainsi que leur remise à leur destinataire ; 
+
+7° Le cas échéant, l'envoi de l'échantillon au titulaire du droit d'auteur ou du droit voisin ou à son représentant, aux
+seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale. 
+
+Les personnes présentes lors du prélèvement peuvent faire insérer au procès-verbal de constat toutes les déclarations
+qu'elles jugent utiles. Elles sont invitées à le signer. En cas de refus, mention en est portée sur le procès-verbal de
+constat. 
+
+Une copie du procès-verbal de constat est remise à chaque personne présente lors du prélèvement. 
+
+IV.-En cas d'action en justice du titulaire du droit d'auteur ou du droit voisin, l'administration des douanes conserve les
+échantillons qui lui sont attribués jusqu'au règlement de l'affaire. En fonction du résultat de l'action civile ou pénale
+engagée par le titulaire du droit d'auteur ou du droit voisin, ils sont restitués soit à ce dernier soit à leur détenteur ou
+au déclarant ou à un représentant de l'un d'entre eux. 
+
+Sauf si les circonstances ne le permettent pas, le titulaire du droit d'auteur ou du droit voisin restitue aux autorités
+douanières les échantillons qui lui ont été attribués, dès la fin de l'analyse, et au plus tard à la fin de leur retenue. 
+
+V.-Lorsque la procédure de retenue est mise en œuvre s'agissant de marchandises transportées en petits envois, le présent
+article n'est pas applicable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+###### Article R335-17
+
+Lors de la notification de la retenue, le détenteur des marchandises est invité à informer le propriétaire de la possibilité
+qui lui est offerte de s'opposer à la destruction de ces marchandises. 
+
+Le titulaire de droit est informé que la retenue et, le cas échéant, la destruction des marchandises s'effectue sous sa
+responsabilité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+###### Article R335-18
+
+Lorsqu'elles sont destinées à être détruites avec le consentement du titulaire du droit d'auteur ou du droit voisin et le
+consentement du détenteur des marchandises, qu'elles soient ou non transportées en petits envois, les marchandises restent
+retenues jusqu'à leur destruction. 
+
+La destruction des marchandises est réalisée sous la responsabilité du titulaire du droit d'auteur ou du droit voisin. 
+
+La destruction des marchandises est constatée par deux agents des douanes par procès-verbal de constat au sens de l'article
+334 du code des douanes. Le détenteur ou le déclarant et le titulaire du droit d'auteur ou du droit voisin sont informés de
+la faculté dont ils disposent d'être présents. Le procès-verbal comporte, outre les mentions prévues par ce code, les
+mentions suivantes : 
+
+1° La date, l'heure et le lieu de la destruction ; 
+
+2° Les nom, prénom ou raison sociale et adresse de toutes les personnes ayant assisté à la destruction ; 
+
+3° Le type de marchandises et leur quantité ; 
+
+4° La ou les références du procès-verbal de placement en retenue ; 
+
+5° La date de l'accord exprès ou tacite du déclarant ou du détenteur des marchandises. 
+
+Une copie de ce procès-verbal est remise au déclarant, au détenteur des marchandises et au titulaire du droit d'auteur ou du
+droit voisin, s'ils sont présents lors de la destruction. Une copie leur est remise sur leur demande s'ils sont absents.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+
+### Titre IV : Droits des producteurs de bases de données<a id=210></a>
 
 ###### Article R341-1
 
@@ -31307,7 +31548,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-13
 
 
-### Chapitre III : Procédures et sanctions<a id=210></a>
+### Chapitre III : Procédures et sanctions<a id=211></a>
 
 ###### Article R343-1
 
@@ -31326,13 +31567,13 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L343-2
 
 
-## Livre IV : Organisation administrative et professionnelle<a id=211></a>
+## Livre IV : Organisation administrative et professionnelle<a id=212></a>
 
-### Titre Ier : Institutions<a id=212></a>
+### Titre Ier : Institutions<a id=213></a>
 
-#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=213></a>
+#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=214></a>
 
-##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=214></a>
+##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=215></a>
 
 ###### Article D411-1-3
 
@@ -31840,7 +32081,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=215></a>
+##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=216></a>
 
 ###### Article R411-17
 
@@ -32007,7 +32248,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle<a id=216></a>
+##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle<a id=217></a>
 
 ###### Article D411-19-1
 
@@ -32238,9 +32479,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : L'instance nationale des obtentions végétales<a id=217></a>
+#### Chapitre II : L'instance nationale des obtentions végétales<a id=218></a>
 
-##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=218></a>
+##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=219></a>
 
 ###### Article D412-7
 
@@ -32378,7 +32619,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R412-13 (T)
 
 
-##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=219></a>
+##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=220></a>
 
 ###### Article R412-15
 
@@ -32512,7 +32753,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre III : Le Conseil supérieur de la propriété industrielle<a id=220></a>
+#### Chapitre III : Le Conseil supérieur de la propriété industrielle<a id=221></a>
 
 ###### Article R413-1
 
@@ -32712,9 +32953,9 @@ _Abrogé par_:
   - Décret n°2015-515 du 7 mai 2015 - art. 1
 
 
-### Titre II : Qualification en propriété industrielle<a id=221></a>
+### Titre II : Qualification en propriété industrielle<a id=222></a>
 
-#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=222></a>
+#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=223></a>
 
 ###### Article R421-1
 
@@ -33306,9 +33547,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=223></a>
+#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=224></a>
 
-##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=224></a>
+##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=225></a>
 
 ###### Article R422-1
 
@@ -33579,7 +33820,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L423-2 (V)
 
 
-##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=225></a>
+##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=226></a>
 
 ###### Article R422-7-1
 
@@ -33648,7 +33889,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=226></a>
+##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=227></a>
 
 ###### Article R422-8
 
@@ -33753,9 +33994,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Exercice sous forme de société<a id=227></a>
+##### Section 3 : Exercice sous forme de société<a id=228></a>
 
-##### Sous-section 1 : Sociétés civiles professionnelles<a id=228></a>
+##### Sous-section 1 : Sociétés civiles professionnelles<a id=229></a>
 
 ###### Article R422-12
 
@@ -34621,7 +34862,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Sociétés d'exercice libéral<a id=229></a>
+##### Sous-section 2 : Sociétés d'exercice libéral<a id=230></a>
 
 ###### Article R422-41
 
@@ -34879,7 +35120,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Sociétés en participation<a id=230></a>
+##### Sous-section 3 : Sociétés en participation<a id=231></a>
 
 ###### Article R422-50
 
@@ -34928,7 +35169,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=231></a>
+##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=232></a>
 
 ###### Article R422-51-1
 
@@ -35263,7 +35504,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
 
 
-##### Section 4 : Obligations professionnelles<a id=232></a>
+##### Section 4 : Obligations professionnelles<a id=233></a>
 
 ###### Article R422-52
 
@@ -35390,7 +35631,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R422-53 (M)
 
 
-##### Section 5 : Régime disciplinaire<a id=233></a>
+##### Section 5 : Régime disciplinaire<a id=234></a>
 
 ###### Article R422-56
 
@@ -35739,7 +35980,7 @@ _Créé par_:
   - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-#### Chapitre III : Dispositions diverses<a id=234></a>
+#### Chapitre III : Dispositions diverses<a id=235></a>
 
 ###### Article R423-1
 
@@ -35821,13 +36062,13 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre V : Les dessins et modèles<a id=235></a>
+## Livre V : Les dessins et modèles<a id=236></a>
 
-### Titre Ier : Acquisition des droits<a id=236></a>
+### Titre Ier : Acquisition des droits<a id=237></a>
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=237></a>
+#### Chapitre Ier : Droits et oeuvres protégés<a id=238></a>
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=238></a>
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=239></a>
 
 ###### Article R511-1
 
@@ -35990,7 +36231,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=239></a>
+#### Chapitre II : Formalités de dépôt<a id=240></a>
 
 ###### Article R512-1
 
@@ -36813,7 +37054,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=240></a>
+#### Chapitre III : Durée de la protection<a id=241></a>
 
 ###### Article R513-1
 
@@ -36942,9 +37183,9 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 28 () JORF 3 mars 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=241></a>
+#### Chapitre IV : Dispositions communes<a id=242></a>
 
-##### Section 1 : Procédure<a id=242></a>
+##### Section 1 : Procédure<a id=243></a>
 
 ###### Article R514-1
 
@@ -37120,7 +37361,7 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-##### Section 2 : Dispositions transitoires<a id=243></a>
+##### Section 2 : Dispositions transitoires<a id=244></a>
 
 ###### Article R514-6
 
@@ -37166,11 +37407,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=244></a>
+### Titre II : Contentieux<a id=245></a>
 
-#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=245></a>
+#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=246></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=246></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=247></a>
 
 ###### Article R521-1
 
@@ -37193,7 +37434,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-6
 
 
-##### Section 2 : Mesures probatoires<a id=247></a>
+##### Section 2 : Mesures probatoires<a id=248></a>
 
 ###### Article R521-2
 
@@ -37260,7 +37501,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 5
 
 
-##### Section 3 : Dispositions communes<a id=248></a>
+##### Section 3 : Dispositions communes<a id=249></a>
 
 ###### Article D521-6
 
@@ -37280,7 +37521,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=249></a>
+#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=250></a>
 
 ###### Article R522-1
 
@@ -37304,38 +37545,14 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-2 (V)
 
 
-#### Chapitre III : Retenue en douane<a id=250></a>
+#### Chapitre III : Retenue en douane<a id=251></a>
 
 ###### Article R523-1
 
-I.-La demande de retenue prévue à l'article L. 521-14 comporte : 
-
-1° Les nom et prénom ou la dénomination sociale du demandeur, son domicile ou son siège social ; 
-
-2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ; 
-
-3° La qualité du demandeur au regard des droits qu'il invoque ; 
-
-4° La preuve de l'enregistrement ou du dépôt auprès de l'organisme compétent du ou des dessins et modèles dont la protection
-est demandée ; 
-
-5° La description des marchandises authentiques ainsi que celle des marchandises arguées de contrefaçon dont la retenue est
-demandée ; 
-
-6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont pas
-dans la situation décrite aux derniers alinéas de l'article L. 521-14. 
-
-La demande est adressée au ministre chargé des douanes. Elle peut être présentée avant même l'entrée des marchandises arguées
-de contrefaçon sur le territoire français. La décision d'acceptation de la demande a une durée de validité d'un an
-renouvelable sur demande de l'intéressé. 
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+Le chapitre V bis du titre III du livre III est applicable à la retenue par l'administration des douanes des marchandises
+susceptibles de porter atteinte aux dessins et modèles, telle que prévue au chapitre Ier bis du titre II du livre V.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 4
 
 _Cité par_:
 
@@ -37347,46 +37564,7 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
   - Arrêté du 11 décembre 2018 (V)
 
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L521-14
-
-
-###### Article R523-2
-
-Le ministre chargé des douanes est l'autorité compétente pour se prononcer sur la demande de retenue mentionnée à l'article
-L. 521-16, sur sa prorogation et sa suspension dans les conditions prévues aux articles 8 et 12 du règlement (CE) n° 1383 /
-2003 du Conseil du 22 juillet 2003. 
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 4
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 2
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L521-16
-
-
-###### Article R523-3
-
-Les garanties qui peuvent être exigées du demandeur en application du quatrième alinéa de l'article L. 521-14 en vue
-d'indemniser, le cas échéant, le détenteur des marchandises sont fixées par l'autorité judiciaire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 4
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2015-427 du 15 avril 2015 - art. 2
 
@@ -37395,151 +37573,15 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-14
 
 
-###### Article R523-4
+## Livre VI : Protection des inventions et des connaissances techniques<a id=252></a>
 
-Les frais mis à la charge du propriétaire du dessin ou modèle en application du cinquième alinéa de l'article L. 521-14 et du
-II de l'article L. 521-16 comprennent les dépenses de stockage et de manutention lorsque les marchandises retenues sont
-entreposées à titre onéreux dans des lieux ou locaux n'appartenant pas à l'administration des douanes. 
+### Titre Ier : Brevets d'invention<a id=253></a>
 
-Les frais sont calculés en fonction d'un barème et exigibles selon une périodicité qui sont déterminés par un arrêté du
-ministre chargé des douanes. Les frais sont recouvrés par le comptable des douanes selon les mêmes règles et sous les mêmes
-garanties et privilèges qu'en matière de douanes.
+#### Chapitre Ier : Champ d'application<a id=254></a>
 
-**Liens relatifs à cet article**
+##### Section 2 : Droit au titre<a id=255></a>
 
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 4
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 2
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L521-14
-  - Code de la propriété intellectuelle - art. L521-16
-
-
-###### Article R523-5
-
-La demande d'informations prévue au sixième alinéa de l'article L. 521-14, sixième alinéa et au II de l'article L. 521-16 est
-adressée au directeur régional des douanes territorialement compétent selon des modalités fixées par arrêté du ministre
-chargé des douanes.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 4
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 2
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L521-14
-  - Code de la propriété intellectuelle - art. L521-16
-
-
-###### Article R523-6
-
-I.-Tout prélèvement d'échantillons est effectué, en application de l'article L. 521-17, par les agents des douanes ayant au
-moins le grade de contrôleur. Deux échantillons sont remis au propriétaire du dessin ou modèle déposé ou au bénéficiaire du
-droit exclusif d'exploitation ou au représentant de l'un d'eux. Deux autres échantillons sont conservés par l'administration
-des douanes. Les quatre échantillons doivent être, autant que possible, identiques. 
-
-Le prélèvement est réalisé en présence soit du propriétaire de la marchandise, soit du détenteur de celle-ci ou d'un
-représentant de l'un d'eux. Le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation ou
-le représentant de l'un d'eux est également présent. 
-
-En cas d'absence du propriétaire ou du détenteur de la marchandise ou d'un représentant de l'un d'eux, un témoin
-n'appartenant pas à l'administration des douanes est requis par deux agents des douanes ayant au moins le grade de
-contrôleur, pour assister au prélèvement. 
-
-Si le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation a demandé un prélèvement et
-n'est ni présent ni représenté après avoir été convoqué, aucun prélèvement n'est réalisé. 
-
-Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop
-faible quantité de produit, ne peut, sans inconvénient, faire l'objet d'un prélèvement de quatre échantillons, la marchandise
-ou l'objet est prélevé dans sa totalité et constitue un seul et unique échantillon qui est remis au propriétaire du dessin ou
-modèle déposé ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'eux. 
-
-II.-Tout échantillon prélevé est mis sous scellés. Ceux-ci doivent retenir une étiquette d'identification portant les
-mentions suivantes : 
-
-a) Les nom, prénom ou raison sociale et adresse du propriétaire ou du détenteur de la marchandise ; 
-
-b) Le cas échéant, les nom, prénoms et adresse du témoin requis ; 
-
-c) Les nom, prénoms ou raison sociale et adresse du propriétaire du dessin ou modèle déposé ou du bénéficiaire du droit
-exclusif d'exploitation ou du représentant de l'un d'eux auquel l'échantillon ou les échantillons sont remis ; 
-
-d) La dénomination exacte de la marchandise ; 
-
-e) La date, l'heure et le lieu du prélèvement ; 
-
-f) Le numéro d'ordre de chaque échantillon ; 
-
-g) Les nom, prénom et qualité de l'agent ayant effectué le prélèvement ainsi que sa signature. 
-
-III.-Tout prélèvement donne lieu à la rédaction d'un procès-verbal de constat au sens de l'article 334 du code des douanes.
-Le procès-verbal comporte, outre les mentions prévues par ce code, les mentions suivantes : 
-
-a) La date, l'heure et le lieu du prélèvement ; 
-
-b) Les nom, prénom ou raison sociale et adresse de toutes les personnes ayant assisté au prélèvement ; 
-
-c) Le cas échéant, mention du défaut ou du refus de la présence du propriétaire ou du détenteur de la marchandise ou du
-représentant de l'un d'eux ; 
-
-d) Un exposé succinct des circonstances dans lesquelles le prélèvement a été effectué ; 
-
-e) L'identification exacte du ou des échantillons ainsi que la remise de l'échantillon ou de deux d'entre eux au propriétaire
-du dessin ou modèle déposé ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'entre eux, aux
-seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale. 
-
-Les personnes présentes lors du prélèvement peuvent faire insérer au procès-verbal de constat toutes les déclarations
-qu'elles jugent utiles. Elles sont invitées à le signer. En cas de refus, mention en est portée sur le procès-verbal de
-constat. 
-
-Une copie du procès-verbal de constat est remise à chaque personne présente lors du prélèvement. 
-
-IV.-L'administration des douanes conserve les échantillons qui lui sont attribués jusqu'au règlement de l'affaire. En
-fonction du résultat de l'action civile ou pénale engagée par le propriétaire du dessin ou modèle déposé ou le bénéficiaire
-du droit exclusif d'exploitation, ils sont restitués soit à ces derniers, soit à leur détenteur ou à leur propriétaire ou à
-un représentant de l'un d'entre eux. 
-
-Les échantillons détenus par le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation
-ou le représentant de l'un d'entre eux sont restitués, le cas échéant, au détenteur ou au propriétaire de la marchandise ou à
-un représentant de l'un d'entre eux, sauf destruction des échantillons résultant de l'analyse prévue par l'article L. 521-17.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 4
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 2
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L521-17
-  - Code des douanes - art. 334
-
-
-## Livre VI : Protection des inventions et des connaissances techniques<a id=251></a>
-
-### Titre Ier : Brevets d'invention<a id=252></a>
-
-#### Chapitre Ier : Champ d'application<a id=253></a>
-
-##### Section 2 : Droit au titre<a id=254></a>
-
-##### Sous-section 1 : Inventions de salariés<a id=255></a>
+##### Sous-section 1 : Inventions de salariés<a id=256></a>
 
 ###### Article R611-1
 
@@ -37849,7 +37891,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=256></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=257></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -38400,7 +38442,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R611-12 (V)
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=257></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=258></a>
 
 ###### Article R611-15
 
@@ -38574,9 +38616,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=258></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=259></a>
 
-##### Section 1 : Dépôt des demandes<a id=259></a>
+##### Section 1 : Dépôt des demandes<a id=260></a>
 
 ###### Article R612-1
 
@@ -39430,9 +39472,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=260></a>
+##### Section 2 : L'instruction des demandes<a id=261></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=261></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=262></a>
 
 ###### Article R612-26
 
@@ -39674,7 +39716,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=262></a>
+##### Sous-section 2 : Division de la demande<a id=263></a>
 
 ###### Article R612-33
 
@@ -39786,7 +39828,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-45 (V)
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=263></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=264></a>
 
 ###### Article R612-36
 
@@ -40131,7 +40173,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=264></a>
+##### Sous-section 4 : Rejet de la demande<a id=265></a>
 
 ###### Article R612-45
 
@@ -40400,7 +40442,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=265></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=266></a>
 
 ###### Article R612-55
 
@@ -40810,7 +40852,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=266></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=267></a>
 
 ###### Article R612-70
 
@@ -40946,7 +40988,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : Diffusion légale des inventions<a id=267></a>
+##### Section 3 : Diffusion légale des inventions<a id=268></a>
 
 ###### Article R612-74
 
@@ -41000,11 +41042,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=268></a>
+#### Chapitre III : Droits attachés aux brevets<a id=269></a>
 
-##### Section 1 : Droits d'exploitation<a id=269></a>
+##### Section 1 : Droits d'exploitation<a id=270></a>
 
-##### Sous-section 1 : Licences obligatoires<a id=270></a>
+##### Sous-section 1 : Licences obligatoires<a id=271></a>
 
 ###### Article R613-4
 
@@ -41155,7 +41197,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=271></a>
+##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=272></a>
 
 ###### Article R613-10
 
@@ -41617,7 +41659,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=272></a>
+##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=273></a>
 
 ###### Article R613-25-1
 
@@ -41697,7 +41739,7 @@ _Modifié par_:
   - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=273></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=274></a>
 
 ###### Article R613-26
 
@@ -41926,7 +41968,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=274></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=275></a>
 
 ###### Article R613-34
 
@@ -42200,7 +42242,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=275></a>
+##### Sous-section 6 : Dispositions diverses<a id=276></a>
 
 ###### Article R613-43
 
@@ -42254,7 +42296,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=276></a>
+##### Section 2 : Transmission et perte des droits<a id=277></a>
 
 ###### Article R613-45
 
@@ -42500,7 +42542,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=277></a>
+##### Section 4 : Recours en restauration<a id=278></a>
 
 ###### Article R613-52
 
@@ -42535,7 +42577,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-16-1
 
 
-##### Section 5 : Registre national des brevets<a id=278></a>
+##### Section 5 : Registre national des brevets<a id=279></a>
 
 ###### Article R613-53
 
@@ -42795,7 +42837,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=279></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=280></a>
 
 ###### Article R613-60
 
@@ -42896,7 +42938,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=280></a>
+##### Section 7 : Réduction des redevances<a id=281></a>
 
 ###### Article R613-63
 
@@ -42947,9 +42989,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
-#### Chapitre IV : Application de conventions internationales<a id=281></a>
+#### Chapitre IV : Application de conventions internationales<a id=282></a>
 
-##### Section 1 : Brevets européens<a id=282></a>
+##### Section 1 : Brevets européens<a id=283></a>
 
 ###### Article R614-1
 
@@ -43370,7 +43412,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=283></a>
+##### Section 2 : Demandes internationales<a id=284></a>
 
 ###### Article R614-21
 
@@ -43702,9 +43744,52 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre V : Actions en justice<a id=284></a>
+#### Chapitre IV bis : La retenue<a id=285></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=285></a>
+###### Article R614-36
+
+Sous réserve des dispositions prévues à l'article R. 614-37, le chapitre V bis du titre III du livre III est applicable à la
+retenue par l'administration des douanes des marchandises susceptibles de porter atteinte aux brevets d'invention, telle que
+prévue au chapitre IV bis du titre Ier du livre VI.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 3
+
+_Cité par_:
+
+  - Arrêté du 29 juin 2015 (V)
+  - Arrêté du 29 juin 2015 - art. 1 (V)
+  - Arrêté du 29 juin 2015 - art. 2 (V)
+  - Arrêté du 11 décembre 2018 (V)
+
+
+###### Article R614-37
+
+Lorsque l'administration des douanes décide de procéder à un prélèvement d'échantillon, deux exemplaires sont prélevés par
+les agents des douanes. L'un est remis au propriétaire de la marchandise ou à son détenteur ou au représentant de l'un
+d'entre eux et l'autre est conservé par l'administration des douanes. 
+
+Le propriétaire du brevet ou du certificat complémentaire de protection ou la personne habilitée à exploiter l'invention
+brevetée ou objet du certificat complémentaire de protection n'assiste pas au prélèvement d'échantillons et aucun échantillon
+ne lui est remis. 
+
+Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop
+faible quantité de produit ne peut faire l'objet d'un prélèvement de deux échantillons, la marchandise ou l'objet est prélevé
+dans sa totalité et constitue un seul et unique échantillon, qui est conservé par l'administration des douanes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 3
+
+
+#### Chapitre V : Actions en justice<a id=286></a>
+
+##### Section 1 : Mesures provisoires et conservatoires<a id=287></a>
 
 ###### Article R615-1
 
@@ -43740,7 +43825,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=286></a>
+##### Section 2 : Mesures probatoires<a id=288></a>
 
 ###### Article R615-2
 
@@ -43896,7 +43981,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (VD)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=287></a>
+##### Section 3 : Commission paritaire de conciliation<a id=289></a>
 
 ###### Article R615-6
 
@@ -44607,7 +44692,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (VD)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=288></a>
+#### Chapitre VI : Le certificat d'utilité<a id=290></a>
 
 ###### Article R616-1
 
@@ -44689,7 +44774,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60 (V)
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=289></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=291></a>
 
 ###### Article R617-1
 
@@ -44743,9 +44828,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R618-1 (V)
 
 
-#### Chapitre VIII : Dispositions communes<a id=290></a>
+#### Chapitre VIII : Dispositions communes<a id=292></a>
 
-##### Section unique : Procédure<a id=291></a>
+##### Section unique : Procédure<a id=293></a>
 
 ###### Article R618-1
 
@@ -44929,9 +45014,9 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Protection des connaissances techniques<a id=292></a>
+### Titre II : Protection des connaissances techniques<a id=294></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=293></a>
+#### Chapitre II : Produits semi-conducteurs<a id=295></a>
 
 ###### Article R622-1
 
@@ -45142,11 +45227,29 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre III : Obtentions végétales<a id=294></a>
+###### Article R622-9
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=295></a>
+Le chapitre IV bis du titre Ier du présent livre est applicable au présent chapitre.
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=296></a>
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 4
+
+_Cité par_:
+
+  - Arrêté du 29 juin 2015 (V)
+  - Arrêté du 29 juin 2015 - art. 1 (V)
+  - Arrêté du 29 juin 2015 - art. 2 (V)
+  - Arrêté du 11 décembre 2018 (V)
+
+
+#### Chapitre III : Obtentions végétales<a id=296></a>
+
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=297></a>
+
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=298></a>
 
 ###### Article R623-1
 
@@ -45584,7 +45687,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=297></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=299></a>
 
 ###### Article R623-16
 
@@ -45806,7 +45909,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=298></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=300></a>
 
 ###### Article R623-25
 
@@ -45942,7 +46045,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances annuelles<a id=299></a>
+##### Sous-section 4 : Redevances annuelles<a id=301></a>
 
 ###### Article R623-31
 
@@ -46096,7 +46199,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=300></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=302></a>
 
 ###### Article R623-36
 
@@ -46153,7 +46256,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=301></a>
+##### Sous-section 6 : Registres nationaux<a id=303></a>
 
 ###### Article R623-38
 
@@ -46350,7 +46453,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=302></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=304></a>
 
 ###### Article R623-43
 
@@ -46524,7 +46627,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=303></a>
+##### Sous-section 8 : Dispositions diverses<a id=305></a>
 
 ###### Article R623-48
 
@@ -46735,7 +46838,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=304></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=306></a>
 
 ###### Article D623-58-1
 
@@ -46791,7 +46894,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 bis : Semences de ferme<a id=305></a>
+##### Section 2 bis : Semences de ferme<a id=307></a>
 
 ###### Article R623-59
 
@@ -46864,9 +46967,27 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=306></a>
+##### Section 3 : La retenue<a id=308></a>
 
-#### Chapitre unique<a id=307></a>
+###### Article R623-60
+
+Le chapitre IV bis du titre Ier du présent livre est applicable au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-427 du 15 avril 2015 - art. 5
+
+_Cité par_:
+
+  - Arrêté du 29 juin 2015 - art. 1 (V)
+  - Arrêté du 29 juin 2015 - art. 2 (V)
+
+
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=309></a>
+
+#### Chapitre unique<a id=310></a>
 
 ###### Article D631-1
 
@@ -47137,11 +47258,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=308></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=311></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=309></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=312></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=310></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=313></a>
 
 ###### Article R712-1
 
@@ -48132,7 +48253,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=311></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=314></a>
 
 ###### Article R714-1
 
@@ -48482,7 +48603,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=312></a>
+#### Chapitre V : Marques collectives<a id=315></a>
 
 ###### Article R715-1
 
@@ -48527,9 +48648,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=313></a>
+#### Chapitre VI : Contentieux<a id=316></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=314></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=317></a>
 
 ###### Article R716-1
 
@@ -48556,7 +48677,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-##### Section 2 :  Mesures probatoires<a id=315></a>
+##### Section 2 :  Mesures probatoires<a id=318></a>
 
 ###### Article R716-2
 
@@ -48626,37 +48747,14 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 
-##### Section 3 : Retenue en douane<a id=316></a>
+##### Section 3 : Retenue en douane<a id=319></a>
 
 ###### Article R716-6
 
-La demande de retenue prévue à l'article L. 716-8 comporte : 
-
-1° Les nom et prénom ou la dénomination sociale du demandeur, son domicile ou son siège social ; 
-
-2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ; 
-
-3° La qualité du demandeur au regard des droits qu'il invoque ; 
-
-4° La désignation et le numéro d'enregistrement de la ou des marques dont la protection est demandée ; 
-
-5° La description des marchandises authentiques ainsi que celle des marchandises arguées de contrefaçon dont la retenue est
-demandée ; 
-
-6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont pas
-dans la situation décrite aux derniers alinéas de l'article L. 716-8. 
-
-La demande est adressée au ministre chargé des douanes. Elle peut être présentée avant même l'entrée des marchandises arguées
-de contrefaçon sur le territoire français. La décision d'acceptation de la demande a une durée de validité d'un an
-renouvelable sur demande de l'intéressé. 
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+Le chapitre V bis du titre III du livre III est applicable à la retenue par l'administration des douanes des marchandises
+susceptibles de porter atteinte à une marque, telle que prévue au chapitre VI bis du titre Ier du livre VII.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 10
 
 _Cité par_:
 
@@ -48668,46 +48766,7 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
   - Arrêté du 11 décembre 2018 (V)
 
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8
-
-
-###### Article R716-7
-
-Le ministre chargé des douanes est l'autorité compétente pour se prononcer sur la demande de retenue mentionnée à l'article
-L. 716-8-2, sur sa prorogation et sa suspension dans les conditions prévues aux articles 8 et 12 du règlement (CE) n° 1383 /
-2003 du Conseil du 22 juillet 2003. 
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 10
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 6
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8-2
-
-
-###### Article R716-8
-
-Les garanties qui peuvent être exigées du demandeur en application du quatrième alinéa de l'article L. 716-8 en vue
-d'indemniser, le cas échéant, le détenteur des marchandises sont fixées par l'autorité judiciaire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 10
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2015-427 du 15 avril 2015 - art. 6
 
@@ -48716,143 +48775,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L716-8
 
 
-###### Article R716-9
-
-Les frais mis à la charge du propriétaire de la marque enregistrée en application du cinquième alinéa de l'article L. 716-8
-et du II de l'article L. 716-8-2 comprennent les dépenses de stockage et de manutention lorsque les marchandises retenues
-sont entreposées à titre onéreux dans des lieux ou locaux n'appartenant pas à l'administration des douanes. 
-
-Les frais sont calculés en fonction d'un barème et exigibles selon une périodicité qui sont déterminés par un arrêté du
-ministre chargé des douanes. Les frais sont recouvrés par le comptable des douanes selon les mêmes règles et sous les mêmes
-garanties et privilèges qu'en matière de douanes.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 10
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 6
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8
-  - Code de la propriété intellectuelle - art. L716-8-2
-
-
-###### Article R716-10
-
-La demande d'information prévue au sixième alinéa de l'article L. 716-8 et au II de l'article L. 716-8-2 est adressée au
-directeur régional des douanes territorialement compétent selon des modalités fixées par arrêté du ministre chargé des
-douanes.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 10
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 6
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8
-  - Code de la propriété intellectuelle - art. L716-8-2
-
-
-###### Article R716-11
-
-I.-Le prélèvement d'échantillons est effectué, en application de l'article L. 716-8-3, par les agents des douanes ayant au
-moins le grade de contrôleur. Deux échantillons sont remis au propriétaire de la marque enregistrée ou au bénéficiaire du
-droit exclusif d'exploitation ou au représentant de l'un d'entre eux. Deux autres échantillons sont conservés par
-l'administration des douanes. Les quatre échantillons doivent être, autant que possible, identiques. 
-
-Le prélèvement est réalisé en présence soit du propriétaire de la marchandise, soit du détenteur de celle-ci ou d'un
-représentant de l'un d'entre eux. Le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif
-d'exploitation ou le représentant de l'un d'entre eux est également présent. 
-
-En cas d'absence du propriétaire ou du détenteur de la marchandise ou d'un représentant de l'un d'entre eux, un témoin
-n'appartenant pas à l'administration des douanes est requis par deux agents des douanes ayant au moins le grade de contrôleur
-pour assister au prélèvement. 
-
-Si le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation ou le représentant de l'un
-d'entre eux n'est pas présent, aucun prélèvement n'est réalisé. 
-
-Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop
-faible quantité de produit, ne peut, sans inconvénient, faire l'objet d'un prélèvement de quatre échantillons, la marchandise
-ou l'objet est prélevé dans sa totalité et constitue un seul et unique échantillon qui est remis au propriétaire de la marque
-enregistrée ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'eux. 
-
-II.-Tout échantillon prélevé est mis sous scellés. Ceux-ci doivent retenir une étiquette d'identification portant les
-mentions suivantes : 
-
-a) Les nom, prénom ou raison sociale et adresse du propriétaire ou du détenteur de la marchandise ; 
-
-b) Le cas échéant, les nom, prénoms et adresse du témoin requis ; 
-
-c) Les nom, prénom ou raison sociale et adresse du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif
-d'exploitation ou du représentant de l'un d'entre eux auquel l'échantillon ou les échantillons sont remis ; 
-
-d) La dénomination exacte de la marchandise ; 
-
-e) La date, l'heure et le lieu du prélèvement ; 
-
-f) Le numéro d'ordre de chaque échantillon ; 
-
-g) Les nom, prénoms et qualité de l'agent ayant effectué le prélèvement ainsi que sa signature. 
-
-III.-Tout prélèvement donne lieu à la rédaction d'un procès-verbal de constat au sens de l'article 334 du code des douanes.
-Le procès-verbal comporte, outre les mentions prévues par ce code, les mentions suivantes : 
-
-a) La date, l'heure et le lieu du prélèvement ; 
-
-b) Les noms, prénoms ou raison sociale et adresse de toutes les personnes ayant assisté au prélèvement ; 
-
-c) Le cas échéant, mention du défaut ou du refus de la présence du propriétaire, du détenteur de la marchandise ou du
-représentant de l'un d'entre eux ; 
-
-d) Un exposé succinct des circonstances dans lesquelles le prélèvement a été effectué ; 
-
-e) L'identification exacte du ou des échantillons ainsi que la remise de l'échantillon ou de deux d'entre eux au propriétaire
-de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'entre eux, aux
-seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale. 
-
-Les personnes présentes lors du prélèvement peuvent faire insérer au procès-verbal de constat toutes les déclarations
-qu'elles jugent utiles. Elles sont invitées à le signer. En cas de refus, mention en est portée sur le procès-verbal de
-constat. 
-
-Une copie du procès-verbal de constat est remise à chaque personne présente lors du prélèvement. 
-
-IV.-L'administration des douanes conserve les échantillons qui lui sont attribués jusqu'au règlement de l'affaire. En
-fonction du résultat de l'action civile ou pénale engagée par le propriétaire de la marque enregistrée ou le bénéficiaire du
-droit exclusif d'exploitation, ils sont restitués soit à ces derniers soit à leur détenteur ou à leur propriétaire ou à un
-représentant de l'un d'entre eux. 
-
-Les échantillons détenus par le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation ou
-le représentant de l'un d'entre eux sont restitués, le cas échéant, au détenteur ou au propriétaire de la marchandise ou à un
-représentant de l'un d'entre eux, sauf destruction des échantillons résultant de l'analyse prévue par l'article L. 716-8-3.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-625 du 27 juin 2008 - art. 10
-
-_Abrogé par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 6
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8-3
-  - Code des douanes - art. 334
-
-
-##### Section 4 : Dispositions communes<a id=317></a>
+##### Section 4 : Dispositions communes<a id=320></a>
 
 ###### Article D716-12
 
@@ -48872,9 +48795,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=318></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=321></a>
 
-##### Section 1 : Marque internationale<a id=319></a>
+##### Section 1 : Marque internationale<a id=322></a>
 
 ###### Article R717-1
 
@@ -49129,7 +49052,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque communautaire<a id=320></a>
+##### Section 2 : Marque communautaire<a id=323></a>
 
 ###### Article R717-9
 
@@ -49220,9 +49143,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
 
-#### Chapitre VIII : Dispositions communes<a id=321></a>
+#### Chapitre VIII : Dispositions communes<a id=324></a>
 
-##### Section unique<a id=322></a>
+##### Section unique<a id=325></a>
 
 ###### Article R718-1
 
@@ -49361,11 +49284,31 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Indications géographiques<a id=323></a>
+### Titre II : Indications géographiques<a id=326></a>
 
-#### Chapitre II : Contentieux<a id=324></a>
+#### Chapitre II : Contentieux<a id=327></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=325></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=328></a>
+
+##### Section 1 : Actions civiles<a id=329></a>
+
+###### Article D722-6
+
+Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière
+d'indications géographiques en application de l'article L. 722-8 du code de la propriété intellectuelle sont fixés
+conformément au tableau VI annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L722-8
+  - Code de l'organisation judiciaire - art. D211-6-1
+
 
 ###### Article R722-1
 
@@ -49384,8 +49327,6 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L722-3
 
 
-##### Section 2 : Mesures probatoires<a id=326></a>
-
 ###### Article R722-2
 
 La saisie, descriptive ou réelle, prévue à l'article L. 722-4 est ordonnée par le président du tribunal de grande instance
@@ -49396,9 +49337,9 @@ l'étendue de l'atteinte à une indication géographique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
 
 _Cite_:
 
@@ -49416,9 +49357,9 @@ garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
 
 
 ###### Article R722-4
@@ -49429,9 +49370,9 @@ description.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
 
 _Cite_:
 
@@ -49447,36 +49388,38 @@ certains éléments.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
 
 
-##### Section 3 : Dispositions communes<a id=327></a>
+##### Section 2 : La retenue<a id=330></a>
 
-###### Article D722-6
+###### Article R722-7
 
-Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière
-d'indications géographiques en application de l'article L. 722-8 du code de la propriété intellectuelle sont fixés
-conformément au tableau VI annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
+Le chapitre V bis du titre III du livre III est applicable à la retenue par l'administration des douanes des marchandises
+susceptibles de porter atteinte à une indication géographique, telle que prévue à la section II du chapitre II du titre II du
+livre VII.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2009-1204 du 9 octobre 2009 - art. 5
+  - Décret n°2015-427 du 15 avril 2015 - art. 7
 
-_Cite_:
+_Cité par_:
 
-  - Code de la propriété intellectuelle - art. L722-8
-  - Code de l'organisation judiciaire - art. D211-6-1 (VD)
+  - Arrêté du 29 juin 2015 (V)
+  - Arrêté du 29 juin 2015 - art. 1 (V)
+  - Arrêté du 29 juin 2015 - art. 2 (V)
+  - Arrêté du 11 décembre 2018 (V)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=328></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=331></a>
 
-### Titre unique<a id=329></a>
+### Titre unique<a id=332></a>
 
-#### Chapitre unique<a id=330></a>
+#### Chapitre unique<a id=333></a>
 
 ###### Article R811-1
 
