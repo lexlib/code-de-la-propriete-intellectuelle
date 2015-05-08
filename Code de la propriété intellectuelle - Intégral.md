@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-05-08
+Version Consolidée au 2015-05-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -243,8 +243,8 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#47)
       - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#239)
         - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#240)
           - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#241)
-        - [Chapitre II : Formalités de dépôt (art. R512-1 à R512-19)](#242)
-        - [Chapitre III : Durée de la protection (art. R513-1 à R513-3)](#243)
+        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#242)
+        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#243)
         - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#244)
           - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#245)
           - [Section 2 : Dispositions transitoires (art. R514-6)](#246)
@@ -280,7 +280,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#47)
             - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#276)
             - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#277)
             - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#278)
-          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#279)
+          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#279)
           - [Section 4 : Recours en restauration (art. R613-52)](#280)
           - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#281)
           - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#282)
@@ -314,9 +314,9 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#47)
           - [Section 3 : La retenue (art. R623-60)](#310)
       - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#311)
         - [Chapitre unique (art. D631-1 à D631-2)](#312)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R712-1 à R722-7)](#313)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R712-1 à R718-5)](#314)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R712-1 à R712-28)](#315)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R*712-23-2 à R722-7)](#313)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R*712-23-2 à R718-5)](#314)
+        - [Chapitre II : Acquisition du droit sur la marque (art. R*712-23-2 à R712-28)](#315)
         - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#316)
         - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#317)
         - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#318)
@@ -36861,6 +36861,17 @@ _Créé par_:
 
 #### Chapitre II : Formalités de dépôt<a id=242></a>
 
+###### Article R*512-9-3
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 512-9-2, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R512-1
 
 La demande d'enregistrement de dessin ou modèle est déposée au siège de l'Institut national de la propriété industrielle ou y
@@ -37281,6 +37292,19 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
+###### Article R512-9-2
+
+Il est statué sur la demande d'enregistrement dans un délai de six mois. Ce délai est interrompu par la notification prévue
+aux premier et troisième alinéas de l'article R. 512-9 jusqu'à la levée de l'objection, ou par l'ajournement de la
+publication prévu à l'article R. 512-10, jusqu'à la renonciation à l'ajournement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R512-10
 
 Tout dépôt reconnu conforme est publié au Bulletin officiel de la propriété industrielle, sauf si le déposant a demandé lors
@@ -37684,6 +37708,18 @@ _Créé par_:
 
 #### Chapitre III : Durée de la protection<a id=243></a>
 
+###### Article R*513-1-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 513-1-1, la déclaration de prorogation est réputée
+rejetée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R513-1
 
 La prorogation d'un enregistrement de dessin ou modèle prévue à l'article L. 513-1 résulte d'une déclaration de son titulaire
@@ -37735,6 +37771,18 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+
+###### Article R513-1-1
+
+Il est statué sur la déclaration de prorogation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le
+cas échéant, jusqu'à la levée de l'objection prévue à l'article R. 512-9.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
 
 
 ###### Article R513-2
@@ -42957,6 +43005,29 @@ _Anciens textes_:
 
 ##### Section 2 : Transmission et perte des droits<a id=279></a>
 
+###### Article R*613-45-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 613-45-1, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
+###### Article R*613-49-1
+
+A défaut de décision expresse dans le délai mentionné au deuxième alinéa de l'article R. 613-49, la demande est réputée
+rejetée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R613-45
 
 La requête en renonciation ou en limitation est faite par une déclaration écrite. 
@@ -43010,6 +43081,18 @@ _Cité par_:
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L612-6 (V)
+
+
+###### Article R613-45-1
+
+Il est statué sur la requête en renonciation ou en limitation prévue à l'article R. 613-45 dans un délai de douze mois. Ce
+délai est interrompu, le cas échéant, jusqu'à la levée de l'objection prévue au neuvième alinéa du même article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
 
 
 ###### Article R613-46
@@ -43126,7 +43209,7 @@ _Codifié par_:
 La requête prévue à l'article L. 613-22, tendant à la constatation de la déchéance des droits attachés à une demande de
 brevet ou à un brevet, est présentée par écrit. 
 
-Il y est statué par décision motivée. La décision est notifiée au requérant.
+Il y est statué par décision motivée dans un délai de six mois. La décision est notifiée au requérant.
 
 **Liens relatifs à cet article**
 
@@ -43136,7 +43219,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-1472 du 30 décembre 2008 - art. 14
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
 
 _Cite_:
 
@@ -47951,6 +48034,29 @@ _Anciens textes_:
 
 #### Chapitre II : Acquisition du droit sur la marque<a id=315></a>
 
+###### Article R*712-23-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 712-23-1, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
+###### Article R*712-24-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 712-24-1, la déclaration de renouvellement est réputée
+rejetée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R712-1
 
 La demande d'enregistrement de marque est déposée au siège de l'Institut national de la propriété industrielle ou y est
@@ -48780,6 +48886,19 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R717-1 (VD)
 
 
+###### Article R712-23-1
+
+Il est statué sur la demande d'enregistrement de marque dans un délai de six mois à compter de la demande. Ce délai est
+interrompu, le cas échéant, jusqu'à la décision statuant sur la demande d'opposition prévue à l'article L. 712-4 ou jusqu'à
+la régularisation de la demande prévue à l'article R. 712-11.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R712-24
 
 L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque,
@@ -48833,6 +48952,18 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+
+###### Article R712-24-1
+
+Il est statué sur la déclaration de renouvellement dans un délai de six mois à compter de son dépôt. Ce délai est interrompu,
+le cas échéant, jusqu'à la régularisation de la demande prévue à l'article R. 712-11.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-511 du 7 mai 2015 - art. 1
 
 
 ###### Article R712-25
