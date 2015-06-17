@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-06-04
+Version Consolidée au 2015-06-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -313,9 +313,9 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#47)
           - [Section 3 : La retenue (art. R623-60)](#309)
       - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#310)
         - [Chapitre unique (art. D631-1 à D631-2)](#311)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R*712-23-2 à R722-7)](#312)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R*712-23-2 à R718-5)](#313)
-        - [Chapitre II : Acquisition du droit sur la marque (art. R*712-23-2 à R712-28)](#314)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#312)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#313)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#314)
         - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#315)
         - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#316)
         - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#317)
@@ -47342,6 +47342,61 @@ _Anciens textes_:
 ### Titre Ier : Marques de fabrique, de commerce ou de service<a id=313></a>
 
 #### Chapitre II : Acquisition du droit sur la marque<a id=314></a>
+
+###### Article D712-29
+
+Pour bénéficier du droit d'alerte gratuit prévu par l'article L. 712-2-1, les collectivités territoriales et les
+établissements publics mentionnés à l'article L. 712-2-1 adressent à l'Institut national de la propriété industrielle une
+demande par voie électronique selon les modalités fixées par décision du directeur général de l'institut.
+
+Cette demande comprend : 
+
+1° La dénomination ou le nom de pays pour lequel l'alerte est demandée ; 
+
+2° L'adresse électronique à laquelle l'alerte doit être envoyée ; 
+
+3° L'identification de la collectivité ou de l'établissement demandeur ainsi que son numéro d'identification Siren. 
+
+La demande donne lieu à la délivrance d'un récépissé par voie électronique. La date d'enregistrement de la demande d'alerte
+est celle du récépissé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-671 du 15 juin 2015 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L712-2-1
+
+
+###### Article D712-30
+
+L'alerte est adressée par l'Institut national de la propriété industrielle par voie électronique dans les cinq jours
+ouvrables suivant la publication du dépôt d'une demande d'enregistrement de la marque, contenant la dénomination de la
+collectivité ou le nom de pays concerné, au Bulletin officiel de la propriété industrielle. 
+
+Lorsque le dépôt de marque est effectué en application du règlement (CE) n° 207/2009 du Conseil du 26 février 2009 sur la
+marque communautaire ou de l'arrangement de Madrid concernant l'enregistrement international des marques du 14 avril 1891
+modifié et de son protocole du 27 juin 1989 modifié, l'institut adresse l'alerte par voie électronique dans les trois
+semaines qui suivent la publication de la demande de marque au Bulletin des marques communautaires ou à la Gazette des
+marques internationales. 
+
+L'alerte mentionne la faculté ouverte à toute personne intéressée de formuler des observations au titre de l'article L. 712-3
+et aux collectivités territoriales de former opposition à enregistrement au titre de l'article L. 712-4.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-671 du 15 juin 2015 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L712-3
+  - Code de la propriété intellectuelle - art. L712-4
+
 
 ###### Article R*712-23-2
 
