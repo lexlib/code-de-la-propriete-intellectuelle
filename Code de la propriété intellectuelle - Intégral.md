@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-08-03
+Version Consolidée au 2015-08-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -11300,23 +11300,22 @@ _Cité par_:
 
 Il est institué une compagnie nationale des conseils en propriété industrielle, organisme doté de la personnalité morale,
 placé auprès de l'Institut national de la propriété industrielle aux fins de représenter les conseils en propriété
-industrielle auprès des pouvoirs publics, de défendre leurs intérêts professionnels et de veiller au respect des règles de
-déontologie.
+industrielle auprès des pouvoirs publics, de promouvoir l'accès à leurs prestations sur l'ensemble du territoire, de défendre
+leurs intérêts professionnels et de veiller au respect des règles de déontologie.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°90-1052 1990-11-26 art. 40
   - Loi n°90-1052 du 26 novembre 1990 - art. 40 (Ab)
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2015-990 du 6 août 2015 - art. 174
 
 _Cité par_:
 
@@ -11473,16 +11472,9 @@ _Cité par_:
 
 ###### Article L423-1
 
-Il est interdit à toute personne physique ou morale de se livrer au démarchage en vue de représenter les intéressés, de
-donner des consultations ou de rédiger des actes en matière de droit de la propriété industrielle. Toutefois, cette
-interdiction ne s'étend pas aux offres de service à destination de professionnels ou d'entreprises effectuées par voie
-postale dans des conditions fixées par voie réglementaire. 
-
-Toute infraction aux dispositions du précédent alinéa sera punie des peines prévues à l'article 5 de la loi n° 72-1137 du 22
-décembre 1972 relative à la protection des consommateurs en matière de démarchage et de vente à domicile. 
-
-Toute publicité pour les activités mentionnées à ce même alinéa est subordonnée au respect de conditions fixées par voie
-réglementaire.
+Les conseils en propriété industrielle sont autorisés, dans les conditions fixées par décret en Conseil d'Etat, à recourir à
+la publicité ainsi qu'à la sollicitation personnalisée. La sollicitation personnalisée est accompagnée de la communication
+d'informations générales sur le droit de la propriété industrielle.
 
 **Liens relatifs à cet article**
 
@@ -11491,22 +11483,17 @@ _Cité par_:
   - Loi n°71-1130 du 31 décembre 1971 - art. 66-4 (M)
   - Code de la propriété intellectuelle - art. R423-2 (V)
 
-_Cite_:
-
-  - Loi n°72-1137 du 22 décembre 1972 - art. 5 (Ab)
-
 _Anciens textes_:
 
-  - Loi n°90-1052 1990-11-26 art. 46
   - Loi n°90-1052 du 26 novembre 1990 - art. 46 (Ab)
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2015-990 du 6 août 2015 - art. 173
 
 
 ###### Article L423-2
@@ -13403,9 +13390,10 @@ favorable au salarié, est défini selon les dispositions ci-après :
 
 1. Les inventions faites par le salarié dans l'exécution soit d'un contrat de travail comportant une mission inventive qui
 correspond à ses fonctions effectives, soit d'études et de recherches qui lui sont explicitement confiées, appartiennent à
-l'employeur. Les conditions dans lesquelles le salarié, auteur d'une telle invention, bénéficie d'une rémunération
-supplémentaire sont déterminées par les conventions collectives, les accords d'entreprise et les contrats individuels de
-travail. 
+l'employeur. L'employeur informe le salarié auteur d'une telle invention lorsque cette dernière fait l'objet du dépôt d'une
+demande de titre de propriété industrielle et lors de la délivrance, le cas échéant, de ce titre. Les conditions dans
+lesquelles le salarié, auteur d'une invention appartenant à l'employeur, bénéficie d'une rémunération supplémentaire sont
+déterminées par les conventions collectives, les accords d'entreprise et les contrats individuels de travail. 
 
 Si l'employeur n'est pas soumis à une convention collective de branche, tout litige relatif à la rémunération supplémentaire
 est soumis à la commission de conciliation instituée par l'article L. 615-21 ou au tribunal de grande instance. 
@@ -13444,22 +13432,13 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
-
-_Modifié par_:
-
-  - Loi n°94-102 du 5 février 1994 - art. 22 () JORF 8 février 1994
+  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
   - Décret n°2014-1518 du 16 décembre 2014 - art. 1 (V)
   - Décret n°2016-311 du 17 mars 2016 - art. 14 (V)
   - Code de la propriété intellectuelle - art. L615-17 (V)
-  - Code de la propriété intellectuelle - art. L615-21 (V)
   - Code de la propriété intellectuelle - art. L623-24 (V)
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
   - Code de la propriété intellectuelle - art. R611-11 (V)
@@ -13474,9 +13453,13 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L133-2-1 (VT)
   - Code général des impôts, CGI. - art. 244 quater B (V)
 
+_Modifié par_:
+
+  - Loi n°2015-990 du 6 août 2015 - art. 175
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-21 (V)
+  - Code de la propriété intellectuelle - art. L615-21 (V)
 
 
 ###### Article L611-8
@@ -23231,27 +23214,25 @@ résultats des contrôles effectués et des mesures correctives appliquées ;
 les publie au Bulletin officiel de la propriété industrielle ; 
 
 6° Exclut, après mise en demeure, tout opérateur qui ne respecte pas le cahier des charges et n'a pas pris les mesures
-correctives mentionnées au 3° ; 
+correctives mentionnées au 3°, et exclut tout opérateur dont la certification a été non octroyée, suspendue ou retirée par
+l'organisme certificateur mentionné à l'article L. 721-9  ; 
 
 7° Participe aux actions de défense, de protection et de valorisation de l'indication géographique, des produits et du
 savoir-faire, ainsi qu'à la connaissance statistique du secteur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+  - Loi n°2015-990 du 6 août 2015 - art. 214
 
 _Cité par_:
 
   - Arrêté du 7 février 2017 - art. 2 (V)
   - Code de la propriété intellectuelle - art. L721-5 (V)
+  - Code de la propriété intellectuelle - art. L721-9 (V)
   - Code de la propriété intellectuelle - art. R721-1 (V)
   - Code de la propriété intellectuelle - art. R721-10 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L721-9
 
 
 ###### Article L721-7
@@ -23275,8 +23256,9 @@ caractéristiques mentionnées au 4° ;
 6° L'identité de l'organisme de défense et de gestion, ses statuts, la liste des opérateurs initiaux qu'il représente et les
 modalités financières de leur participation ; 
 
-7° Les modalités et la périodicité des contrôles réalisés par les organismes mentionnés à l'article L. 721-9 ainsi que les
-modalités de financement de ces contrôles. Les modalités comportent notamment les points de contrôle du produit ; 
+7° Les modalités et la périodicité des contrôles, le type d'organisme mentionné à l'article L. 721-9 en charge de leur
+réalisation, ainsi que les modalités de financement de ces contrôles. Les modalités comportent notamment les points de
+contrôle du produit et des éléments spécifiques de l'étiquetage ; 
 
 8° Les obligations déclaratives ou de tenue de registres auxquelles les opérateurs doivent satisfaire afin de permettre la
 vérification du respect du cahier des charges ; 
@@ -23292,13 +23274,9 @@ défense et de gestion.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L721-9
+  - Loi n°2015-990 du 6 août 2015 - art. 214
 
 _Cité par_:
 
@@ -23348,10 +23326,17 @@ _Cite_:
 ###### Article L721-9
 
 Le respect du cahier des charges par les opérateurs est contrôlé par des organismes d'évaluation de la conformité, qui
-bénéficient d'une accréditation délivrée par l'instance nationale d'accréditation, mentionnée à l'article 137 de la loi n°
-2008-776 du 4 août 2008 de modernisation de l'économie, ou par l'instance nationale d'accréditation d'un autre Etat membre de
-l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance
-mutuelle multilatéraux couvrant le champ de ce contrôle. 
+peuvent être soit des organismes d'inspection, soit des organismes de certification,  qui bénéficient d'une accréditation
+délivrée par l'instance nationale d'accréditation, mentionnée à l'article 137 de la loi n° 2008-776 du 4 août 2008 de
+modernisation de l'économie, ou par l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre
+de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux
+couvrant le champ de ce contrôle. 
+
+Les organismes d'inspection effectuent les opérations de contrôle et transmettent leur rapport à l'organisme de défense et de
+gestion, qui décide des mesures sanctionnant les manquements.
+
+Les organismes de certification décident de l'octroi, du maintien ou de l'extension de la certification, ainsi que des
+mesures sanctionnant les manquements. 
 
 L'organisme de défense et de gestion peut demander à un opérateur d'avoir recours, à ses frais, à un organisme de contrôle
 accrédité conformément au premier alinéa du présent article afin qu'il effectue un contrôle supplémentaire visant à vérifier
@@ -23372,14 +23357,14 @@ la publication au Bulletin officiel de la propriété industrielle est publiée 
 _Cite_:
 
   - Loi n°2008-776 du 4 août 2008 - art. 137
+  - Code de la propriété intellectuelle - art. L721-6 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+  - Loi n°2015-990 du 6 août 2015 - art. 214
 
 _Cité par_:
 
-  - Code de la propriété intellectuelle - art. L721-6 (V)
   - Code de la propriété intellectuelle - art. L721-7 (M)
   - Code de la propriété intellectuelle - art. R721-7 (V)
   - Code de la propriété intellectuelle - art. R721-9 (V)
@@ -24084,10 +24069,11 @@ _Cite_:
 
 Les dispositions du présent code sont applicables dans les îles Wallis et Futuna et en Nouvelle-Calédonie à l'exception du
 quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, 
-L. 421-1 à L. 422-13 et L. 423-2. 
+L. 421-1 à     
+L. 423-2. 
 
-Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L.
-422-13 et L. 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
+Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à
+L. 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
 
 **Liens relatifs à cet article**
 
@@ -24112,12 +24098,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-1487 du 7 décembre 2010 - art. 21
+  - Loi n°2015-990 du 6 août 2015 - art. 173
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L133-1
-  - Code de la propriété intellectuelle - art. L335-4 (V)
+  - Code de la propriété intellectuelle - art. L335-4
   - Code de la propriété intellectuelle - art. L421-1
   - Code de la propriété intellectuelle - art. L423-2
 
