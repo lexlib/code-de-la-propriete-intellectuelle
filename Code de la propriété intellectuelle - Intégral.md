@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-03-11
+Version Consolidée au 2016-03-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -30069,9 +30069,9 @@ L'agrément est renouvelable dans les conditions de délivrance de l'agrément i
 
 Les demandes d'agrément et de renouvellement sont adressées au ministre chargé de la culture. La composition du dossier et
 les modalités d'instruction sont fixées par arrêté de ce ministre. Lorsque le dossier remis à l'administration est complet,
-il en est délivré récépissé dans les conditions prévues par le décret n° 2001-492 du 6 juin 2001. La décision d'agrément ou
-de refus est notifiée dans un délai de deux mois à compter de la délivrance du récépissé. Les décisions de refus doivent être
-motivées. 
+il en est délivré récépissé dans les conditions prévues par les articles R. 112-4 et suivants du code des relations entre le
+public et l'administration. La décision d'agrément ou de refus est notifiée dans un délai de deux mois à compter de la
+délivrance du récépissé. Les décisions de refus doivent être motivées. 
 
 II.-Les personnes morales agréées dans les conditions prévues au I du présent article peuvent saisir la Haute Autorité dans
 l'intérêt collectif d'une ou plusieurs catégories de bénéficiaires des exceptions mentionnées au 2° de l'article L. 331-31.
@@ -30081,16 +30081,16 @@ des personnes physiques ou morales lui sont joints.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
 _Cite_:
 
-  - Décret n°2001-492 du 6 juin 2001
   - Code de la propriété intellectuelle - art. L331-31 (V)
   - Code de la propriété intellectuelle - art. L331-33 (V)
   - Code de la propriété intellectuelle - art. L331-36 (V)
-
-_Créé par_:
-
-  - Décret n°2010-1366 du 10 novembre 2010 - art. 2
+  - Code des relations entre le public et l'adminis... - art. R112-4 (V)
 
 _Cité par_:
 
