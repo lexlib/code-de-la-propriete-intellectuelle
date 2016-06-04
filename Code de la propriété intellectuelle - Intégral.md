@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-04-25
+Version Consolidée au 2016-06-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -8127,13 +8127,17 @@ convocation.
 Lorsque les personnes concernées demandent à être entendues, ils les convoquent et les entendent. Toute personne entendue a
 le droit de se faire assister d'un conseil de son choix. 
 
+Conformément à l'article 28 du code de procédure pénale, l'article 61-1 du même code est applicable lorsqu'il est procédé à
+l'audition d'une personne à l'égard de laquelle il existe des raisons plausibles de soupçonner qu'elle a commis ou tenté de
+commettre une infraction. 
+
 Une copie du procès-verbal d'audition est remise à la personne concernée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1311 du 28 octobre 2009 - art. 1
+  - Loi n°2016-731 du 3 juin 2016 - art. 83
 
 _Cité par_:
 
@@ -8143,6 +8147,8 @@ _Cite_:
 
   - Code de la propriété intellectuelle - art. L331-21
   - Code de la propriété intellectuelle - art. L335-7
+  - Code de procédure pénale - art. 28 (V)
+  - Code de procédure pénale - art. 61-1 (V)
 
 
 ###### Article L331-22
@@ -9142,8 +9148,8 @@ euros d'amende.
 Seront punis des mêmes peines le débit, l'exportation, l'importation, le transbordement ou la détention aux fins précitées
 des ouvrages contrefaisants. 
 
-Lorsque les délits prévus par le présent article ont été commis en bande organisée, les peines sont portées à cinq ans
-d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus par le présent article ont été commis en bande organisée, les peines sont portées à            sept
+ans d'emprisonnement et à 750 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -9173,7 +9179,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 6
+  - Loi n°2016-731 du 3 juin 2016 - art. 44
 
 _Anciens textes_:
 
@@ -9317,7 +9323,7 @@ disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'
 vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur
 de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle. 
 
-Sont punis des mêmes peines  l'importation, l'exportation, le transbordement ou la détention aux fins précitées de
+Sont punis des mêmes peines l'importation, l'exportation, le transbordement ou la détention aux fins précitées de
 phonogrammes ou de vidéogrammes réalisée sans l'autorisation du producteur ou de l'artiste-interprète, lorsqu'elle est
 exigée. 
 
@@ -9328,8 +9334,8 @@ ainsi que de la télédiffusion des phonogrammes.
 Est puni de la peine d'amende prévue au premier alinéa le défaut de versement du prélèvement mentionné au troisième alinéa de
 l'article L. 133-3. 
 
-Lorsque les délits prévus au présent article ont été commis en bande organisée, les peines sont portées à cinq ans
-d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus au présent article ont été commis en bande organisée, les peines sont portées à            sept ans
+d'emprisonnement et à 750 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -9353,7 +9359,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 6
+  - Loi n°2016-731 du 3 juin 2016 - art. 44
 
 _Cite_:
 
@@ -10545,25 +10551,24 @@ _Anciens textes_:
 
 Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait de porter atteinte aux droits du producteur d'une
 base de données tels que définis à l'article L. 342-1. Lorsque le délit a été commis en bande organisée, les peines sont
-portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+portées à            sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
+  - Loi n°2016-731 du 3 juin 2016 - art. 44
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L342-1 (V)
+  - Code de la propriété intellectuelle - art. L342-1
 
 _Anciens textes_:
 
-  - Code de la propriété intellectuelle - art. L343-1 (M)
   - Code de la propriété intellectuelle - art. L343-1 (T)
 
 _Nouveaux textes_:
@@ -12657,7 +12662,7 @@ _Cite_:
 Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300
 000 euros d'amende. Lorsque le délit a été commis en bande organisée ou sur un réseau de communication au public en ligne ou
 lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont
-portées à cinq ans d'emprisonnement et à 500 000 euros d'amende. 
+portées à            sept ans d'emprisonnement et à 750 000 euros d'amende. 
 
 En outre, la juridiction peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de
 cinq ans, de l'établissement ayant servi à commettre l'infraction. 
@@ -12676,7 +12681,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 3
+  - Loi n°2016-731 du 3 juin 2016 - art. 44
 
 _Cité par_:
 
@@ -12687,7 +12692,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail - art. L122-14-4 (Ab)
+  - Code du travail - art. L122-14-4
 
 
 ###### Article L521-11
@@ -18116,7 +18121,8 @@ _Cité par_:
 1. Sont punies de trois ans d'emprisonnement et de 300 000 euros d'amende les atteintes portées sciemment aux droits du
 propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande organisée
 ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la
-santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende. 
+santé, la sécurité de l'homme ou l'animal, les peines sont portées à            sept ans d'emprisonnement et à 750 000 euros
+d'amende. 
 
 2. Alinéa périmé.
 
@@ -18142,11 +18148,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 3
+  - Loi n°2016-731 du 3 juin 2016 - art. 44
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-3 (V)
+  - Code de la propriété intellectuelle - art. L613-3
 
 
 ###### Article L615-14-1
@@ -22501,9 +22507,9 @@ b) De produire industriellement des marchandises présentées sous une marque co
 
 c) De donner des instructions ou des ordres pour la commission des actes visés aux a et b. 
 
-Lorsque les délits prévus au présent article ont été commis   en bande organisée ou sur un réseau de communication au public
-en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les
-peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus au présent article ont été commis en bande organisée ou sur un réseau de communication au public en
+ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les
+peines sont portées à            sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -22542,9 +22548,9 @@ _Codifié par_:
 
   - Loi n°92-597 du 1 juillet 1992
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
+  - Loi n°2016-731 du 3 juin 2016 - art. 44
 
 
 ###### Article L716-10
@@ -22566,9 +22572,9 @@ d) De sciemment livrer un produit ou fournir un service autre que celui qui lui 
 L'infraction, dans les conditions prévues au d, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de
 substitution prévue à l'article L. 5125-23 du code de la santé publique. 
 
-Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication   au public en ligne
-ou lorsque les faits portent sur des marchandises dangereuses pour la santé ou la sécurité de l'homme ou l'animal, les peines
-sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication au public en ligne ou
+lorsque les faits portent sur des marchandises dangereuses pour la santé ou la sécurité de l'homme ou l'animal, les peines
+sont portées à            sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -22582,11 +22588,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 19
-
-**Liens**:
-
-  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
+  - Loi n°2016-731 du 3 juin 2016 - art. 44
 
 _Cite_:
 
