@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-07-09
+Version Consolidée au 2016-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -35591,36 +35591,6 @@ _Anciens textes_:
 _Créé par_:
 
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R422-45
-
-Un associé ne peut exercer la profession de conseil en propriété industrielle qu'au sein d'une seule société d'exercice
-libéral et ne peut exercer la même profession à titre individuel ou au sein d'une autre société quelle qu'en soit la forme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-1105 1993-09-17 art. 5
-  - Décret n°93-1105 du 17 septembre 1993 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cité par_:
-
-  - Décret n°2016-875 du 29 juin 2016 (V)
-  - Décret n°2016-875 du 29 juin 2016 - art. 3 (V)
-
-_Abrogé par_:
-
-  - Décret n°2016-875 du 29 juin 2016 - art. 1
 
 
 ###### Article R422-46
