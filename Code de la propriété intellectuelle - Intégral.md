@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-01-07
+Version Consolidée au 2017-01-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -9524,28 +9524,21 @@ et la protection des droits sur internet<a id=77></a>
 ###### Article L331-12
 
 La Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet est une autorité publique
-indépendante. A ce titre, elle est dotée de la personnalité morale.
-
-**Nota:**
-
-Loi n° 2009-669 du 12 juin 2009 article 19 : Les articles L. 331-5 à L. 331-45 du présent code, dans leur rédaction résultant
-de la présente loi, entrent en vigueur à la date de la première réunion de la Haute Autorité pour la diffusion des œuvres et
-la protection des droits sur internet et au plus tard le 1er novembre 2009.
+indépendante.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-669 du 12 juin 2009 - art. 5
-  - Loi n°2009-669 du 12 juin 2009 - art. 2
 
 _Cité par_:
 
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-  - Code de la propriété intellectuelle - art. L331-16 (VD)
+  - Code de la propriété intellectuelle - art. L331-16 (VT)
   - Code de la propriété intellectuelle - art. L342-3-1 (V)
   - Code des postes et des communications électroni... - art. L34-1 (V)
   - Code du cinéma et de l'image animée - art. L411-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2017-55 du 20 janvier 2017 - art. 47
 
 
 ###### Article L331-13
@@ -9598,22 +9591,14 @@ _Cite_:
 
 ###### Article L331-14
 
-La Haute Autorité remet chaque année au Gouvernement et au Parlement un rapport rendant compte de son activité, de
-l'exécution de ses missions et de ses moyens, et du respect de leurs obligations et engagements par les professionnels des
-différents secteurs concernés. Ce rapport est rendu public.
-
-**Nota:**
-
-Loi n° 2009-669 du 12 juin 2009 article 19 : Les articles L. 331-5 à L. 331-45 du présent code, dans leur rédaction résultant
-de la présente loi, entrent en vigueur à la date de la première réunion de la Haute Autorité pour la diffusion des œuvres et
-la protection des droits sur internet et au plus tard le 1er novembre 2009.
+La Haute Autorité remet chaque année au Gouvernement et au Parlement un rapport rendant compte du respect de leurs
+obligations et engagements par les professionnels des différents secteurs concernés. Ce rapport est rendu public.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-669 du 12 juin 2009 - art. 5
-  - Loi n°2009-669 du 12 juin 2009 - art. 2
+  - Loi n°2017-55 du 20 janvier 2017 - art. 47
 
 _Cite_:
 
@@ -9681,26 +9666,17 @@ Le président du collège est élu par les membres parmi les personnes mentionn�
 
 Pour les membres désignés en application des 1° à 4°, des membres suppléants sont désignés dans les mêmes conditions. 
 
-En cas de vacance d'un siège de membre du collège, pour quelque cause que ce soit, il est procédé à la nomination, dans les
-conditions prévues au présent article, d'un nouveau membre pour la durée du mandat restant à courir. 
+Selon des modalités fixées par décret en Conseil d'Etat, le collège est renouvelé partiellement tous les trois ans. 
 
-Le mandat des membres n'est ni révocable, ni renouvelable. 
+Le mandat des membres n'est pas renouvelable.
 
-Sauf démission, il ne peut être mis fin aux fonctions d'un membre qu'en cas d'empêchement constaté par le collège dans les
-conditions qu'il définit.
-
-**Nota:**
-
-Loi n° 2009-669 du 12 juin 2009 article 19 : Les articles L. 331-5 à L. 331-45 du présent code, dans leur rédaction résultant
-de la présente loi, entrent en vigueur à la date de la première réunion de la Haute Autorité pour la diffusion des œuvres et
-la protection des droits sur internet et au plus tard le 1er novembre 2009.
+Le président exerce ses fonctions à temps plein.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-669 du 12 juin 2009 - art. 5
-  - Loi n°2009-669 du 12 juin 2009 - art. 2
+  - Loi n°2017-55 du 20 janvier 2017 - art. 47
 
 _Cité par_:
 
@@ -9710,7 +9686,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L331-12
+  - Code de la propriété intellectuelle - art. L331-12 (V)
 
 
 ###### Article L331-17
@@ -9769,7 +9745,7 @@ _Cite_:
 I. - Les fonctions de membre et de secrétaire général de la Haute Autorité sont incompatibles avec le fait d'exercer ou
 d'avoir exercé, au cours des trois dernières années : 
 
-1° Les fonctions de dirigeant, de salarié ou de conseiller  d'un organisme de gestion collective régi  par le titre II du
+1° Les fonctions de dirigeant, de salarié ou de conseiller d'un organisme de gestion collective régi par le titre II du
 présent livre ; 
 
 2° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise exerçant une activité de production de
@@ -9787,13 +9763,7 @@ II. - Après la cessation de leurs fonctions, les membres de la Haute Autorité 
 dispositions de l'article 432-13 du code pénal. 
 
 Les membres de la Haute Autorité et son secrétaire général ne peuvent, directement ou indirectement, détenir d'intérêts dans
-un organisme ou entreprise mentionné  au I du présent article. 
-
-Un décret fixe le modèle de déclaration d'intérêts que chaque membre doit déposer au moment de sa désignation. 
-
-Aucun membre de la Haute Autorité ne peut participer à une délibération concernant une entreprise ou une société contrôlée,
-au sens de l'article L. 233-16 du code de commerce, par une entreprise dans laquelle il a, au cours des trois années
-précédant la délibération, exercé des fonctions ou détenu un mandat.
+un organisme ou entreprise mentionné au I du présent article.
 
 **Liens relatifs à cet article**
 
@@ -9808,7 +9778,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 2
+  - Loi n°2017-55 du 20 janvier 2017 - art. 47
 
 _Cite_:
 
@@ -9818,40 +9788,19 @@ _Cite_:
 
 ###### Article L331-19
 
-La Haute Autorité dispose de services placés sous l'autorité de son président. Un secrétaire général, nommé par ce dernier,
-est chargé du fonctionnement et de la coordination des services sous l'autorité du président. 
-
-Les fonctions de membre de la Haute Autorité et de secrétaire général sont incompatibles. 
-
-La Haute Autorité établit son règlement intérieur et fixe les règles de déontologie applicables à ses membres et aux agents
-des services. 
+Un secrétaire général est chargé du fonctionnement et de la coordination des services sous l'autorité du président. 
 
 Les rapporteurs chargés de l'instruction de dossiers auprès de la Haute Autorité sont nommés par le président. 
 
 La Haute Autorité peut faire appel à des experts. Elle peut également solliciter, en tant que de besoin, l'avis d'autorités
 administratives, d'organismes extérieurs ou d'associations représentatives des utilisateurs des réseaux de communications
-électroniques, et elle peut être consultée pour avis par ces mêmes autorités ou organismes. 
-
-La Haute Autorité propose, lors de l'élaboration du projet de loi de finances de l'année, les crédits nécessaires à
-l'accomplissement de ses missions. 
-
-Le président présente les comptes de la Haute Autorité au contrôle de la Cour des comptes.
-
-**Nota:**
-
-Loi n° 2009-669 du 12 juin 2009 article 19 : Les articles L. 331-5 à L. 331-45 du présent code, dans leur rédaction résultant
-de la présente loi, entrent en vigueur à la date de la première réunion de la Haute Autorité pour la diffusion des œuvres et
-la protection des droits sur internet et au plus tard le 1er novembre 2009.
+électroniques, et elle peut être consultée pour avis par ces mêmes autorités ou organismes.
 
 **Liens relatifs à cet article**
 
-_Abrogé par_:
-
-  - Loi n°2009-669 du 12 juin 2009 - art. 2
-
 _Modifié par_:
 
-  - Loi n°2009-669 du 12 juin 2009 - art. 5
+  - Loi n°2017-55 du 20 janvier 2017 - art. 47
 
 _Cité par_:
 
