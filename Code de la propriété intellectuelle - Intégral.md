@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-03-17
+Version Consolidée au 2017-04-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -8335,6 +8335,30 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R321-12 (V)
   - Code de la propriété intellectuelle - art. R321-13 (V)
   - Code de la propriété intellectuelle - art. R321-9 (V)
+
+
+###### Article L325-4
+
+Les titulaires de droits qui ont autorisé un organisme de gestion collective à octroyer des autorisations d'exploitation
+multiterritoriales de droits en ligne sur des œuvres musicales peuvent résilier cette autorisation dans le cas où cet
+organisme n'octroierait pas ou ne proposerait pas l'octroi de telles autorisations d'exploitation sur ces œuvres et n'aurait
+pas permis à un autre organisme de gestion collective d'en octroyer pour son compte. Une telle résiliation n'affecte pas les
+autres autorisations qu'ils ont données à l'organisme pour la gestion de leurs droits d'auteur. 
+
+Ils peuvent alors octroyer eux-mêmes des autorisations d'exploitation multiterritoriales pour leurs droits en ligne sur des
+œuvres musicales ou le faire par l'intermédiaire d'un tiers auquel ils accordent l'autorisation ou de tout autre organisme de
+gestion collective qui respecte les dispositions du présent chapitre.
+
+**Nota:**
+
+Conformément au II de l'article 5 de l'ordonnance n° 2016-1823 du 22 décembre 2016, ces dispositions entrent en vigueur à
+compter du 10 avril 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
 
 
 ###### Article L325-5
