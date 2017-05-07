@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-04-10
+Version Consolidée au 2017-05-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -263,113 +263,115 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
           - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#259)
           - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#260)
           - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#261)
-          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-14)](#262)
+          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#262)
             - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#263)
             - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#264)
             - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#265)
             - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#266)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#267)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#268)
-        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#269)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#270)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#271)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#272)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#273)
-        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#274)
-        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#275)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#276)
-          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#277)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#278)
-      - [Titre II : Contentieux (art. R521-1 à R523-1)](#279)
-        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#280)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#281)
-          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#282)
-          - [Section 3 : Dispositions communes (art. D521-6)](#283)
-        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#284)
-        - [Chapitre III : Retenue en douane (art. R523-1)](#285)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#286)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#287)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#288)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#289)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#290)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#291)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#292)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#293)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#294)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-1)](#295)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#296)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#297)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#298)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#299)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#300)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#301)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#302)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#303)
-          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#304)
-            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#305)
-            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#306)
-            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#307)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#308)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#309)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#310)
-          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#311)
-          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#312)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#313)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#314)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#315)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#316)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#317)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#318)
-        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#319)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#320)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#321)
-          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#322)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#323)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#324)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#325)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#326)
-          - [Section unique : Procédure (art. R618-1 à R618-6)](#327)
-      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#328)
-        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#329)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#330)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#331)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#332)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#333)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#334)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#335)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#336)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#337)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#338)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#339)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#340)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#341)
-          - [Section 3 : La retenue (art. R623-60)](#342)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#343)
-        - [Chapitre unique (art. D631-1 à D631-2)](#344)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#345)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#346)
-        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#347)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#348)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#349)
-        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#350)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#351)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#352)
-          - [Section 3 : Retenue en douane (art. R716-6)](#353)
-          - [Section 4 : Dispositions communes (art. D716-12)](#354)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#355)
-          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#356)
-          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#357)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#358)
-          - [Section unique (art. R718-1 à R718-5)](#359)
-      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#360)
-        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#361)
-          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#362)
-        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#363)
-          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#364)
-          - [Section 2 : La retenue (art. R722-7)](#365)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#366)
-      - [Titre unique (art. R811-1 à R811-3)](#367)
-        - [Chapitre unique (art. R811-1 à R811-3)](#368)
+            - [Sous-section 5 : Sociétés pluri-professionnelles d'exercice (art. R422-51-15 à R422-51-19)](#267)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#268)
+          - [Section 4 bis : Contrôle de l'exercice de la profession (art. R422-55-2 à R422-55-5)](#269)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#270)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#271)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#272)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#273)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#274)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#275)
+        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#276)
+        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#277)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#278)
+          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#279)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#280)
+      - [Titre II : Contentieux (art. R521-1 à R523-1)](#281)
+        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#282)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#283)
+          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#284)
+          - [Section 3 : Dispositions communes (art. D521-6)](#285)
+        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#286)
+        - [Chapitre III : Retenue en douane (art. R523-1)](#287)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#288)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#289)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#290)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#291)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#292)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#293)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#294)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#295)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#296)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-1)](#297)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#298)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#299)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#300)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#301)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#302)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#303)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#304)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#305)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#306)
+            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#307)
+            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#308)
+            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#309)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#310)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#311)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#312)
+          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#313)
+          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#314)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#315)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#316)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#317)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#318)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#319)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#320)
+        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#321)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#322)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#323)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#324)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#325)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#326)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#327)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#328)
+          - [Section unique : Procédure (art. R618-1 à R618-6)](#329)
+      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#330)
+        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#331)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#332)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#333)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#334)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#335)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#336)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#337)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#338)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#339)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#340)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#341)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#342)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#343)
+          - [Section 3 : La retenue (art. R623-60)](#344)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#345)
+        - [Chapitre unique (art. D631-1 à D631-2)](#346)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#347)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#348)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#349)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#350)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#351)
+        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#352)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#353)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#354)
+          - [Section 3 : Retenue en douane (art. R716-6)](#355)
+          - [Section 4 : Dispositions communes (art. D716-12)](#356)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#357)
+          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#358)
+          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#359)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#360)
+          - [Section unique (art. R718-1 à R718-5)](#361)
+      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#362)
+        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#363)
+          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#364)
+        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#365)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#366)
+          - [Section 2 : La retenue (art. R722-7)](#367)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#368)
+      - [Titre unique (art. R811-1 à R811-3)](#369)
+        - [Chapitre unique (art. R811-1 à R811-3)](#370)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -13029,22 +13031,32 @@ _Créé par_:
 ###### Article L422-6
 
 Le conseil en propriété industrielle exerce sa profession soit à titre individuel ou en groupe, soit en qualité de salarié
-d'un autre conseil en propriété industrielle.
+d'une personne physique ou morale exerçant la profession de conseil en propriété industrielle.
+
+**Nota:**
+
+Ordonnance n° 2016-394 du 31 mars 2016, Art. 13 : Les dispositions des chapitres Ier à VIII du titre II de la présente
+ordonnance, à l'exception des 2° et 4° de l'article 5, du 2° de l'article 6 et du 7° de l'article 8, entrent en vigueur aux
+dates qui seront fixées, pour chacune des professions concernées, par les décrets en Conseil d'Etat pris pour l'application
+des dispositions législatives que ces chapitres modifient, et au plus tard le 1er juillet 2017.
+
+Décret n° 2017-797 du 5 mai 2017, Art. 2 : Le chapitre II du titre II de l'ordonnance du 31 mars 2016, à l'exception du 2° de
+l'article 6, entre en vigueur le lendemain du jour de la publication du présent décret au Journal officiel de la République
+française (8 mai 2017).
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°90-1052 1990-11-26 art. 37
   - Loi n°90-1052 du 26 novembre 1990 - art. 37 (Ab)
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2016-394 du 31 mars 2016 - art. 6
 
 _Cité par_:
 
@@ -13105,6 +13117,51 @@ _Cite_:
   - Code de commerce - art. L225-22
   - Code de commerce - art. L225-44
   - Code de la propriété intellectuelle - art. L422-1
+
+
+###### Article L422-7-1
+
+Le conseil en propriété industrielle peut exercer sa profession dans le cadre d'une société pluri-professionnelle d'exercice,
+prévue au 
+titre IV bis de la loi n° 90-1258 du 31 décembre 1990
+relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou
+dont le titre est protégé et aux sociétés de participations financières de professions libérales, ayant pour objet l'exercice
+en commun de la profession de conseil en propriété industrielle et d'une ou plusieurs autres professions prévues à ce titre. 
+
+La société comprend, parmi ses associés, une personne physique qui remplit les conditions requises pour exercer la
+profession. 
+
+Au moins un membre de la profession de conseil en propriété industrielle exerçant au sein de la société, en qualité d'associé
+ou de salarié, doit être membre du conseil d'administration ou du conseil de surveillance de la société. 
+
+Le dernier alinéa de l'article L. 422-7 est applicable.
+
+**Nota:**
+
+Ordonnance n° 2016-394 du 31 mars 2016, Art. 13 : Les dispositions des chapitres Ier à VIII du titre II de la présente
+ordonnance, à l'exception des 2° et 4° de l'article 5, du 2° de l'article 6 et du 7° de l'article 8, entrent en vigueur aux
+dates qui seront fixées, pour chacune des professions concernées, par les décrets en Conseil d'Etat pris pour l'application
+des dispositions législatives que ces chapitres modifient, et au plus tard le 1er juillet 2017.
+
+Décret n° 2017-797 du 5 mai 2017, Art. 2 : Le chapitre II du titre II de l'ordonnance du 31 mars 2016, à l'exception du 2° de
+l'article 6, entre en vigueur le lendemain du jour de la publication du présent décret au Journal officiel de la République
+française (8 mai 2017).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°90-1258 du 31 décembre 1990
+
+_Créé par_:
+
+  - Ordonnance n°2016-394 du 31 mars 2016 - art. 6
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R422-51-15 (V)
+  - Code de la propriété intellectuelle - art. R422-6 (V)
+  - Code de la propriété intellectuelle - art. R422-7 (V)
 
 
 ###### Article L422-8
@@ -13259,21 +13316,29 @@ La profession de conseil en propriété industrielle est incompatible :
 par actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du
 directoire, directeur général ou directeur général délégué d'une société anonyme, de président ou dirigeant d'une société par
 actions simplifiée, de gérant d'une société civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession
-de conseil en propriété industrielle ou la gestion d'intérêts professionnels connexes ou d'intérêts familiaux ;
+de conseil en propriété industrielle ou d'une profession prévue au titre IV bis de la loi n° 90-1258 du 31 décembre 1990
+précitée ou la gestion d'intérêts professionnels connexes ou d'intérêts familiaux ;
 
 3° Avec la qualité de membre du conseil de surveillance ou d'administrateur d'une société commerciale, lorsque le conseil en
 propriété industrielle a moins de sept années d'exercice professionnel et n'a pas obtenu préalablement une dispense dans des
 conditions prévues par décret en Conseil d'Etat.
 
+**Nota:**
+
+Ordonnance n° 2016-394 du 31 mars 2016, Art. 13 : Les dispositions des chapitres Ier à VIII du titre II de la présente
+ordonnance, à l'exception des 2° et 4° de l'article 5, du 2° de l'article 6 et du 7° de l'article 8, entrent en vigueur aux
+dates qui seront fixées, pour chacune des professions concernées, par les décrets en Conseil d'Etat pris pour l'application
+des dispositions législatives que ces chapitres modifient, et au plus tard le 1er juillet 2017.
+
+Décret n° 2017-797 du 5 mai 2017, Art. 2 : Le chapitre II du titre II de l'ordonnance du 31 mars 2016, à l'exception du 2° de
+l'article 6, entre en vigueur le lendemain du jour de la publication du présent décret au Journal officiel de la République
+française (8 mai 2017).
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 67 () JORF 12 février 2004
+  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
@@ -13281,6 +13346,10 @@ _Cité par_:
   - Ordonnance n°2006-639 du 1 juin 2006 - art. 16 (V)
   - Ordonnance n°2006-639 du 1 juin 2006 - art. 4 (V)
   - Code de la propriété intellectuelle - art. R422-55 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2016-394 du 31 mars 2016 - art. 6
 
 
 ###### Article L422-13
@@ -13353,10 +13422,24 @@ d) Les conditions d'application de l'article L. 422-5 ;
 e) Les conditions dans lesquelles il peut être dérogé à l'obligation mentionnée au b de l'article L. 422-7 afin de permettre
 le regroupement interprofessionnel avec d'autres prestataires de services intervenant dans le processus d'innovation ; 
 
-f) Les règles de déontologie applicables aux conseils en propriété industrielle ; 
+f) Les conditions d'application du dernier alinéa de l'article L. 422-7 et de l'article L. 422-7-1, notamment les modalités
+d'application des règles de discipline prévues à l'article L. 422-10 ;  
 
-g) L'organisation et les modalités de fonctionnement de la Compagnie nationale des conseils en propriété industrielle ainsi
+g) Les règles de déontologie applicables aux conseils en propriété industrielle ; 
+
+h) L'organisation et les modalités de fonctionnement de la Compagnie nationale des conseils en propriété industrielle ainsi
 que les modalités de fixation du montant des cotisations qu'elle perçoit de ses membres.
+
+**Nota:**
+
+Ordonnance n° 2016-394 du 31 mars 2016, Art. 13 : Les dispositions des chapitres Ier à VIII du titre II de la présente
+ordonnance, à l'exception des 2° et 4° de l'article 5, du 2° de l'article 6 et du 7° de l'article 8, entrent en vigueur aux
+dates qui seront fixées, pour chacune des professions concernées, par les décrets en Conseil d'Etat pris pour l'application
+des dispositions législatives que ces chapitres modifient, et au plus tard le 1er juillet 2017.
+
+Décret n° 2017-797 du 5 mai 2017, Art. 2 : Le chapitre II du titre II de l'ordonnance du 31 mars 2016, à l'exception du 2° de
+l'article 6, entre en vigueur le lendemain du jour de la publication du présent décret au Journal officiel de la République
+française (8 mai 2017).
 
 **Liens relatifs à cet article**
 
@@ -13367,17 +13450,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2016-394 du 31 mars 2016 - art. 6
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L422-1 (V)
-  - Code de la propriété intellectuelle - art. L422-4 (V)
-  - Code de la propriété intellectuelle - art. L422-5 (V)
+  - Code de la propriété intellectuelle - art. L422-1
+  - Code de la propriété intellectuelle - art. L422-4
+  - Code de la propriété intellectuelle - art. L422-5
   - Code de la propriété intellectuelle - art. L422-7 (V)
 
 _Cité par_:
@@ -36424,16 +36507,17 @@ _Cite_:
 
 ###### Article R422-6
 
-En cas d'exercice en société, l'inscription de cette dernière dans la section spéciale prévue à l'article L. 422-7 est
-demandée collectivement par tous les associés. Elle est accompagnée de la justification du dépôt de la demande
-d'immatriculation au registre du commerce et des sociétés. 
+La demande d'inscription d'une société dans la section spéciale prévue à l'article L. 422-7 est présentée par son mandataire
+ou, lorsque la société n'est pas encore constituée, par le mandataire des associés. Dans le cas d'une société ne relevant pas
+de l'article L. 422-7-1, elle est accompagnée de la justification du dépôt de la demande d'immatriculation au registre du
+commerce et des sociétés. 
 
-Le directeur général de l'institut procède à l'inscription dans les conditions prévues à l'article R. 422-4 et notifie la
-décision au greffier chargé de la tenue du registre du commerce et des sociétés auprès du tribunal ayant reçu la demande
-d'immatriculation correspondante. 
+Le directeur général de l'institut procède à l'inscription dans les conditions prévues à l'article R. 422-4 et notifie, le
+cas échéant, la décision au greffier chargé de la tenue du registre du commerce et des sociétés auprès du tribunal ayant reçu
+la demande d'immatriculation correspondante. 
 
-Toute décision de radiation d'une société est, dans le mois de sa date, notifiée au greffier chargé de la tenue du registre
-auquel la société a été immatriculée.
+Toute décision de radiation d'une société est, dans le mois de sa date, notifiée, le cas échéant, au greffier chargé de la
+tenue du registre auquel la société a été immatriculée.
 
 **Liens relatifs à cet article**
 
@@ -36441,14 +36525,15 @@ _Anciens textes_:
 
   - Décret n°92-360 du 1 avril 1992 - art. 15 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L422-7 (V)
-  - Code de la propriété intellectuelle - art. R422-4 (V)
+  - Code de la propriété intellectuelle - art. L422-7
+  - Code de la propriété intellectuelle - art. L422-7-1
+  - Code de la propriété intellectuelle - art. R422-4
 
 _Cité par_:
 
@@ -36474,27 +36559,29 @@ exerçant à titre principal l'une des activités ci-après :
 
 3° Création de marques ; 
 
-4° Financement de l'innovation.
+4° Financement de l'innovation. 
+
+Les dispositions du présent article ne sont pas applicables aux sociétés prévues à l'article L. 422-7-1.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°92-360 1992-04-01 art. 30
-  - Décret n°92-360 du 1 avril 1992 - art. 30 (Ab)
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°92-360 du 1 avril 1992 - art. 30 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L422-7 (V)
-  - Code de la propriété intellectuelle - art. L423-2 (V)
+  - Code de la propriété intellectuelle - art. L422-7
+  - Code de la propriété intellectuelle - art. L422-7-1
+  - Code de la propriété intellectuelle - art. L423-2
 
 
 ##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=260></a>
@@ -37066,6 +37153,23 @@ _Anciens textes_:
 _Créé par_:
 
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+
+
+###### Article R422-24-1
+
+La majorité requise pour approuver une des opérations mentionnées au premier alinéa de l'article 27 de la loi n° 66-879 du 29
+novembre 1966 relative aux sociétés civiles professionnelles est celle prévue au premier alinéa de l'article R. 422-24.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-879 du 29 novembre 1966 - art. 27 (V)
+  - Code de la propriété intellectuelle - art. R422-24 (V)
+
+_Créé par_:
+
+  - Décret n°2017-795 du 5 mai 2017 - art. 2
 
 
 ###### Article R422-25
@@ -38061,7 +38165,104 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
 
 
-##### Section 4 : Obligations professionnelles<a id=267></a>
+##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice<a id=267></a>
+
+###### Article R422-51-15
+
+La société prévue à l'article L. 422-7-1 est inscrite sur la liste des conseils en propriété industrielle prévue par les
+articles L. 422-1 et L. 422-7, dans une section spécifique aux sociétés pluri-professionnelles d'exercice.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L422-1
+  - Code de la propriété intellectuelle - art. L422-7
+  - Code de la propriété intellectuelle - art. L422-7-1
+
+
+###### Article R422-51-16
+
+La déclaration de constitution d'une société pluri-professionnelle d'exercice, dont l'objet est notamment l'exercice de la
+profession libérale de conseil en propriété industrielle est adressée au directeur général de l'Institut national de la
+propriété industrielle par lettre recommandée avec demande d'avis de réception ou par tout moyen permettant d'établir la date
+de réception de cette déclaration. 
+
+Cette déclaration est accompagnée des pièces prévues à l'article 2 du décret n° 2017-794 du 5 mai 2017 relatif à la
+constitution, au fonctionnement et au contrôle des sociétés pluri-professionnelles d'exercice de professions libérales
+juridiques, judicaires et d'expertise-comptable prévues au titre IV bis de la loi n° 90-1258 du 31 décembre 1990.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°90-1258 du 31 décembre 1990
+  - Décret n°2017-794 du 5 mai 2017 - art. 2 (V)
+
+_Créé par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+
+###### Article R422-51-17
+
+Le directeur général de l'Institut national de la propriété industrielle procède à l'inscription de la société, par
+dérogation à l'article R. 422-3-1, dans un délai de deux mois suivant la réception de la déclaration prévue au premier alinéa
+de l'article précédent, dès lors que les conditions légales et règlementaires de cette inscription sont remplies.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R422-3-1
+
+
+###### Article R422-51-18
+
+L'information prévue aux articles 9 et 18 du décret n° 2017-794 du 5 mai 2017 précité est transmise au directeur général de
+l'Institut national de la propriété industrielle et au président de la Compagnie des conseils en propriété industrielle. 
+
+Les décisions prises par le directeur général de l'Institut national de la propriété industrielle à l'encontre d'une société,
+en application de la section 6 du chapitre 1er du même décret sont communiquées au président de la Compagnie des conseils en
+propriété industrielle.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2017-794 du 5 mai 2017 - art. 18 (V)
+  - Décret n°2017-794 du 5 mai 2017 - art. 9 (V)
+
+_Créé par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+
+###### Article R422-51-19
+
+La garantie prévue à l'article L. 422-8 ne couvre que les dommages survenus dans le cadre de l'exercice de la profession de
+conseil en propriété industrielle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L422-8
+
+
+##### Section 4 : Obligations professionnelles<a id=268></a>
 
 ###### Article R422-52
 
@@ -38254,7 +38455,91 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L422-10-1
 
 
-##### Section 5 : Régime disciplinaire<a id=268></a>
+##### Section 4 bis : Contrôle de l'exercice de la profession<a id=269></a>
+
+###### Article R422-55-2
+
+Toute personne physique ou morale qui exerce la profession de conseil en propriété industrielle fait l'objet de contrôles
+diligentés par la Compagnie nationale des conseils en propriété industrielle et portant sur le respect des conditions de son
+inscription sur la liste des conseils en propriété industrielle prévues à l'article L. 422-5 ainsi que sur le respect des
+obligations professionnelle prévues à la section IV du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L422-5
+
+
+###### Article R422-55-3
+
+Les contrôles sont réalisés par un ou plusieurs contrôleurs choisis par le président de la Compagnie nationale des conseils
+en propriété industrielle parmi les conseils en propriété industrielle ou les anciens membres de la profession.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
+
+
+###### Article R422-55-4
+
+Le ou les contrôleurs communiquent immédiatement au directeur général de l'Institut national de la propriété industrielle et
+au président de la Compagnie nationale des conseils en propriété industrielle tout fait, constaté au cours d'un contrôle,
+susceptible de constituer un manquement aux conditions et obligations mentionnées à l'article R. 422-52-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R422-55-4 (V)
+
+
+###### Article R422-55-5
+
+Dans les trente jours suivant la fin des opérations matérielles de contrôle, le ou les contrôleurs adressent à la personne
+qui en a fait l'objet un rapport provisoire.
+
+Cette dernière dispose d'un délai de trente jours pour former ses observations écrites sur le contenu du rapport.
+
+A l'issue de ce délai, le ou les contrôleurs établissent un rapport définitif, auquel ils annexent les observations écrites
+de la personne concernée si elle en a produites, et adresse ce rapport au président de la Compagnie nationale des conseils en
+propriété industrielle et au directeur général de l'Institut national de la propriété industrielle. Le rapport ne comporte
+aucune information couverte par le secret professionnel des différents professionnels exerçant au sein de la société.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
+
+
+##### Section 5 : Régime disciplinaire<a id=270></a>
 
 ###### Article R422-56
 
@@ -38368,7 +38653,9 @@ _Codifié par_:
 ###### Article R422-60
 
 Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir de la personne mise en cause, de l'auteur
-de la plainte ou de toute personne susceptible d'éclairer les débats, les explications et justifications nécessaires à
+de la plainte ou de la plainte, du ou des contrôleurs mentionnés à la section IV bis du présent chapitre lorsque la personne
+mise en cause ou la société dans laquelle il exerce a fait l'objet d'un contrôle en application des dispositions de cette
+section ou de toute personne susceptible d'éclairer les débats, les explications et justifications nécessaires à
 l'information de la chambre.
 
 Le rapport précise les faits dénoncés, les diligences accomplies ainsi que les conclusions motivées du rapporteur sur
@@ -38387,13 +38674,9 @@ _Anciens textes_:
 
   - Décret n°92-360 du 1 avril 1992 - art. 25 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
-
 _Modifié par_:
 
-  - Décret n°2002-215 du 18 février 2002 - art. 4 () JORF 20 février 2002
+  - Décret n°2017-797 du 5 mai 2017 - art. 1
 
 _Cité par_:
 
@@ -38603,7 +38886,7 @@ _Créé par_:
   - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-#### Chapitre III : Dispositions diverses<a id=269></a>
+#### Chapitre III : Dispositions diverses<a id=271></a>
 
 ###### Article R423-1
 
@@ -38683,13 +38966,13 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre V : Les dessins et modèles<a id=270></a>
+## Livre V : Les dessins et modèles<a id=272></a>
 
-### Titre Ier : Acquisition des droits<a id=271></a>
+### Titre Ier : Acquisition des droits<a id=273></a>
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=272></a>
+#### Chapitre Ier : Droits et oeuvres protégés<a id=274></a>
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=273></a>
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=275></a>
 
 ###### Article R511-1
 
@@ -38852,7 +39135,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=274></a>
+#### Chapitre II : Formalités de dépôt<a id=276></a>
 
 ###### Article R*512-9-3
 
@@ -39748,7 +40031,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=275></a>
+#### Chapitre III : Durée de la protection<a id=277></a>
 
 ###### Article R*513-1-2
 
@@ -39925,9 +40208,9 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 28 () JORF 3 mars 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=276></a>
+#### Chapitre IV : Dispositions communes<a id=278></a>
 
-##### Section 1 : Procédure<a id=277></a>
+##### Section 1 : Procédure<a id=279></a>
 
 ###### Article R514-1
 
@@ -40103,7 +40386,7 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-##### Section 2 : Dispositions transitoires<a id=278></a>
+##### Section 2 : Dispositions transitoires<a id=280></a>
 
 ###### Article R514-6
 
@@ -40149,11 +40432,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=279></a>
+### Titre II : Contentieux<a id=281></a>
 
-#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=280></a>
+#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=282></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=281></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=283></a>
 
 ###### Article R521-1
 
@@ -40176,7 +40459,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-6
 
 
-##### Section 2 : Mesures probatoires<a id=282></a>
+##### Section 2 : Mesures probatoires<a id=284></a>
 
 ###### Article R521-2
 
@@ -40243,7 +40526,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 5
 
 
-##### Section 3 : Dispositions communes<a id=283></a>
+##### Section 3 : Dispositions communes<a id=285></a>
 
 ###### Article D521-6
 
@@ -40263,7 +40546,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=284></a>
+#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=286></a>
 
 ###### Article R522-1
 
@@ -40287,7 +40570,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-2 (V)
 
 
-#### Chapitre III : Retenue en douane<a id=285></a>
+#### Chapitre III : Retenue en douane<a id=287></a>
 
 ###### Article R523-1
 
@@ -40314,15 +40597,15 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-14
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=286></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=288></a>
 
-### Titre Ier : Brevets d'invention<a id=287></a>
+### Titre Ier : Brevets d'invention<a id=289></a>
 
-#### Chapitre Ier : Champ d'application<a id=288></a>
+#### Chapitre Ier : Champ d'application<a id=290></a>
 
-##### Section 2 : Droit au titre<a id=289></a>
+##### Section 2 : Droit au titre<a id=291></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=290></a>
+##### Sous-section 1 : Inventions de salariés<a id=292></a>
 
 ###### Article R611-1
 
@@ -40632,7 +40915,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=291></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=293></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -41183,7 +41466,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R611-12 (V)
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=292></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=294></a>
 
 ###### Article R611-15
 
@@ -41357,9 +41640,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=293></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=295></a>
 
-##### Section 1 : Dépôt des demandes<a id=294></a>
+##### Section 1 : Dépôt des demandes<a id=296></a>
 
 ###### Article R612-1
 
@@ -42213,9 +42496,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=295></a>
+##### Section 2 : L'instruction des demandes<a id=297></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=296></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=298></a>
 
 ###### Article R612-26
 
@@ -42457,7 +42740,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=297></a>
+##### Sous-section 2 : Division de la demande<a id=299></a>
 
 ###### Article R612-33
 
@@ -42569,7 +42852,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-45 (V)
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=298></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=300></a>
 
 ###### Article R612-36
 
@@ -42914,7 +43197,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=299></a>
+##### Sous-section 4 : Rejet de la demande<a id=301></a>
 
 ###### Article R612-45
 
@@ -43183,7 +43466,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=300></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=302></a>
 
 ###### Article R612-55
 
@@ -43593,7 +43876,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=301></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=303></a>
 
 ###### Article R*612-73-2
 
@@ -43775,7 +44058,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 8
 
 
-##### Section 3 : Diffusion légale des inventions<a id=302></a>
+##### Section 3 : Diffusion légale des inventions<a id=304></a>
 
 ###### Article R612-74
 
@@ -43829,11 +44112,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=303></a>
+#### Chapitre III : Droits attachés aux brevets<a id=305></a>
 
-##### Section 1 : Droits d'exploitation<a id=304></a>
+##### Section 1 : Droits d'exploitation<a id=306></a>
 
-##### Sous-section 1 : Licences obligatoires<a id=305></a>
+##### Sous-section 1 : Licences obligatoires<a id=307></a>
 
 ###### Article R613-4
 
@@ -43984,7 +44267,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=306></a>
+##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=308></a>
 
 ###### Article R613-10
 
@@ -44446,7 +44729,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=307></a>
+##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=309></a>
 
 ###### Article R613-25-1
 
@@ -44526,7 +44809,7 @@ _Modifié par_:
   - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=308></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=310></a>
 
 ###### Article R613-26
 
@@ -44755,7 +45038,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=309></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=311></a>
 
 ###### Article R613-34
 
@@ -45029,7 +45312,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=310></a>
+##### Sous-section 6 : Dispositions diverses<a id=312></a>
 
 ###### Article R613-43
 
@@ -45083,7 +45366,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=311></a>
+##### Section 2 : Transmission et perte des droits<a id=313></a>
 
 ###### Article R*613-45-2
 
@@ -45365,7 +45648,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=312></a>
+##### Section 4 : Recours en restauration<a id=314></a>
 
 ###### Article R613-52
 
@@ -45429,7 +45712,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 9
 
 
-##### Section 5 : Registre national des brevets<a id=313></a>
+##### Section 5 : Registre national des brevets<a id=315></a>
 
 ###### Article R613-53
 
@@ -45713,7 +45996,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=314></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=316></a>
 
 ###### Article R613-60
 
@@ -45814,7 +46097,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=315></a>
+##### Section 7 : Réduction des redevances<a id=317></a>
 
 ###### Article R613-63
 
@@ -45865,9 +46148,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
-#### Chapitre IV : Application de conventions internationales<a id=316></a>
+#### Chapitre IV : Application de conventions internationales<a id=318></a>
 
-##### Section 1 : Brevets européens<a id=317></a>
+##### Section 1 : Brevets européens<a id=319></a>
 
 ###### Article R614-1
 
@@ -46288,7 +46571,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=318></a>
+##### Section 2 : Demandes internationales<a id=320></a>
 
 ###### Article R614-21
 
@@ -46620,7 +46903,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre IV bis : La retenue<a id=319></a>
+#### Chapitre IV bis : La retenue<a id=321></a>
 
 ###### Article R614-36
 
@@ -46662,9 +46945,9 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 3
 
 
-#### Chapitre V : Actions en justice<a id=320></a>
+#### Chapitre V : Actions en justice<a id=322></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=321></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=323></a>
 
 ###### Article R615-1
 
@@ -46700,7 +46983,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=322></a>
+##### Section 2 : Mesures probatoires<a id=324></a>
 
 ###### Article R615-2
 
@@ -46856,7 +47139,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (V)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=323></a>
+##### Section 3 : Commission paritaire de conciliation<a id=325></a>
 
 ###### Article R615-6
 
@@ -47559,7 +47842,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (V)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=324></a>
+#### Chapitre VI : Le certificat d'utilité<a id=326></a>
 
 ###### Article R616-1
 
@@ -47641,7 +47924,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60 (V)
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=325></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=327></a>
 
 ###### Article R*617-2-2
 
@@ -47726,9 +48009,9 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 10
 
 
-#### Chapitre VIII : Dispositions communes<a id=326></a>
+#### Chapitre VIII : Dispositions communes<a id=328></a>
 
-##### Section unique : Procédure<a id=327></a>
+##### Section unique : Procédure<a id=329></a>
 
 ###### Article R618-1
 
@@ -47912,9 +48195,9 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Protection des connaissances techniques<a id=328></a>
+### Titre II : Protection des connaissances techniques<a id=330></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=329></a>
+#### Chapitre II : Produits semi-conducteurs<a id=331></a>
 
 ###### Article R*622-3-2
 
@@ -48165,11 +48448,11 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-#### Chapitre III : Obtentions végétales<a id=330></a>
+#### Chapitre III : Obtentions végétales<a id=332></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=331></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=333></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=332></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=334></a>
 
 ###### Article R623-1
 
@@ -48607,7 +48890,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=333></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=335></a>
 
 ###### Article R623-16
 
@@ -48829,7 +49112,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=334></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=336></a>
 
 ###### Article R623-25
 
@@ -48965,7 +49248,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances annuelles<a id=335></a>
+##### Sous-section 4 : Redevances annuelles<a id=337></a>
 
 ###### Article R623-31
 
@@ -49119,7 +49402,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=336></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=338></a>
 
 ###### Article R623-36
 
@@ -49176,7 +49459,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=337></a>
+##### Sous-section 6 : Registres nationaux<a id=339></a>
 
 ###### Article R623-38
 
@@ -49373,7 +49656,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=338></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=340></a>
 
 ###### Article R623-43
 
@@ -49543,7 +49826,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=339></a>
+##### Sous-section 8 : Dispositions diverses<a id=341></a>
 
 ###### Article R623-48
 
@@ -49750,7 +50033,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=340></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=342></a>
 
 ###### Article D623-58-1
 
@@ -49806,7 +50089,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 bis : Semences de ferme<a id=341></a>
+##### Section 2 bis : Semences de ferme<a id=343></a>
 
 ###### Article R623-59
 
@@ -49879,7 +50162,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : La retenue<a id=342></a>
+##### Section 3 : La retenue<a id=344></a>
 
 ###### Article R623-60
 
@@ -49897,9 +50180,9 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=343></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=345></a>
 
-#### Chapitre unique<a id=344></a>
+#### Chapitre unique<a id=346></a>
 
 ###### Article D631-1
 
@@ -50008,11 +50291,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=345></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=347></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=346></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=348></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=347></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=349></a>
 
 ###### Article D712-29
 
@@ -51141,7 +51424,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=348></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=350></a>
 
 ###### Article R714-1
 
@@ -51540,7 +51823,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=349></a>
+#### Chapitre V : Marques collectives<a id=351></a>
 
 ###### Article R715-1
 
@@ -51585,9 +51868,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=350></a>
+#### Chapitre VI : Contentieux<a id=352></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=351></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=353></a>
 
 ###### Article R716-1
 
@@ -51614,7 +51897,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-##### Section 2 :  Mesures probatoires<a id=352></a>
+##### Section 2 :  Mesures probatoires<a id=354></a>
 
 ###### Article R716-2
 
@@ -51684,7 +51967,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 
-##### Section 3 : Retenue en douane<a id=353></a>
+##### Section 3 : Retenue en douane<a id=355></a>
 
 ###### Article R716-6
 
@@ -51711,7 +51994,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L716-8
 
 
-##### Section 4 : Dispositions communes<a id=354></a>
+##### Section 4 : Dispositions communes<a id=356></a>
 
 ###### Article D716-12
 
@@ -51731,9 +52014,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=355></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=357></a>
 
-##### Section 1 : Marque internationale<a id=356></a>
+##### Section 1 : Marque internationale<a id=358></a>
 
 ###### Article R*717-1-1
 
@@ -52000,7 +52283,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque communautaire<a id=357></a>
+##### Section 2 : Marque communautaire<a id=359></a>
 
 ###### Article R*717-10-1
 
@@ -52098,9 +52381,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VD)
 
 
-#### Chapitre VIII : Dispositions communes<a id=358></a>
+#### Chapitre VIII : Dispositions communes<a id=360></a>
 
-##### Section unique<a id=359></a>
+##### Section unique<a id=361></a>
 
 ###### Article R718-1
 
@@ -52241,11 +52524,11 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Indications géographiques<a id=360></a>
+### Titre II : Indications géographiques<a id=362></a>
 
-#### Chapitre Ier : Généralités<a id=361></a>
+#### Chapitre Ier : Généralités<a id=363></a>
 
-##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=362></a>
+##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=364></a>
 
 ###### Article R*721-6-1
 
@@ -52700,9 +52983,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R718-2
 
 
-#### Chapitre II : Contentieux<a id=363></a>
+#### Chapitre II : Contentieux<a id=365></a>
 
-##### Section 1 : Actions civiles<a id=364></a>
+##### Section 1 : Actions civiles<a id=366></a>
 
 ###### Article D722-6
 
@@ -52805,7 +53088,7 @@ certains éléments.
   - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
 
 
-##### Section 2 : La retenue<a id=365></a>
+##### Section 2 : La retenue<a id=367></a>
 
 ###### Article R722-7
 
@@ -52826,11 +53109,11 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=366></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=368></a>
 
-### Titre unique<a id=367></a>
+### Titre unique<a id=369></a>
 
-#### Chapitre unique<a id=368></a>
+#### Chapitre unique<a id=370></a>
 
 ###### Article R811-1
 
