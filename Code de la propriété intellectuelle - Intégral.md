@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-06-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -199,7 +199,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
         - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. R133-1 à R133-2)](#195)
         - [Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-11)](#196)
           - [Section 1 : Registre des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-4)](#197)
-          - [Section 2 : Procédure (art. R134-5 à R134-11)](#198)
+          - [Section 2 : Procédure (art. R134-11)](#198)
         - [Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines (art. R135-1 à R135-4)](#199)
     - [Livre II : Les droits voisins du droit d'auteur (art. R211-1 à R214-18)](#200)
       - [Titre unique (art. R211-1 à R214-18)](#201)
@@ -213,189 +213,184 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
         - [Chapitre unique (art. D311-8 à R311-12)](#209)
           - [Section 1 : Commission prévue à l'article L. 311-5 (art. D311-8 à R311-7)](#210)
           - [Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée (art. R311-9 à R311-12)](#211)
-      - [Titre II : Sociétés de perception et de répartition des droits (art. R321-1 à R329-12)](#212)
+      - [Titre II : Gestion des droits d'auteur et des droits voisins par un organisme (art. R321-1 à R329-12)](#212)
         - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-2)](#213)
           - [Section 1 : Organismes de gestion collective (art. R321-1)](#214)
           - [Section 2 :  Organismes de gestion indépendants (art. R321-2)](#215)
-        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#216)
-        - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence (art. R329-1 à R329-6)](#217)
-        - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée (art. R329-7 à R329-12)](#218)
-      - [Titre II : Gestion des droits d'auteur et des droits voisins par un organisme (art.  à R327-6)](#219)
-        - [Chapitre Ier : Dispositions générales (art.  à R329-12)](#220)
-        - [Chapitre Ier ter : Organisations des organismes de gestion collective (art. R321-3 à R321-4)](#221)
-          - [Section 2 :  Décisions collectives des membres (art. R321-3 à R321-4)](#222)
-        - [Chapitre Ier quater : Gestion des droits (art. R321-5 à R321-7)](#223)
-          - [Section 2 :  Gestion des revenus issus de l'exploitation des droits (art. R321-5 à R321-7)](#224)
-        - [Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales (art. R321-8 à R321-13)](#225)
-        - [Chapitre Ier sexies : Transparence et procédures de contrôle (art. R321-14 à R321-23)](#226)
-          - [Section 1 : Transparence et obligations d'information (art. R321-14 à R321-21)](#227)
-          - [Section 3 :  Contrôle par le ministère chargé de la culture (art. R321-22 à R321-23)](#228)
-        - [Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins (art. R321-24 à R321-47)](#229)
-          - [Section 2 :  Règles de fonctionnement (art. R321-24 à R321-25)](#230)
-          - [Section 3 :  Procédure (art. R321-26 à R321-45)](#231)
-            - [Sous-section 1 : Règles générales de procédure (art. R321-26 à R321-27)](#232)
-            - [Sous-section 2 :  Procédure de contrôle des comptes et de la gestion (art. R321-28 à R321-30)](#233)
-            - [Sous-section 3 :  Procédure de sanction (art. R321-31 à R321-34)](#234)
-            - [Sous-section 4 :  Procédure de médiation (art. R321-35 à R321-45)](#235)
-          - [Section 4 :  Voies de recours (art. R321-46 à R321-47)](#236)
-        - [Chapitre Ier octies : Dispositions diverses (art. R321-48)](#237)
-        - [Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#238)
-        - [Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#239)
-        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art.  à R323-5)](#240)
-        - [Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R325-1 à R325-7)](#241)
-        - [Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle (art. R326-1 à R326-7)](#242)
-        - [Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes (art. R327-1 à R327-6)](#243)
-        - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence (art.  à R327-6)](#244)
-        - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée (art.  à R327-6)](#245)
-      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#246)
-        - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#247)
-          - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#248)
-          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à R331-95)](#249)
-            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à D331-34)](#250)
-              - [Paragraphe 1 : Le collège de la Haute Autorité (art. D331-5 à R331-4)](#251)
-              - [Paragraphe 2 : La commission de protection des droits (art. D331-8 à R331-7)](#252)
-              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. D331-13 à R331-14)](#253)
-              - [Paragraphe 4 : Dispositions relatives au personnel (art. R331-15 à R331-19)](#254)
-              - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#255)
-              - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#256)
-            - [Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. R331-35 à R331-46)](#257)
-            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. D331-54-1 à R331-54)](#258)
-            - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés (art. R331-55 à R331-84)](#259)
-              - [Paragraphe 1 : Règles générales de procédure (art. R331-56 à R331-64)](#260)
-              - [Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-65 à R331-71)](#261)
-              - [Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées (art. R331-72 à R331-73)](#262)
-              - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#263)
-              - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#264)
-            - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#265)
-        - [Chapitre II : Saisie-contrefaçon (art. R332-2 à R332-4)](#266)
-        - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#267)
-        - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#268)
-      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#269)
-      - [Chapitre III : Procédures et sanctions (art. R343-1)](#270)
-    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#271)
-      - [Titre Ier : Institutions (art. D411-1-3 à R412-21)](#272)
-        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#273)
-          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#274)
-          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#275)
-          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. D411-19-1 à R411-26)](#276)
-        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#277)
-          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#278)
-          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#279)
-      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#280)
-        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#281)
-        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#282)
-          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#283)
-          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#284)
-          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#285)
-          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#286)
-            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#287)
-            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#288)
-            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#289)
-            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#290)
-            - [Sous-section 5 : Sociétés pluri-professionnelles d'exercice (art. R422-51-15 à R422-51-19)](#291)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#292)
-          - [Section 4 bis : Contrôle de l'exercice de la profession (art. R422-55-2 à R422-55-5)](#293)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#294)
-        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#295)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#296)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#297)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#298)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#299)
-        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#300)
-        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#301)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#302)
-          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#303)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#304)
-      - [Titre II : Contentieux (art. R521-1 à R523-1)](#305)
-        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#306)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#307)
-          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#308)
-          - [Section 3 : Dispositions communes (art. D521-6)](#309)
-        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#310)
-        - [Chapitre III : Retenue en douane (art. R523-1)](#311)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#312)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#313)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#314)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#315)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#316)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#317)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#318)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#319)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#320)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-1)](#321)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#322)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#323)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#324)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#325)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#326)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#327)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#328)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#329)
-          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#330)
-            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#331)
-            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#332)
-            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#333)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#334)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#335)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#336)
-          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#337)
-          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#338)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#339)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#340)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#341)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#342)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#343)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#344)
-        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#345)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#346)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#347)
-          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#348)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#349)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#350)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#351)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#352)
-          - [Section unique : Procédure (art. R618-1 à R618-6)](#353)
-      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#354)
-        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#355)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#356)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#357)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#358)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#359)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#360)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#361)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#362)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#363)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#364)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#365)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#366)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#367)
-          - [Section 3 : La retenue (art. R623-60)](#368)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#369)
-        - [Chapitre unique (art. D631-1 à D631-2)](#370)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#371)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#372)
-        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#373)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#374)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#375)
-        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#376)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#377)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#378)
-          - [Section 3 : Retenue en douane (art. R716-6)](#379)
-          - [Section 4 : Dispositions communes (art. D716-12)](#380)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#381)
-          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#382)
-          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#383)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#384)
-          - [Section unique (art. R718-1 à R718-5)](#385)
-      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#386)
-        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#387)
-          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#388)
-        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#389)
-          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#390)
-          - [Section 2 : La retenue (art. R722-7)](#391)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#392)
-      - [Titre unique (art. R811-1 à R811-3)](#393)
-        - [Chapitre unique (art. R811-1 à R811-3)](#394)
+        - [Chapitre Ier ter : Organisations des organismes de gestion collective (art. R321-3 à R321-4)](#216)
+          - [Section 2 :  Décisions collectives des membres (art. R321-3 à R321-4)](#217)
+        - [Chapitre Ier quater : Gestion des droits (art. R321-5 à R321-7)](#218)
+          - [Section 2 :  Gestion des revenus issus de l'exploitation des droits (art. R321-5 à R321-7)](#219)
+        - [Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales (art. R321-8 à R321-13)](#220)
+        - [Chapitre Ier sexies : Transparence et procédures de contrôle (art. R321-14 à R321-23)](#221)
+          - [Section 1 : Transparence et obligations d'information (art. R321-14 à R321-21)](#222)
+          - [Section 3 :  Contrôle par le ministère chargé de la culture (art. R321-22 à R321-23)](#223)
+        - [Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins (art. R321-24 à R321-47)](#224)
+          - [Section 2 :  Règles de fonctionnement (art. R321-24 à R321-25)](#225)
+          - [Section 3 :  Procédure (art. R321-26 à R321-45)](#226)
+            - [Sous-section 1 : Règles générales de procédure (art. R321-26 à R321-27)](#227)
+            - [Sous-section 2 :  Procédure de contrôle des comptes et de la gestion (art. R321-28 à R321-30)](#228)
+            - [Sous-section 3 :  Procédure de sanction (art. R321-31 à R321-34)](#229)
+            - [Sous-section 4 :  Procédure de médiation (art. R321-35 à R321-45)](#230)
+          - [Section 4 :  Voies de recours (art. R321-46 à R321-47)](#231)
+        - [Chapitre Ier octies : Dispositions diverses (art. R321-48)](#232)
+        - [Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#233)
+        - [Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#234)
+        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#235)
+        - [Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R325-1 à R325-7)](#236)
+        - [Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle (art. R326-1 à R326-7)](#237)
+        - [Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes (art. R327-1 à R327-6)](#238)
+        - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence (art. R329-1 à R329-6)](#239)
+        - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée (art. R329-7 à R329-12)](#240)
+      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#241)
+        - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#242)
+          - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#243)
+          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à R331-95)](#244)
+            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à D331-34)](#245)
+              - [Paragraphe 1 : Le collège de la Haute Autorité (art. D331-5 à R331-4)](#246)
+              - [Paragraphe 2 : La commission de protection des droits (art. D331-8 à R331-7)](#247)
+              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. D331-13 à R331-14)](#248)
+              - [Paragraphe 4 : Dispositions relatives au personnel (art. R331-15 à R331-19)](#249)
+              - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#250)
+              - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#251)
+            - [Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. R331-35 à R331-46)](#252)
+            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. D331-54-1 à R331-54)](#253)
+            - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés (art. R331-55 à R331-84)](#254)
+              - [Paragraphe 1 : Règles générales de procédure (art. R331-56 à R331-64)](#255)
+              - [Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-65 à R331-71)](#256)
+              - [Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées (art. R331-72 à R331-73)](#257)
+              - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#258)
+              - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#259)
+            - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#260)
+        - [Chapitre II : Saisie-contrefaçon (art. R332-2 à R332-4)](#261)
+        - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#262)
+        - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#263)
+      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#264)
+      - [Chapitre III : Procédures et sanctions (art. R343-1)](#265)
+    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#266)
+      - [Titre Ier : Institutions (art. D411-1-3 à R412-21)](#267)
+        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#268)
+          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#269)
+          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#270)
+          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. D411-19-1 à R411-26)](#271)
+        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#272)
+          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#273)
+          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#274)
+      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#275)
+        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#276)
+        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#277)
+          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#278)
+          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#279)
+          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#280)
+          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#281)
+            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#282)
+            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#283)
+            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#284)
+            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#285)
+            - [Sous-section 5 : Sociétés pluri-professionnelles d'exercice (art. R422-51-15 à R422-51-19)](#286)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#287)
+          - [Section 4 bis : Contrôle de l'exercice de la profession (art. R422-55-2 à R422-55-5)](#288)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#289)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#290)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#291)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#292)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#293)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#294)
+        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#295)
+        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#296)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#297)
+          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#298)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#299)
+      - [Titre II : Contentieux (art. R521-1 à R523-1)](#300)
+        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#301)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#302)
+          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#303)
+          - [Section 3 : Dispositions communes (art. D521-6)](#304)
+        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#305)
+        - [Chapitre III : Retenue en douane (art. R523-1)](#306)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#307)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#308)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#309)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#310)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#311)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#312)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#313)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#314)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#315)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-1)](#316)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#317)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#318)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#319)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#320)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#321)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#322)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#323)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#324)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#325)
+            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#326)
+            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#327)
+            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#328)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#329)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#330)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#331)
+          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#332)
+          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#333)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#334)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#335)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#336)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#337)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#338)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#339)
+        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#340)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#341)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#342)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#343)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#344)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#345)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#346)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#347)
+          - [Section unique : Procédure (art. R618-1 à R618-6)](#348)
+      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#349)
+        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#350)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#351)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#352)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#353)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#354)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#355)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#356)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#357)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#358)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#359)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#360)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#361)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#362)
+          - [Section 3 : La retenue (art. R623-60)](#363)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#364)
+        - [Chapitre unique (art. D631-1 à D631-2)](#365)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#366)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#367)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#368)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#369)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#370)
+        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#371)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#372)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#373)
+          - [Section 3 : Retenue en douane (art. R716-6)](#374)
+          - [Section 4 : Dispositions communes (art. D716-12)](#375)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#376)
+          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#377)
+          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#378)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#379)
+          - [Section unique (art. R718-1 à R718-5)](#380)
+      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#381)
+        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#382)
+          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#383)
+        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#384)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#385)
+          - [Section 2 : La retenue (art. R722-7)](#386)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#387)
+      - [Titre unique (art. R811-1 à R811-3)](#388)
+        - [Chapitre unique (art. R811-1 à R811-3)](#389)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -27859,168 +27854,6 @@ _Créé par_:
 
 ##### Section 2 : Procédure<a id=198></a>
 
-###### Article R134-5
-
-L'opposition prévue au premier et au troisième alinéa du I de l'article L. 134-4, l'opposition prévue au cinquième alinéa de
-l'article L. 134-5, la demande de retrait prévue aux deux premiers alinéas de l'article L. 134-6 et la demande de retrait
-prévue au troisième alinéa de l'article L. 134-8 sont présentées par lettre recommandée avec demande d'avis de réception ou
-par voie électronique avec demande d'accusé de réception. 
-
-A l'appui de son opposition ou de sa demande de retrait, l'auteur produit la copie d'une pièce d'identité et une déclaration
-sur l'honneur attestant sa qualité. 
-
-A l'appui de son opposition, l'ayant droit de l'auteur doit justifier de son identité en produisant une copie d'une pièce
-d'identité et adresser un acte de notoriété prouvant sa qualité d'ayant droit. 
-
-A l'appui de son opposition ou de sa demande de retrait, l'éditeur communique toute pièce de nature à justifier de sa qualité
-d'éditeur du livre concerné.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2013-182 du 27 février 2013 - art. 1
-
-_Annulé par_:
-
-  - Décision n°368208 du 7 juin 2017, v. init.
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L134-4
-  - Code de la propriété intellectuelle - art. L134-5 (V)
-  - Code de la propriété intellectuelle - art. L134-6 (V)
-  - Code de la propriété intellectuelle - art. L134-8 (V)
-
-
-###### Article R134-6
-
-L'opposition prévue au premier alinéa du I de l'article L. 134-4 s'exerce auprès de la Bibliothèque nationale de France. Dès
-réception, la Bibliothèque nationale de France inscrit dans la base de données publique créée par l'article L. 134-2 une
-mention selon laquelle le livre fait l'objet d'une déclaration d'opposition en cours d'instruction. Elle en informe les
-organismes de gestion collective agréés mentionnés à l'article L. 134-3 et leur communique les pièces produites à l'appui de
-l'opposition dans un délai d'un mois.
-
-Faute pour ces organismes d'établir dans les trois mois suivant la communication de ces pièces que la déclaration
-d'opposition a été présentée par une personne n'ayant pas qualité pour ce faire, la Bibliothèque nationale de France inscrit
-dans la base de données publique créée par l'article L. 134-2 une mention selon laquelle ils ne peuvent exercer le droit
-d'autoriser la reproduction et la représentation sous forme numérique du livre concerné.
-
-Si la déclaration d'opposition émane de l'auteur du livre indisponible, la Bibliothèque nationale de France cesse de rendre
-accessible au public les données et informations relatives à ce livre.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Annulé par_:
-
-  - Décision n°368208 du 7 juin 2017, v. init.
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L134-2
-  - Code de la propriété intellectuelle - art. L134-3
-  - Code de la propriété intellectuelle - art. L134-4
-
-
-###### Article R134-7
-
-L'opposition prévue au troisième alinéa du I de l'article L. 134-4 s'exerce auprès de l'organisme de gestion collective
-mentionné à l'article L. 134-3. A défaut d'établir dans les trois mois suivant la réception de ces pièces que la déclaration
-d'opposition a été présentée par une personne n'ayant pas qualité pour ce faire, l'organisme en informe la Bibliothèque
-nationale de France, qui cesse de rendre accessibles au public les données et informations relatives à ce livre.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Annulé par_:
-
-  - Décision n°368208 du 7 juin 2017, v. init.
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L134-3
-  - Code de la propriété intellectuelle - art. L134-4
-
-
-###### Article R134-8
-
-L'opposition prévue au cinquième alinéa de l'article L. 134-5 s'exerce auprès de l'organisme de gestion collective mentionné
-à l'article L. 134-3. A l'appui de son opposition, l'auteur produit tout élément probant de nature à établir que l'éditeur ne
-dispose pas du droit de reproduction du livre concerné sous une forme imprimée. L'organisme communique ces éléments à
-l'éditeur, qui dispose d'un délai d'un mois pour présenter ses observations. A défaut d'établir dans les trois mois suivant
-la réception de ces pièces que la déclaration d'opposition n'est étayée d'aucun élément probant, l'organisme retire
-l'autorisation délivrée à l'éditeur.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Annulé par_:
-
-  - Décision n°368208 du 7 juin 2017, v. init.
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L134-3
-  - Code de la propriété intellectuelle - art. L134-5
-
-
-###### Article R134-9
-
-La demande de retrait prévue au deuxième alinéa de l'article L. 134-6 s'exerce auprès de l'organisme de gestion collective
-mentionné à l'article L. 134-3. Lorsque l'auteur du livre soutient être seul titulaire des droits définis à l'article L.
-134-3, il produit à l'appui de sa demande de retrait tout élément probant de nature à l'établir. L'organisme communique ces
-éléments à l'éditeur, s'il existe. Ce dernier dispose alors d'un délai d'un mois pour présenter ses observations. A défaut
-d'établir dans les trois mois suivant la réception de la demande de retrait que cette demande a été présentée par une
-personne n'ayant pas qualité pour ce faire ou l'ayant fait à tort, l'organisme perd le droit prévu au I de l'article L.
-134-3.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Annulé par_:
-
-  - Décision n°368208 du 7 juin 2017, v. init.
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L134-3
-  - Code de la propriété intellectuelle - art. L134-6
-
-
-###### Article R134-10
-
-Lorsque le droit prévu au I de l'article L. 134-3 lui est retiré, l'organisme en informe la Bibliothèque nationale de France,
-qui inscrit la mention de ce retrait dans la base de données publique créée par l'article L. 134-2.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Annulé par_:
-
-  - Décision n°368208 du 7 juin 2017, v. init.
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L134-2
-  - Code de la propriété intellectuelle - art. L134-3
-
-
 ###### Article R134-11
 
 Les mesures de publicité mentionnées à l'article L. 134-7 comportent une campagne d'information menée à l'initiative du
@@ -29127,7 +28960,7 @@ _Cite_:
   - Code de la consommation - art. R141-4
 
 
-### Titre II : Sociétés de perception et de répartition des droits<a id=212></a>
+### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme<a id=212></a>
 
 #### Chapitre Ier : Dispositions générales<a id=213></a>
 
@@ -29200,7 +29033,1567 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R321-6-4 (Ab)
 
 
-#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=216></a>
+#### Chapitre Ier ter : Organisations des organismes de gestion collective<a id=216></a>
+
+##### Section 2 :  Décisions collectives des membres<a id=217></a>
+
+###### Article R321-3
+
+Les membres de l'assemblée peuvent être convoqués soit par lettre recommandée avec demande d'avis de réception, soit par voie
+électronique avec demande d'accusé de réception, soit par un avis inséré dans deux journaux au moins, de diffusion nationale,
+habilités à recevoir les annonces légales dans le département du siège social et qui sont déterminés par une délibération de
+l'assemblée générale. Toute modification de la liste de ces journaux intervenant entre deux assemblées générales est portée à
+la connaissance des membres par tout moyen approprié.
+
+Tout membre peut demander à être convoqué individuellement aux assemblées ou à certaines d'entre elles par lettre recommandée
+avec demande d'avis de réception.
+
+Lorsque la convocation est faite par un autre moyen, les frais de cet envoi recommandé sont à la charge de l'intéressé.
+
+Les membres sont convoqués quinze jours au moins avant la date de l'assemblée.
+
+La convocation précise l'ordre du jour, la date et le lieu de réunion de l'assemblée.
+
+Lorsque les statuts prévoient que certaines assemblées doivent être tenues selon des conditions particulières de quorum ou de
+majorité, il est fait mention de ces conditions dans la convocation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Cite_:
+
+  - Décret n°78-704 du 3 juillet 1978 - art. 40
+
+_Anciens textes_:
+
+  - Décret n°86-1074 du 26 septembre 1986 - art. 4 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-4 (V)
+
+
+###### Article R321-4
+
+La date de l'assemblée générale annuelle prévue à l'article L. 323-5 est déterminée par les statuts. Lorsque cette assemblée
+ne peut être tenue dans les conditions prévues par les statuts, les membres doivent en être prévenus au moins quinze jours
+avant la date limite statutairement prévue pour sa tenue, dans les formes prévues à l'article R. 321-3. Ils sont informés à
+cette occasion des motifs du report ainsi que de la date à laquelle l'assemblée se tiendra.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-1074 du 26 septembre 1986 - art. 5 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R321-3 (V)
+  - Code civil - art. 1856
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+#### Chapitre Ier quater : Gestion des droits<a id=218></a>
+
+##### Section 2 :  Gestion des revenus issus de l'exploitation des droits<a id=219></a>
+
+###### Article R321-5
+
+La liste mentionnée à l'article L. 324-14 précise au moins, sauf impossibilité, les éléments suivants pour chaque œuvre ou
+objet protégé :
+
+1° Le titre ;
+
+2° Le nom du ou des titulaires de droits lorsqu'ils sont connus mais n'ont pu être localisés ;
+
+3° Le nom de l'éditeur ou du producteur d'origine ;
+
+4° Toute autre information pertinente disponible qui pourrait faciliter l'identification du ou des titulaires de droits.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°86-1074 du 26 septembre 1986 - art. 6 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-6
+
+I.-L'aide à la création mentionnée à l'article L. 324-17 s'entend des concours apportés :
+
+1° A la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou d'une interprétation sur un
+phonogramme ou un vidéogramme ;
+
+2° A des actions de défense, de promotion et d'information engagées dans l'intérêt des créateurs et de leurs œuvres.
+
+II.-L'aide à la diffusion du spectacle vivant mentionnée à l'article L. 324-17 s'entend des concours apportés :
+
+1° A des manifestations présentant, à titre principal ou accessoire, un spectacle vivant ;
+
+2° A des actions propres à assurer la diffusion des œuvres et des prestations artistiques du spectacle vivant.
+
+III.-L'aide à la formation d'artistes mentionnée à l'article L. 324-17 s'entend des concours apportés à des actions de
+formation professionnelle des auteurs et des artistes-interprètes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-9 du 4 janvier 1978
+  - Décret n°78-704 du 3 juillet 1978 - art. 48
+
+_Anciens textes_:
+
+  - Décret n°86-1074 du 26 septembre 1986 - art. 7 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-6-1 (Ab)
+  - Code de la propriété intellectuelle - art. R321-6-2 (V)
+  - Code de la propriété intellectuelle - art. R321-6-4 (Ab)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R321-7
+
+Toute aide allouée par un organisme de gestion collective en application de l'article L. 324-17 fait l'objet d'une convention
+entre l'organisme et le bénéficiaire. Cette convention prévoit les conditions d'utilisation du concours apporté ainsi que
+celles dans lesquelles le bénéficiaire communique à l'organisme les éléments permettant de justifier que l'aide est utilisée
+conformément à sa destination.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L321-7
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°86-1074 du 26 septembre 1986 - art. 1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+#### Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales<a id=220></a>
+
+###### Article R321-8
+
+I. – Pour pouvoir octroyer des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales,
+les organismes de gestion collective doivent respecter les conditions suivantes :
+
+1° Disposer des moyens matériels et techniques permettant d'identifier avec précision, en tout ou partie :
+
+a) Les œuvres musicales pour lesquelles ces autorisations d'exploitation sont octroyées ;
+
+b) Les droits et les titulaires de droits correspondant à chaque œuvre musicale ou partie d'œuvre musicale, pour chacun des
+territoires couverts par ces autorisations d'exploitation ;
+
+2° Faire usage d'identifiants uniques pour identifier chaque titulaire de droits et chaque œuvre musicale, en tenant compte,
+lorsqu'elles existent, des normes et pratiques sectorielles volontaires élaborées à l'échelle internationale ou au niveau de
+l'Union européenne ;
+
+3° Recourir aux moyens nécessaires pour identifier et corriger les incohérences dans les données détenues par d'autres
+organismes de gestion collective, qui octroient des autorisations d'exploitation multiterritoriales de droits en ligne sur
+des œuvres musicales, en coordination avec ces organismes.
+
+II. – Le traitement des données nécessaires à la gestion des autorisations d'exploitation multiterritoriales de droits en
+ligne sur les œuvres musicales doit être transparent et permettre l'identification des œuvres pour lesquelles ces
+autorisations sont octroyées et le contrôle de leur utilisation en vue de la facturation aux utilisateurs, de la perception
+et de la répartition des revenus dus aux titulaires de droits.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°98-1040 du 18 novembre 1998 - art. 2 (V)
+  - Code de la propriété intellectuelle - art. R321-1 (V)
+  - Code de la propriété intellectuelle - art. R321-10 (V)
+  - Code de la propriété intellectuelle - art. R321-2 (V)
+  - Code de la propriété intellectuelle - art. R321-6-1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L321-12
+  - Code de la propriété intellectuelle - art. R321-9
+
+
+###### Article R321-9
+
+I.-En réponse à une demande motivée, les organismes octroyant des autorisations d'exploitation multiterritoriales de droits
+en ligne sur les œuvres musicales fournissent, par voie électronique, aux prestataires de services en ligne auxquels ils ont
+octroyé une autorisation, aux titulaires des droits qu'ils gèrent et aux autres organismes de gestion collective, des
+informations actualisées permettant l'identification du répertoire de musique en ligne qu'ils représentent. Ces informations
+concernent :
+
+1° Les œuvres musicales pour lesquelles ces autorisations ont été octroyées ;
+
+2° Les droits gérés au titre de ces autorisations ;
+
+3° Les territoires couverts par ces autorisations.
+
+II.-Aux fins de la collecte des informations mentionnées au I, les organismes octroyant des autorisations d'exploitation
+multiterritoriales de droits en ligne sur les œuvres musicales permettent à l'ensemble des titulaires de droits pour lesquels
+ils gèrent les droits en ligne de leur communiquer ces informations par voie électronique. La communication des informations
+mentionnées au I respecte, lorsqu'elles existent, les normes et pratiques sectorielles volontaires élaborées à l'échelle
+internationale ou au niveau de l'Union européenne en matière d'échange de données.
+
+III.-Les dispositions prévues au II s'appliquent lorsque les autorisations d'exploitation sont octroyées au titre d'un accord
+de représentation conformément à l'article L. 325-3, à moins que les organismes en cause ne conviennent entre eux et pour les
+relations qu'ils entretiennent, d'autres modalités techniques de recueil des données.
+
+IV.-Dans la mise en œuvre du I, les organismes sollicités peuvent, s'ils l'estiment nécessaire, prendre les mesures
+appropriées pour préserver l'exactitude et l'intégrité des données, contrôler leur réutilisation et protéger les informations
+relevant du secret des affaires.
+
+V.-Les titulaires de droits, les prestataires de services en ligne et les autres organismes peuvent demander à l'organisme
+qui gère leurs droits en ligne sur des œuvres musicales, de rectifier les informations mentionnées au I du présent article et
+au I de l'article R. 321-8. Cette demande doit être motivée et accompagnée des pièces justificatives. Dans ce cas,
+l'organisme saisi de la demande procède à la rectification des informations erronées dans un délai n'excédant pas trois mois.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L321-9
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-8 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R321-10
+
+I. – Les organismes de gestion collective contrôlent l'utilisation des droits par les prestataires de services en ligne
+auxquels ils ont octroyé des autorisations d'exploitation multiterritoriales de droits en ligne sur des œuvres musicales. Les
+contrats conclus avec ces prestataires de services prévoient des modalités appropriées permettant aux organismes de gestion
+collective de contrôler effectivement l'utilisation des droits. 
+
+II. – Les organismes octroyant des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres
+musicales permettent aux prestataires de services en ligne de déclarer l'utilisation effective de ces droits par voie
+électronique. 
+
+Les organismes mettent à leur disposition au moins une méthode de déclaration conforme à des normes ou pratiques sectorielles
+volontaires élaborées à l'échelle internationale ou au niveau de l'Union européenne en matière d'échange par voie
+électronique de ce type de données. 
+
+III. – Dès lors que l'organisme a proposé au prestataire de services en ligne une méthode conformément au second alinéa du
+II, il peut refuser les déclarations réalisées dans un autre format. 
+
+IV. – Dans un délai de six mois après la déclaration, l'organisme établit la facture relative à l'utilisation déclarée, à
+moins que des motifs imputables au prestataire de services en ligne ne l'en empêchent. 
+
+V. – La facture établie en application des dispositions du présent code doit respecter un format conforme à des normes ou
+pratiques sectorielles volontaires mentionnées au second alinéa du II. 
+
+Elle indique les œuvres et les droits pour lesquels une autorisation d'exploitation multiterritoriale a été octroyée en tout
+ou en partie, en se fondant sur les informations mentionnées au I de l'article R. 321-8, et, dans la mesure du possible,
+l'exploitation effective qui en a été faite, sur la base des informations fournies par le prestataire de services en ligne,
+ainsi que le format utilisé pour fournir ces informations. 
+
+VI. – L'organisme adresse la facture au prestataire de services en ligne par voie électronique. 
+
+Le prestataire ne peut refuser la facture au seul motif de son format si l'organisme a respecté les dispositions du V du
+présent article. Il peut toutefois contester l'exactitude de la facture par tout moyen approprié que l'organisme met à sa
+disposition.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-8 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-11
+
+I.-Les organismes de gestion collective versent les sommes dues aux titulaires de droits au titre des autorisations
+d'exploitation multiterritoriales de droits en ligne octroyées sur leurs œuvres musicales dans un délai n'excédant pas neuf
+mois à compter de la fin de l'exercice au cours duquel ils ont reçu la déclaration d'utilisation de ces œuvres. Il ne peut
+être dérogé à ce délai et à l'exactitude du montant des versements qu'en raison de causes imputables aux prestataires de
+services en ligne.
+
+II.-Pour chaque versement effectué conformément au I, l'organisme communique au titulaire de droits au moins les informations
+suivantes :
+
+1° La période au cours de laquelle ont eu lieu les utilisations pour lesquelles les sommes lui sont dues, ainsi que les
+territoires dans lesquels ces utilisations ont eu lieu ;
+
+2° Les facturations opérées, les sommes perçues, les déductions effectuées et les sommes réparties par l'organisme pour
+chaque droit en ligne sur toute œuvre musicale que le titulaire de droits l'a autorisé à représenter et pour chaque
+prestataire de services en ligne.
+
+III.-Les dispositions du I s'appliquent aux organismes qui versent des sommes à d'autres organismes au titre d'un accord de
+représentation conformément à l'article L. 325-3. Ils sont également tenus de communiquer à ces organismes les informations
+prévues au II.
+
+L'organisme destinataire verse ces sommes et communique ces informations aux titulaires de droits en cause, à moins que
+l'accord de représentation n'en dispose autrement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-12
+
+I.-L'organisme de gestion collective sollicité par un autre organisme pour assurer la gestion d'autorisations d'exploitation
+multiterritoriales conformément à l'article L. 325-3 donne une réponse écrite dans un délai d'un mois, qui est motivée si
+elle est négative.
+
+II.-Le mandat donné à un organisme de gestion collective par un autre conformément à l'article L. 325-3 résulte de la
+conclusion d'un accord de représentation entre ces deux organismes. Cet accord est non exclusif.
+
+III.-Dans le délai prévu par l'accord de représentation, l'organisme mandataire inclut les œuvres musicales de l'organisme
+mandant dans l'ensemble des offres qu'il propose aux prestataires de services en ligne.
+
+Il informe l'organisme mandant des principales conditions auxquelles les autorisations d'exploitation multiterritoriales de
+droits en ligne sur les œuvres musicales de celui-ci sont octroyées, en précisant la nature de l'exploitation, les éléments
+relatifs à la rémunération de ces autorisations et ceux pouvant avoir une incidence sur cette rémunération, la durée de
+validité des autorisations d'exploitation et les territoires qu'elles couvrent.
+
+IV.-L'organisme mandant informe ses membres des principaux termes de l'accord de représentation, y compris sa durée et le
+coût des services fournis par l'organisme mandataire.
+
+Cette obligation d'information vaut aussi à l'égard des titulaires de droits non-membres de l'organisme mandant dès lors
+qu'ils ont une relation juridique directe avec lui relative aux droits en cause, par l'effet de la loi ou d'un contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-13
+
+I.-Sous réserve des dispositions du présent article, l'organisme mandataire gère les œuvres musicales dont la gestion lui a
+été confiée conformément à l'article L. 325-3 dans les mêmes conditions que celles qu'il applique à la gestion de son propre
+répertoire musical.
+
+II.-Le montant des frais de gestion déduits au titre du service rendu à l'organisme mandant n'excède pas les coûts
+raisonnablement supportés par l'organisme mandataire.
+
+III.-L'organisme mandant met à la disposition de l'organisme mandataire les informations relatives à son propre répertoire
+musical nécessaires à l'octroi des autorisations d'exploitation multiterritoriales en ligne.
+
+Lorsque ces informations sont insuffisantes ou fournies sous une forme qui ne permet pas à l'organisme mandataire de
+respecter les dispositions du présent chapitre, celui-ci peut facturer à l'organisme mandant les coûts supplémentaires liés à
+la mise en conformité avec ces dispositions, ou décider d'exclure de son répertoire les œuvres pour lesquelles les
+informations sont insuffisantes ou inutilisables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+#### Chapitre Ier sexies : Transparence et procédures de contrôle<a id=221></a>
+
+##### Section 1 : Transparence et obligations d'information<a id=222></a>
+
+###### Article R321-14
+
+I.-Les rapports prévus à l'article L. 326-1 sont publiés sur le site internet des organismes de gestion collective concernés
+et sont maintenus sur ce site, à la disposition du public, pendant au moins cinq ans.
+
+II.-Le rapport de transparence annuel comprend les informations suivantes :
+
+1° Les états financiers comprenant un bilan, un compte de résultat, et une annexe, selon des normes fixées par l'Autorité des
+normes comptables ;
+
+2° Un rapport sur les activités de l'exercice ;
+
+3° Le nombre de refus d'octroyer une autorisation d'exploitation conformément aux dispositions du troisième alinéa de
+l'article L. 324-7 et les principales catégories de raisons motivant ces refus ;
+
+4° Une description de la structure juridique et de la gouvernance de l'organisme de gestion collective ;
+
+5° La liste des personnes morales que l'organisme contrôle au sens de l'article L. 233-16 du code de commerce, ainsi que le
+montant du capital, la quote-part de capital détenue, le résultat du dernier exercice clos, et la valeur comptable nette et
+brute des titres détenus ;
+
+6° Le montant total de la rémunération versée au cours de l'année précédente, d'une part, aux personnes mentionnées au
+premier alinéa de l'article L. 323-13 et, d'autre part, aux membres de l'organe de surveillance, ainsi que les autres
+avantages qui leur ont été octroyés ;
+
+7° Le montant des revenus provenant de l'exploitation des droits, ventilés par catégorie de droits gérés et par type
+d'utilisation, et le montant des recettes résultant de l'investissement de ces revenus ainsi qu'une information sur
+l'utilisation de ces recettes ;
+
+8° Des informations financières sur le coût de la gestion des droits et des autres services fournis aux titulaires de droits
+par l'organisme, avec une description complète des éléments suivants :
+
+a) Le montant de l'ensemble des frais de fonctionnement et des frais financiers, ventilés par catégorie de droits gérés, et
+lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la
+méthode suivie pour l'attribution de ces coûts indirects ;
+
+b) Le montant des frais de fonctionnement et des frais financiers correspondant uniquement à la gestion des droits, ventilés
+par catégorie de droits gérés, en distinguant le montant des frais de gestion déduits ou compensés à partir des revenus
+provenant de l'exploitation des droits ou des recettes résultant de l'investissement de ces revenus, et lorsque les coûts
+sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie
+pour l'attribution de ces coûts indirects ;
+
+c) Le montant des frais de fonctionnement et des frais financiers relatifs aux services, autres que la gestion des droits,
+comprenant les services sociaux, culturels et éducatifs ;
+
+d) La nature des ressources utilisées pour couvrir les coûts ;
+
+e) Le montant des déductions effectuées sur les revenus provenant de l'exploitation des droits, ventilées par catégorie de
+droits gérés et par type d'utilisation, ainsi que la finalité de ces déductions ;
+
+f) Le pourcentage que représente le coût de la gestion des droits et des autres services fournis aux titulaires de droits par
+l'organisme par rapport aux revenus provenant de l'exploitation des droits de l'exercice concerné, par catégorie de droits
+gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une
+explication de la méthode suivie pour l'attribution de ces coûts indirects ;
+
+9° Des informations financières sur les sommes dues aux titulaires de droits, accompagnées d'une description complète des
+éléments suivants :
+
+a) Le montant total des sommes réparties aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par
+type d'utilisation ;
+
+b) Le montant total des sommes versées aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par
+type d'utilisation ;
+
+c) La fréquence des versements, avec une ventilation par catégorie de droits gérés et par type d'utilisation ;
+
+d) Le montant total des sommes facturées ;
+
+e) Le montant total des sommes perçues mais non encore réparties aux titulaires de droits, avec une ventilation par catégorie
+de droits gérés et par type d'utilisation, en indiquant l'exercice au cours duquel ces sommes ont été perçues ;
+
+f) Le montant total des sommes réparties mais non encore versées aux titulaires de droits, avec une ventilation par catégorie
+de droits gérés et par type d'utilisation, en indiquant l'exercice au cours duquel ces sommes ont été perçues ;
+
+g) Les motifs du non-respect par l'organisme des délais qui lui sont applicables dans le versement des sommes dues aux
+titulaires de droits conformément à l'article L. 324-12 ;
+
+h) Le montant total des sommes qui ne peuvent être réparties, avec une explication de l'utilisation qui en a été faite ;
+
+10° Des informations sur les relations avec les autres organismes de gestion collective avec une description des éléments
+suivants :
+
+a) Le montant des sommes reçues d'autres organismes et des sommes versées à d'autres organismes, avec une ventilation par
+catégorie de droits et par type d'utilisation ainsi que par organisme ;
+
+b) Le montant des frais de gestion et autres déductions effectuées sur les revenus provenant de l'exploitation des droits dus
+à d'autres organismes, avec une ventilation par catégorie de droits et par type d'utilisation ainsi que par organisme ;
+
+c) Le montant des frais de gestion et autres déductions effectuées sur les sommes versées par d'autres organismes, avec une
+ventilation par catégorie de droits et par organisme ;
+
+d) Le montant des sommes réparties directement aux titulaires de droits provenant d'autres organismes, avec une ventilation
+par catégorie de droits et par organisme.
+
+III.-Le rapport de transparence annuel comporte également un rapport qui rend compte de l'utilisation des sommes déduites aux
+fins de la fourniture de services sociaux, culturels ou éducatifs et qui contient les informations suivantes :
+
+1° Le montant des sommes déduites aux fins de services sociaux, culturels et éducatifs au cours de l'exercice, avec une
+ventilation par type de finalité, et pour chaque type de finalité avec une ventilation par catégorie de droits gérés et par
+type d'utilisation ;
+
+2° Une explication de l'utilisation de ces sommes, avec une ventilation par type de finalité, y compris le montant des frais
+découlant de la gestion des sommes déduites en vue de financer des services sociaux, culturels et éducatifs et des sommes
+distinctes utilisées aux fins de services sociaux, culturels et éducatifs.
+
+IV.-Le commissaire aux comptes de l'organisme s'assure de la sincérité et de la concordance des informations contenues dans
+le rapport de transparence annuel, comprenant notamment les états financiers et les informations financières prévus aux 1°,
+7° à 10° du II et au III, avec les documents comptables de l'organisme. Le rapport spécial qu'il élabore à cette fin ainsi
+que ses réserves éventuelles doivent être intégralement reproduits dans le rapport de transparence annuel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-15
+
+Les informations mentionnées au second alinéa de l'article L. 326-2 sont les suivantes :
+
+1° Les statuts et le règlement général ;
+
+2° Les conditions d'adhésion et les conditions de résiliation de l'autorisation de gérer des droits, si celles-ci ne figurent
+ni dans les statuts ni dans le règlement général ;
+
+3° Les contrats-types d'autorisation d'exploitation et les tarifs standards applicables, y compris, le cas échéant, les
+remises et réductions applicables ;
+
+4° La liste des personnes membres du conseil d'administration, ou du conseil de surveillance et du directoire ;
+
+5° La politique générale de répartition des sommes dues aux titulaires de droits ;
+
+6° La politique générale en matière de frais de gestion ;
+
+7° La politique générale en matière de déductions, autres que celles concernant les frais de gestion, effectuées sur les
+revenus provenant de l'exploitation des droits et sur toute recette résultant de l'investissement de ces revenus, y compris
+aux fins de la fourniture de services sociaux, culturels et éducatifs ;
+
+8° La liste des accords de représentation conclus, précisant le nom des organismes de gestion collective concernés ;
+
+9° La politique générale d'utilisation des sommes qui ne peuvent être réparties ;
+
+10° Les procédures établies conformément à l'article L. 325-5 ;
+
+11° Les procédures établies conformément à l'article L. 328-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-16
+
+I.-Les informations relatives à la gestion des droits qu'un organisme de gestion collective ou indépendant est tenu de mettre
+à la disposition de chaque titulaire de droits en application du I de l'article L. 326-3, comprennent les éléments suivants :
+
+1° Les coordonnées que le titulaire de droits l'a autorisé à utiliser afin de l'identifier et de le localiser ;
+
+2° Le montant des revenus respectivement répartis et versés au titulaire de droits, en précisant leur ventilation par
+catégorie de droits gérés et par type d'utilisation ;
+
+3° La période au cours de laquelle a eu lieu l'utilisation pour laquelle des revenus ont été répartis et versés au titulaire
+de droits, à moins que des raisons objectives relatives aux déclarations des utilisateurs n'empêchent l'organisme de fournir
+ces informations ;
+
+4° Le montant des déductions effectuées sur ces revenus, en précisant celui prélevé au titre des frais de gestion d'une part
+et des dispositions de l'article L. 324-17 d'autre part ;
+
+5° Le montant des éventuels revenus provenant de l'exploitation des droits qui ont été répartis au titulaire de droits mais
+qui lui restent dus, quelle que soit la période au cours de laquelle ils ont été perçus par l'organisme.
+
+II.-Les informations relatives à la gestion des droits mentionnées au III de l'article L. 326-3 que l'organisme est tenu de
+mettre à la disposition de l'autre organisme de gestion avec lequel il est lié par un accord de représentation, comprennent
+les éléments suivants :
+
+1° Le montant des revenus provenant de l'exploitation des droits qu'il a respectivement répartis et versés au titre de
+l'accord de représentation, en précisant leur ventilation par catégorie de droits gérés et par type d'utilisation ;
+
+2° Le montant des éventuels revenus provenant de l'exploitation des droits qu'il a répartis au titre de l'accord de
+représentation, mais qui restent dus, quelle que soit la période au cours de laquelle ils ont été perçus par l'organisme ;
+
+3° Le montant des déductions effectuées sur ces revenus, en précisant celui prélevé au titre des frais de gestion d'une part,
+et des dispositions de l'article L. 324-17 d'autre part ;
+
+4° Des informations sur les autorisations d'exploitation octroyées ou refusées pour les œuvres et autres objets protégés
+couverts par l'accord de représentation ;
+
+5° Une présentation des résolutions adoptées par son assemblée générale qui portent sur la gestion des droits couverts par
+l'accord de représentation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-17
+
+Dans les intervalles entre deux assemblées générales, et au moins deux mois avant celle à venir, tout membre de l'organisme
+de gestion collective a le droit de prendre connaissance de tout document établi par cet organisme ou reçu par lui concernant
+l'exercice en cours, sous réserve du respect des secrets protégés par la loi.
+
+Le membre adresse à l'organisme, une demande écrite mentionnant les documents auxquels il souhaite accéder. Dans un délai de
+dix jours à compter de la réception de la demande, l'organisme communique les documents ou, si cette communication n'est pas
+matériellement possible, propose une date pour l'exercice du droit d'accès qui s'effectue alors au siège social ou au lieu de
+la direction administrative de l'organisme de gestion collective, dans des conditions définies par les statuts. Dans
+l'exercice de ce droit, le membre peut se faire assister par toute personne de son choix.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-21 (V)
+
+
+###### Article R321-18
+
+Tout membre d'un organisme de gestion collective peut, en outre, dans le délai fixé à l'article L. 326-5, demander à
+l'organisme de lui adresser : 
+
+1° Les comptes annuels qui seront soumis à l'assemblée générale ; 
+
+2° Les rapports des organes de gestion, d'administration et de direction et des commissaires aux comptes qui seront soumis à
+l'assemblée ; 
+
+3° Le cas échéant, le texte et l'exposé des motifs des résolutions proposées, ainsi que les renseignements concernant les
+candidats à un mandat social ou à une fonction élective. 
+
+Les documents mentionnés aux 1° à 3° sont, pendant le même délai, tenus à la disposition des membres au siège social ou au
+lieu de la direction administrative de l'organisme de gestion collective, où ils peuvent en prendre connaissance et en
+obtenir copie. 
+
+L'organisme n'est pas tenu de donner suite aux demandes de communication des documents qu'il tient à disposition de ses
+membres sur son site internet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L326-5 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-21 (V)
+
+
+###### Article R321-19
+
+L'organisme peut ne pas donner suite aux demandes répétitives ou abusives.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-20
+
+Le membre auquel est opposé un refus à sa demande de communication de documents présentée en application de l'article L.
+326-5, peut saisir l'organe de surveillance prévu à l'article L. 323-14.
+
+L'organe de surveillance rend un avis motivé sur ce refus. Cet avis est notifié au demandeur et au représentant légal de
+l'organisme.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-21
+
+Le fait de refuser de communiquer en méconnaissance des dispositions des articles R. 321-17 et R. 321-18 tout ou partie des
+documents mentionnés à l'article R. 321-18 est puni de la peine d'amende prévue pour les contraventions de la 3e classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R321-17 (V)
+  - Code de la propriété intellectuelle - art. R321-18 (V)
+
+
+##### Section 3 :  Contrôle par le ministère chargé de la culture<a id=223></a>
+
+###### Article R321-22
+
+Le dossier adressé au ministre chargé de la culture, en application de l'article L. 326-9, comprend les projets de statuts et
+de règlements généraux et toutes pièces justifiant la qualité professionnelle des fondateurs ainsi que l'état des moyens
+humains, matériels ou financiers permettant à l'organisme d'assurer effectivement l'exploitation de son répertoire et la
+perception des revenus provenant de cette exploitation.
+
+La transmission du dossier est faite par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-23
+
+La communication des comptes annuels des organismes de gestion collective au ministre chargé de la culture en application de
+l'article L. 326-10 doit comporter :
+
+1° Le rapport de transparence mentionné à l'article R. 321-14 ;
+
+2° En ce qui concerne la mise en œuvre des actions dont le financement est prévu par l'article L. 324-17 :
+
+a) La ventilation des montants versés, par catégorie d'actions définies au premier alinéa de l'article L. 324-17, assortie
+d'une information particulière sur :
+
+- le coût de la gestion de ces actions ;
+
+- les personnes ayant bénéficié de concours pendant trois années consécutives ;
+
+b) Une description des procédures d'attribution ;
+
+c) Un commentaire des orientations suivies en la matière par l'organisme ;
+
+d) La liste des conventions mentionnées à l'article R. 321-7 ;
+
+3° Une information annuelle sur les actions éventuellement engagées pour la défense des catégories professionnelles
+concernées par leur objet social.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+#### Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins<a id=224></a>
+
+##### Section 2 :  Règles de fonctionnement<a id=225></a>
+
+###### Article R321-24
+
+Les collèges de la commission de contrôle se réunissent sur convocation de leur président.
+
+Ils ne peuvent délibérer que si trois de leurs membres sont présents ou le cas échéant régulièrement suppléés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-25
+
+I.-L'habilitation mentionnée au II de l'article L. 327-10 est délivrée, de manière individuelle, par le président de la
+commission de contrôle aux rapporteurs et agents de la commission pour une durée de cinq ans renouvelable.
+
+Pour délivrer l'habilitation, le président de la commission vérifie que l'intéressé présente les capacités et les garanties
+requises au regard des missions confiées au collège de contrôle. Il tient compte notamment de son niveau de formation ou de
+son expérience.
+
+II.-Nul ne peut être habilité s'il a fait l'objet d'une condamnation à une peine correctionnelle ou criminelle inscrite au
+bulletin n° 2 du casier judiciaire, ou dans un document équivalent lorsqu'il s'agit d'un ressortissant de l'Union européenne
+ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+
+III.-Les agents habilités dans les conditions définies au présent article prêtent serment devant l'un des deux collèges de la
+commission de contrôle. La formule de serment est la suivante :
+
+“ Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma
+connaissance à l'occasion de leur exercice ”.
+
+Il est dressé procès-verbal de l'accomplissement de cette prestation de serment.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+##### Section 3 :  Procédure<a id=226></a>
+
+##### Sous-section 1 : Règles générales de procédure<a id=227></a>
+
+###### Article R321-26
+
+I.-Les requêtes mentionnées aux articles L. 327-6 et L. 327-13 sont effectuées par lettre remise contre signature ou tout
+autre moyen propre à établir la preuve de la date de la saisine, y compris par voie électronique.
+
+Elles comportent :
+
+1° Si l'auteur de la requête est une personne physique, ses nom, prénom, adresse et coordonnées téléphoniques et, si elle est
+assujettie aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des métiers, le numéro de
+son inscription ;
+
+2° Si l'auteur de la requête est une personne morale, sa forme sociale, sa dénomination ou sa raison sociale, ses statuts, la
+désignation de son représentant légal les coordonnées téléphoniques de la personne physique à contacter, et, s'il s'agit
+d'une entreprise assujettie aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des
+métiers, le numéro de son inscription et l'adresse de son siège social ;
+
+3° Le cas échéant, le nom de son conseil ou de son représentant et le mandat donné à ce dernier ;
+
+4° L'objet et la nature de la requête avec un exposé de la demande ou du litige et les pièces sur lesquelles la requête est
+fondée ;
+
+4° Le nom et l'adresse des autres parties mises en cause ;
+
+5° Tous éléments de nature à justifier des démarches que l'auteur de la requête a préalablement accomplies auprès de
+l'organisme de gestion collective ou de l'organisme de gestion indépendant mis en cause.
+
+La demande et le dossier sont rédigés en langue française.
+
+II.-Si la requête ne satisfait pas aux prescriptions du I, le collège de contrôle ou le médiateur selon le cas adresse une
+demande de régularisation sous un délai maximal d'un mois à l'auteur de la requête. En l'absence de régularisation la requête
+est déclarée irrecevable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-27
+
+Lorsque le collège de contrôle souhaite entendre une personne en application du III de l'article L. 327-11, une convocation
+est adressée à l'intéressé par lettre recommandée avec demande d'avis de réception quinze jours au moins avant la date de la
+convocation. Ce délai est porté à deux mois lorsque la personne convoquée est établie en dehors du territoire métropolitain.
+La convocation rappelle à la personne convoquée qu'elle est en droit de se faire assister d'un conseil de son choix, en
+application du III de l'article L. 327-11.
+
+Lorsque le collège de contrôle souhaite entendre l'intéressé par un système de visioconférence ou d'audioconférence, la
+convocation adressée dans les conditions prévues à l'alinéa précédent doit en faire état, préciser que la conférence sera
+enregistrée et solliciter l'accord exprès de la personne concernée.
+
+Lorsque le médiateur souhaite entendre une personne en application du III de l'article L. 327-11, la convocation rappelle à
+la personne convoquée qu'elle est en droit de se faire assister d'un conseil de son choix.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+##### Sous-section 2 :  Procédure de contrôle des comptes et de la gestion<a id=228></a>
+
+###### Article R321-28
+
+Pour l'exercice de la mission mentionnée au 1° de l'article L. 327-1, le collège de contrôle arrête son programme annuel de
+travail sur proposition de son président. Un contrôle non prévu par ce programme peut être diligenté par le collège sur
+proposition du président.
+
+La décision de procéder à un contrôle est notifiée par lettre recommandée à l'organisme qui en fait l'objet avant toute
+opération de contrôle auprès de lui.
+
+La demande de documents et d'informations est adressée à l'organisme contrôlé par lettre fixant le délai imparti pour y
+répondre. Ce délai ne peut être inférieur à trente jours.
+
+Le collège de contrôle prend toutes dispositions pour que les opérations de contrôle s'effectuent en préservant au bénéfice
+de l'organisme les secrets protégés par la loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-29
+
+Le rapport provisoire de vérification, établi par le rapporteur et adopté par le collège de contrôle, est communiqué par le
+président à l'organisme contrôlé, qui dispose de trente jours pour faire valoir ses observations. L'organisme peut en outre
+dans le même délai demander à ce que ses représentants soient entendus par le collège de contrôle.
+
+Le rapport définitif de vérification est adopté par le collège de contrôle après examen des éventuelles observations de
+l'organisme contrôlé et, le cas échéant, après audition de ses représentants. Les observations de l'organisme contrôlé sont
+annexées au rapport de vérification. Ce rapport est adressé à l'organisme contrôlé. Il est également adressé au ministre
+chargé de la culture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-30
+
+Le rapport annuel prévu à l'article L. 327-12 fait état des constatations faites par le collège de contrôle à l'issue de ses
+contrôles.
+
+Les observations du collège de contrôle mettant en cause un organisme lui sont communiquées au préalable. L'organisme dispose
+d'un délai de trente jours pour faire valoir ses observations ou demander à ce que ses représentants soient entendus par le
+collège de contrôle. Les observations de l'organisme sont annexées au rapport.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+##### Sous-section 3 :  Procédure de sanction<a id=229></a>
+
+###### Article R321-31
+
+Dans le cadre des contrôles effectués en application du 2° de l'article L. 327-1, le représentant du collège de contrôle
+établit les procès-verbaux énonçant la nature, la date et le lieu des constatations opérées. Ils sont signés par leur auteur
+et la personne concernée par les investigations ou son représentant légal.
+
+En cas de refus de celle-ci, mention en est faite au procès-verbal.
+
+Lorsque l'intéressé a été entendu par un système de visioconférence ou d'audioconférence, l'enregistrement audiovisuel ou
+sonore auquel ces opérations ont donné lieu fait l'objet d'un procès-verbal de transcription soumis pour signature à
+l'intéressé. A cet effet, ce procès-verbal, accompagné de l'enregistrement, lui est adressé dans un délai de trente jours à
+compter de la date de la visioconférence ou de l'audioconférence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-32
+
+Lorsque le collège de contrôle décide de l'ouverture d'une procédure de sanction, la notification des griefs est adressée,
+par lettre recommandée avec demande d'avis de réception, remise en main propre contre récépissé ou acte d'huissier, à
+l'organisme mis en cause, accompagnée du rapport d'enquête.
+
+Ces documents sont également transmis au président du collège des sanctions.
+
+L'organisme mis en cause dispose d'un délai de deux mois pour transmettre au président du collège des sanctions ses
+observations écrites sur les griefs qui lui ont été notifiés. Il en adresse copie au président du collège de contrôle. A
+défaut, cette copie lui est communiquée par le président du collège des sanctions.
+
+La notification des griefs mentionne le délai prévu à l'alinéa précédent et précise que l'organisme mis en cause peut prendre
+connaissance et copie des autres pièces du dossier auprès du collège des sanctions et se faire assister ou représenter par
+tout conseil de son choix.
+
+Le président du collège de contrôle peut répondre par écrit, dans un délai n'excédant pas un mois, aux observations écrites
+transmises par l'organisme. Il adresse, selon les modalités prévues au premier alinéa du présent article, une copie de cette
+réponse à l'organisme qui peut, dans un délai d'un mois, communiquer de nouvelles observations au président du collège des
+sanctions.
+
+Une copie de ces observations est adressée au président du collège de contrôle dans les conditions fixées au troisième alinéa
+du présent article. Le président du collège des sanctions peut, s'il le juge utile, l'autoriser à y répondre dans les
+conditions prévues à l'alinéa précédent. L'organisme peut alors produire de nouvelles observations dans le délai d'un mois.
+Une copie en est adressée pour information au président du collège de contrôle.
+
+Les délais prévus par les dispositions du présent article peuvent être réduits par le président du collège des sanctions,
+lorsque l'urgence ou la nature de l'affaire le justifient.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-34 (V)
+
+
+###### Article R321-33
+
+L'organisme mis en cause est convoqué devant le collège des sanctions, selon les modalités prévues à l'article R. 321-27, au
+moins trente jours francs avant la séance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-34
+
+Les membres du collège des sanctions délibèrent sur les sanctions en la seule présence d'un agent de la commission de
+contrôle exerçant les fonctions de secrétaire de séance. Celui-ci établit un compte rendu de la séance, qui est signé par le
+président du collège des sanctions et le secrétaire de séance. 
+
+La décision de sanction mentionne les noms des membres qui ont statué et, le cas échéant, les frais de procédure qui sont à
+la charge de l'organisme à l'encontre duquel la sanction a été prononcée. 
+
+Elle est notifiée à l'organisme concerné selon les modalités prévues au premier alinéa de l'article R. 321-32 et communiquée
+au collège de contrôle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R321-32 (V)
+
+
+##### Sous-section 4 :  Procédure de médiation<a id=230></a>
+
+###### Article R321-35
+
+Le médiateur est choisi en tenant compte de ses compétences et de son expérience au regard de sa mission.
+
+Il veille à faire cesser immédiatement ou à prévenir les situations de conflit d'intérêts dans lesquelles il se trouve ou
+pourrait se trouver.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-36
+
+Lorsque le médiateur est saisi par l'une des parties, il informe les autres parties, par lettre remise contre signature ou
+tout autre moyen propre à établir la preuve de la date de réception de la saisine, dans un délai de huit jours à compter de
+la réception de la saisine. Les parties disposent alors d'un délai de trente jours ouvrés pour adresser leurs observations au
+médiateur et au requérant par tout moyen propre à établir la preuve de la date de réception. Ce délai peut être prolongé au
+plus pour la même durée par le médiateur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-37
+
+Pour l'exercice de sa mission, le médiateur dispose d'un délai de trois mois, à compter de la date de la réception de la
+requête, ou le cas échéant de la réception des observations des parties, ou de l'expiration du délai imparti pour les
+produire.
+
+Cette mission peut être renouvelée une fois, pour une même durée, à la demande du médiateur et avec l'accord des parties.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-41 (V)
+
+
+###### Article R321-38
+
+Le médiateur entend les parties, séparément ou conjointement, et toute personne dont l'audition lui paraît utile. Les parties
+peuvent se faire assister par toute personne de leur choix, dont elles communiquent l'identité préalablement à leur audition.
+
+Le médiateur établit un compte-rendu des auditions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-39
+
+Lorsqu'une partie se prévaut du secret des affaires, elle signale au médiateur, à l'occasion de leur communication, les
+informations, documents ou partie de documents qu'elle estime couverts par ce secret et qui ne peuvent alors être rendus
+publics ni communiquées aux autres parties.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-40
+
+Le médiateur favorise ou suscite toute résolution des litiges qui lui sont soumis.
+
+La teneur de l'accord entre les parties, même partiel, constaté par le médiateur, est consignée dans un constat signé par les
+parties et le médiateur précisant les mesures à prendre pour le mettre en œuvre.
+
+Une copie de ce constat est remise à chaque partie par tout moyen propre à établir la preuve de la date de réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-43 (V)
+
+
+###### Article R321-41
+
+Si, à l'issue du délai prévu à l'article R. 321-37, aucun accord n'a pu être trouvé entre les parties, le médiateur dresse un
+rapport constatant cet échec, qu'il motive et dont copie est remise à chaque partie par tout moyen propre à établir la preuve
+de la date de réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R321-37 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R321-42 (V)
+
+
+###### Article R321-42
+
+Dans le cas prévu à l'article R. 321-41, le médiateur peut également émettre une recommandation, qui est notifiée aux parties
+par tout moyen propre à établir la preuve de la date de réception. 
+
+Dans un délai de trois mois à compter de la réception de la recommandation, les parties informent le médiateur des suites
+données à la recommandation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R321-41 (V)
+
+
+###### Article R321-43
+
+Le médiateur communique le constat du deuxième alinéa de l'article R. 321-40, la recommandation et les suites qui lui ont été
+données par les parties, ou le rapport constatant l'échec de la médiation au président de la commission. Le président de la
+commission communique ces éléments au ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R321-40 (V)
+
+
+###### Article R321-44
+
+Les déclarations recueillies ne peuvent être ni produites ni invoquées par une partie sans l'accord de celle qui les a
+produites dans le cadre d'une autre procédure de médiation, d'une procédure d'arbitrage ou d'une procédure judiciaire.
+
+Les constatations du médiateur ne peuvent être produites par les parties, à l'exception de celles rendues publiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-45
+
+Le médiateur adresse chaque année un rapport sur son activité au président de la commission de contrôle et au ministre chargé
+de la culture. Ce rapport est annexé à celui prévu à l'article L. 327-12.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+##### Section 4 :  Voies de recours<a id=231></a>
+
+###### Article R321-46
+
+Les recours contre les décisions prononcées par le collège des sanctions en application de l'article L. 327-15 sont formés,
+instruits et jugés conformément aux dispositions du présent titre.
+
+Sont nécessairement parties à la procédure, l'organisme sanctionné et la commission de contrôle même s'ils ne forment pas de
+recours à titre principal ou incident à l'encontre de la décision du collège des sanctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+###### Article R321-47
+
+I.-Le recours prévu à l'article L. 327-15 est formé dans le délai de deux mois par une déclaration écrite déposée en autant
+d'exemplaires que de parties augmenté d'un, au greffe de la cour d'appel contre récépissé.
+
+La déclaration précise les mentions prescrites par l'article 58 du code de procédure civile à peine de nullité, et l'exposé
+des moyens invoqués. Lorsque la déclaration ne contient pas l'exposé des moyens invoqués, le demandeur doit, à peine
+d'irrecevabilité prononcée d'office, déposer cet exposé au greffe dans les 15 jours qui suivent le dépôt de la déclaration.
+La déclaration de recours ou l'exposé des moyens invoqués mentionne la liste des pièces et documents justificatifs produits.
+Ces pièces et documents sont remis au greffe de la cour d'appel en même temps que la déclaration de recours ou l'exposé des
+moyens invoqués. Le demandeur au recours joint à la déclaration une copie de la décision attaquée.
+
+II.-Les demandes de sursis à exécution doivent être présentées dans le même délai que celui prévu pour le recours. Elles sont
+formulées auprès du premier président de la cour d'appel par simple requête déposée au greffe. A peine d'irrecevabilité, elle
+contient l'exposé des moyens invoqués et précise la date à laquelle a été formé le recours contre la décision dont le sursis
+à exécution est demandé. Le premier président ou son délégué fixe par ordonnance la date de l'audience à laquelle la demande
+de sursis sera examinée.
+
+III.-Dès l'enregistrement du recours, le greffe de la cour d'appel transmet, par tous moyens, aux parties une copie de la
+déclaration de recours et de la liste des pièces et documents justificatifs produits.
+
+IV.-Le premier président de la cour d'appel ou son délégué fixe les délais dans lesquels les parties doivent se communiquer
+leurs observations écrites et en déposer copie au greffe de la cour d'appel, ainsi que la date des débats. Le greffe notifie
+ces délais et cette date aux parties et convoque le défendeur à l'audience prévue pour les débats, par lettre recommandée
+avec demande d'avis de réception ou dans les conditions prévues à l'article 692-1 du code de procédure civile. Le greffe
+avise par tous moyens l'auteur de la demande des lieu, jour et heure de l'audience.
+
+Les parties peuvent prendre connaissance de l'ensemble des pièces de la procédure au greffe de la cour d'appel.
+
+V.-A l'audience, les parties sont entendues en leurs observations. Lorsque le président du collège de contrôle n'a pas exercé
+de recours, il peut présenter à l'audience des observations orales après l'organisme sanctionné auteur du recours.
+
+VI.-Les parties se défendent elles-mêmes. Elles ont la faculté de se faire assister ou représenter par un avocat.
+
+VII.-La cour d'appel peut soit confirmer la décision du collège des sanctions, soit l'annuler ou la réformer en tout ou en
+partie.
+
+VIII.-Les décisions de la cour d'appel ou de son premier président sont notifiées aux parties par le greffe, par lettre
+recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+#### Chapitre Ier octies : Dispositions diverses<a id=232></a>
+
+###### Article R321-48
+
+Les contestations adressées aux organismes de gestion des droits d'auteur et droits voisins en application de l'article L.
+328-1 sont présentées par écrit et peuvent être effectuées par voie électronique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
+#### Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie<a id=233></a>
+
+###### Article R322-1
+
+Un organisme de gestion collective régi par le titre II du livre III peut être agréé au titre de l'article L. 122-10, s'il
+remplit les conditions suivantes :
+
+1° Apporter la preuve de la diversité de ses membres à raison des catégories et du nombre des ayants droit, de l'importance
+économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux. Cette diversité doit trouver
+son expression dans la composition des organes délibérants et dirigeants ;
+
+2° Justifier, par toutes pièces, la qualification de ses gérants et mandataires sociaux appréciée en fonction :
+
+a) De leur qualité d'auteur ;
+
+b) Ou de la nature et du niveau de leurs diplômes ;
+
+c) Ou de leur expérience professionnelle dans le secteur de l'édition ou de la gestion d'organismes professionnels ;
+
+3° Donner toutes informations relatives à son organisation administrative et aux conditions d'installation et d'équipement.
+Ces informations doivent concerner la collecte des données sur la pratique de la reprographie, la perception des
+rémunérations, le traitement des données nécessaires pour la répartition des rémunérations perçues, le plan de financement et
+le budget prévisionnel des trois exercices suivant la demande d'agrément ;
+
+4° Prévoir dans ses statuts, son règlement général et les actes types d'engagement de chacun des membres les règles
+garantissant le caractère équitable des modalités prévues pour la répartition des rémunérations perçues par les auteurs et
+les éditeurs.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L122-10
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R322-2 (V)
+
+_Codifié par_:
+
+  - Décret n°95-406 1955-04-14
+
+
+###### Article R322-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément àl'article R. 322-1, est transmise par lettre recommandée
+au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas en état, le ministre chargé de la
+culture demande par lettre recommandée un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un
+mois à compter de la réception de cette lettre.
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+L'agrément peut être retiré, lorsque l'organisme ne remplit pas l'une des conditions fixées à l'article R. 322-1, après mise
+en demeure ou notification des griefs. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses
+observations. Le retrait est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
+République française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-406 1955-04-14
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R322-1 (V)
+
+
+###### Article R322-3
+
+Tout changement de statut, ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et
+délibérants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
+la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-406 1955-04-14
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+
+###### Article R322-4
+
+Si, à la date de la publication de l'œuvre, l'auteur ou son ayant droit n'a pas désigné un organisme de gestion collective
+agréé, l'organisme réunissant le plus grand nombre d'œuvres gérées, déterminé conformément aux usages des professions
+concernées, est réputé cessionnaire du droit de reproduction par reprographie.
+
+Le ministre chargé de la culture désigne chaque année le ou les organismes répondant à la condition définie à l'alinéa
+précédent.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°95-406 du 14 avril 1995 - art. 3 (V)
+  - Arrêté du 7 avril 1997 - art. 1 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 7 avril 1997
+  - TXT_SOURCE: Arrêté du 7 avril 1997 - art. 1 (V)
+
+_Codifié par_:
+
+  - Décret n°95-406 1955-04-14
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+
+#### Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=234></a>
+
+###### Article R323-1
+
+Un organisme de gestion collective régi par le titre II du livre III peut être agréé au titre du I de l'article L. 132-20-1
+et du I de l'article L. 217-2 s'il remplit les conditions suivantes :
+
+1° Apporter la preuve de la gestion effective du droit d'autoriser la retransmission par câble, à raison du nombre des ayants
+droit et de l'importance économique exprimée en revenu ou en chiffre d'affaires ;
+
+2° Justifier par toutes pièces la qualification de ses gérants et mandataires sociaux appréciée en fonction :
+
+a) De la nature et du niveau de leurs diplômes ;
+
+b) Ou de leur expérience de la gestion d'organismes professionnels ;
+
+3° Donner toutes informations relatives :
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ;
+
+b) Aux perceptions reçues ou attendues à l'occasion de la retransmission par câble, simultanée, intégrale et sans changement,
+sur le territoire national, à partir d'un Etat membre de la Communauté européenne et aux données nécessaires pour leur
+répartition ;
+
+4° Communiquer :
+
+a) Copie des conventions passées avec les tiers relatives à la retransmission par câble, simultanée, intégrale et sans
+changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne ;
+
+b) Le cas échéant, copie des conventions passées avec les organisations professionnelles étrangères chargées de la perception
+et de la répartition des droits.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L132-20-1
+  - Code de la propriété intellectuelle - art. L217-1
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R323-2 (V)
+
+_Codifié par_:
+
+  - Décret n°95-406 1955-04-14
+
+
+###### Article R323-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 323-1, est transmise par lettre
+recommandée avec avis de réception au ministre chargé de la culture qui en délivre récépissé. Lorsque le dossier n'est pas en
+état, le ministre chargé de la culture demande par lettre recommandée avec avis de réception un dossier complémentaire qui
+doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+Si l'organisme cesse de remplir l'une des conditions fixées à l'article R. 323-1, l'administration lui adresse une mise en
+demeure par lettre recommandée avec avis de réception. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour
+présenter ses observations. Faute de régularisation de la situation, l'agrément peut être retiré par arrêté du ministre
+chargé de la culture, publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-406 1955-04-14
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R323-1 (V)
+
+
+###### Article R323-3
+
+Tout changement de statut ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et
+délibérants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
+la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-406 1955-04-14
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+
+###### Article R323-4
+
+La liste des organismes bénéficiant de l'agrément est publiée chaque année par le ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R324-1 (V)
+
+_Codifié par_:
+
+  - Décret n°95-406 1955-04-14
+
+
+###### Article R323-5
+
+La désignation prévue au deuxième alinéa du I de l'article L. 132-20-1 et au deuxième alinéa du I de l'article L. 217-2 se
+fait par lettre recommandée avec avis de réception adressée à un organisme de gestion collective.
+
+La rétractation peut être effectuée dans les conditions prévues par les statuts de cet organisme.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L132-20-1
+  - Code de la propriété intellectuelle - art. L217-2
+
+_Codifié par_:
+
+  - Décret n°95-406 1955-04-14
+
+
+#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=235></a>
 
 ###### Article R324-1
 
@@ -29515,1806 +30908,7 @@ _Créé par_:
   - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
 
 
-#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence<a id=217></a>
-
-###### Article R329-1
-
-Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 123-7, s'il : 
-
-1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison
-des catégories et du nombre des ayants droit, et de leur importance économique exprimée en revenu ou en chiffre d'affaires ; 
-
-2° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
-
-a) De leur qualité d'auteur ; 
-
-b) Ou de la nature et du niveau de leurs diplômes ; 
-
-c) Ou de leur expérience de la gestion d'organismes professionnels ; 
-
-3° Apporte la preuve de la représentation des auteurs d'œuvres originales graphiques et plastiques bénéficiaires du droit de
-suite, au sens de l'article L. 122-8, au sein des organes dirigeants à raison de leur importance économique exprimée en
-revenu ou en chiffre d'affaires ; 
-
-4° Donne les informations nécessaires relatives : 
-
-a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
-
-b) Aux moyens humains et matériels mis en œuvre pour la perception du droit de suite ; 
-
-c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
-
-d) Aux modalités de mise en œuvre de l'affectation du droit de suite à la prise en charge d'une fraction des cotisations dues
-par les auteurs des arts graphiques et plastiques au titre de la retraite complémentaire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L122-8
-  - Code de la propriété intellectuelle - art. L123-7
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R329-6 (V)
-
-
-###### Article R329-2
-
-La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-1, est transmise par lettre
-recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
-n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
-dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
-lettre.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-3
-
-L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-4
-
-L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-5
-
-Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et
-dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
-l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à
-l'article R. 329-6.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-6
-
-Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-1, le ministre chargé de la culture le
-met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
-mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
-
-Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
-République française.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R329-1 (V)
-
-
-#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée<a id=218></a>
-
-###### Article R329-7
-
-Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 311-6, s'il : 
-
-1° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
-
-a) De leur qualité d'auteur ou de titulaire de droit voisin ; 
-
-b) Ou de la nature et du niveau de leurs diplômes ; 
-
-c) Ou de leur expérience de la gestion d'organismes professionnels ; 
-
-2° Donne les informations nécessaires relatives : 
-
-a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
-
-b) Aux moyens humains et matériels mis en œuvre pour la perception de la rémunération auprès des personnes mentionnées au
-premier alinéa de l'article L. 331-4 et le traitement des données nécessaires à la répartition de ces rémunérations ; 
-
-c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
-
-3° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison
-des catégories et du nombre des ayants droit, appréciés selon leur qualité de titulaire de droits ou du type d'œuvre qu'ils
-représentent, de leur importance économique exprimée en revenu ou en chiffre d'affaires.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L311-6
-  - Code de la propriété intellectuelle - art. L331-4
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R329-12 (V)
-
-
-###### Article R329-8
-
-La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-7, est transmise par lettre
-recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
-n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
-dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
-lettre.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-9
-
-L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-10
-
-L'agrément est renouvelable dans les mêmes conditions que l'agrément initial.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-11
-
-Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et
-dirigeants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
-l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à
-l'article R. 329-12.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-12
-
-Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-7, le ministre chargé de la culture la
-met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
-mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
-
-Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
-République française.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R329-7
-
-
-### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme<a id=219></a>
-
-#### Chapitre Ier : Dispositions générales<a id=220></a>
-
-#### Chapitre Ier ter : Organisations des organismes de gestion collective<a id=221></a>
-
-##### Section 2 :  Décisions collectives des membres<a id=222></a>
-
-###### Article R321-3
-
-Les membres de l'assemblée peuvent être convoqués soit par lettre recommandée avec demande d'avis de réception, soit par voie
-électronique avec demande d'accusé de réception, soit par un avis inséré dans deux journaux au moins, de diffusion nationale,
-habilités à recevoir les annonces légales dans le département du siège social et qui sont déterminés par une délibération de
-l'assemblée générale. Toute modification de la liste de ces journaux intervenant entre deux assemblées générales est portée à
-la connaissance des membres par tout moyen approprié.
-
-Tout membre peut demander à être convoqué individuellement aux assemblées ou à certaines d'entre elles par lettre recommandée
-avec demande d'avis de réception.
-
-Lorsque la convocation est faite par un autre moyen, les frais de cet envoi recommandé sont à la charge de l'intéressé.
-
-Les membres sont convoqués quinze jours au moins avant la date de l'assemblée.
-
-La convocation précise l'ordre du jour, la date et le lieu de réunion de l'assemblée.
-
-Lorsque les statuts prévoient que certaines assemblées doivent être tenues selon des conditions particulières de quorum ou de
-majorité, il est fait mention de ces conditions dans la convocation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Cite_:
-
-  - Décret n°78-704 du 3 juillet 1978 - art. 40
-
-_Anciens textes_:
-
-  - Décret n°86-1074 du 26 septembre 1986 - art. 4 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-4 (V)
-
-
-###### Article R321-4
-
-La date de l'assemblée générale annuelle prévue à l'article L. 323-5 est déterminée par les statuts. Lorsque cette assemblée
-ne peut être tenue dans les conditions prévues par les statuts, les membres doivent en être prévenus au moins quinze jours
-avant la date limite statutairement prévue pour sa tenue, dans les formes prévues à l'article R. 321-3. Ils sont informés à
-cette occasion des motifs du report ainsi que de la date à laquelle l'assemblée se tiendra.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°86-1074 du 26 septembre 1986 - art. 5 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R321-3 (V)
-  - Code civil - art. 1856
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-#### Chapitre Ier quater : Gestion des droits<a id=223></a>
-
-##### Section 2 :  Gestion des revenus issus de l'exploitation des droits<a id=224></a>
-
-###### Article R321-5
-
-La liste mentionnée à l'article L. 324-14 précise au moins, sauf impossibilité, les éléments suivants pour chaque œuvre ou
-objet protégé :
-
-1° Le titre ;
-
-2° Le nom du ou des titulaires de droits lorsqu'ils sont connus mais n'ont pu être localisés ;
-
-3° Le nom de l'éditeur ou du producteur d'origine ;
-
-4° Toute autre information pertinente disponible qui pourrait faciliter l'identification du ou des titulaires de droits.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°86-1074 du 26 septembre 1986 - art. 6 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-6
-
-I.-L'aide à la création mentionnée à l'article L. 324-17 s'entend des concours apportés :
-
-1° A la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou d'une interprétation sur un
-phonogramme ou un vidéogramme ;
-
-2° A des actions de défense, de promotion et d'information engagées dans l'intérêt des créateurs et de leurs œuvres.
-
-II.-L'aide à la diffusion du spectacle vivant mentionnée à l'article L. 324-17 s'entend des concours apportés :
-
-1° A des manifestations présentant, à titre principal ou accessoire, un spectacle vivant ;
-
-2° A des actions propres à assurer la diffusion des œuvres et des prestations artistiques du spectacle vivant.
-
-III.-L'aide à la formation d'artistes mentionnée à l'article L. 324-17 s'entend des concours apportés à des actions de
-formation professionnelle des auteurs et des artistes-interprètes.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-9 du 4 janvier 1978
-  - Décret n°78-704 du 3 juillet 1978 - art. 48
-
-_Anciens textes_:
-
-  - Décret n°86-1074 du 26 septembre 1986 - art. 7 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-6-1 (Ab)
-  - Code de la propriété intellectuelle - art. R321-6-2 (V)
-  - Code de la propriété intellectuelle - art. R321-6-4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R321-7
-
-Toute aide allouée par un organisme de gestion collective en application de l'article L. 324-17 fait l'objet d'une convention
-entre l'organisme et le bénéficiaire. Cette convention prévoit les conditions d'utilisation du concours apporté ainsi que
-celles dans lesquelles le bénéficiaire communique à l'organisme les éléments permettant de justifier que l'aide est utilisée
-conformément à sa destination.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L321-7
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°86-1074 du 26 septembre 1986 - art. 1 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-#### Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales<a id=225></a>
-
-###### Article R321-8
-
-I. – Pour pouvoir octroyer des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales,
-les organismes de gestion collective doivent respecter les conditions suivantes :
-
-1° Disposer des moyens matériels et techniques permettant d'identifier avec précision, en tout ou partie :
-
-a) Les œuvres musicales pour lesquelles ces autorisations d'exploitation sont octroyées ;
-
-b) Les droits et les titulaires de droits correspondant à chaque œuvre musicale ou partie d'œuvre musicale, pour chacun des
-territoires couverts par ces autorisations d'exploitation ;
-
-2° Faire usage d'identifiants uniques pour identifier chaque titulaire de droits et chaque œuvre musicale, en tenant compte,
-lorsqu'elles existent, des normes et pratiques sectorielles volontaires élaborées à l'échelle internationale ou au niveau de
-l'Union européenne ;
-
-3° Recourir aux moyens nécessaires pour identifier et corriger les incohérences dans les données détenues par d'autres
-organismes de gestion collective, qui octroient des autorisations d'exploitation multiterritoriales de droits en ligne sur
-des œuvres musicales, en coordination avec ces organismes.
-
-II. – Le traitement des données nécessaires à la gestion des autorisations d'exploitation multiterritoriales de droits en
-ligne sur les œuvres musicales doit être transparent et permettre l'identification des œuvres pour lesquelles ces
-autorisations sont octroyées et le contrôle de leur utilisation en vue de la facturation aux utilisateurs, de la perception
-et de la répartition des revenus dus aux titulaires de droits.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°98-1040 du 18 novembre 1998 - art. 2 (V)
-  - Code de la propriété intellectuelle - art. R321-1 (V)
-  - Code de la propriété intellectuelle - art. R321-10 (V)
-  - Code de la propriété intellectuelle - art. R321-2 (V)
-  - Code de la propriété intellectuelle - art. R321-6-1 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L321-12
-  - Code de la propriété intellectuelle - art. R321-9
-
-
-###### Article R321-9
-
-I.-En réponse à une demande motivée, les organismes octroyant des autorisations d'exploitation multiterritoriales de droits
-en ligne sur les œuvres musicales fournissent, par voie électronique, aux prestataires de services en ligne auxquels ils ont
-octroyé une autorisation, aux titulaires des droits qu'ils gèrent et aux autres organismes de gestion collective, des
-informations actualisées permettant l'identification du répertoire de musique en ligne qu'ils représentent. Ces informations
-concernent :
-
-1° Les œuvres musicales pour lesquelles ces autorisations ont été octroyées ;
-
-2° Les droits gérés au titre de ces autorisations ;
-
-3° Les territoires couverts par ces autorisations.
-
-II.-Aux fins de la collecte des informations mentionnées au I, les organismes octroyant des autorisations d'exploitation
-multiterritoriales de droits en ligne sur les œuvres musicales permettent à l'ensemble des titulaires de droits pour lesquels
-ils gèrent les droits en ligne de leur communiquer ces informations par voie électronique. La communication des informations
-mentionnées au I respecte, lorsqu'elles existent, les normes et pratiques sectorielles volontaires élaborées à l'échelle
-internationale ou au niveau de l'Union européenne en matière d'échange de données.
-
-III.-Les dispositions prévues au II s'appliquent lorsque les autorisations d'exploitation sont octroyées au titre d'un accord
-de représentation conformément à l'article L. 325-3, à moins que les organismes en cause ne conviennent entre eux et pour les
-relations qu'ils entretiennent, d'autres modalités techniques de recueil des données.
-
-IV.-Dans la mise en œuvre du I, les organismes sollicités peuvent, s'ils l'estiment nécessaire, prendre les mesures
-appropriées pour préserver l'exactitude et l'intégrité des données, contrôler leur réutilisation et protéger les informations
-relevant du secret des affaires.
-
-V.-Les titulaires de droits, les prestataires de services en ligne et les autres organismes peuvent demander à l'organisme
-qui gère leurs droits en ligne sur des œuvres musicales, de rectifier les informations mentionnées au I du présent article et
-au I de l'article R. 321-8. Cette demande doit être motivée et accompagnée des pièces justificatives. Dans ce cas,
-l'organisme saisi de la demande procède à la rectification des informations erronées dans un délai n'excédant pas trois mois.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L321-9
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-8 (V)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R321-10
-
-I. – Les organismes de gestion collective contrôlent l'utilisation des droits par les prestataires de services en ligne
-auxquels ils ont octroyé des autorisations d'exploitation multiterritoriales de droits en ligne sur des œuvres musicales. Les
-contrats conclus avec ces prestataires de services prévoient des modalités appropriées permettant aux organismes de gestion
-collective de contrôler effectivement l'utilisation des droits. 
-
-II. – Les organismes octroyant des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres
-musicales permettent aux prestataires de services en ligne de déclarer l'utilisation effective de ces droits par voie
-électronique. 
-
-Les organismes mettent à leur disposition au moins une méthode de déclaration conforme à des normes ou pratiques sectorielles
-volontaires élaborées à l'échelle internationale ou au niveau de l'Union européenne en matière d'échange par voie
-électronique de ce type de données. 
-
-III. – Dès lors que l'organisme a proposé au prestataire de services en ligne une méthode conformément au second alinéa du
-II, il peut refuser les déclarations réalisées dans un autre format. 
-
-IV. – Dans un délai de six mois après la déclaration, l'organisme établit la facture relative à l'utilisation déclarée, à
-moins que des motifs imputables au prestataire de services en ligne ne l'en empêchent. 
-
-V. – La facture établie en application des dispositions du présent code doit respecter un format conforme à des normes ou
-pratiques sectorielles volontaires mentionnées au second alinéa du II. 
-
-Elle indique les œuvres et les droits pour lesquels une autorisation d'exploitation multiterritoriale a été octroyée en tout
-ou en partie, en se fondant sur les informations mentionnées au I de l'article R. 321-8, et, dans la mesure du possible,
-l'exploitation effective qui en a été faite, sur la base des informations fournies par le prestataire de services en ligne,
-ainsi que le format utilisé pour fournir ces informations. 
-
-VI. – L'organisme adresse la facture au prestataire de services en ligne par voie électronique. 
-
-Le prestataire ne peut refuser la facture au seul motif de son format si l'organisme a respecté les dispositions du V du
-présent article. Il peut toutefois contester l'exactitude de la facture par tout moyen approprié que l'organisme met à sa
-disposition.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-8 (V)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-11
-
-I.-Les organismes de gestion collective versent les sommes dues aux titulaires de droits au titre des autorisations
-d'exploitation multiterritoriales de droits en ligne octroyées sur leurs œuvres musicales dans un délai n'excédant pas neuf
-mois à compter de la fin de l'exercice au cours duquel ils ont reçu la déclaration d'utilisation de ces œuvres. Il ne peut
-être dérogé à ce délai et à l'exactitude du montant des versements qu'en raison de causes imputables aux prestataires de
-services en ligne.
-
-II.-Pour chaque versement effectué conformément au I, l'organisme communique au titulaire de droits au moins les informations
-suivantes :
-
-1° La période au cours de laquelle ont eu lieu les utilisations pour lesquelles les sommes lui sont dues, ainsi que les
-territoires dans lesquels ces utilisations ont eu lieu ;
-
-2° Les facturations opérées, les sommes perçues, les déductions effectuées et les sommes réparties par l'organisme pour
-chaque droit en ligne sur toute œuvre musicale que le titulaire de droits l'a autorisé à représenter et pour chaque
-prestataire de services en ligne.
-
-III.-Les dispositions du I s'appliquent aux organismes qui versent des sommes à d'autres organismes au titre d'un accord de
-représentation conformément à l'article L. 325-3. Ils sont également tenus de communiquer à ces organismes les informations
-prévues au II.
-
-L'organisme destinataire verse ces sommes et communique ces informations aux titulaires de droits en cause, à moins que
-l'accord de représentation n'en dispose autrement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-12
-
-I.-L'organisme de gestion collective sollicité par un autre organisme pour assurer la gestion d'autorisations d'exploitation
-multiterritoriales conformément à l'article L. 325-3 donne une réponse écrite dans un délai d'un mois, qui est motivée si
-elle est négative.
-
-II.-Le mandat donné à un organisme de gestion collective par un autre conformément à l'article L. 325-3 résulte de la
-conclusion d'un accord de représentation entre ces deux organismes. Cet accord est non exclusif.
-
-III.-Dans le délai prévu par l'accord de représentation, l'organisme mandataire inclut les œuvres musicales de l'organisme
-mandant dans l'ensemble des offres qu'il propose aux prestataires de services en ligne.
-
-Il informe l'organisme mandant des principales conditions auxquelles les autorisations d'exploitation multiterritoriales de
-droits en ligne sur les œuvres musicales de celui-ci sont octroyées, en précisant la nature de l'exploitation, les éléments
-relatifs à la rémunération de ces autorisations et ceux pouvant avoir une incidence sur cette rémunération, la durée de
-validité des autorisations d'exploitation et les territoires qu'elles couvrent.
-
-IV.-L'organisme mandant informe ses membres des principaux termes de l'accord de représentation, y compris sa durée et le
-coût des services fournis par l'organisme mandataire.
-
-Cette obligation d'information vaut aussi à l'égard des titulaires de droits non-membres de l'organisme mandant dès lors
-qu'ils ont une relation juridique directe avec lui relative aux droits en cause, par l'effet de la loi ou d'un contrat.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-13
-
-I.-Sous réserve des dispositions du présent article, l'organisme mandataire gère les œuvres musicales dont la gestion lui a
-été confiée conformément à l'article L. 325-3 dans les mêmes conditions que celles qu'il applique à la gestion de son propre
-répertoire musical.
-
-II.-Le montant des frais de gestion déduits au titre du service rendu à l'organisme mandant n'excède pas les coûts
-raisonnablement supportés par l'organisme mandataire.
-
-III.-L'organisme mandant met à la disposition de l'organisme mandataire les informations relatives à son propre répertoire
-musical nécessaires à l'octroi des autorisations d'exploitation multiterritoriales en ligne.
-
-Lorsque ces informations sont insuffisantes ou fournies sous une forme qui ne permet pas à l'organisme mandataire de
-respecter les dispositions du présent chapitre, celui-ci peut facturer à l'organisme mandant les coûts supplémentaires liés à
-la mise en conformité avec ces dispositions, ou décider d'exclure de son répertoire les œuvres pour lesquelles les
-informations sont insuffisantes ou inutilisables.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-#### Chapitre Ier sexies : Transparence et procédures de contrôle<a id=226></a>
-
-##### Section 1 : Transparence et obligations d'information<a id=227></a>
-
-###### Article R321-14
-
-I.-Les rapports prévus à l'article L. 326-1 sont publiés sur le site internet des organismes de gestion collective concernés
-et sont maintenus sur ce site, à la disposition du public, pendant au moins cinq ans.
-
-II.-Le rapport de transparence annuel comprend les informations suivantes :
-
-1° Les états financiers comprenant un bilan, un compte de résultat, et une annexe, selon des normes fixées par l'Autorité des
-normes comptables ;
-
-2° Un rapport sur les activités de l'exercice ;
-
-3° Le nombre de refus d'octroyer une autorisation d'exploitation conformément aux dispositions du troisième alinéa de
-l'article L. 324-7 et les principales catégories de raisons motivant ces refus ;
-
-4° Une description de la structure juridique et de la gouvernance de l'organisme de gestion collective ;
-
-5° La liste des personnes morales que l'organisme contrôle au sens de l'article L. 233-16 du code de commerce, ainsi que le
-montant du capital, la quote-part de capital détenue, le résultat du dernier exercice clos, et la valeur comptable nette et
-brute des titres détenus ;
-
-6° Le montant total de la rémunération versée au cours de l'année précédente, d'une part, aux personnes mentionnées au
-premier alinéa de l'article L. 323-13 et, d'autre part, aux membres de l'organe de surveillance, ainsi que les autres
-avantages qui leur ont été octroyés ;
-
-7° Le montant des revenus provenant de l'exploitation des droits, ventilés par catégorie de droits gérés et par type
-d'utilisation, et le montant des recettes résultant de l'investissement de ces revenus ainsi qu'une information sur
-l'utilisation de ces recettes ;
-
-8° Des informations financières sur le coût de la gestion des droits et des autres services fournis aux titulaires de droits
-par l'organisme, avec une description complète des éléments suivants :
-
-a) Le montant de l'ensemble des frais de fonctionnement et des frais financiers, ventilés par catégorie de droits gérés, et
-lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la
-méthode suivie pour l'attribution de ces coûts indirects ;
-
-b) Le montant des frais de fonctionnement et des frais financiers correspondant uniquement à la gestion des droits, ventilés
-par catégorie de droits gérés, en distinguant le montant des frais de gestion déduits ou compensés à partir des revenus
-provenant de l'exploitation des droits ou des recettes résultant de l'investissement de ces revenus, et lorsque les coûts
-sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie
-pour l'attribution de ces coûts indirects ;
-
-c) Le montant des frais de fonctionnement et des frais financiers relatifs aux services, autres que la gestion des droits,
-comprenant les services sociaux, culturels et éducatifs ;
-
-d) La nature des ressources utilisées pour couvrir les coûts ;
-
-e) Le montant des déductions effectuées sur les revenus provenant de l'exploitation des droits, ventilées par catégorie de
-droits gérés et par type d'utilisation, ainsi que la finalité de ces déductions ;
-
-f) Le pourcentage que représente le coût de la gestion des droits et des autres services fournis aux titulaires de droits par
-l'organisme par rapport aux revenus provenant de l'exploitation des droits de l'exercice concerné, par catégorie de droits
-gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une
-explication de la méthode suivie pour l'attribution de ces coûts indirects ;
-
-9° Des informations financières sur les sommes dues aux titulaires de droits, accompagnées d'une description complète des
-éléments suivants :
-
-a) Le montant total des sommes réparties aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par
-type d'utilisation ;
-
-b) Le montant total des sommes versées aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par
-type d'utilisation ;
-
-c) La fréquence des versements, avec une ventilation par catégorie de droits gérés et par type d'utilisation ;
-
-d) Le montant total des sommes facturées ;
-
-e) Le montant total des sommes perçues mais non encore réparties aux titulaires de droits, avec une ventilation par catégorie
-de droits gérés et par type d'utilisation, en indiquant l'exercice au cours duquel ces sommes ont été perçues ;
-
-f) Le montant total des sommes réparties mais non encore versées aux titulaires de droits, avec une ventilation par catégorie
-de droits gérés et par type d'utilisation, en indiquant l'exercice au cours duquel ces sommes ont été perçues ;
-
-g) Les motifs du non-respect par l'organisme des délais qui lui sont applicables dans le versement des sommes dues aux
-titulaires de droits conformément à l'article L. 324-12 ;
-
-h) Le montant total des sommes qui ne peuvent être réparties, avec une explication de l'utilisation qui en a été faite ;
-
-10° Des informations sur les relations avec les autres organismes de gestion collective avec une description des éléments
-suivants :
-
-a) Le montant des sommes reçues d'autres organismes et des sommes versées à d'autres organismes, avec une ventilation par
-catégorie de droits et par type d'utilisation ainsi que par organisme ;
-
-b) Le montant des frais de gestion et autres déductions effectuées sur les revenus provenant de l'exploitation des droits dus
-à d'autres organismes, avec une ventilation par catégorie de droits et par type d'utilisation ainsi que par organisme ;
-
-c) Le montant des frais de gestion et autres déductions effectuées sur les sommes versées par d'autres organismes, avec une
-ventilation par catégorie de droits et par organisme ;
-
-d) Le montant des sommes réparties directement aux titulaires de droits provenant d'autres organismes, avec une ventilation
-par catégorie de droits et par organisme.
-
-III.-Le rapport de transparence annuel comporte également un rapport qui rend compte de l'utilisation des sommes déduites aux
-fins de la fourniture de services sociaux, culturels ou éducatifs et qui contient les informations suivantes :
-
-1° Le montant des sommes déduites aux fins de services sociaux, culturels et éducatifs au cours de l'exercice, avec une
-ventilation par type de finalité, et pour chaque type de finalité avec une ventilation par catégorie de droits gérés et par
-type d'utilisation ;
-
-2° Une explication de l'utilisation de ces sommes, avec une ventilation par type de finalité, y compris le montant des frais
-découlant de la gestion des sommes déduites en vue de financer des services sociaux, culturels et éducatifs et des sommes
-distinctes utilisées aux fins de services sociaux, culturels et éducatifs.
-
-IV.-Le commissaire aux comptes de l'organisme s'assure de la sincérité et de la concordance des informations contenues dans
-le rapport de transparence annuel, comprenant notamment les états financiers et les informations financières prévus aux 1°,
-7° à 10° du II et au III, avec les documents comptables de l'organisme. Le rapport spécial qu'il élabore à cette fin ainsi
-que ses réserves éventuelles doivent être intégralement reproduits dans le rapport de transparence annuel.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-15
-
-Les informations mentionnées au second alinéa de l'article L. 326-2 sont les suivantes :
-
-1° Les statuts et le règlement général ;
-
-2° Les conditions d'adhésion et les conditions de résiliation de l'autorisation de gérer des droits, si celles-ci ne figurent
-ni dans les statuts ni dans le règlement général ;
-
-3° Les contrats-types d'autorisation d'exploitation et les tarifs standards applicables, y compris, le cas échéant, les
-remises et réductions applicables ;
-
-4° La liste des personnes membres du conseil d'administration, ou du conseil de surveillance et du directoire ;
-
-5° La politique générale de répartition des sommes dues aux titulaires de droits ;
-
-6° La politique générale en matière de frais de gestion ;
-
-7° La politique générale en matière de déductions, autres que celles concernant les frais de gestion, effectuées sur les
-revenus provenant de l'exploitation des droits et sur toute recette résultant de l'investissement de ces revenus, y compris
-aux fins de la fourniture de services sociaux, culturels et éducatifs ;
-
-8° La liste des accords de représentation conclus, précisant le nom des organismes de gestion collective concernés ;
-
-9° La politique générale d'utilisation des sommes qui ne peuvent être réparties ;
-
-10° Les procédures établies conformément à l'article L. 325-5 ;
-
-11° Les procédures établies conformément à l'article L. 328-1.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-16
-
-I.-Les informations relatives à la gestion des droits qu'un organisme de gestion collective ou indépendant est tenu de mettre
-à la disposition de chaque titulaire de droits en application du I de l'article L. 326-3, comprennent les éléments suivants :
-
-1° Les coordonnées que le titulaire de droits l'a autorisé à utiliser afin de l'identifier et de le localiser ;
-
-2° Le montant des revenus respectivement répartis et versés au titulaire de droits, en précisant leur ventilation par
-catégorie de droits gérés et par type d'utilisation ;
-
-3° La période au cours de laquelle a eu lieu l'utilisation pour laquelle des revenus ont été répartis et versés au titulaire
-de droits, à moins que des raisons objectives relatives aux déclarations des utilisateurs n'empêchent l'organisme de fournir
-ces informations ;
-
-4° Le montant des déductions effectuées sur ces revenus, en précisant celui prélevé au titre des frais de gestion d'une part
-et des dispositions de l'article L. 324-17 d'autre part ;
-
-5° Le montant des éventuels revenus provenant de l'exploitation des droits qui ont été répartis au titulaire de droits mais
-qui lui restent dus, quelle que soit la période au cours de laquelle ils ont été perçus par l'organisme.
-
-II.-Les informations relatives à la gestion des droits mentionnées au III de l'article L. 326-3 que l'organisme est tenu de
-mettre à la disposition de l'autre organisme de gestion avec lequel il est lié par un accord de représentation, comprennent
-les éléments suivants :
-
-1° Le montant des revenus provenant de l'exploitation des droits qu'il a respectivement répartis et versés au titre de
-l'accord de représentation, en précisant leur ventilation par catégorie de droits gérés et par type d'utilisation ;
-
-2° Le montant des éventuels revenus provenant de l'exploitation des droits qu'il a répartis au titre de l'accord de
-représentation, mais qui restent dus, quelle que soit la période au cours de laquelle ils ont été perçus par l'organisme ;
-
-3° Le montant des déductions effectuées sur ces revenus, en précisant celui prélevé au titre des frais de gestion d'une part,
-et des dispositions de l'article L. 324-17 d'autre part ;
-
-4° Des informations sur les autorisations d'exploitation octroyées ou refusées pour les œuvres et autres objets protégés
-couverts par l'accord de représentation ;
-
-5° Une présentation des résolutions adoptées par son assemblée générale qui portent sur la gestion des droits couverts par
-l'accord de représentation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-17
-
-Dans les intervalles entre deux assemblées générales, et au moins deux mois avant celle à venir, tout membre de l'organisme
-de gestion collective a le droit de prendre connaissance de tout document établi par cet organisme ou reçu par lui concernant
-l'exercice en cours, sous réserve du respect des secrets protégés par la loi.
-
-Le membre adresse à l'organisme, une demande écrite mentionnant les documents auxquels il souhaite accéder. Dans un délai de
-dix jours à compter de la réception de la demande, l'organisme communique les documents ou, si cette communication n'est pas
-matériellement possible, propose une date pour l'exercice du droit d'accès qui s'effectue alors au siège social ou au lieu de
-la direction administrative de l'organisme de gestion collective, dans des conditions définies par les statuts. Dans
-l'exercice de ce droit, le membre peut se faire assister par toute personne de son choix.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-21 (V)
-
-
-###### Article R321-18
-
-Tout membre d'un organisme de gestion collective peut, en outre, dans le délai fixé à l'article L. 326-5, demander à
-l'organisme de lui adresser : 
-
-1° Les comptes annuels qui seront soumis à l'assemblée générale ; 
-
-2° Les rapports des organes de gestion, d'administration et de direction et des commissaires aux comptes qui seront soumis à
-l'assemblée ; 
-
-3° Le cas échéant, le texte et l'exposé des motifs des résolutions proposées, ainsi que les renseignements concernant les
-candidats à un mandat social ou à une fonction élective. 
-
-Les documents mentionnés aux 1° à 3° sont, pendant le même délai, tenus à la disposition des membres au siège social ou au
-lieu de la direction administrative de l'organisme de gestion collective, où ils peuvent en prendre connaissance et en
-obtenir copie. 
-
-L'organisme n'est pas tenu de donner suite aux demandes de communication des documents qu'il tient à disposition de ses
-membres sur son site internet.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L326-5 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-21 (V)
-
-
-###### Article R321-19
-
-L'organisme peut ne pas donner suite aux demandes répétitives ou abusives.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-20
-
-Le membre auquel est opposé un refus à sa demande de communication de documents présentée en application de l'article L.
-326-5, peut saisir l'organe de surveillance prévu à l'article L. 323-14.
-
-L'organe de surveillance rend un avis motivé sur ce refus. Cet avis est notifié au demandeur et au représentant légal de
-l'organisme.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-21
-
-Le fait de refuser de communiquer en méconnaissance des dispositions des articles R. 321-17 et R. 321-18 tout ou partie des
-documents mentionnés à l'article R. 321-18 est puni de la peine d'amende prévue pour les contraventions de la 3e classe.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R321-17 (V)
-  - Code de la propriété intellectuelle - art. R321-18 (V)
-
-
-##### Section 3 :  Contrôle par le ministère chargé de la culture<a id=228></a>
-
-###### Article R321-22
-
-Le dossier adressé au ministre chargé de la culture, en application de l'article L. 326-9, comprend les projets de statuts et
-de règlements généraux et toutes pièces justifiant la qualité professionnelle des fondateurs ainsi que l'état des moyens
-humains, matériels ou financiers permettant à l'organisme d'assurer effectivement l'exploitation de son répertoire et la
-perception des revenus provenant de cette exploitation.
-
-La transmission du dossier est faite par lettre recommandée avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-23
-
-La communication des comptes annuels des organismes de gestion collective au ministre chargé de la culture en application de
-l'article L. 326-10 doit comporter :
-
-1° Le rapport de transparence mentionné à l'article R. 321-14 ;
-
-2° En ce qui concerne la mise en œuvre des actions dont le financement est prévu par l'article L. 324-17 :
-
-a) La ventilation des montants versés, par catégorie d'actions définies au premier alinéa de l'article L. 324-17, assortie
-d'une information particulière sur :
-
-- le coût de la gestion de ces actions ;
-
-- les personnes ayant bénéficié de concours pendant trois années consécutives ;
-
-b) Une description des procédures d'attribution ;
-
-c) Un commentaire des orientations suivies en la matière par l'organisme ;
-
-d) La liste des conventions mentionnées à l'article R. 321-7 ;
-
-3° Une information annuelle sur les actions éventuellement engagées pour la défense des catégories professionnelles
-concernées par leur objet social.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-#### Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins<a id=229></a>
-
-##### Section 2 :  Règles de fonctionnement<a id=230></a>
-
-###### Article R321-24
-
-Les collèges de la commission de contrôle se réunissent sur convocation de leur président.
-
-Ils ne peuvent délibérer que si trois de leurs membres sont présents ou le cas échéant régulièrement suppléés.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-25
-
-I.-L'habilitation mentionnée au II de l'article L. 327-10 est délivrée, de manière individuelle, par le président de la
-commission de contrôle aux rapporteurs et agents de la commission pour une durée de cinq ans renouvelable.
-
-Pour délivrer l'habilitation, le président de la commission vérifie que l'intéressé présente les capacités et les garanties
-requises au regard des missions confiées au collège de contrôle. Il tient compte notamment de son niveau de formation ou de
-son expérience.
-
-II.-Nul ne peut être habilité s'il a fait l'objet d'une condamnation à une peine correctionnelle ou criminelle inscrite au
-bulletin n° 2 du casier judiciaire, ou dans un document équivalent lorsqu'il s'agit d'un ressortissant de l'Union européenne
-ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
-
-III.-Les agents habilités dans les conditions définies au présent article prêtent serment devant l'un des deux collèges de la
-commission de contrôle. La formule de serment est la suivante :
-
-“ Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma
-connaissance à l'occasion de leur exercice ”.
-
-Il est dressé procès-verbal de l'accomplissement de cette prestation de serment.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-##### Section 3 :  Procédure<a id=231></a>
-
-##### Sous-section 1 : Règles générales de procédure<a id=232></a>
-
-###### Article R321-26
-
-I.-Les requêtes mentionnées aux articles L. 327-6 et L. 327-13 sont effectuées par lettre remise contre signature ou tout
-autre moyen propre à établir la preuve de la date de la saisine, y compris par voie électronique.
-
-Elles comportent :
-
-1° Si l'auteur de la requête est une personne physique, ses nom, prénom, adresse et coordonnées téléphoniques et, si elle est
-assujettie aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des métiers, le numéro de
-son inscription ;
-
-2° Si l'auteur de la requête est une personne morale, sa forme sociale, sa dénomination ou sa raison sociale, ses statuts, la
-désignation de son représentant légal les coordonnées téléphoniques de la personne physique à contacter, et, s'il s'agit
-d'une entreprise assujettie aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des
-métiers, le numéro de son inscription et l'adresse de son siège social ;
-
-3° Le cas échéant, le nom de son conseil ou de son représentant et le mandat donné à ce dernier ;
-
-4° L'objet et la nature de la requête avec un exposé de la demande ou du litige et les pièces sur lesquelles la requête est
-fondée ;
-
-4° Le nom et l'adresse des autres parties mises en cause ;
-
-5° Tous éléments de nature à justifier des démarches que l'auteur de la requête a préalablement accomplies auprès de
-l'organisme de gestion collective ou de l'organisme de gestion indépendant mis en cause.
-
-La demande et le dossier sont rédigés en langue française.
-
-II.-Si la requête ne satisfait pas aux prescriptions du I, le collège de contrôle ou le médiateur selon le cas adresse une
-demande de régularisation sous un délai maximal d'un mois à l'auteur de la requête. En l'absence de régularisation la requête
-est déclarée irrecevable.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-27
-
-Lorsque le collège de contrôle souhaite entendre une personne en application du III de l'article L. 327-11, une convocation
-est adressée à l'intéressé par lettre recommandée avec demande d'avis de réception quinze jours au moins avant la date de la
-convocation. Ce délai est porté à deux mois lorsque la personne convoquée est établie en dehors du territoire métropolitain.
-La convocation rappelle à la personne convoquée qu'elle est en droit de se faire assister d'un conseil de son choix, en
-application du III de l'article L. 327-11.
-
-Lorsque le collège de contrôle souhaite entendre l'intéressé par un système de visioconférence ou d'audioconférence, la
-convocation adressée dans les conditions prévues à l'alinéa précédent doit en faire état, préciser que la conférence sera
-enregistrée et solliciter l'accord exprès de la personne concernée.
-
-Lorsque le médiateur souhaite entendre une personne en application du III de l'article L. 327-11, la convocation rappelle à
-la personne convoquée qu'elle est en droit de se faire assister d'un conseil de son choix.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-##### Sous-section 2 :  Procédure de contrôle des comptes et de la gestion<a id=233></a>
-
-###### Article R321-28
-
-Pour l'exercice de la mission mentionnée au 1° de l'article L. 327-1, le collège de contrôle arrête son programme annuel de
-travail sur proposition de son président. Un contrôle non prévu par ce programme peut être diligenté par le collège sur
-proposition du président.
-
-La décision de procéder à un contrôle est notifiée par lettre recommandée à l'organisme qui en fait l'objet avant toute
-opération de contrôle auprès de lui.
-
-La demande de documents et d'informations est adressée à l'organisme contrôlé par lettre fixant le délai imparti pour y
-répondre. Ce délai ne peut être inférieur à trente jours.
-
-Le collège de contrôle prend toutes dispositions pour que les opérations de contrôle s'effectuent en préservant au bénéfice
-de l'organisme les secrets protégés par la loi.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-29
-
-Le rapport provisoire de vérification, établi par le rapporteur et adopté par le collège de contrôle, est communiqué par le
-président à l'organisme contrôlé, qui dispose de trente jours pour faire valoir ses observations. L'organisme peut en outre
-dans le même délai demander à ce que ses représentants soient entendus par le collège de contrôle.
-
-Le rapport définitif de vérification est adopté par le collège de contrôle après examen des éventuelles observations de
-l'organisme contrôlé et, le cas échéant, après audition de ses représentants. Les observations de l'organisme contrôlé sont
-annexées au rapport de vérification. Ce rapport est adressé à l'organisme contrôlé. Il est également adressé au ministre
-chargé de la culture.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-30
-
-Le rapport annuel prévu à l'article L. 327-12 fait état des constatations faites par le collège de contrôle à l'issue de ses
-contrôles.
-
-Les observations du collège de contrôle mettant en cause un organisme lui sont communiquées au préalable. L'organisme dispose
-d'un délai de trente jours pour faire valoir ses observations ou demander à ce que ses représentants soient entendus par le
-collège de contrôle. Les observations de l'organisme sont annexées au rapport.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-##### Sous-section 3 :  Procédure de sanction<a id=234></a>
-
-###### Article R321-31
-
-Dans le cadre des contrôles effectués en application du 2° de l'article L. 327-1, le représentant du collège de contrôle
-établit les procès-verbaux énonçant la nature, la date et le lieu des constatations opérées. Ils sont signés par leur auteur
-et la personne concernée par les investigations ou son représentant légal.
-
-En cas de refus de celle-ci, mention en est faite au procès-verbal.
-
-Lorsque l'intéressé a été entendu par un système de visioconférence ou d'audioconférence, l'enregistrement audiovisuel ou
-sonore auquel ces opérations ont donné lieu fait l'objet d'un procès-verbal de transcription soumis pour signature à
-l'intéressé. A cet effet, ce procès-verbal, accompagné de l'enregistrement, lui est adressé dans un délai de trente jours à
-compter de la date de la visioconférence ou de l'audioconférence.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-32
-
-Lorsque le collège de contrôle décide de l'ouverture d'une procédure de sanction, la notification des griefs est adressée,
-par lettre recommandée avec demande d'avis de réception, remise en main propre contre récépissé ou acte d'huissier, à
-l'organisme mis en cause, accompagnée du rapport d'enquête.
-
-Ces documents sont également transmis au président du collège des sanctions.
-
-L'organisme mis en cause dispose d'un délai de deux mois pour transmettre au président du collège des sanctions ses
-observations écrites sur les griefs qui lui ont été notifiés. Il en adresse copie au président du collège de contrôle. A
-défaut, cette copie lui est communiquée par le président du collège des sanctions.
-
-La notification des griefs mentionne le délai prévu à l'alinéa précédent et précise que l'organisme mis en cause peut prendre
-connaissance et copie des autres pièces du dossier auprès du collège des sanctions et se faire assister ou représenter par
-tout conseil de son choix.
-
-Le président du collège de contrôle peut répondre par écrit, dans un délai n'excédant pas un mois, aux observations écrites
-transmises par l'organisme. Il adresse, selon les modalités prévues au premier alinéa du présent article, une copie de cette
-réponse à l'organisme qui peut, dans un délai d'un mois, communiquer de nouvelles observations au président du collège des
-sanctions.
-
-Une copie de ces observations est adressée au président du collège de contrôle dans les conditions fixées au troisième alinéa
-du présent article. Le président du collège des sanctions peut, s'il le juge utile, l'autoriser à y répondre dans les
-conditions prévues à l'alinéa précédent. L'organisme peut alors produire de nouvelles observations dans le délai d'un mois.
-Une copie en est adressée pour information au président du collège de contrôle.
-
-Les délais prévus par les dispositions du présent article peuvent être réduits par le président du collège des sanctions,
-lorsque l'urgence ou la nature de l'affaire le justifient.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-34 (V)
-
-
-###### Article R321-33
-
-L'organisme mis en cause est convoqué devant le collège des sanctions, selon les modalités prévues à l'article R. 321-27, au
-moins trente jours francs avant la séance.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-34
-
-Les membres du collège des sanctions délibèrent sur les sanctions en la seule présence d'un agent de la commission de
-contrôle exerçant les fonctions de secrétaire de séance. Celui-ci établit un compte rendu de la séance, qui est signé par le
-président du collège des sanctions et le secrétaire de séance. 
-
-La décision de sanction mentionne les noms des membres qui ont statué et, le cas échéant, les frais de procédure qui sont à
-la charge de l'organisme à l'encontre duquel la sanction a été prononcée. 
-
-Elle est notifiée à l'organisme concerné selon les modalités prévues au premier alinéa de l'article R. 321-32 et communiquée
-au collège de contrôle.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R321-32 (V)
-
-
-##### Sous-section 4 :  Procédure de médiation<a id=235></a>
-
-###### Article R321-35
-
-Le médiateur est choisi en tenant compte de ses compétences et de son expérience au regard de sa mission.
-
-Il veille à faire cesser immédiatement ou à prévenir les situations de conflit d'intérêts dans lesquelles il se trouve ou
-pourrait se trouver.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-36
-
-Lorsque le médiateur est saisi par l'une des parties, il informe les autres parties, par lettre remise contre signature ou
-tout autre moyen propre à établir la preuve de la date de réception de la saisine, dans un délai de huit jours à compter de
-la réception de la saisine. Les parties disposent alors d'un délai de trente jours ouvrés pour adresser leurs observations au
-médiateur et au requérant par tout moyen propre à établir la preuve de la date de réception. Ce délai peut être prolongé au
-plus pour la même durée par le médiateur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-37
-
-Pour l'exercice de sa mission, le médiateur dispose d'un délai de trois mois, à compter de la date de la réception de la
-requête, ou le cas échéant de la réception des observations des parties, ou de l'expiration du délai imparti pour les
-produire.
-
-Cette mission peut être renouvelée une fois, pour une même durée, à la demande du médiateur et avec l'accord des parties.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-41 (V)
-
-
-###### Article R321-38
-
-Le médiateur entend les parties, séparément ou conjointement, et toute personne dont l'audition lui paraît utile. Les parties
-peuvent se faire assister par toute personne de leur choix, dont elles communiquent l'identité préalablement à leur audition.
-
-Le médiateur établit un compte-rendu des auditions.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-39
-
-Lorsqu'une partie se prévaut du secret des affaires, elle signale au médiateur, à l'occasion de leur communication, les
-informations, documents ou partie de documents qu'elle estime couverts par ce secret et qui ne peuvent alors être rendus
-publics ni communiquées aux autres parties.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-40
-
-Le médiateur favorise ou suscite toute résolution des litiges qui lui sont soumis.
-
-La teneur de l'accord entre les parties, même partiel, constaté par le médiateur, est consignée dans un constat signé par les
-parties et le médiateur précisant les mesures à prendre pour le mettre en œuvre.
-
-Une copie de ce constat est remise à chaque partie par tout moyen propre à établir la preuve de la date de réception.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-43 (V)
-
-
-###### Article R321-41
-
-Si, à l'issue du délai prévu à l'article R. 321-37, aucun accord n'a pu être trouvé entre les parties, le médiateur dresse un
-rapport constatant cet échec, qu'il motive et dont copie est remise à chaque partie par tout moyen propre à établir la preuve
-de la date de réception.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R321-37 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R321-42 (V)
-
-
-###### Article R321-42
-
-Dans le cas prévu à l'article R. 321-41, le médiateur peut également émettre une recommandation, qui est notifiée aux parties
-par tout moyen propre à établir la preuve de la date de réception. 
-
-Dans un délai de trois mois à compter de la réception de la recommandation, les parties informent le médiateur des suites
-données à la recommandation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R321-41 (V)
-
-
-###### Article R321-43
-
-Le médiateur communique le constat du deuxième alinéa de l'article R. 321-40, la recommandation et les suites qui lui ont été
-données par les parties, ou le rapport constatant l'échec de la médiation au président de la commission. Le président de la
-commission communique ces éléments au ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R321-40 (V)
-
-
-###### Article R321-44
-
-Les déclarations recueillies ne peuvent être ni produites ni invoquées par une partie sans l'accord de celle qui les a
-produites dans le cadre d'une autre procédure de médiation, d'une procédure d'arbitrage ou d'une procédure judiciaire.
-
-Les constatations du médiateur ne peuvent être produites par les parties, à l'exception de celles rendues publiques.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-45
-
-Le médiateur adresse chaque année un rapport sur son activité au président de la commission de contrôle et au ministre chargé
-de la culture. Ce rapport est annexé à celui prévu à l'article L. 327-12.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-##### Section 4 :  Voies de recours<a id=236></a>
-
-###### Article R321-46
-
-Les recours contre les décisions prononcées par le collège des sanctions en application de l'article L. 327-15 sont formés,
-instruits et jugés conformément aux dispositions du présent titre.
-
-Sont nécessairement parties à la procédure, l'organisme sanctionné et la commission de contrôle même s'ils ne forment pas de
-recours à titre principal ou incident à l'encontre de la décision du collège des sanctions.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-###### Article R321-47
-
-I.-Le recours prévu à l'article L. 327-15 est formé dans le délai de deux mois par une déclaration écrite déposée en autant
-d'exemplaires que de parties augmenté d'un, au greffe de la cour d'appel contre récépissé.
-
-La déclaration précise les mentions prescrites par l'article 58 du code de procédure civile à peine de nullité, et l'exposé
-des moyens invoqués. Lorsque la déclaration ne contient pas l'exposé des moyens invoqués, le demandeur doit, à peine
-d'irrecevabilité prononcée d'office, déposer cet exposé au greffe dans les 15 jours qui suivent le dépôt de la déclaration.
-La déclaration de recours ou l'exposé des moyens invoqués mentionne la liste des pièces et documents justificatifs produits.
-Ces pièces et documents sont remis au greffe de la cour d'appel en même temps que la déclaration de recours ou l'exposé des
-moyens invoqués. Le demandeur au recours joint à la déclaration une copie de la décision attaquée.
-
-II.-Les demandes de sursis à exécution doivent être présentées dans le même délai que celui prévu pour le recours. Elles sont
-formulées auprès du premier président de la cour d'appel par simple requête déposée au greffe. A peine d'irrecevabilité, elle
-contient l'exposé des moyens invoqués et précise la date à laquelle a été formé le recours contre la décision dont le sursis
-à exécution est demandé. Le premier président ou son délégué fixe par ordonnance la date de l'audience à laquelle la demande
-de sursis sera examinée.
-
-III.-Dès l'enregistrement du recours, le greffe de la cour d'appel transmet, par tous moyens, aux parties une copie de la
-déclaration de recours et de la liste des pièces et documents justificatifs produits.
-
-IV.-Le premier président de la cour d'appel ou son délégué fixe les délais dans lesquels les parties doivent se communiquer
-leurs observations écrites et en déposer copie au greffe de la cour d'appel, ainsi que la date des débats. Le greffe notifie
-ces délais et cette date aux parties et convoque le défendeur à l'audience prévue pour les débats, par lettre recommandée
-avec demande d'avis de réception ou dans les conditions prévues à l'article 692-1 du code de procédure civile. Le greffe
-avise par tous moyens l'auteur de la demande des lieu, jour et heure de l'audience.
-
-Les parties peuvent prendre connaissance de l'ensemble des pièces de la procédure au greffe de la cour d'appel.
-
-V.-A l'audience, les parties sont entendues en leurs observations. Lorsque le président du collège de contrôle n'a pas exercé
-de recours, il peut présenter à l'audience des observations orales après l'organisme sanctionné auteur du recours.
-
-VI.-Les parties se défendent elles-mêmes. Elles ont la faculté de se faire assister ou représenter par un avocat.
-
-VII.-La cour d'appel peut soit confirmer la décision du collège des sanctions, soit l'annuler ou la réformer en tout ou en
-partie.
-
-VIII.-Les décisions de la cour d'appel ou de son premier président sont notifiées aux parties par le greffe, par lettre
-recommandée avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-#### Chapitre Ier octies : Dispositions diverses<a id=237></a>
-
-###### Article R321-48
-
-Les contestations adressées aux organismes de gestion des droits d'auteur et droits voisins en application de l'article L.
-328-1 sont présentées par écrit et peuvent être effectuées par voie électronique.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 3
-
-
-#### Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie<a id=238></a>
-
-###### Article R322-1
-
-Un organisme de gestion collective régi par le titre II du livre III peut être agréé au titre de l'article L. 122-10, s'il
-remplit les conditions suivantes :
-
-1° Apporter la preuve de la diversité de ses membres à raison des catégories et du nombre des ayants droit, de l'importance
-économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux. Cette diversité doit trouver
-son expression dans la composition des organes délibérants et dirigeants ;
-
-2° Justifier, par toutes pièces, la qualification de ses gérants et mandataires sociaux appréciée en fonction :
-
-a) De leur qualité d'auteur ;
-
-b) Ou de la nature et du niveau de leurs diplômes ;
-
-c) Ou de leur expérience professionnelle dans le secteur de l'édition ou de la gestion d'organismes professionnels ;
-
-3° Donner toutes informations relatives à son organisation administrative et aux conditions d'installation et d'équipement.
-Ces informations doivent concerner la collecte des données sur la pratique de la reprographie, la perception des
-rémunérations, le traitement des données nécessaires pour la répartition des rémunérations perçues, le plan de financement et
-le budget prévisionnel des trois exercices suivant la demande d'agrément ;
-
-4° Prévoir dans ses statuts, son règlement général et les actes types d'engagement de chacun des membres les règles
-garantissant le caractère équitable des modalités prévues pour la répartition des rémunérations perçues par les auteurs et
-les éditeurs.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L122-10
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R322-2 (V)
-
-_Codifié par_:
-
-  - Décret n°95-406 1955-04-14
-
-
-###### Article R322-2
-
-La demande d'agrément, accompagnée d'un dossier établi conformément àl'article R. 322-1, est transmise par lettre recommandée
-au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas en état, le ministre chargé de la
-culture demande par lettre recommandée un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un
-mois à compter de la réception de cette lettre.
-
-L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
-
-L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
-
-L'agrément peut être retiré, lorsque l'organisme ne remplit pas l'une des conditions fixées à l'article R. 322-1, après mise
-en demeure ou notification des griefs. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses
-observations. Le retrait est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
-République française.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-406 1955-04-14
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R322-1 (V)
-
-
-###### Article R322-3
-
-Tout changement de statut, ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et
-délibérants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
-la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-406 1955-04-14
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-
-###### Article R322-4
-
-Si, à la date de la publication de l'œuvre, l'auteur ou son ayant droit n'a pas désigné un organisme de gestion collective
-agréé, l'organisme réunissant le plus grand nombre d'œuvres gérées, déterminé conformément aux usages des professions
-concernées, est réputé cessionnaire du droit de reproduction par reprographie.
-
-Le ministre chargé de la culture désigne chaque année le ou les organismes répondant à la condition définie à l'alinéa
-précédent.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°95-406 du 14 avril 1995 - art. 3 (V)
-  - Arrêté du 7 avril 1997 - art. 1 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 7 avril 1997
-  - TXT_SOURCE: Arrêté du 7 avril 1997 - art. 1 (V)
-
-_Codifié par_:
-
-  - Décret n°95-406 1955-04-14
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-
-#### Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=239></a>
-
-###### Article R323-1
-
-Un organisme de gestion collective régi par le titre II du livre III peut être agréé au titre du I de l'article L. 132-20-1
-et du I de l'article L. 217-2 s'il remplit les conditions suivantes :
-
-1° Apporter la preuve de la gestion effective du droit d'autoriser la retransmission par câble, à raison du nombre des ayants
-droit et de l'importance économique exprimée en revenu ou en chiffre d'affaires ;
-
-2° Justifier par toutes pièces la qualification de ses gérants et mandataires sociaux appréciée en fonction :
-
-a) De la nature et du niveau de leurs diplômes ;
-
-b) Ou de leur expérience de la gestion d'organismes professionnels ;
-
-3° Donner toutes informations relatives :
-
-a) A l'organisation administrative et aux conditions d'installation et d'équipement ;
-
-b) Aux perceptions reçues ou attendues à l'occasion de la retransmission par câble, simultanée, intégrale et sans changement,
-sur le territoire national, à partir d'un Etat membre de la Communauté européenne et aux données nécessaires pour leur
-répartition ;
-
-4° Communiquer :
-
-a) Copie des conventions passées avec les tiers relatives à la retransmission par câble, simultanée, intégrale et sans
-changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne ;
-
-b) Le cas échéant, copie des conventions passées avec les organisations professionnelles étrangères chargées de la perception
-et de la répartition des droits.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L132-20-1
-  - Code de la propriété intellectuelle - art. L217-1
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R323-2 (V)
-
-_Codifié par_:
-
-  - Décret n°95-406 1955-04-14
-
-
-###### Article R323-2
-
-La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 323-1, est transmise par lettre
-recommandée avec avis de réception au ministre chargé de la culture qui en délivre récépissé. Lorsque le dossier n'est pas en
-état, le ministre chargé de la culture demande par lettre recommandée avec avis de réception un dossier complémentaire qui
-doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
-
-L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
-
-L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
-
-Si l'organisme cesse de remplir l'une des conditions fixées à l'article R. 323-1, l'administration lui adresse une mise en
-demeure par lettre recommandée avec avis de réception. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour
-présenter ses observations. Faute de régularisation de la situation, l'agrément peut être retiré par arrêté du ministre
-chargé de la culture, publié au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-406 1955-04-14
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R323-1 (V)
-
-
-###### Article R323-3
-
-Tout changement de statut ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et
-délibérants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
-la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-406 1955-04-14
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-
-###### Article R323-4
-
-La liste des organismes bénéficiant de l'agrément est publiée chaque année par le ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R324-1 (V)
-
-_Codifié par_:
-
-  - Décret n°95-406 1955-04-14
-
-
-###### Article R323-5
-
-La désignation prévue au deuxième alinéa du I de l'article L. 132-20-1 et au deuxième alinéa du I de l'article L. 217-2 se
-fait par lettre recommandée avec avis de réception adressée à un organisme de gestion collective.
-
-La rétractation peut être effectuée dans les conditions prévues par les statuts de cet organisme.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L132-20-1
-  - Code de la propriété intellectuelle - art. L217-2
-
-_Codifié par_:
-
-  - Décret n°95-406 1955-04-14
-
-
-#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=240></a>
-
-#### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=241></a>
+#### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=236></a>
 
 ###### Article R325-1
 
@@ -31490,7 +31084,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R326-7 (T)
 
 
-#### Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle<a id=242></a>
+#### Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle<a id=237></a>
 
 ###### Article R326-1
 
@@ -31723,7 +31317,7 @@ _Codifié par_:
   - Décret n°95-406 1955-04-14
 
 
-#### Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes<a id=243></a>
+#### Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes<a id=238></a>
 
 ###### Article R327-1
 
@@ -31869,15 +31463,244 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R328-6 (T)
 
 
-#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence<a id=244></a>
+#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence<a id=239></a>
 
-#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée<a id=245></a>
+###### Article R329-1
 
-### Titre III : Procédures et sanctions<a id=246></a>
+Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 123-7, s'il : 
 
-#### Chapitre Ier : Dispositions générales<a id=247></a>
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison
+des catégories et du nombre des ayants droit, et de leur importance économique exprimée en revenu ou en chiffre d'affaires ; 
 
-##### Section 1 : Dispositions communes<a id=248></a>
+2° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
+
+a) De leur qualité d'auteur ; 
+
+b) Ou de la nature et du niveau de leurs diplômes ; 
+
+c) Ou de leur expérience de la gestion d'organismes professionnels ; 
+
+3° Apporte la preuve de la représentation des auteurs d'œuvres originales graphiques et plastiques bénéficiaires du droit de
+suite, au sens de l'article L. 122-8, au sein des organes dirigeants à raison de leur importance économique exprimée en
+revenu ou en chiffre d'affaires ; 
+
+4° Donne les informations nécessaires relatives : 
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
+
+b) Aux moyens humains et matériels mis en œuvre pour la perception du droit de suite ; 
+
+c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
+
+d) Aux modalités de mise en œuvre de l'affectation du droit de suite à la prise en charge d'une fraction des cotisations dues
+par les auteurs des arts graphiques et plastiques au titre de la retraite complémentaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L122-8
+  - Code de la propriété intellectuelle - art. L123-7
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R329-6 (V)
+
+
+###### Article R329-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-1, est transmise par lettre
+recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
+n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
+dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
+lettre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-3
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-4
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-5
+
+Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et
+dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
+l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à
+l'article R. 329-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-6
+
+Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-1, le ministre chargé de la culture le
+met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
+mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
+République française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R329-1 (V)
+
+
+#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée<a id=240></a>
+
+###### Article R329-7
+
+Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 311-6, s'il : 
+
+1° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
+
+a) De leur qualité d'auteur ou de titulaire de droit voisin ; 
+
+b) Ou de la nature et du niveau de leurs diplômes ; 
+
+c) Ou de leur expérience de la gestion d'organismes professionnels ; 
+
+2° Donne les informations nécessaires relatives : 
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
+
+b) Aux moyens humains et matériels mis en œuvre pour la perception de la rémunération auprès des personnes mentionnées au
+premier alinéa de l'article L. 331-4 et le traitement des données nécessaires à la répartition de ces rémunérations ; 
+
+c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
+
+3° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison
+des catégories et du nombre des ayants droit, appréciés selon leur qualité de titulaire de droits ou du type d'œuvre qu'ils
+représentent, de leur importance économique exprimée en revenu ou en chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L311-6
+  - Code de la propriété intellectuelle - art. L331-4
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R329-12 (V)
+
+
+###### Article R329-8
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-7, est transmise par lettre
+recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
+n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
+dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
+lettre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-9
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-10
+
+L'agrément est renouvelable dans les mêmes conditions que l'agrément initial.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-11
+
+Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et
+dirigeants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
+l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à
+l'article R. 329-12.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-12
+
+Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-7, le ministre chargé de la culture la
+met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
+mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
+République française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R329-7
+
+
+### Titre III : Procédures et sanctions<a id=241></a>
+
+#### Chapitre Ier : Dispositions générales<a id=242></a>
+
+##### Section 1 : Dispositions communes<a id=243></a>
 
 ###### Article D331-1-1
 
@@ -31962,11 +31785,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-2
 
 
-##### Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=249></a>
+##### Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=244></a>
 
-##### Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=250></a>
+##### Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=245></a>
 
-##### Paragraphe 1 : Le collège de la Haute Autorité<a id=251></a>
+##### Paragraphe 1 : Le collège de la Haute Autorité<a id=246></a>
 
 ###### Article D331-5
 
@@ -32104,7 +31927,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-36 (V)
 
 
-##### Paragraphe 2 : La commission de protection des droits<a id=252></a>
+##### Paragraphe 2 : La commission de protection des droits<a id=247></a>
 
 ###### Article D331-8
 
@@ -32150,7 +31973,7 @@ _Modifié par_:
   - Décret n°2009-1773 du 29 décembre 2009 - art. 2
 
 
-##### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité<a id=253></a>
+##### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité<a id=248></a>
 
 ###### Article D331-13
 
@@ -32282,7 +32105,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-19 (V)
 
 
-##### Paragraphe 4 : Dispositions relatives au personnel<a id=254></a>
+##### Paragraphe 4 : Dispositions relatives au personnel<a id=249></a>
 
 ###### Article R331-15
 
@@ -32409,7 +32232,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-28 (V)
 
 
-##### Paragraphe 5 : Dispositions financières et comptables<a id=255></a>
+##### Paragraphe 5 : Dispositions financières et comptables<a id=250></a>
 
 ###### Article D331-28
 
@@ -32815,7 +32638,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-63 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=256></a>
+##### Paragraphe 6 : Dispositions diverses<a id=251></a>
 
 ###### Article D331-33
 
@@ -32866,7 +32689,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-18 (V)
 
 
-##### Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=257></a>
+##### Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=252></a>
 
 ###### Article R331-35
 
@@ -33209,7 +33032,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-42 (V)
 
 
-##### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=258></a>
+##### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=253></a>
 
 ###### Article D331-54-1
 
@@ -33411,7 +33234,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-47 (V)
 
 
-##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés<a id=259></a>
+##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés<a id=254></a>
 
 ###### Article R331-55
 
@@ -33436,7 +33259,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-34 (V)
 
 
-##### Paragraphe 1 : Règles générales de procédure<a id=260></a>
+##### Paragraphe 1 : Règles générales de procédure<a id=255></a>
 
 ###### Article R331-56
 
@@ -33705,7 +33528,7 @@ _Créé par_:
   - Décret n°2010-1366 du 10 novembre 2010 - art. 2
 
 
-##### Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=261></a>
+##### Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=256></a>
 
 ###### Article R331-65
 
@@ -33967,7 +33790,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-70 (V)
 
 
-##### Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées<a id=262></a>
+##### Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées<a id=257></a>
 
 ###### Article R331-72
 
@@ -34032,7 +33855,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-75 (V)
 
 
-##### Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins<a id=263></a>
+##### Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins<a id=258></a>
 
 ###### Article R331-74
 
@@ -34049,7 +33872,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-36 (V)
 
 
-##### Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité<a id=264></a>
+##### Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité<a id=259></a>
 
 ###### Article R331-75
 
@@ -34286,7 +34109,7 @@ _Créé par_:
   - Décret n°2010-1366 du 10 novembre 2010 - art. 2
 
 
-##### Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne<a id=265></a>
+##### Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne<a id=260></a>
 
 ###### Article R331-85
 
@@ -34505,7 +34328,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-26
 
 
-#### Chapitre II : Saisie-contrefaçon<a id=266></a>
+#### Chapitre II : Saisie-contrefaçon<a id=261></a>
 
 ###### Article R332-2
 
@@ -34559,7 +34382,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L332-4
 
 
-#### Chapitre V : Dispositions pénales<a id=267></a>
+#### Chapitre V : Dispositions pénales<a id=262></a>
 
 ###### Article R335-2
 
@@ -34684,7 +34507,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-25
 
 
-#### Chapitre V bis : La retenue<a id=268></a>
+#### Chapitre V bis : La retenue<a id=263></a>
 
 ###### Article R335-6
 
@@ -35001,7 +34824,7 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 1
 
 
-### Titre IV : Droits des producteurs de bases de données<a id=269></a>
+### Titre IV : Droits des producteurs de bases de données<a id=264></a>
 
 ###### Article R341-1
 
@@ -35019,7 +34842,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-13
 
 
-### Chapitre III : Procédures et sanctions<a id=270></a>
+### Chapitre III : Procédures et sanctions<a id=265></a>
 
 ###### Article R343-1
 
@@ -35038,13 +34861,13 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L343-2
 
 
-## Livre IV : Organisation administrative et professionnelle<a id=271></a>
+## Livre IV : Organisation administrative et professionnelle<a id=266></a>
 
-### Titre Ier : Institutions<a id=272></a>
+### Titre Ier : Institutions<a id=267></a>
 
-#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=273></a>
+#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=268></a>
 
-##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=274></a>
+##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=269></a>
 
 ###### Article D411-1-3
 
@@ -35598,7 +35421,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=275></a>
+##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=270></a>
 
 ###### Article R411-17
 
@@ -35780,7 +35603,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle<a id=276></a>
+##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle<a id=271></a>
 
 ###### Article D411-19-1
 
@@ -36017,9 +35840,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : L'instance nationale des obtentions végétales<a id=277></a>
+#### Chapitre II : L'instance nationale des obtentions végétales<a id=272></a>
 
-##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=278></a>
+##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=273></a>
 
 ###### Article D412-7
 
@@ -36157,7 +35980,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R412-13 (T)
 
 
-##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=279></a>
+##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=274></a>
 
 ###### Article R412-15
 
@@ -36291,9 +36114,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Qualification en propriété industrielle<a id=280></a>
+### Titre II : Qualification en propriété industrielle<a id=275></a>
 
-#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=281></a>
+#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=276></a>
 
 ###### Article R421-1
 
@@ -36918,9 +36741,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=282></a>
+#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=277></a>
 
-##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=283></a>
+##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=278></a>
 
 ###### Article R422-1
 
@@ -37228,7 +37051,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L423-2
 
 
-##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=284></a>
+##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=279></a>
 
 ###### Article R422-7-1
 
@@ -37296,7 +37119,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=285></a>
+##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=280></a>
 
 ###### Article R422-8
 
@@ -37401,9 +37224,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Exercice sous forme de société<a id=286></a>
+##### Section 3 : Exercice sous forme de société<a id=281></a>
 
-##### Sous-section 1 : Sociétés civiles professionnelles<a id=287></a>
+##### Sous-section 1 : Sociétés civiles professionnelles<a id=282></a>
 
 ###### Article R422-12
 
@@ -38286,7 +38109,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Sociétés d'exercice libéral<a id=288></a>
+##### Sous-section 2 : Sociétés d'exercice libéral<a id=283></a>
 
 ###### Article R422-41
 
@@ -38474,7 +38297,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Sociétés en participation<a id=289></a>
+##### Sous-section 3 : Sociétés en participation<a id=284></a>
 
 ###### Article R422-50
 
@@ -38523,7 +38346,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=290></a>
+##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=285></a>
 
 ###### Article R422-51-1
 
@@ -38809,7 +38632,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
 
 
-##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice<a id=291></a>
+##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice<a id=286></a>
 
 ###### Article R422-51-15
 
@@ -38901,7 +38724,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L422-8
 
 
-##### Section 4 : Obligations professionnelles<a id=292></a>
+##### Section 4 : Obligations professionnelles<a id=287></a>
 
 ###### Article R422-52
 
@@ -39094,7 +38917,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L422-10-1
 
 
-##### Section 4 bis : Contrôle de l'exercice de la profession<a id=293></a>
+##### Section 4 bis : Contrôle de l'exercice de la profession<a id=288></a>
 
 ###### Article R422-55-2
 
@@ -39174,7 +38997,7 @@ _Créé par_:
   - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
 
 
-##### Section 5 : Régime disciplinaire<a id=294></a>
+##### Section 5 : Régime disciplinaire<a id=289></a>
 
 ###### Article R422-56
 
@@ -39521,7 +39344,7 @@ _Créé par_:
   - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-#### Chapitre III : Dispositions diverses<a id=295></a>
+#### Chapitre III : Dispositions diverses<a id=290></a>
 
 ###### Article R423-1
 
@@ -39601,13 +39424,13 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre V : Les dessins et modèles<a id=296></a>
+## Livre V : Les dessins et modèles<a id=291></a>
 
-### Titre Ier : Acquisition des droits<a id=297></a>
+### Titre Ier : Acquisition des droits<a id=292></a>
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=298></a>
+#### Chapitre Ier : Droits et oeuvres protégés<a id=293></a>
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=299></a>
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=294></a>
 
 ###### Article R511-1
 
@@ -39770,7 +39593,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=300></a>
+#### Chapitre II : Formalités de dépôt<a id=295></a>
 
 ###### Article R*512-9-3
 
@@ -40666,7 +40489,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=301></a>
+#### Chapitre III : Durée de la protection<a id=296></a>
 
 ###### Article R*513-1-2
 
@@ -40843,9 +40666,9 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 28 () JORF 3 mars 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=302></a>
+#### Chapitre IV : Dispositions communes<a id=297></a>
 
-##### Section 1 : Procédure<a id=303></a>
+##### Section 1 : Procédure<a id=298></a>
 
 ###### Article R514-1
 
@@ -41021,7 +40844,7 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-##### Section 2 : Dispositions transitoires<a id=304></a>
+##### Section 2 : Dispositions transitoires<a id=299></a>
 
 ###### Article R514-6
 
@@ -41067,11 +40890,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=305></a>
+### Titre II : Contentieux<a id=300></a>
 
-#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=306></a>
+#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=301></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=307></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=302></a>
 
 ###### Article R521-1
 
@@ -41094,7 +40917,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-6
 
 
-##### Section 2 : Mesures probatoires<a id=308></a>
+##### Section 2 : Mesures probatoires<a id=303></a>
 
 ###### Article R521-2
 
@@ -41161,7 +40984,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 5
 
 
-##### Section 3 : Dispositions communes<a id=309></a>
+##### Section 3 : Dispositions communes<a id=304></a>
 
 ###### Article D521-6
 
@@ -41181,7 +41004,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=310></a>
+#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=305></a>
 
 ###### Article R522-1
 
@@ -41205,7 +41028,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-2 (V)
 
 
-#### Chapitre III : Retenue en douane<a id=311></a>
+#### Chapitre III : Retenue en douane<a id=306></a>
 
 ###### Article R523-1
 
@@ -41233,15 +41056,15 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-14
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=312></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=307></a>
 
-### Titre Ier : Brevets d'invention<a id=313></a>
+### Titre Ier : Brevets d'invention<a id=308></a>
 
-#### Chapitre Ier : Champ d'application<a id=314></a>
+#### Chapitre Ier : Champ d'application<a id=309></a>
 
-##### Section 2 : Droit au titre<a id=315></a>
+##### Section 2 : Droit au titre<a id=310></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=316></a>
+##### Sous-section 1 : Inventions de salariés<a id=311></a>
 
 ###### Article R611-1
 
@@ -41551,7 +41374,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=317></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=312></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -42102,7 +41925,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R611-12 (V)
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=318></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=313></a>
 
 ###### Article R611-15
 
@@ -42276,9 +42099,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=319></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=314></a>
 
-##### Section 1 : Dépôt des demandes<a id=320></a>
+##### Section 1 : Dépôt des demandes<a id=315></a>
 
 ###### Article R612-1
 
@@ -43132,9 +42955,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=321></a>
+##### Section 2 : L'instruction des demandes<a id=316></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=322></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=317></a>
 
 ###### Article R612-26
 
@@ -43376,7 +43199,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=323></a>
+##### Sous-section 2 : Division de la demande<a id=318></a>
 
 ###### Article R612-33
 
@@ -43488,7 +43311,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-45 (V)
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=324></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=319></a>
 
 ###### Article R612-36
 
@@ -43833,7 +43656,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=325></a>
+##### Sous-section 4 : Rejet de la demande<a id=320></a>
 
 ###### Article R612-45
 
@@ -44102,7 +43925,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=326></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=321></a>
 
 ###### Article R612-55
 
@@ -44512,7 +44335,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=327></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=322></a>
 
 ###### Article R*612-73-2
 
@@ -44694,7 +44517,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 8
 
 
-##### Section 3 : Diffusion légale des inventions<a id=328></a>
+##### Section 3 : Diffusion légale des inventions<a id=323></a>
 
 ###### Article R612-74
 
@@ -44748,11 +44571,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=329></a>
+#### Chapitre III : Droits attachés aux brevets<a id=324></a>
 
-##### Section 1 : Droits d'exploitation<a id=330></a>
+##### Section 1 : Droits d'exploitation<a id=325></a>
 
-##### Sous-section 1 : Licences obligatoires<a id=331></a>
+##### Sous-section 1 : Licences obligatoires<a id=326></a>
 
 ###### Article R613-4
 
@@ -44903,7 +44726,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=332></a>
+##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=327></a>
 
 ###### Article R613-10
 
@@ -45365,7 +45188,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=333></a>
+##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=328></a>
 
 ###### Article R613-25-1
 
@@ -45445,7 +45268,7 @@ _Modifié par_:
   - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=334></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=329></a>
 
 ###### Article R613-26
 
@@ -45674,7 +45497,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=335></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=330></a>
 
 ###### Article R613-34
 
@@ -45948,7 +45771,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=336></a>
+##### Sous-section 6 : Dispositions diverses<a id=331></a>
 
 ###### Article R613-43
 
@@ -46002,7 +45825,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=337></a>
+##### Section 2 : Transmission et perte des droits<a id=332></a>
 
 ###### Article R*613-45-2
 
@@ -46284,7 +46107,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=338></a>
+##### Section 4 : Recours en restauration<a id=333></a>
 
 ###### Article R613-52
 
@@ -46348,7 +46171,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 9
 
 
-##### Section 5 : Registre national des brevets<a id=339></a>
+##### Section 5 : Registre national des brevets<a id=334></a>
 
 ###### Article R613-53
 
@@ -46632,7 +46455,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=340></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=335></a>
 
 ###### Article R613-60
 
@@ -46733,7 +46556,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=341></a>
+##### Section 7 : Réduction des redevances<a id=336></a>
 
 ###### Article R613-63
 
@@ -46784,9 +46607,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
-#### Chapitre IV : Application de conventions internationales<a id=342></a>
+#### Chapitre IV : Application de conventions internationales<a id=337></a>
 
-##### Section 1 : Brevets européens<a id=343></a>
+##### Section 1 : Brevets européens<a id=338></a>
 
 ###### Article R614-1
 
@@ -47207,7 +47030,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=344></a>
+##### Section 2 : Demandes internationales<a id=339></a>
 
 ###### Article R614-21
 
@@ -47539,7 +47362,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre IV bis : La retenue<a id=345></a>
+#### Chapitre IV bis : La retenue<a id=340></a>
 
 ###### Article R614-36
 
@@ -47582,9 +47405,9 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 3
 
 
-#### Chapitre V : Actions en justice<a id=346></a>
+#### Chapitre V : Actions en justice<a id=341></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=347></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=342></a>
 
 ###### Article R615-1
 
@@ -47620,7 +47443,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=348></a>
+##### Section 2 : Mesures probatoires<a id=343></a>
 
 ###### Article R615-2
 
@@ -47776,7 +47599,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (VD)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=349></a>
+##### Section 3 : Commission paritaire de conciliation<a id=344></a>
 
 ###### Article R615-6
 
@@ -48487,7 +48310,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (VD)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=350></a>
+#### Chapitre VI : Le certificat d'utilité<a id=345></a>
 
 ###### Article R616-1
 
@@ -48569,7 +48392,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60 (V)
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=351></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=346></a>
 
 ###### Article R*617-2-2
 
@@ -48654,9 +48477,9 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 10
 
 
-#### Chapitre VIII : Dispositions communes<a id=352></a>
+#### Chapitre VIII : Dispositions communes<a id=347></a>
 
-##### Section unique : Procédure<a id=353></a>
+##### Section unique : Procédure<a id=348></a>
 
 ###### Article R618-1
 
@@ -48840,9 +48663,9 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Protection des connaissances techniques<a id=354></a>
+### Titre II : Protection des connaissances techniques<a id=349></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=355></a>
+#### Chapitre II : Produits semi-conducteurs<a id=350></a>
 
 ###### Article R*622-3-2
 
@@ -49094,11 +48917,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-#### Chapitre III : Obtentions végétales<a id=356></a>
+#### Chapitre III : Obtentions végétales<a id=351></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=357></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=352></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=358></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=353></a>
 
 ###### Article R623-1
 
@@ -49536,7 +49359,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=359></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=354></a>
 
 ###### Article R623-16
 
@@ -49758,7 +49581,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=360></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=355></a>
 
 ###### Article R623-25
 
@@ -49894,7 +49717,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances annuelles<a id=361></a>
+##### Sous-section 4 : Redevances annuelles<a id=356></a>
 
 ###### Article R623-31
 
@@ -50048,7 +49871,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=362></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=357></a>
 
 ###### Article R623-36
 
@@ -50105,7 +49928,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=363></a>
+##### Sous-section 6 : Registres nationaux<a id=358></a>
 
 ###### Article R623-38
 
@@ -50302,7 +50125,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=364></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=359></a>
 
 ###### Article R623-43
 
@@ -50476,7 +50299,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=365></a>
+##### Sous-section 8 : Dispositions diverses<a id=360></a>
 
 ###### Article R623-48
 
@@ -50687,7 +50510,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=366></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=361></a>
 
 ###### Article D623-58-1
 
@@ -50743,7 +50566,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 bis : Semences de ferme<a id=367></a>
+##### Section 2 bis : Semences de ferme<a id=362></a>
 
 ###### Article R623-59
 
@@ -50816,7 +50639,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : La retenue<a id=368></a>
+##### Section 3 : La retenue<a id=363></a>
 
 ###### Article R623-60
 
@@ -50834,9 +50657,9 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=369></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=364></a>
 
-#### Chapitre unique<a id=370></a>
+#### Chapitre unique<a id=365></a>
 
 ###### Article D631-1
 
@@ -51107,11 +50930,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=371></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=366></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=372></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=367></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=373></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=368></a>
 
 ###### Article D712-29
 
@@ -52240,7 +52063,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=374></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=369></a>
 
 ###### Article R714-1
 
@@ -52639,7 +52462,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=375></a>
+#### Chapitre V : Marques collectives<a id=370></a>
 
 ###### Article R715-1
 
@@ -52684,9 +52507,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=376></a>
+#### Chapitre VI : Contentieux<a id=371></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=377></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=372></a>
 
 ###### Article R716-1
 
@@ -52713,7 +52536,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-##### Section 2 :  Mesures probatoires<a id=378></a>
+##### Section 2 :  Mesures probatoires<a id=373></a>
 
 ###### Article R716-2
 
@@ -52783,7 +52606,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 
-##### Section 3 : Retenue en douane<a id=379></a>
+##### Section 3 : Retenue en douane<a id=374></a>
 
 ###### Article R716-6
 
@@ -52811,7 +52634,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L716-8
 
 
-##### Section 4 : Dispositions communes<a id=380></a>
+##### Section 4 : Dispositions communes<a id=375></a>
 
 ###### Article D716-12
 
@@ -52831,9 +52654,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=381></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=376></a>
 
-##### Section 1 : Marque internationale<a id=382></a>
+##### Section 1 : Marque internationale<a id=377></a>
 
 ###### Article R*717-1-1
 
@@ -53100,7 +52923,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque communautaire<a id=383></a>
+##### Section 2 : Marque communautaire<a id=378></a>
 
 ###### Article R*717-10-1
 
@@ -53198,9 +53021,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
 
-#### Chapitre VIII : Dispositions communes<a id=384></a>
+#### Chapitre VIII : Dispositions communes<a id=379></a>
 
-##### Section unique<a id=385></a>
+##### Section unique<a id=380></a>
 
 ###### Article R718-1
 
@@ -53341,11 +53164,11 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Indications géographiques<a id=386></a>
+### Titre II : Indications géographiques<a id=381></a>
 
-#### Chapitre Ier : Généralités<a id=387></a>
+#### Chapitre Ier : Généralités<a id=382></a>
 
-##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=388></a>
+##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=383></a>
 
 ###### Article R*721-6-1
 
@@ -53800,9 +53623,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R718-2
 
 
-#### Chapitre II : Contentieux<a id=389></a>
+#### Chapitre II : Contentieux<a id=384></a>
 
-##### Section 1 : Actions civiles<a id=390></a>
+##### Section 1 : Actions civiles<a id=385></a>
 
 ###### Article D722-6
 
@@ -53905,7 +53728,7 @@ certains éléments.
   - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
 
 
-##### Section 2 : La retenue<a id=391></a>
+##### Section 2 : La retenue<a id=386></a>
 
 ###### Article R722-7
 
@@ -53927,11 +53750,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=392></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=387></a>
 
-### Titre unique<a id=393></a>
+### Titre unique<a id=388></a>
 
-#### Chapitre unique<a id=394></a>
+#### Chapitre unique<a id=389></a>
 
 ###### Article R811-1
 
