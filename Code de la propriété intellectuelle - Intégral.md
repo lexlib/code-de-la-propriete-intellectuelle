@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-06-07
+Version Consolidée au 2017-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -283,7 +283,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
           - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#279)
           - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#280)
           - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#281)
-            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40)](#282)
+            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40-1)](#282)
             - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#283)
             - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#284)
             - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#285)
@@ -38120,6 +38120,24 @@ _Anciens textes_:
 _Créé par_:
 
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+
+
+###### Article R422-40-1
+
+Les associés peuvent exercer leur profession également au sein d'une autre société ne leur conférant pas la qualité de
+commerçant, notamment une société pluri-professionnelle d'exercice prévue au titre IV bis de la loi n° 90-1258 du 31 décembre
+1990relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire
+ou dont le titre est protégé et aux sociétés de participations financières de professions libérales.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°90-1258 du 31 décembre 1990 (V)
+
+_Créé par_:
+
+  - Décret n°2017-795 du 5 mai 2017 - art. 2
 
 
 ##### Sous-section 2 : Sociétés d'exercice libéral<a id=283></a>
