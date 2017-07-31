@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -34804,7 +34804,9 @@ prévues en application de l'article R. 123-151 du code de commerce.
 
 Les modalités de diffusion et de mise à la disposition du public des informations du registre national du commerce et des
 sociétés respectent les dispositions relatives à la communication des décisions de justice et des documents comptables
-prévues aux articles R. 123-154 et R. 123-154-1 du code de commerce. 
+prévues aux articles R. 123-154 à R. 123-154-1 du code de commerce et les dispositions concernant la communication du
+document relatif au bénéficiaire effectif prévues aux 1° à 4° de l'article L. 561-46 et aux articles R. 561-57 à R. 561-59 du
+code monétaire et financier. 
 
 La description des informations mises à la disposition du public ainsi que les modèles de licence sont accessibles sur le
 site internet de l'Institut national de la propriété industrielle.
@@ -34813,15 +34815,16 @@ site internet de l'Institut national de la propriété industrielle.
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
-  - Décret n°2015-1905 du 30 décembre 2015 - art. 2
+  - Décret n°2017-1094 du 12 juin 2017 - art. 3
 
 _Cite_:
 
   - Code de commerce - art. R123-151
   - Code de commerce - art. R123-154
   - Code de commerce - art. R123-154-1
-  - Code des relations entre le public et l'adminis... - art. L300-1 (V)
+  - Code monétaire et financier - art. L561-46
+  - Code monétaire et financier - art. R561-57
+  - Code monétaire et financier - art. R561-59
 
 
 ###### Article R411-1
@@ -53535,6 +53538,8 @@ décret n° 2017-338 du 15 mars 2017 ;
 4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R.
 423-2 ; 
 
+L'article D. 411-1-3 est applicable dans sa rédaction issue du décret n° 2017-1094 du 12 juin 2017 ; 
+
 5° Les dispositions du livre V à l'exception des articles R. 522-1 et R. 717-11 ainsi que des articles R. 512-2, R. 512-3, R.
 512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ; 
 
@@ -53560,6 +53565,7 @@ avis de non-imposition ou une justification équivalente.
 
 _Anciens textes_:
 
+  - Décret n°71-764 1969-09-09 art. 64
   - Décret n°78-1010 du 10 octobre 1978 - art. 12-1 (Ab)
   - Décret n°78-1011 du 10 octobre 1978 - art. 21-1 (Ab)
   - Décret n°79-797 du 4 septembre 1979 - art. 35 (Ab)
@@ -53570,7 +53576,6 @@ _Anciens textes_:
   - Décret n°89-816 du 2 novembre 1989 - art. 10 (Ab)
   - Décret n°92-100 1992-01-30 art. 51
   - Décret n°92-792 1992-08-13 art. 28
-  - Décret n°71-764 1969-09-09 art. 64
   - Décret n°69-975 du 18 octobre 1969 - art. 44 (Ab)
 
 _Cité par_:
@@ -53585,6 +53590,7 @@ _Cite_:
 
   - Loi n°2005-842 du 26 juillet 2005
   - Décret n°2017-338 du 15 mars 2017
+  - Décret n°2017-1094 du 12 juin 2017
   - Code de la propriété intellectuelle - art. L612-20
   - Code de la propriété intellectuelle - art. R133-1
   - Code de la propriété intellectuelle - art. R326-1
@@ -53615,7 +53621,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-338 du 15 mars 2017 - art. 2
+  - Décret n°2017-1094 du 12 juin 2017 - art. 4 (V)
 
 
 ###### Article R811-1-1
