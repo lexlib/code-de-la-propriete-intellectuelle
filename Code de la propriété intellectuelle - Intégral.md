@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-10-01
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -25987,20 +25987,17 @@ _Nouveaux textes_:
 
 ###### Article L811-2
 
-Pour l'application du présent code à Mayotte et dans les Terres australes et antarctiques françaises ainsi que pour
-l'application des dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-
-Calédonie, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+Pour l'application du présent code dans les Terres australes et antarctiques françaises ainsi que pour l'application des
+dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, les mots
+suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
 
 - " tribunal de grande instance " et " juges d'instance " par " tribunal de première instance " ;
 
-- " région " par " territoire " et, en ce qui concerne Mayotte, par " collectivité territoriale " ;
-
-- " cour d'appel " par " chambre d'appel de Mamoudzou" et " commissaire de police " par " officier de police judiciaire "
-pour ce qui concerne Mayotte ;
+- " région " par " territoire " ;
 
 - " tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ;
 
-- " conseil de prud'hommes " par " tribunal du travail ". 
+- " conseil de prud'hommes " par " tribunal du travail ".
 
 De même, les références à des dispositions législatives non applicables dans les îles Wallis et Futuna, dans les Terres
 australes et antarctiques françaises et en Nouvelle-Calédonie sont remplacées par les références aux dispositions ayant le
@@ -26008,12 +26005,9 @@ même objet, résultant des textes applicables localement.
 
 **Nota:**
 
-Aux termes de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, dans tous les textes législatifs applicables au
-département de Mayotte, la référence au "tribunal du travail" est remplacée par la référence au "conseil de prud'hommes". 
-
 Aux termes du VIII de l'article 259 de la loi n° 2015-990 du 6 août 2015, le II de l'article 16 de l'ordonnance n° 2011-337
 du 29 mars 2011 prévoyant la date d'entrée en vigueur du dernier alinéa de l'article 12 de ladite ordonnance est modifié.
-Cette date fixée par décret interviendra au plus tard le 31 décembre 2017. 
+Cette date fixée par décret interviendra au plus tard le 31 décembre 2017.
 
 Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
 instance est remplacéé par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des
@@ -26023,7 +26017,7 @@ compétences fixées entre ces juridictions par le code de l'organisation judici
 
 _Modifié par_:
 
-  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 23 (VD)
 
 
 ###### Article L811-2-1
@@ -26048,6 +26042,24 @@ ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
 _Modifié par_:
 
   - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
+
+
+###### Article L811-2-2
+
+Pour l'application du présent code à Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les
+mots suivants :
+
+a) “région” et “département” par “Mayotte” ;
+
+b) “cour d'appel” par “chambre d'appel de Mamoudzou” et “commissaire de police” par “officier de police judiciaire” ;
+
+c) “conseil de prud'hommes” par “tribunal du travail et des prud'hommes”.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1718 du 20 décembre 2017 - art. 3 (V)
 
 
 ###### Article L811-3
