@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-05-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -138,7 +138,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
             - [Section 2 : Demandes internationales (art. L614-17 à L614-24)](#134)
               - [Paragraphe 1 : Dépôt des demandes internationales (art. L614-18 à L614-23)](#135)
               - [Paragraphe 2 : Effets en France des demandes internationales (art. L614-24)](#136)
-            - [Section 3 : Brevets communautaires (art. L614-25 à L614-30)](#137)
+            - [Section 3 : Brevets communautaires (art. L614-26 à L614-30)](#137)
             - [Section 4 : Dispositions finales (art. L614-31)](#138)
           - [Chapitre IV bis :  La retenue (art. L614-32 à L614-39)](#139)
           - [Chapitre V : Actions en justice (art. L615-1 à L615-22)](#140)
@@ -18946,36 +18946,6 @@ _Cite_:
 
 
 ##### Section 3 : Brevets communautaires<a id=137></a>
-
-###### Article L614-25
-
-La présente section est relative à l'application de la convention relative au brevet européen pour le marché commun
-(convention sur le brevet communautaire), fait à Luxembourg le 15 décembre 1975, ci-après dénommée "Convention de
-Luxembourg". Elle entrera en vigueur à la même date que la Convention de Luxembourg.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°77-684 1977-06-30 art. 7
-  - Code de la propriété intellectuelle - art. L614-31 (VT)
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L811-1-1 (VD)
-
-_Cite_:
-
-  - Convention 1975-12-15, faite à Luxembourg
-
 
 ###### Article L614-26
 
