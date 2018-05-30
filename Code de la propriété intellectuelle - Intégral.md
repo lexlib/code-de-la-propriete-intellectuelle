@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-05-11
+Version Consolidée au 2018-05-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -31885,14 +31885,15 @@ _Modifié par_:
 
 ###### Article D331-13
 
-Le président perçoit une indemnité forfaitaire dont le montant annuel est fixé par arrêté conjoint des ministres chargés de
-la culture, du budget et de la fonction publique.
+Le président reçoit une rémunération de base égale au traitement afférent au premier chevron du troisième groupe des emplois
+de l'État classés hors échelle, ainsi qu'une indemnité de fonction dont le montant est fixé par arrêté conjoint des ministres
+chargés de la culture, du budget et de la fonction publique.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1773 du 29 décembre 2009 - art. 2
+  - Décret n°2018-405 du 29 mai 2018 - art. 1
 
 _Cite_:
 
