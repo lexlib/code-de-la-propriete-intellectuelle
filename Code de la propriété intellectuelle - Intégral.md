@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-05-31
+Version Consolidée au 2018-06-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -343,7 +343,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
           - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#339)
         - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#340)
         - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#341)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1 à R615-2)](#342)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#342)
           - [Section 2 : Mesures probatoires (art. R615-2-1 à R615-5)](#343)
           - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#344)
         - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#345)
@@ -47776,57 +47776,6 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-###### Article R615-2
-
-La saisie, descriptive ou réelle, prévue au deuxième alinéa de l'article L. 615-5 est ordonnée par le président d'un des
-tribunaux de grande instance mentionnés à l'article D. 631-2, dans le ressort duquel les opérations doivent être effectuées.
-
-L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de
-protection, du certificat d'utilité ou du certificat d'addition, soit, dans le cas prévu au premier alinéa de l'article L.
-615-4, d'une copie certifiée conforme de la demande de brevet, de certificat complémentaire de protection, de certificat
-d'utilité ou de certificat d'addition. Dans ce dernier cas, le requérant doit justifier en outre que les conditions prévues à
-cet article sont remplies. 
-
-Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
-octroyée en vertu des articles L. 613-11, L. 613-15, L. 613-17, L. 613-17-1 et L. 613-19, le requérant doit justifier que les
-conditions prescrites, selon le cas, par le deuxième ou le quatrième alinéa de l'article L. 615-2 sont remplies. 
-
-Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
-l'étendue de la contrefaçon.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-190 du 15 février 1969 - art. 2 (Ab)
-
-**Liens**:
-
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Modifié par_:
-
-  - Décret n°2008-624 du 27 juin 2008 - art. 7
-
-_Cité par_:
-
-  - Décret n°2018-429 du 31 mai 2018 (V)
-  - Décret n°2018-429 du 31 mai 2018 - art. 8 (VD)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. D631-2
-  - Code de la propriété intellectuelle - art. L613-11
-  - Code de la propriété intellectuelle - art. L615-2
-  - Code de la propriété intellectuelle - art. L615-4
-  - Code de la propriété intellectuelle - art. L615-5
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-4 (VD)
-
-
 ##### Section 2 : Mesures probatoires<a id=343></a>
 
 ###### Article R615-2-1
@@ -50876,7 +50825,7 @@ _Codifié par_:
 ###### Article D623-58-1
 
 La composition et le fonctionnement de la commission paritaire de conciliation spécifique au domaine des obtentions végétales
-sont régis par les articles R. 615-6 à R. 615-8, R. 615-10 à R. 615-31, sous réserve des adaptations suivantes : 
+sont régis par les articles R. 615-9 à R. 615-11, R. 615-13 à R. 615-34, sous réserve des adaptations suivantes : 
 
 1° Les mots : " directeur général de l'Institut national de la propriété industrielle " sont remplacés par les mots : "
 responsable de l'instance nationale des obtentions végétales " et les mots : " Institut national de la propriété industrielle
@@ -50887,16 +50836,31 @@ ministre chargé de l'agriculture.
 
 La commission paritaire de conciliation se réunit au siège de l'instance nationale des obtentions végétales.
 
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+Conformément aux dispositions du 3° du I de l'article 4 du décret n° 2018-429 du 31 mai 2018, les articles R. 615-6 et R.
+615-10 du code de la propriété intellectuelle sont devenus R. 615-9 et R. 615-13 du même code.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-164 du 12 février 2015 - art. 1
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R615-10
-  - Code de la propriété intellectuelle - art. R615-6
+  - Code de la propriété intellectuelle - art. R615-10 (VT)
+  - Code de la propriété intellectuelle - art. R615-13 (VT)
+  - Code de la propriété intellectuelle - art. R615-6 (VT)
+  - Code de la propriété intellectuelle - art. R615-9 (VT)
 
 
 ###### Article R623-58
