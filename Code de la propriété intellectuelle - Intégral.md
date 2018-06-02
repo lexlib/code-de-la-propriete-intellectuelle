@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-05-31
+Version Consolidée au 2018-06-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -342,55 +342,56 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
           - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#338)
           - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#339)
         - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#340)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#341)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#342)
-          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#343)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#344)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#345)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#346)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#347)
-          - [Section unique : Procédure (art. R618-1 à R618-6)](#348)
-      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#349)
-        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#350)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#351)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#352)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#353)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#354)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#355)
-            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#356)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#357)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#358)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#359)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#360)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#361)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#362)
-          - [Section 3 : La retenue (art. R623-60)](#363)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#364)
-        - [Chapitre unique (art. D631-1 à D631-2)](#365)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#366)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#367)
-        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#368)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#369)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#370)
-        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#371)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#372)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#373)
-          - [Section 3 : Retenue en douane (art. R716-6)](#374)
-          - [Section 4 : Dispositions communes (art. D716-12)](#375)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#376)
-          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#377)
-          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#378)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#379)
-          - [Section unique (art. R718-1 à R718-5)](#380)
-      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#381)
-        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#382)
-          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#383)
-        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#384)
-          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#385)
-          - [Section 2 : La retenue (art. R722-7)](#386)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#387)
-      - [Titre unique (art. R811-1 à R811-3)](#388)
-        - [Chapitre unique (art. R811-1 à R811-3)](#389)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-34)](#341)
+          - [Section 1 : Dispositions relatives à la compétence juridictionnelle (art. R615-1 à R615-2)](#342)
+          - [Section 2 : Mesures provisoires et conservatoires (art. R615-3)](#343)
+          - [Section 3 : Mesures probatoires (art. R615-4 à R615-8)](#344)
+          - [Section 4 : Commission paritaire de conciliation (art. R615-9 à R615-34)](#345)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#346)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#347)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#348)
+          - [Section unique : Procédure (art. R618-1 à R618-6)](#349)
+      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#350)
+        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#351)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#352)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#353)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#354)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#355)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#356)
+            - [Sous-section 4 : Redevances annuelles (art. R623-31 à R623-35)](#357)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#358)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#359)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#360)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#361)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#362)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#363)
+          - [Section 3 : La retenue (art. R623-60)](#364)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#365)
+        - [Chapitre unique (art. D631-1 à D631-2)](#366)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#367)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#368)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#369)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#370)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#371)
+        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#372)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#373)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#374)
+          - [Section 3 : Retenue en douane (art. R716-6)](#375)
+          - [Section 4 : Dispositions communes (art. D716-12)](#376)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#377)
+          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#378)
+          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#379)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#380)
+          - [Section unique (art. R718-1 à R718-5)](#381)
+      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#382)
+        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#383)
+          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#384)
+        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#385)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#386)
+          - [Section 2 : La retenue (art. R722-7)](#387)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#388)
+      - [Titre unique (art. R811-1 à R811-3)](#389)
+        - [Chapitre unique (art. R811-1 à R811-3)](#390)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -47593,13 +47594,27 @@ _Créé par_:
 
 #### Chapitre V : Actions en justice<a id=341></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=342></a>
+##### Section 1 : Dispositions relatives à la compétence juridictionnelle<a id=342></a>
 
 ###### Article R615-1
 
-Le délai prévu au dernier alinéa de l'article L. 615-3 et imparti au demandeur pour se pourvoir au fond par la voie civile ou
-pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
-civils si ce délai est plus long, à compter de la date de l'ordonnance.
+Lorsque le juge estime, y compris en cours d’instance, que la demande relève de la compétence exclusive de la juridiction
+unifiée du brevet en application des articles L. 615-17 et L. 615-18, il relève d’office son incompétence et renvoie les
+parties à mieux se pourvoir.
+
+Lorsqu’en cours d’instance un effet unitaire est conféré au brevet européen objet du litige, la partie la plus diligente en
+informe le tribunal. Lorsque l’effet unitaire est octroyé en cours de délibéré, le tribunal ordonne la réouverture des
+débats.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -47609,11 +47624,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2014-1550 du 19 décembre 2014 - art. 6
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 5
 
 _Cite_:
 
@@ -47629,9 +47640,104 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=343></a>
-
 ###### Article R615-2
+
+Le tribunal, saisi d’une action en contrefaçon d’un brevet français, sursoit à statuer lorsque la juridiction unifiée du
+brevet est concomitamment saisie d’une demande fondée sur un brevet unitaire ou sur un brevet ne faisant pas l’objet d’une
+dérogation à sa compétence exclusive en application du paragraphe 3 de l’article 83 de l’Accord relatif à une juridiction
+unifiée du brevet et que le brevet objet du litige couvre la même invention, a été demandé par le même inventeur ou délivré à
+celui-ci ou à son ayant-cause avec la même date de priorité et porte sur les mêmes faits entre les mêmes parties. Le sursis à
+statuer se prolonge jusqu’à ce que ne soit plus susceptible de recours la décision de la juridiction unifiée du brevet sur
+cette demande.
+
+Est irrecevable une demande formée dans le cadre de l’action mentionnée au premier alinéa lorsque la juridiction unifiée du
+brevet a statué sur la même demande fondée sur les mêmes faits entre les mêmes parties par une décision ayant autorité de la
+chose jugée.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+Conformément aux dispositions de l'article 8 du décret n° 2018-429 du 31 mai 2018, les dispositions du premier alinéa de
+l'article R. 615-2, dans leur rédaction résultant de l'article 5 dudit décret, s'appliquent aux actions engagées à
+l'expiration de la période transitoire prévue au premier paragraphe de l'article 83 de l'accord relatif à une juridiction
+unifiée du brevet signé à Bruxelles le 19 février 2013.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°69-190 du 15 février 1969 - art. 2 (Ab)
+
+_Cité par_:
+
+  - Décret n°2018-429 du 31 mai 2018 (V)
+  - Décret n°2018-429 du 31 mai 2018 - art. 8 (VD)
+
+_Modifié par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 5
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. D631-2
+  - Code de la propriété intellectuelle - art. L613-11
+  - Code de la propriété intellectuelle - art. L615-2
+  - Code de la propriété intellectuelle - art. L615-4
+  - Code de la propriété intellectuelle - art. L615-5
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-4 (V)
+
+
+##### Section 2 : Mesures provisoires et conservatoires<a id=343></a>
+
+###### Article R615-3
+
+Le délai prévu au dernier alinéa de l'article L. 615-3 et imparti au demandeur pour se pourvoir au fond par la voie civile ou
+pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
+civils si ce délai est plus long, à compter de la date de l'ordonnance.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°69-190 du 15 février 1969 - art. 3 (Ab)
+  - Code de la propriété intellectuelle - art. R615-1 (T)
+
+_Modifié par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L615-5
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-6 (V)
+
+
+##### Section 3 : Mesures probatoires<a id=344></a>
+
+###### Article R615-4
 
 La saisie, descriptive ou réelle, prévue au deuxième alinéa de l'article L. 615-5 est ordonnée par le président d'un des
 tribunaux de grande instance mentionnés à l'article D. 631-2, dans le ressort duquel les opérations doivent être effectuées.
@@ -47649,99 +47755,15 @@ conditions prescrites, selon le cas, par le deuxième ou le quatrième alinéa d
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
 l'étendue de la contrefaçon.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Anciens textes_:
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
 
-  - Décret n°69-190 du 15 février 1969 - art. 2 (Ab)
-
-**Liens**:
-
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Modifié par_:
-
-  - Décret n°2008-624 du 27 juin 2008 - art. 7
-
-_Cité par_:
-
-  - Décret n°2018-429 du 31 mai 2018 (V)
-  - Décret n°2018-429 du 31 mai 2018 - art. 8 (VD)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. D631-2
-  - Code de la propriété intellectuelle - art. L613-11
-  - Code de la propriété intellectuelle - art. L615-2
-  - Code de la propriété intellectuelle - art. L615-4
-  - Code de la propriété intellectuelle - art. L615-5
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-4 (V)
-
-
-###### Article R615-2-1
-
-Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées
-avant qu'il soit procédé à la saisie. 
-
-A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux
-détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution de
-garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-624 du 27 juin 2008 - art. 8
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-5 (V)
-
-
-###### Article R615-3
-
-Le délai prévu au dernier alinéa de l'article L. 615-5 et imparti au demandeur pour se pourvoir au fond est de vingt jours
-ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la
-description.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-190 du 15 février 1969 - art. 3 (Ab)
-  - Code de la propriété intellectuelle - art. R615-1 (T)
-
-**Liens**:
-
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Modifié par_:
-
-  - Décret n°2008-624 du 27 juin 2008 - art. 9
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L615-5
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-6 (V)
-
-
-###### Article R615-4
-
-Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure de nature à compléter la preuve des
-actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il
-peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -47750,10 +47772,9 @@ _Anciens textes_:
   - Décret n°69-190 du 15 février 1969 - art. 4 (Ab)
   - Code de la propriété intellectuelle - art. R615-2 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -47762,11 +47783,22 @@ _Nouveaux textes_:
 
 ###### Article R615-5
 
-Lorsque, dans un litige civil en matière de brevets d'invention, une expertise technique apparaît nécessaire, le président de
-la juridiction saisie peut consulter, sur le choix de l'expert, l'un des organismes désignés par arrêté conjoint du garde des
-sceaux et des ministres intéressés.
+Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées
+avant qu'il soit procédé à la saisie. 
 
-S'il a été procédé à cette consultation, il en est fait mention dans l'arrêt ou le jugement.
+A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux
+détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution de
+garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -47775,26 +47807,30 @@ _Anciens textes_:
   - Décret n°65-464 du 10 juin 1965 - art. 1 (Ab)
   - Code de la propriété intellectuelle - art. R615-2-1 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
   - Code de la propriété intellectuelle - art. R615-8 (V)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=344></a>
-
 ###### Article R615-6
 
-Le président de la commission paritaire de conciliation prévue à l'article L. 615-21 est nommé pour une période de trois
-années renouvelable, par arrêté du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété
-industrielle. La nomination peut porter sur un magistrat honoraire. 
+Le délai prévu au dernier alinéa de l'article L. 615-5 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la
+description.
 
-Un ou plusieurs suppléants peuvent être nommés dans les mêmes conditions. Ils remplacent le président en cas d'absence ou
-d'empêchement.
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -47803,10 +47839,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 11 (Ab)
   - Code de la propriété intellectuelle - art. R615-3 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cité par_:
 
@@ -47815,7 +47850,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L615-21 (V)
+  - Code de la propriété intellectuelle - art. L615-21
 
 _Nouveaux textes_:
 
@@ -47823,6 +47858,109 @@ _Nouveaux textes_:
 
 
 ###### Article R615-7
+
+Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure de nature à compléter la preuve des
+actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il
+peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-797 du 4 septembre 1979 - art. 12 (Ab)
+  - Code de la propriété intellectuelle - art. R615-4 (T)
+
+_Modifié par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-10 (V)
+
+
+###### Article R615-8
+
+Lorsque, dans un litige civil en matière de brevets d'invention, une expertise technique apparaît nécessaire, le président de
+la juridiction saisie peut consulter, sur le choix de l'expert, l'un des organismes désignés par arrêté conjoint du garde des
+sceaux et des ministres intéressés.
+
+S'il a été procédé à cette consultation, il en est fait mention dans l'arrêt ou le jugement.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-797 du 4 septembre 1979 - art. 13 (Ab)
+  - Code de la propriété intellectuelle - art. R615-5 (T)
+
+_Modifié par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-11 (V)
+
+
+##### Section 4 : Commission paritaire de conciliation<a id=345></a>
+
+###### Article R615-9
+
+Le président de la commission paritaire de conciliation prévue à l'article L. 615-21 est nommé pour une période de trois
+années renouvelable, par arrêté du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété
+industrielle. La nomination peut porter sur un magistrat honoraire.
+
+Un ou plusieurs suppléants peuvent être nommés dans les mêmes conditions. Ils remplacent le président en cas d'absence ou
+d'empêchement.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-797 du 4 septembre 1979 - art. 14 (Ab)
+  - Code de la propriété intellectuelle - art. R615-6 (T)
+
+_Modifié par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-12 (V)
+
+
+###### Article R615-10
 
 Le président est assisté de deux assesseurs, qu'il désigne pour chaque affaire sur une liste de personnes compétentes dans
 les matières dont connaît la commission.
@@ -47837,75 +47975,15 @@ Si l'invention intéresse la défense nationale ou est issue d'un contrat d'étu
 classification de sécurité de défense, les assesseurs doivent avoir fait l'objet d'une habilitation préalable par le ministre
 chargé de la défense. Il en est de même des experts commis ou des techniciens consultés.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Anciens textes_:
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
 
-  - Décret n°79-797 du 4 septembre 1979 - art. 12 (Ab)
-  - Code de la propriété intellectuelle - art. R615-4 (T)
-
-**Liens**:
-
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-10 (V)
-
-
-###### Article R615-8
-
-Le secrétariat de la commission est assuré par l'Institut national de la propriété industrielle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-797 du 4 septembre 1979 - art. 13 (Ab)
-  - Code de la propriété intellectuelle - art. R615-5 (T)
-
-**Liens**:
-
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-11 (V)
-
-
-###### Article R615-9
-
-La commission se réunit à l'Institut national de la propriété industrielle ou, sur décision du président, dans un de ses
-centres de province lorsque les circonstances l'exigent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-797 du 4 septembre 1979 - art. 14 (Ab)
-  - Code de la propriété intellectuelle - art. R615-6 (T)
-
-**Liens**:
-
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-12 (V)
-
-
-###### Article R615-10
-
-Il est alloué aux membres de la commission une indemnité forfaitaire pour les affaires dont ils ont à connaître.
-
-L'indemnité comprend le remboursement des frais divers de secrétariat, de correspondance ou de déplacement à l'extérieur de
-leur résidence, nécessités par l'accomplissement de leur mission.
-
-Le taux et les conditions d'attribution de l'indemnité forfaitaire sont fixés par arrêté conjoint des ministres chargés des
-finances et de la propriété industrielle.
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -47914,10 +47992,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 15 (Ab)
   - Code de la propriété intellectuelle - art. R615-7 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cité par_:
 
@@ -47930,9 +48007,17 @@ _Nouveaux textes_:
 
 ###### Article R615-11
 
-Les dépenses occasionnées par les déplacements que les membres de la commission peuvent être appelés à effectuer hors de leur
-résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions applicables aux fonctionnaires du
-groupe I.
+Le secrétariat de la commission est assuré par l'Institut national de la propriété industrielle.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -47941,10 +48026,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 16 (Ab)
   - Code de la propriété intellectuelle - art. R615-8 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -47953,8 +48037,18 @@ _Nouveaux textes_:
 
 ###### Article R615-12
 
-La commission est saisie par une demande déposée au secrétariat soit par le requérant, soit par un mandataire justifiant d'un
-pouvoir. La demande peut être également adressée par lettre recommandée avec demande d'avis de réception.
+La commission se réunit à l'Institut national de la propriété industrielle ou, sur décision du président, dans un de ses
+centres de province lorsque les circonstances l'exigent.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -47963,10 +48057,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 17 (Ab)
   - Code de la propriété intellectuelle - art. R615-9 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -47975,20 +48068,23 @@ _Nouveaux textes_:
 
 ###### Article R615-13
 
-La demande est signée du requérant ou de son mandataire. 
+Il est alloué aux membres de la commission une indemnité forfaitaire pour les affaires dont ils ont à connaître.
 
-Elle indique : 
+L'indemnité comprend le remboursement des frais divers de secrétariat, de correspondance ou de déplacement à l'extérieur de
+leur résidence, nécessités par l'accomplissement de leur mission.
 
-1° Les nom, prénoms, profession, adresse du requérant et des autres parties ; 
+Le taux et les conditions d'attribution de l'indemnité forfaitaire sont fixés par arrêté conjoint des ministres chargés des
+finances et de la propriété industrielle.
 
-2° L'objet du litige ; 
+**Nota:**
 
-3° Les moyens et conclusions du requérant ; 
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
 
-4° Tous les éléments en sa possession pouvant être utiles à la solution du litige. 
-
-Y est annexée une copie de la déclaration et des communications effectuées en application des articles R. 611-1 à R. 611-10
-ainsi que des différentes pièces dont le requérant entend se prévaloir.
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -47997,14 +48093,13 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 18 (Ab)
   - Code de la propriété intellectuelle - art. R615-10 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R611-1 (V)
+  - Code de la propriété intellectuelle - art. R611-1
 
 _Nouveaux textes_:
 
@@ -48012,6 +48107,112 @@ _Nouveaux textes_:
 
 
 ###### Article R615-14
+
+Les dépenses occasionnées par les déplacements que les membres de la commission peuvent être appelés à effectuer hors de leur
+résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions applicables aux fonctionnaires du
+groupe I.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-797 du 4 septembre 1979 - art. 19 (Ab)
+  - Code de la propriété intellectuelle - art. R615-11 (T)
+
+_Modifié par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-17 (V)
+
+
+###### Article R615-15
+
+La commission est saisie par une demande déposée au secrétariat soit par le requérant, soit par un mandataire justifiant d'un
+pouvoir. La demande peut être également adressée par lettre recommandée avec demande d'avis de réception.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-797 du 4 septembre 1979 - art. 20 (Ab)
+  - Code de la propriété intellectuelle - art. R615-12 (T)
+
+_Modifié par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-18 (V)
+
+
+###### Article R615-16
+
+La demande est signée du requérant ou de son mandataire.
+
+Elle indique :
+
+1° Les nom, prénoms, profession, adresse du requérant et des autres parties ;
+
+2° L'objet du litige ;
+
+3° Les moyens et conclusions du requérant ;
+
+4° Tous les éléments en sa possession pouvant être utiles à la solution du litige.
+
+Y est annexée une copie de la déclaration et des communications effectuées en application des articles R. 611-1 à R. 611-10
+ainsi que des différentes pièces dont le requérant entend se prévaloir.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-797 du 4 septembre 1979 - art. 21 (Ab)
+  - Code de la propriété intellectuelle - art. R615-13 (T)
+
+_Modifié par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-19 (V)
+
+
+###### Article R615-17
 
 Si la demande n'est pas conforme aux dispositions de l'article précédent, le secrétariat invite le requérant à la compléter
 dans le délai d'un mois.
@@ -48025,24 +48226,33 @@ légitime.
 La date de saisine de la commission est celle à laquelle la demande a été complétée dans les conditions prévues au présent
 article.
 
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°79-797 du 4 septembre 1979 - art. 19 (Ab)
-  - Code de la propriété intellectuelle - art. R615-11 (T)
+  - Décret n°79-797 du 4 septembre 1979 - art. 22 (Ab)
+  - Code de la propriété intellectuelle - art. R615-14 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
-  - Code de la propriété intellectuelle - art. R615-17 (V)
+  - Code de la propriété intellectuelle - art. R615-20 (V)
 
 
-###### Article R615-15
+###### Article R615-18
 
 La saisine de la commission est notifiée à l'autre partie par le secrétariat.
 
@@ -48052,24 +48262,33 @@ le mérite de la demande.
 Le ministre de la défense est habilité à prendre connaissance auprès du secrétariat de la commission de toutes les
 contestations qui sont soumises à la commission.
 
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°79-797 du 4 septembre 1979 - art. 20 (Ab)
-  - Code de la propriété intellectuelle - art. R615-12 (T)
+  - Décret n°79-797 du 4 septembre 1979 - art. 23 (Ab)
+  - Code de la propriété intellectuelle - art. R615-15 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
-  - Code de la propriété intellectuelle - art. R615-18 (V)
+  - Code de la propriété intellectuelle - art. R615-21 (V)
 
 
-###### Article R615-16
+###### Article R615-19
 
 Dans le délai fixé par le président, l'Institut national de la propriété industrielle communique à cette dernière ceux des
 éléments en sa possession qui peuvent être divulgués sans porter atteinte aux droits des tiers ou aux intérêts de la défense
@@ -48077,24 +48296,33 @@ nationale.
 
 Copie de cette communication est immédiatement adressée aux parties par le secrétariat.
 
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°79-797 du 4 septembre 1979 - art. 21 (Ab)
-  - Code de la propriété intellectuelle - art. R615-13 (T)
+  - Décret n°79-797 du 4 septembre 1979 - art. 24 (Ab)
+  - Code de la propriété intellectuelle - art. R615-16 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
-  - Code de la propriété intellectuelle - art. R615-19 (V)
+  - Code de la propriété intellectuelle - art. R615-22 (V)
 
 
-###### Article R615-17
+###### Article R615-20
 
 Dès qu'il a été procédé à la désignation des assesseurs, le secrétariat notifie la composition de la commission aux parties
 et les convoque à une réunion préliminaire.
@@ -48104,45 +48332,67 @@ Chaque partie peut demander le changement des assesseurs pour un motif sérieux 
 Cette demande est présentée dans les quinze jours de la notification ou dès l'ouverture de la réunion préliminaire, si celle-
 ci a lieu avant l'expiration de ce délai.
 
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°79-797 du 4 septembre 1979 - art. 22 (Ab)
-  - Code de la propriété intellectuelle - art. R615-14 (T)
+  - Décret n°79-797 du 4 septembre 1979 - art. 25 (Ab)
+  - Code de la propriété intellectuelle - art. R615-17 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L615-21
 
 _Nouveaux textes_:
 
-  - Code de la propriété intellectuelle - art. R615-20 (V)
+  - Code de la propriété intellectuelle - art. R615-23 (V)
 
 
-###### Article R615-18
+###### Article R615-21
 
 La procédure devant la commission est contradictoire.
 
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°79-797 du 4 septembre 1979 - art. 23 (Ab)
-  - Code de la propriété intellectuelle - art. R615-15 (T)
+  - Décret n°79-797 du 4 septembre 1979 - art. 26 (Ab)
+  - Code de la propriété intellectuelle - art. R615-18 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
-  - Code de la propriété intellectuelle - art. R615-21 (V)
+  - Code de la propriété intellectuelle - art. R615-24 (V)
 
 
-###### Article R615-19
+###### Article R615-22
 
 Au jour fixé, la commission entend les parties, elle s'efforce de rapprocher leurs points de vue et de parvenir à une
 conciliation.
@@ -48154,75 +48404,15 @@ Il est dressé un procès-verbal.
 En cas de conciliation totale ou partielle, le procès-verbal mentionne le contenu de l'accord. A défaut de conciliation
 totale, les points contestés sont consignés.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Anciens textes_:
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
 
-  - Décret n°79-797 du 4 septembre 1979 - art. 24 (Ab)
-  - Code de la propriété intellectuelle - art. R615-16 (T)
-
-**Liens**:
-
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-22 (V)
-
-
-###### Article R615-20
-
-En cas de non-comparution de l'une des parties ou à défaut de conciliation totale, la commission entreprend l'établissement
-de la proposition de conciliation prévue à l'article L. 615-21.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-797 du 4 septembre 1979 - art. 25 (Ab)
-  - Code de la propriété intellectuelle - art. R615-17 (T)
-
-**Liens**:
-
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L615-21 (V)
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-23 (V)
-
-
-###### Article R615-21
-
-Le président peut procéder à toute mesure d'instruction. Il peut constater à tout moment la conciliation des parties ou
-provoquer à cet effet une nouvelle réunion.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-797 du 4 septembre 1979 - art. 26 (Ab)
-  - Code de la propriété intellectuelle - art. R615-18 (T)
-
-**Liens**:
-
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-24 (V)
-
-
-###### Article R615-22
-
-Sauf autorisation du président, seuls les membres de la commission et de l'Institut national de la propriété industrielle
-ainsi que les parties et les personnes qui les assistent ou les représentent sont présents aux réunions de conciliation.
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48231,10 +48421,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 27 (Ab)
   - Code de la propriété intellectuelle - art. R615-19 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -48243,9 +48432,18 @@ _Nouveaux textes_:
 
 ###### Article R615-23
 
-En cas de demande émanant de la partie qui n'a pas saisi la commission ou de jonction de plusieurs demandes relatives à la
-même invention, le délai de six mois dans lequel est établie la proposition de conciliation court à compter de la date à
-laquelle la commission a été saisie en dernier lieu.
+En cas de non-comparution de l'une des parties ou à défaut de conciliation totale, la commission entreprend l'établissement
+de la proposition de conciliation prévue à l'article L. 615-21.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48254,10 +48452,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 28 (Ab)
   - Code de la propriété intellectuelle - art. R615-20 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -48266,8 +48463,18 @@ _Nouveaux textes_:
 
 ###### Article R615-24
 
-Lorsque l'invention intéresse la défense nationale, la proposition de conciliation ne contient aucune analyse de l'invention
-de nature à entraîner sa divulgation.
+Le président peut procéder à toute mesure d'instruction. Il peut constater à tout moment la conciliation des parties ou
+provoquer à cet effet une nouvelle réunion.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48276,10 +48483,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 29 (Ab)
   - Code de la propriété intellectuelle - art. R615-21 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -48288,9 +48494,18 @@ _Nouveaux textes_:
 
 ###### Article R615-25
 
-La proposition de conciliation est signée par le président et par le secrétaire.
+Sauf autorisation du président, seuls les membres de la commission et de l'Institut national de la propriété industrielle
+ainsi que les parties et les personnes qui les assistent ou les représentent sont présents aux réunions de conciliation.
 
-Ce dernier la notifie aux parties.
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48299,10 +48514,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 30 (Ab)
   - Code de la propriété intellectuelle - art. R615-22 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -48311,7 +48525,19 @@ _Nouveaux textes_:
 
 ###### Article R615-26
 
-La saisine de la commission suspend toute prescription.
+En cas de demande émanant de la partie qui n'a pas saisi la commission ou de jonction de plusieurs demandes relatives à la
+même invention, le délai de six mois dans lequel est établie la proposition de conciliation court à compter de la date à
+laquelle la commission a été saisie en dernier lieu.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48320,10 +48546,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 31 (Ab)
   - Code de la propriété intellectuelle - art. R615-23 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -48332,8 +48557,18 @@ _Nouveaux textes_:
 
 ###### Article R615-27
 
-Sur justification de la saisine de la commission, le tribunal de grande instance sursoit à statuer jusqu'à l'expiration du
-délai de six mois prévu à l'article L. 615-21 à moins que la commission n'ait déjà formulé sa proposition de conciliation.
+Lorsque l'invention intéresse la défense nationale, la proposition de conciliation ne contient aucune analyse de l'invention
+de nature à entraîner sa divulgation.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48342,14 +48577,13 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 32 (Ab)
   - Code de la propriété intellectuelle - art. R615-24 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L615-21 (V)
+  - Code de la propriété intellectuelle - art. L615-21
 
 _Nouveaux textes_:
 
@@ -48358,7 +48592,19 @@ _Nouveaux textes_:
 
 ###### Article R615-28
 
-A défaut d'accord entre les parties, seule la proposition de la commission est portée à la connaissance du tribunal.
+La proposition de conciliation est signée par le président et par le secrétaire.
+
+Ce dernier la notifie aux parties.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48367,10 +48613,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 33 (Ab)
   - Code de la propriété intellectuelle - art. R615-25 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -48379,9 +48624,17 @@ _Nouveaux textes_:
 
 ###### Article R615-29
 
-L'accord entre les parties résultant de la proposition de conciliation dans le cas prévu à l'article L. 615-21 est rendu
-exécutoire par décision du président du tribunal de grande instance dans le ressort duquel la proposition de conciliation a
-été formulée.
+La saisine de la commission suspend toute prescription.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48390,14 +48643,13 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 34 (Ab)
   - Code de la propriété intellectuelle - art. R615-26 (T)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L615-21 (V)
+  - Code de la propriété intellectuelle - art. L615-21
 
 _Nouveaux textes_:
 
@@ -48406,9 +48658,18 @@ _Nouveaux textes_:
 
 ###### Article R615-30
 
-Sous réserve des mesures prévues à l'article R. 615-31, les dispositions des articles R. 615-6 à R. 615-29 relatives à la
-commission paritaire de conciliation sont applicables aux contestations nées de l'application, dans les conditions prévues
-par les articles R. 611-11 à R. 611-14-1, de l'article L. 611-7.
+Sur justification de la saisine de la commission, le tribunal de grande instance sursoit à statuer jusqu'à l'expiration du
+délai de six mois prévu à l'article L. 615-21 à moins que la commission n'ait déjà formulé sa proposition de conciliation.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48425,15 +48686,15 @@ _Cité par_:
   - Décret n°95-370 du 6 avril 1995 - art. 7 (V)
   - Arrêté du 29 octobre 1980 - art. 2 (Ab)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L611-7 (V)
-  - Code de la propriété intellectuelle - art. R611-11 (V)
-  - Code de la propriété intellectuelle - art. R615-31 (V)
+  - Code de la propriété intellectuelle - art. L611-7
+  - Code de la propriété intellectuelle - art. R611-11
+  - Code de la propriété intellectuelle - art. R615-31
   - Code de la propriété intellectuelle - art. R615-6 (V)
 
 _Nouveaux textes_:
@@ -48443,21 +48704,17 @@ _Nouveaux textes_:
 
 ###### Article R615-31
 
-Pour ce qui concerne les litiges intéressant les fonctionnaires et agents visés à l'article R. 611-11, il est établi une
-liste spéciale sur laquelle sont choisis pour chaque affaire les deux assesseurs du président de la commission paritaire de
-conciliation. 
+A défaut d'accord entre les parties, seule la proposition de la commission est portée à la connaissance du tribunal.
 
-Sous réserve des dispositions du dernier alinéa du présent article, cette liste comprend des personnes inscrites sur
-proposition, d'une part, des ministres, d'autre part, des organisations représentant le personnel. 
+**Nota:**
 
-La liste de ces organisations est fixée par arrêté du Premier ministre sur proposition des différents ministres. 
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
 
-L'un des assesseurs est choisi parmi les personnes proposées par les organisations précitées, l'autre parmi les personnes
-proposées par les ministres. 
-
-Lorsque l'invention a été réalisée par un agent soumis au statut général des militaires, il est procédé à la désignation de
-l'assesseur représentant l'agent, par le président de la commission de conciliation, sur une liste de cinq membres du corps
-militaire du contrôle général des armées établie par le chef du contrôle général des armées et périodiquement mise à jour.
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -48474,21 +48731,113 @@ _Cité par_:
   - Arrêté du 29 octobre 1980 - art. 2 (Ab)
   - Code de la propriété intellectuelle - art. R615-30 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R611-11 (V)
+  - Code de la propriété intellectuelle - art. R611-11
 
 _Nouveaux textes_:
 
   - Code de la propriété intellectuelle - art. R615-34 (V)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=345></a>
+###### Article R615-32
+
+L'accord entre les parties résultant de la proposition de conciliation dans le cas prévu à l'article L. 615-21 est rendu
+exécutoire par décision du président du tribunal de grande instance dans le ressort duquel la proposition de conciliation a
+été formulée.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. R615-29 (T)
+
+
+###### Article R615-33
+
+Sous réserve des mesures prévues à l'article R. 615-34, les dispositions des articles R. 615-9 à R. 615-32 relatives à la
+commission paritaire de conciliation sont applicables aux contestations nées de l'application, dans les conditions prévues
+par les articles R. 611-11 à R. 611-14-1, de l'article L. 611-7.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. R615-30 (T)
+
+
+###### Article R615-34
+
+Pour ce qui concerne les litiges intéressant les fonctionnaires et agents visés à l'article R. 611-11, il est établi une
+liste spéciale sur laquelle sont choisis pour chaque affaire les deux assesseurs du président de la commission paritaire de
+conciliation.
+
+Sous réserve des dispositions du dernier alinéa du présent article, cette liste comprend des personnes inscrites sur
+proposition, d'une part, des ministres, d'autre part, des organisations représentant le personnel.
+
+La liste de ces organisations est fixée par arrêté du Premier ministre sur proposition des différents ministres.
+
+L'un des assesseurs est choisi parmi les personnes proposées par les organisations précitées, l'autre parmi les personnes
+proposées par les ministres.
+
+Lorsque l'invention a été réalisée par un agent soumis au statut général des militaires, il est procédé à la désignation de
+l'assesseur représentant l'agent, par le président de la commission de conciliation, sur une liste de cinq membres du corps
+militaire du contrôle général des armées établie par le chef du contrôle général des armées et périodiquement mise à jour.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. R615-31 (T)
+
+
+#### Chapitre VI : Le certificat d'utilité<a id=346></a>
 
 ###### Article R616-1
 
@@ -48570,7 +48919,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60 (V)
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=346></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=347></a>
 
 ###### Article R*617-2-2
 
@@ -48655,9 +49004,9 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 10
 
 
-#### Chapitre VIII : Dispositions communes<a id=347></a>
+#### Chapitre VIII : Dispositions communes<a id=348></a>
 
-##### Section unique : Procédure<a id=348></a>
+##### Section unique : Procédure<a id=349></a>
 
 ###### Article R618-1
 
@@ -48841,9 +49190,9 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Protection des connaissances techniques<a id=349></a>
+### Titre II : Protection des connaissances techniques<a id=350></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=350></a>
+#### Chapitre II : Produits semi-conducteurs<a id=351></a>
 
 ###### Article R*622-3-2
 
@@ -49094,11 +49443,11 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-#### Chapitre III : Obtentions végétales<a id=351></a>
+#### Chapitre III : Obtentions végétales<a id=352></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=352></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=353></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=353></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=354></a>
 
 ###### Article R623-1
 
@@ -49536,7 +49885,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=354></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=355></a>
 
 ###### Article R623-16
 
@@ -49758,7 +50107,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=355></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=356></a>
 
 ###### Article R623-25
 
@@ -49894,7 +50243,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances annuelles<a id=356></a>
+##### Sous-section 4 : Redevances annuelles<a id=357></a>
 
 ###### Article R623-31
 
@@ -50048,7 +50397,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=357></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=358></a>
 
 ###### Article R623-36
 
@@ -50105,7 +50454,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=358></a>
+##### Sous-section 6 : Registres nationaux<a id=359></a>
 
 ###### Article R623-38
 
@@ -50302,7 +50651,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=359></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=360></a>
 
 ###### Article R623-43
 
@@ -50472,7 +50821,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=360></a>
+##### Sous-section 8 : Dispositions diverses<a id=361></a>
 
 ###### Article R623-48
 
@@ -50679,27 +51028,37 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=361></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=362></a>
 
 ###### Article D623-58-1
 
 La composition et le fonctionnement de la commission paritaire de conciliation spécifique au domaine des obtentions végétales
-sont régis par les articles R. 615-6 à R. 615-8, R. 615-10 à R. 615-31, sous réserve des adaptations suivantes : 
+sont régis par les articles R. 615-9 à R. 615-11, R. 615-13 à R. 615-34, sous réserve des adaptations suivantes :
 
 1° Les mots : " directeur général de l'Institut national de la propriété industrielle " sont remplacés par les mots : "
 responsable de l'instance nationale des obtentions végétales " et les mots : " Institut national de la propriété industrielle
-" sont remplacés par les mots : " instance nationale des obtentions végétales " ; 
+" sont remplacés par les mots : " instance nationale des obtentions végétales " ;
 
 2° Les arrêtés mentionnés aux articles R. 615-6 et R. 615-10 sont pris conjointement par le ministre de la justice et le
-ministre chargé de l'agriculture. 
+ministre chargé de l'agriculture.
 
 La commission paritaire de conciliation se réunit au siège de l'instance nationale des obtentions végétales.
 
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-164 du 12 février 2015 - art. 1
+  - Décret n°2018-429 du 31 mai 2018 - art. 4
 
 _Cite_:
 
@@ -50735,7 +51094,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 bis : Semences de ferme<a id=362></a>
+##### Section 2 bis : Semences de ferme<a id=363></a>
 
 ###### Article R623-59
 
@@ -50808,7 +51167,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : La retenue<a id=363></a>
+##### Section 3 : La retenue<a id=364></a>
 
 ###### Article R623-60
 
@@ -50826,9 +51185,9 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=364></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=365></a>
 
-#### Chapitre unique<a id=365></a>
+#### Chapitre unique<a id=366></a>
 
 ###### Article D631-1
 
@@ -50937,11 +51296,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=366></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=367></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=367></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=368></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=368></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=369></a>
 
 ###### Article D712-29
 
@@ -52070,7 +52429,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=369></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=370></a>
 
 ###### Article R714-1
 
@@ -52469,7 +52828,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=370></a>
+#### Chapitre V : Marques collectives<a id=371></a>
 
 ###### Article R715-1
 
@@ -52514,9 +52873,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=371></a>
+#### Chapitre VI : Contentieux<a id=372></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=372></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=373></a>
 
 ###### Article R716-1
 
@@ -52543,7 +52902,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-##### Section 2 :  Mesures probatoires<a id=373></a>
+##### Section 2 :  Mesures probatoires<a id=374></a>
 
 ###### Article R716-2
 
@@ -52613,7 +52972,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 
-##### Section 3 : Retenue en douane<a id=374></a>
+##### Section 3 : Retenue en douane<a id=375></a>
 
 ###### Article R716-6
 
@@ -52640,7 +52999,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L716-8
 
 
-##### Section 4 : Dispositions communes<a id=375></a>
+##### Section 4 : Dispositions communes<a id=376></a>
 
 ###### Article D716-12
 
@@ -52660,9 +53019,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=376></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=377></a>
 
-##### Section 1 : Marque internationale<a id=377></a>
+##### Section 1 : Marque internationale<a id=378></a>
 
 ###### Article R*717-1-1
 
@@ -52929,7 +53288,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque communautaire<a id=378></a>
+##### Section 2 : Marque communautaire<a id=379></a>
 
 ###### Article R*717-10-1
 
@@ -53027,9 +53386,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VD)
 
 
-#### Chapitre VIII : Dispositions communes<a id=379></a>
+#### Chapitre VIII : Dispositions communes<a id=380></a>
 
-##### Section unique<a id=380></a>
+##### Section unique<a id=381></a>
 
 ###### Article R718-1
 
@@ -53170,11 +53529,11 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Indications géographiques<a id=381></a>
+### Titre II : Indications géographiques<a id=382></a>
 
-#### Chapitre Ier : Généralités<a id=382></a>
+#### Chapitre Ier : Généralités<a id=383></a>
 
-##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=383></a>
+##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=384></a>
 
 ###### Article R*721-6-1
 
@@ -53629,9 +53988,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R718-2
 
 
-#### Chapitre II : Contentieux<a id=384></a>
+#### Chapitre II : Contentieux<a id=385></a>
 
-##### Section 1 : Actions civiles<a id=385></a>
+##### Section 1 : Actions civiles<a id=386></a>
 
 ###### Article D722-6
 
@@ -53734,7 +54093,7 @@ certains éléments.
   - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
 
 
-##### Section 2 : La retenue<a id=386></a>
+##### Section 2 : La retenue<a id=387></a>
 
 ###### Article R722-7
 
@@ -53755,11 +54114,11 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=387></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=388></a>
 
-### Titre unique<a id=388></a>
+### Titre unique<a id=389></a>
 
-#### Chapitre unique<a id=389></a>
+#### Chapitre unique<a id=390></a>
 
 ###### Article R811-1
 
@@ -53864,6 +54223,876 @@ _Modifié par_:
 
 ###### Article R811-1-1
 
+Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables dans les îles Wallis et Futuna :
+
+1° Les dispositions du livre Ier à l'exception des articles R. 133-1, R. 133-2 (4°) et R. 135-1 à R. 135-4 ;
+
+2° Les dispositions du livre II dans leur rédaction, pour leur application dans les îles Wallis et Futuna, résultant du
+décret n° 2017-338 du 15 mars 2017;
+
+3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ;
+
+4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2.
+
+L'article D. 411-1-3 est applicable dans sa rédaction issue du décret n° 2017-1094 du 12 juin 2017 ;
+
+5° Les dispositions du livre V à l'exception des articles R. 522-1 et R. 717-11 ainsi que des articles R. 512-2, R. 512-3, R.
+512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+
+6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-46, R.
+613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle dans les conditions
+suivantes :
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR REDACTION RESULTANT DE</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="left">
+
+Chapitre Ier : Champ d'application</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 611-1 à R. 611-14</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 611-14-1 </td>
+      <td align="left">
+
+Décret n° 2009-645 du 9 juin 2009</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 611-15 à R. 611-18</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 611-19 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 611-20 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left" colspan="2">
+
+Chapitre II : Dépôt et instruction des demandes</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-1 </td>
+      <td align="left">
+
+Décret n° 2014-650 du 20 juin 2014</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-2 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-3 et R. 612-4</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-5 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-6 </td>
+      <td align="left">
+
+Décret n° 2007-280 du 1er mars 2007</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-7 </td>
+      <td align="left">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-8 et R. 612-9</td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-10 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-11 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-12 à R. 612-14</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-15 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-16 et R. 612-17</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-17-1 </td>
+      <td align="left">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-18 à R. 612-20</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-21 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-22 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-24 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-25 à R. 612-34</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-35 et R. 612-36</td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-37 et R. 612-38</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-39 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-40 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-41 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-42 à R. 612-44</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-45 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-46 à R. 612-49</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-50 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-51 et R. 612-52</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 611-55 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-56-1 et R. 612-57</td>
+      <td align="left">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-58 à R. 612-65</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-66 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-67 à R. 612-70</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-70-1 et R. 612-70-2</td>
+      <td align="left">
+
+Décret n° 2015-1436 du 6 novembre 2015</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-71 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-72 et R. 612-73</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 612-73-1 et R. 612-73-2</td>
+      <td align="left">
+
+Décret n° 2015-1436 du 6 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-74 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 612-75 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left">
+
+Chapitre III : Droits attachés aux brevets</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 613-4 à R. 613-9</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-10 </td>
+      <td align="left">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 613-11 à R. 613-25</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 613-25-1 à R. 613-25-4</td>
+      <td align="left">
+
+Décret n° 2008-625 du 27 juin 2008</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 613-26 à R. 613-42</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-43 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-44 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-45 </td>
+      <td align="left">
+
+Décret n° 2008-1471 du 30 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-45-1 </td>
+      <td align="left">
+
+Décret n° 2015-1436 du 6 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-45-2 </td>
+      <td align="left">
+
+Décret n° 2015-511 du 7 mai 2015</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-46 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-47 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-48 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 613-49 et R. 613-49-1</td>
+      <td align="left">
+
+Décret n° 2015-511 du 7 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-50 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-51 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 613-52 à R. 613-52-2</td>
+      <td align="left">
+
+Décret n° 2015-1436 du 6 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 613-53 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 613-54 à R. 613-58</td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 613-58-1 et R. 613-58-2</td>
+      <td align="left">
+
+Décret n° 2015-1436 du 6 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 613-59 à R. 613-63</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left" colspan="2">
+
+Chapitre IV : Application de conventions internationales</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 614-1 </td>
+      <td align="left">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 614-4 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 614-5 </td>
+      <td align="left">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 614-6 et R. 614-7</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 614-11 à R. 614-13</td>
+      <td align="left">
+
+Décret n° 2008-625 du 27 juin 2008</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 614-14 et R. 614-15</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 614-16 </td>
+      <td align="left">
+
+Décret n° 2018-429 du 31 mai 2018</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 614-17 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 614-18 </td>
+      <td align="left">
+
+Décret n° 2008-625 du 27 juin 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 614-19 et R. 614-20</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 614-21 </td>
+      <td align="left">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 614-23 </td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 614-24 </td>
+      <td align="left">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 614-25 et R. 614-26</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 614-27 et R. 614-29</td>
+      <td align="left">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 614-31 à R. 614-35</td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left" colspan="2">
+
+Chapitre IV bis : La retenue</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 614-36 et R. 614-37</td>
+      <td align="left">
+
+Décret n° 2015-427 du 15 avril 2015</td>
+    </tr>
+    <tr>
+      <td align="left" colspan="2">
+
+Chapitre V : Actions en justice</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 615-1 à R. 615-34</td>
+      <td align="left">
+
+Décret n° 2018-429 du 31 mai 2018 </td>
+    </tr>
+    <tr>
+      <td align="left" colspan="2">
+
+Chapitre VI : Le certificat d'utilité</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 616-1 </td>
+      <td align="left">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 616-2 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 616-3 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left" colspan="2">
+
+Chapitre VII : Le certificat complémentaire de protection</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 617-1 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 617-2 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left">
+
+Chapitre VIII : Dispositions communes</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 618-1 et R. 618-2</td>
+      <td align="left">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 618-3 </td>
+      <td align="left">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article R. 618-4 </td>
+      <td align="left">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles R. 618-5 et R. 618-6</td>
+      <td align="left">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+  </tbody>
+</table>
+
+Toutefois, l'article R. 613-63 est ainsi rédigé :
+
+“  Art. R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi
+n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
+industrielle.
+
+Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La
+décision est notifiée au requérant.
+
+Si la demande est accueillie, le bénéfice de la réduction est acquis au requérant sous réserve qu'il produise chaque année un
+avis de non-imposition ou une justification équivalente ” ;
+
+7° Les dispositions du livre VII à l'exception des articles R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4 et
+R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle.
+
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°95-385 du 10 avril 1995
+  - Décret n°2004-199 du 25 février 2004
+  - Loi n°2005-842 du 26 juillet 2005
+  - Décret n°2007-280 du 1 mars 2007
+  - Décret n°2008-625 du 27 juin 2008
+  - Décret n°2008-1471 du 30 décembre 2008
+  - Décret n°2008-1472 du 30 décembre 2008
+  - Décret n°2009-645 du 9 juin 2009
+  - Décret n°2014-650 du 20 juin 2014
+  - Décret n°2015-427 du 15 avril 2015
+  - Décret n°2015-511 du 7 mai 2015
+  - Décret n°2015-1436 du 6 novembre 2015
+  - Décret n°2017-338 du 15 mars 2017
+  - Décret n°2017-1094 du 12 juin 2017
+  - Décret n°2018-429 du 31 mai 2018
+
+_Modifié par_:
+
+  - Décret n°2018-429 du 31 mai 2018 - art. 6
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R811-1-2 (V)
+
+
+###### Article R811-1-2
+
 Les dispositions suivantes sont applicables dans les îles Wallis et Futuna. 
 
 I.-1° Lorsque un ou plusieurs fonctionnaires ou agents publics exerçant leur activité pour le compte de plusieurs personnes
@@ -53920,20 +55149,25 @@ A défaut d'accord conclu avant la première signature d'une convention ou d'un 
 répartition et ce remboursement s'effectuent conformément à des règles fixées par arrêté des ministres chargés de la
 recherche et de la propriété industrielle.
 
+**Nota:**
+
+Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
+que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
+la juridiction unifiée du brevet.
+
+L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
+du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
+(entrée en vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2014-1518 du 16 décembre 2014 - art. 8
+  - Décret n°2018-429 du 31 mai 2018 - art. 6
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de la propriété intellectuelle - art. R811-1-2 (V)
-
-_Cite_:
-
-  - Code de la recherche - art. L313-2
-  - Code de l'éducation - art. L762-3
+  - Code de la propriété intellectuelle - art. R811-1-1 (T)
 
 
 ###### Article R811-2
