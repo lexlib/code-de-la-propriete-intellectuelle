@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-06-08
+Version Consolidée au 2018-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -358,41 +358,40 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
             - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#354)
             - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#355)
             - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#356)
-            - [Sous-section 4 : Redevances annuelles (art.  à R623-30)](#357)
-            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#358)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#359)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#360)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#361)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#362)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#363)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#364)
-          - [Section 3 : La retenue (art. R623-60)](#365)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#366)
-        - [Chapitre unique (art. D631-1 à D631-2)](#367)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#368)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#369)
-        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#370)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#371)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#372)
-        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#373)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#374)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#375)
-          - [Section 3 : Retenue en douane (art. R716-6)](#376)
-          - [Section 4 : Dispositions communes (art. D716-12)](#377)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#378)
-          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#379)
-          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#380)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#381)
-          - [Section unique (art. R718-1 à R718-5)](#382)
-      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#383)
-        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#384)
-          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#385)
-        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#386)
-          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#387)
-          - [Section 2 : La retenue (art. R722-7)](#388)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#389)
-      - [Titre unique (art. R811-1 à R811-3)](#390)
-        - [Chapitre unique (art. R811-1 à R811-3)](#391)
+            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#357)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#358)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#359)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#360)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#361)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#362)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#363)
+          - [Section 3 : La retenue (art. R623-60)](#364)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#365)
+        - [Chapitre unique (art. D631-1 à D631-2)](#366)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#367)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#368)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#369)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#370)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#371)
+        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#372)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#373)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#374)
+          - [Section 3 : Retenue en douane (art. R716-6)](#375)
+          - [Section 4 : Dispositions communes (art. D716-12)](#376)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#377)
+          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#378)
+          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#379)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#380)
+          - [Section unique (art. R718-1 à R718-5)](#381)
+      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#382)
+        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#383)
+          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#384)
+        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#385)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#386)
+          - [Section 2 : La retenue (art. R722-7)](#387)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#388)
+      - [Titre unique (art. R811-1 à R811-3)](#389)
+        - [Chapitre unique (art. R811-1 à R811-3)](#390)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -19579,21 +19578,17 @@ b) La probabilité est grande que le produit identique a été obtenu par le pro
 n'a pas pu, en dépit d'efforts raisonnables, déterminer quel procédé a été en fait utilisé.
 
 Dans la production de la preuve contraire, sont pris en considération les intérêts légitimes du défendeur pour la protection
-de ses secrets de fabrication et de commerce.
+de ses secrets des affaires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
-
-_Créé par_:
-
-  - Loi n°96-1106 du 18 décembre 1996 - art. 10 () JORF 19 décembre 1996
+  - Loi n°2018-670 du 30 juillet 2018 - art. 4
 
 _Cité par_:
 
@@ -49647,9 +49642,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances annuelles<a id=357></a>
-
-##### Sous-section 4 : Redevances<a id=358></a>
+##### Sous-section 4 : Redevances<a id=357></a>
 
 ###### Article D623-30-1
 
@@ -49837,7 +49830,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=359></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=358></a>
 
 ###### Article R623-36
 
@@ -49894,7 +49887,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=360></a>
+##### Sous-section 6 : Registres nationaux<a id=359></a>
 
 ###### Article R623-38
 
@@ -50091,7 +50084,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=361></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=360></a>
 
 ###### Article R623-43
 
@@ -50261,7 +50254,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=362></a>
+##### Sous-section 8 : Dispositions diverses<a id=361></a>
 
 ###### Article R623-48
 
@@ -50468,7 +50461,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=363></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=362></a>
 
 ###### Article D623-58-1
 
@@ -50539,7 +50532,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 bis : Semences de ferme<a id=364></a>
+##### Section 2 bis : Semences de ferme<a id=363></a>
 
 ###### Article R623-59
 
@@ -50612,7 +50605,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : La retenue<a id=365></a>
+##### Section 3 : La retenue<a id=364></a>
 
 ###### Article R623-60
 
@@ -50630,9 +50623,9 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=366></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=365></a>
 
-#### Chapitre unique<a id=367></a>
+#### Chapitre unique<a id=366></a>
 
 ###### Article D631-1
 
@@ -50741,11 +50734,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=368></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=367></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=369></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=368></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=370></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=369></a>
 
 ###### Article D712-29
 
@@ -51874,7 +51867,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=371></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=370></a>
 
 ###### Article R714-1
 
@@ -52273,7 +52266,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=372></a>
+#### Chapitre V : Marques collectives<a id=371></a>
 
 ###### Article R715-1
 
@@ -52318,9 +52311,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=373></a>
+#### Chapitre VI : Contentieux<a id=372></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=374></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=373></a>
 
 ###### Article R716-1
 
@@ -52347,7 +52340,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-##### Section 2 :  Mesures probatoires<a id=375></a>
+##### Section 2 :  Mesures probatoires<a id=374></a>
 
 ###### Article R716-2
 
@@ -52417,7 +52410,7 @@ _Créé par_:
   - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 
-##### Section 3 : Retenue en douane<a id=376></a>
+##### Section 3 : Retenue en douane<a id=375></a>
 
 ###### Article R716-6
 
@@ -52444,7 +52437,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L716-8
 
 
-##### Section 4 : Dispositions communes<a id=377></a>
+##### Section 4 : Dispositions communes<a id=376></a>
 
 ###### Article D716-12
 
@@ -52464,9 +52457,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=378></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=377></a>
 
-##### Section 1 : Marque internationale<a id=379></a>
+##### Section 1 : Marque internationale<a id=378></a>
 
 ###### Article R*717-1-1
 
@@ -52733,7 +52726,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque communautaire<a id=380></a>
+##### Section 2 : Marque communautaire<a id=379></a>
 
 ###### Article R*717-10-1
 
@@ -52831,9 +52824,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VD)
 
 
-#### Chapitre VIII : Dispositions communes<a id=381></a>
+#### Chapitre VIII : Dispositions communes<a id=380></a>
 
-##### Section unique<a id=382></a>
+##### Section unique<a id=381></a>
 
 ###### Article R718-1
 
@@ -52974,11 +52967,11 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Indications géographiques<a id=383></a>
+### Titre II : Indications géographiques<a id=382></a>
 
-#### Chapitre Ier : Généralités<a id=384></a>
+#### Chapitre Ier : Généralités<a id=383></a>
 
-##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=385></a>
+##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=384></a>
 
 ###### Article R*721-6-1
 
@@ -53433,9 +53426,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R718-2
 
 
-#### Chapitre II : Contentieux<a id=386></a>
+#### Chapitre II : Contentieux<a id=385></a>
 
-##### Section 1 : Actions civiles<a id=387></a>
+##### Section 1 : Actions civiles<a id=386></a>
 
 ###### Article D722-6
 
@@ -53538,7 +53531,7 @@ certains éléments.
   - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
 
 
-##### Section 2 : La retenue<a id=388></a>
+##### Section 2 : La retenue<a id=387></a>
 
 ###### Article R722-7
 
@@ -53559,11 +53552,11 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=389></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=388></a>
 
-### Titre unique<a id=390></a>
+### Titre unique<a id=389></a>
 
-#### Chapitre unique<a id=391></a>
+#### Chapitre unique<a id=390></a>
 
 ###### Article R811-1
 
