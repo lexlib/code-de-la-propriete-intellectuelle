@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-08-01
+Version Consolidée au 2018-09-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -1566,30 +1566,30 @@ _Cité par_:
 
 ###### Article L122-5
 
-Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire : 
+Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire :
 
-1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ; 
+1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ;
 
 2° Les copies ou reproductions réalisées à partir d'une source licite et strictement réservées à l'usage privé du copiste et
 non destinées à une utilisation collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des
 fins identiques à celles pour lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de
 sauvegarde établie dans les conditions prévues au II de l'article L. 122-6-1 ainsi que des copies ou des reproductions d'une
-base de données électronique ; 
+base de données électronique ;
 
-3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source : 
+3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source :
 
 a) Les analyses et courtes citations justifiées par le caractère critique, polémique, pédagogique, scientifique ou
-d'information de l'oeuvre à laquelle elles sont incorporées ; 
+d'information de l'oeuvre à laquelle elles sont incorporées ;
 
-b) Les revues de presse ; 
+b) Les revues de presse ;
 
 c) La diffusion, même intégrale, par la voie de presse ou de télédiffusion, à titre d'information d'actualité, des discours
 destinés au public prononcés dans les assemblées politiques, administratives, judiciaires ou académiques, ainsi que dans les
-réunions publiques d'ordre politique et les cérémonies officielles ; 
+réunions publiques d'ordre politique et les cérémonies officielles ;
 
 d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou plastiques destinées à figurer dans le catalogue
 d'une vente judiciaire effectuée en France pour les exemplaires mis à la disposition du public avant la vente dans le seul
-but de décrire les oeuvres d'art mises en vente ; 
+but de décrire les oeuvres d'art mises en vente ;
 
 e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des oeuvres conçues à des fins pédagogiques et des
 partitions de musique, à des fins exclusives d'illustration dans le cadre de l'enseignement et de la recherche, y compris
@@ -1600,34 +1600,37 @@ ou de chercheurs directement concernés par l'acte d'enseignement, de formation 
 représentation ou cette reproduction, qu'elle ne fait l'objet d'aucune publication ou diffusion à un tiers au public ainsi
 constitué, que l'utilisation de cette représentation ou cette reproduction ne donne lieu à aucune exploitation commerciale et
 qu'elle est compensée par une rémunération négociée sur une base forfaitaire sans préjudice de la cession du droit de
-reproduction par reprographie mentionnée à l'article L. 122-10 ; 
+reproduction par reprographie mentionnée à l'article L. 122-10 ;
 
-4° La parodie, le pastiche et la caricature, compte tenu des lois du genre ; 
+4° La parodie, le pastiche et la caricature, compte tenu des lois du genre ;
 
 5° Les actes nécessaires à l'accès au contenu d'une base de données électronique pour les besoins et dans les limites de
-l'utilisation prévue par contrat ; 
+l'utilisation prévue par contrat ;
 
 6° La reproduction provisoire présentant un caractère transitoire ou accessoire, lorsqu'elle est une partie intégrante et
 essentielle d'un procédé technique et qu'elle a pour unique objet de permettre l'utilisation licite de l'oeuvre ou sa
 transmission entre tiers par la voie d'un réseau faisant appel à un intermédiaire ; toutefois, cette reproduction provisoire
 qui ne peut porter que sur des oeuvres autres que les logiciels et les bases de données ne doit pas avoir de valeur
-économique propre ; 
+économique propre ;
 
 7° Dans les conditions prévues aux articles L. 122-5-1 et L. 122-5-2, la reproduction et la représentation par des personnes
 morales et par les établissements ouverts au public, tels que les bibliothèques, les archives, les centres de documentation
 et les espaces culturels multimédia, en vue d'une consultation strictement personnelle de l'œuvre par des personnes atteintes
 d'une ou de plusieurs déficiences des fonctions motrices, physiques, sensorielles, mentales, cognitives ou psychiques et
 empêchées, du fait de ces déficiences, d'accéder à l'œuvre dans la forme sous laquelle l'auteur la rend disponible au
-public ; 
+public ;
+
+Ces personnes empêchées peuvent également, en vue d'une consultation strictement personnelle de l'œuvre, réaliser, par elles-
+mêmes ou par l'intermédiaire d'une personne physique agissant en leur nom, des actes de reproduction et de représentation ;
 
 8° La reproduction d'une œuvre et sa représentation effectuées à des fins de conservation ou destinées à préserver les
 conditions de sa consultation à des fins de recherche ou d'études privées par des particuliers, dans les locaux de
 l'établissement et sur des terminaux dédiés par des bibliothèques accessibles au public, par des musées ou par des services
-d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial ; 
+d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial ;
 
 9° La reproduction ou la représentation, intégrale ou partielle, d'une oeuvre d'art graphique, plastique ou architecturale,
 par voie de presse écrite, audiovisuelle ou en ligne, dans un but exclusif d'information immédiate et en relation directe
-avec cette dernière, sous réserve d'indiquer clairement le nom de l'auteur. 
+avec cette dernière, sous réserve d'indiquer clairement le nom de l'auteur.
 
 Le premier alinéa du présent 9° ne s'applique pas aux oeuvres, notamment photographiques ou d'illustration, qui visent elles-
 mêmes à rendre compte de l'information ;
@@ -1639,14 +1642,14 @@ finalité commerciale. Un décret fixe les conditions dans lesquelles l'explorat
 pour lesquelles elles ont été produites ; ces fichiers constituent des données de la recherche ;
 
 11° Les reproductions et représentations d'œuvres architecturales et de sculptures, placées en permanence sur la voie
-publique, réalisées par des personnes physiques, à l'exclusion de tout usage à caractère commercial. 
+publique, réalisées par des personnes physiques, à l'exclusion de tout usage à caractère commercial.
 
 Les reproductions ou représentations qui, notamment par leur nombre ou leur format, ne seraient pas en stricte proportion
 avec le but exclusif d'information immédiate poursuivi ou qui ne seraient pas en relation directe avec cette dernière donnent
-lieu à rémunération des auteurs sur la base des accords ou tarifs en vigueur dans les secteurs professionnels concernés. 
+lieu à rémunération des auteurs sur la base des accords ou tarifs en vigueur dans les secteurs professionnels concernés.
 
 Les exceptions énumérées par le présent article ne peuvent porter atteinte à l'exploitation normale de l'oeuvre ni causer un
-préjudice injustifié aux intérêts légitimes de l'auteur. 
+préjudice injustifié aux intérêts légitimes de l'auteur.
 
 Les modalités d'application du présent article, notamment les caractéristiques et les conditions de distribution des
 documents mentionnés au d du 3°, sont précisées par décret en Conseil d'Etat.
@@ -1666,7 +1669,7 @@ _Cité par_:
   - Décret n°2018-1200 du 20 décembre 2018 (V)
   - Code de la propriété intellectuelle - art. D122-22 (Ab)
   - Code de la propriété intellectuelle - art. L122-5-1 (V)
-  - Code de la propriété intellectuelle - art. L122-5-2 (M)
+  - Code de la propriété intellectuelle - art. L122-5-2 (V)
   - Code de la propriété intellectuelle - art. L122-6 (M)
   - Code de la propriété intellectuelle - art. L211-3 (VD)
   - Code de la propriété intellectuelle - art. L311-1 (V)
@@ -1692,8 +1695,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 38
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 39
+  - Loi n°2018-771 du 5 septembre 2018 - art. 81
 
 _Cite_:
 
@@ -1703,27 +1705,28 @@ _Cite_:
 
 ###### Article L122-5-1
 
-La reproduction et la représentation mentionnées au 7° de l'article L. 122-5 sont assurées, à des fins non lucratives et dans
-la mesure requise par le handicap, dans les conditions suivantes : 
+La reproduction et la représentation mentionnées au premier alinéa du 7° de l'article L. 122-5 sont assurées, à des fins non
+lucratives et dans la mesure requise par le handicap, dans les conditions suivantes :
 
 1° La reproduction et la représentation sont assurées par des personnes morales ou des établissements figurant sur une liste
 arrêtée conjointement par les ministres chargés de la culture et des personnes handicapées. La liste de ces personnes morales
 et de ces établissements est établie au vu de leur activité professionnelle effective de conception, de réalisation ou de
 communication de documents adaptés au bénéfice des personnes physiques mentionnées au 7° du même article L. 122-5 et par
 référence à leur objet social, à l'importance des effectifs de leurs membres ou de leurs usagers, aux moyens matériels et
-humains dont ils disposent et aux services qu'ils rendent ; 
+humains dont ils disposent, aux services qu'ils rendent ainsi qu'aux moyens de sécurisation qu'ils mettent en œuvre pour
+empêcher et prévenir la distribution, la communication ou la mise à disposition à des personnes non autorisées ;
 
 2° La reproduction et la représentation peuvent également porter sur toute œuvre dont le fichier numérique est déposé par
 l'éditeur, dans un format facilitant la production de documents adaptés, auprès de la Bibliothèque nationale de France qui le
 met à la disposition des personnes morales et des établissements figurant sur la liste mentionnée au 1° du présent article et
-agréés à cet effet. 
+agréés à cet effet.
 
-Pour l'application du présent 2° : 
+Pour l'application du présent 2° :
 
 a) L'agrément est accordé conjointement par les ministres chargés de la culture et des personnes handicapées à ceux, parmi
 les personnes morales et établissements mentionnés au 1°, qui présentent des garanties et des capacités de sécurisation et de
 confidentialité des fichiers susceptibles d'être mis à leur disposition puis transmis par eux aux personnes bénéficiaires de
-la reproduction ou de la représentation ; 
+la reproduction ou de la représentation ;
 
 b) Ce dépôt est obligatoire pour les éditeurs :
 
@@ -1733,26 +1736,26 @@ tard le jour de leur mise à la disposition du public ;
 
 - pour les autres œuvres, sur demande d'une des personnes morales et des établissements mentionnés au même 1° formulée dans
 les dix ans suivant le dépôt légal des œuvres imprimées quand celui-ci est postérieur au 4 août 2006 ou dès lors que des
-œuvres sont publiées sous forme de livre numérique, au sens de la loi n° 2011-590 du 26 mai 2011 précitée ; 
+œuvres sont publiées sous forme de livre numérique, au sens de la loi n° 2011-590 du 26 mai 2011 précitée ;
 
 c) Le ministre chargé de la culture arrête la liste des formats mentionnés au premier alinéa du présent 2°, après avis de la
 Bibliothèque nationale de France, des personnes morales et des établissements mentionnés au présent 2° et des organisations
-représentatives des titulaires de droit d'auteur et des personnes handicapées concernées ; 
+représentatives des titulaires de droit d'auteur et des personnes handicapées concernées ;
 
 d) La Bibliothèque nationale de France conserve sans limitation de durée les fichiers déposés par les éditeurs. Elle garantit
-la confidentialité de ces fichiers et la sécurisation de leur accès ; 
+la confidentialité de ces fichiers et la sécurisation de leur accès ;
 
 e) Les personnes morales et les établissements agréés en application du premier alinéa du présent 2° détruisent les fichiers
 mis à leur disposition une fois effectué le travail de conception, de réalisation et de communication de documents adaptés au
-bénéfice des personnes physiques mentionnées au 7° de l'article L. 122-5 ; 
+bénéfice des personnes physiques mentionnées au 7° de l'article L. 122-5 ;
 
 f) Les fichiers des documents adaptés sous forme numérique sont transmis à la Bibliothèque nationale de France par les
 personnes morales et les établissements mentionnés au 1° du présent article qui les ont réalisés. La Bibliothèque nationale
 de France les met à la disposition des autres personnes morales et établissements. Elle procède à une sélection des fichiers
-qu'elle conserve. Elle rend compte de cette activité de sélection et de conservation dans un rapport annuel rendu public ; 
+qu'elle conserve. Elle rend compte de cette activité de sélection et de conservation dans un rapport annuel rendu public ;
 
 g) La mise à disposition de documents adaptés est autorisée entre les personnes morales et les établissements mentionnés au
-même 1°. 
+même 1°.
 
 Les modalités d'application du présent article, notamment les modalités d'établissement de la liste mentionnée audit 1° et de
 l'agrément prévu au présent 2°, les caractéristiques des livres scolaires mentionnés au b du même 2°, les critères de la
@@ -1763,18 +1766,14 @@ du même 2° sont précisées par décret en Conseil d'Etat.
 
 _Cite_:
 
-  - Loi n°2011-590 du 26 mai 2011 (V)
-
-_Créé par_:
-
-  - Loi n°2016-925 du 7 juillet 2016 - art. 33
+  - Loi n°2011-590 du 26 mai 2011
 
 _Cité par_:
 
   - Décret n°2017-253 du 27 février 2017 (V)
   - Décret n°2018-1200 du 20 décembre 2018 (V)
   - Code de la propriété intellectuelle - art. L122-5 (V)
-  - Code de la propriété intellectuelle - art. L122-5-2 (M)
+  - Code de la propriété intellectuelle - art. L122-5-2 (V)
   - Code de la propriété intellectuelle - art. L211-3 (VD)
   - Code de la propriété intellectuelle - art. L342-3 (V)
   - Code de la propriété intellectuelle - art. R122-13 (V)
@@ -1785,35 +1784,37 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R122-21 (V)
   - Code de la propriété intellectuelle - art. R122-22 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-771 du 5 septembre 2018 - art. 81
+
 
 ###### Article L122-5-2
 
-Les personnes morales et les établissements agréés en application du 2° de l'article L. 122-5-1 peuvent, en outre, être
-autorisés, conjointement par les ministres chargés de la culture et des personnes handicapées, à recevoir et à mettre les
-documents adaptés à la disposition d'un organisme sans but lucratif établi dans un autre Etat, en vue de leur consultation
-par des personnes atteintes d'une déficience qui les empêche de lire, si une exception au droit d'auteur autorisant une telle
-consultation et répondant aux conditions fixées à l'avant-dernier alinéa de l'article L. 122-5 est consacrée par la
-législation de cet Etat. 
+Les personnes morales et les établissements figurant sur la liste mentionnée au 1° de l'article L. 122-5-1 fournissent, sur
+demande, aux personnes atteintes d'une déficience qui les empêche de lire, aux auteurs et aux autres entités autorisées la
+liste et les formats disponibles des documents adaptés dont ils disposent, ainsi que le nom et les coordonnées des entités
+autorisées avec lesquelles ils procèdent à des échanges de tels documents. 
 
-On entend par organisme, au sens du premier alinéa du présent article, toute personne morale ou tout établissement autorisé
-ou reconnu par un Etat pour exercer une activité professionnelle effective de conception, de réalisation et de communication
-de documents adaptés au bénéfice des personnes physiques atteintes d'une déficience qui les empêche de lire. 
+Ces personnes et établissements peuvent recevoir des documents adaptés ou en mettre à disposition d'une entité autorisée
+établie dans un autre Etat membre de l'Union européenne ou un autre Etat partie au traité de Marrakech adopté le 27 juin 2013
+visant à faciliter l'accès des aveugles, des déficients visuels et des personnes ayant d'autres difficultés de lecture des
+textes imprimés aux œuvres publiées, en vue de leur consultation par des personnes atteintes d'une déficience qui les empêche
+de lire. 
 
-Une convention entre ces organismes précise les conditions de mise à disposition des documents adaptés ainsi que les mesures
-prises par l'organisme sans but lucratif destinataire de ces documents afin de garantir que ceux-ci ne sont consultés que par
-les personnes physiques atteintes d'une déficience qui les empêche de lire. 
+Les personnes atteintes de ce type de déficience peuvent également, en vue d'une telle consultation, obtenir communication de
+documents adaptés auprès d'une entité autorisée mentionnée au deuxième alinéa du présent article. 
 
-Les personnes morales et les établissements mentionnés autorisés en application du premier alinéa rendent compte chaque
-année, dans un rapport aux ministres chargés de la culture et des personnes handicapées, de la mise en œuvre des conventions
-conclues en application du troisième alinéa. 
+On entend par entité autorisée, au sens du présent article, toute personne morale ou tout établissement autorisé ou reconnu
+par un Etat ayant pour mission d'offrir, à titre non lucratif, aux personnes physiques atteintes d'une déficience qui les
+empêche de lire, des services en matière d'enseignement, de formation pédagogique, de lecture adaptée ou d'accès à
+l'information. Cette dénomination désigne également un organisme public ou une organisation à but non lucratif dont l'une des
+activités principales, obligations institutionnelles ou missions d'intérêt public est de fournir les mêmes services à ces
+personnes. 
 
 Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2016-925 du 7 juillet 2016 - art. 33
 
 _Cité par_:
 
@@ -1822,6 +1823,10 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R122-13 (V)
   - Code de la propriété intellectuelle - art. R122-16 (V)
   - Code de la propriété intellectuelle - art. R122-17 (M)
+
+_Modifié par_:
+
+  - Loi n°2018-771 du 5 septembre 2018 - art. 81
 
 _Cite_:
 
