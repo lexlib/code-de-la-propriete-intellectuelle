@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-09-07
+Version Consolidée au 2018-11-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -54229,6 +54229,13 @@ _Cite_:
 Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables à Mayotte les dispositions du présent
 code à l'exception des articles R. 133-1, R. 133-2, R. 326-1, R. 326-2, R. 522-1 et R. 613-25-1 à R. 613-25-4.
 
+Pour l'application du présent code à Mayotte les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots
+suivants :
+
+a) “région” et “département” par “Mayotte” ;
+
+b) “Cour d'appel” par “chambre d'appel de Mamoudzou”.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -54252,7 +54259,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-625 du 27 juin 2008 - art. 12 (V)
+  - Décret n°2018-953 du 31 octobre 2018 - art. 18
 
 _Cite_:
 
@@ -54262,13 +54269,13 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R326-2
   - Code de la propriété intellectuelle - art. R522-1
   - Code de la propriété intellectuelle - art. R613-25-1
-  - Code de la propriété intellectuelle - art. R811-3
+  - Code de la propriété intellectuelle - art. R811-3 (M)
 
 
 ###### Article R811-3
 
-Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer et à Mayotte, les
-mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer, les mots suivants
+énumérés ci-dessous sont respectivement remplacés par les mots suivants :
 
 - "tribunal de grande instance" par "tribunal de première instance" ;
 
@@ -54285,18 +54292,18 @@ Wallis-et-Futuna ;
 
 - "conseil de prud'hommes" par "tribunal du travail".
 
-Pour l'application du présent code aux collectivités d'outre-mer et à Mayotte, toute référence au code des douanes est
-remplacée par la référence aux codes des douanes applicables à ces collectivités et à Mayotte, ayant le même objet.
+Pour l'application du présent code aux collectivités d'outre-mer, toute référence au code des douanes est remplacée par la
+référence aux codes des douanes applicables à ces collectivités, ayant le même objet.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-625 du 27 juin 2008 - art. 12 (V)
+  - Décret n°2018-953 du 31 octobre 2018 - art. 18
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R811-1 (VT)
-  - Code de la propriété intellectuelle - art. R811-2 (M)
+  - Code de la propriété intellectuelle - art. R811-2 (V)
 
 
