@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-11-07
+Version Consolidée au 2018-12-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -344,7 +344,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
         - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#340)
         - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#341)
           - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#342)
-          - [Section 2 : Mesures probatoires (art. R615-2-1 à R615-5)](#343)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#343)
           - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#344)
         - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#345)
         - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#346)
@@ -41259,16 +41259,20 @@ La saisie, descriptive ou réelle, prévue à l'article L. 521-4 est ordonnée p
 compétent pour connaître du fond. 
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
-l'étendue de la contrefaçon.
+l'étendue de la contrefaçon. 
+
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 5
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 _Cite_:
 
+  - Code de commerce - art. R153-1
   - Code de la propriété intellectuelle - art. L521-4
 
 
@@ -41308,14 +41312,13 @@ _Cite_:
 ###### Article R521-5
 
 Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
-preuve des actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt
-légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+preuve des actes de contrefaçon allégués.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 5
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
 ##### Section 3 : Dispositions communes<a id=304></a>
@@ -47810,6 +47813,55 @@ _Cité par_:
 
 ##### Section 2 : Mesures probatoires<a id=343></a>
 
+###### Article R615-2
+
+La saisie, descriptive ou réelle, prévue au deuxième alinéa de l'article L. 615-5 est ordonnée par le président d'un des
+tribunaux de grande instance mentionnés à l'article D. 631-2, dans le ressort duquel les opérations doivent être effectuées.
+
+L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de
+protection, du certificat d'utilité ou du certificat d'addition, soit, dans le cas prévu au premier alinéa de l'article L.
+615-4, d'une copie certifiée conforme de la demande de brevet, de certificat complémentaire de protection, de certificat
+d'utilité ou de certificat d'addition. Dans ce dernier cas, le requérant doit justifier en outre que les conditions prévues à
+cet article sont remplies.
+
+Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
+octroyée en vertu des articles L. 613-11, L. 613-15, L. 613-17, L. 613-17-1 et L. 613-19, le requérant doit justifier que les
+conditions prescrites, selon le cas, par le deuxième ou le quatrième alinéa de l'article L. 615-2 sont remplies.
+
+Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
+l'étendue de la contrefaçon.
+
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°69-190 du 15 février 1969 - art. 2 (Ab)
+
+_Cité par_:
+
+  - Décret n°2018-429 du 31 mai 2018 (V)
+  - Décret n°2018-429 du 31 mai 2018 - art. 8 (VD)
+
+_Modifié par_:
+
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. D631-2
+  - Code de la propriété intellectuelle - art. L613-11
+  - Code de la propriété intellectuelle - art. L615-2
+  - Code de la propriété intellectuelle - art. L615-4
+  - Code de la propriété intellectuelle - art. L615-5
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-4 (VD)
+
+
 ###### Article R615-2-1
 
 Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées
@@ -47868,8 +47920,7 @@ _Nouveaux textes_:
 ###### Article R615-4
 
 Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure de nature à compléter la preuve des
-actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il
-peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+actes de contrefaçon allégués.
 
 **Liens relatifs à cet article**
 
@@ -47878,10 +47929,9 @@ _Anciens textes_:
   - Décret n°69-190 du 15 février 1969 - art. 4 (Ab)
   - Code de la propriété intellectuelle - art. R615-2 (M)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 _Nouveaux textes_:
 
@@ -50768,18 +50818,21 @@ _Cite_:
 ###### Article R623-51
 
 La saisie, descriptive ou réelle, prévue à l'article L. 623-27-1 est ordonnée par le président de l'un des tribunaux de
-grande instance mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées. 
+grande instance mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées.
 
 L'ordonnance est rendue sur simple requête et sur la présentation du certificat d'obtention végétale, soit dans le cas prévu
 à l'article L. 623-26, d'une copie certifiée conforme de la demande de certificat d'obtention végétale. Dans ce dernier cas,
-le demandeur doit justifier en outre que les conditions prévues audit article L. 623-26 sont remplies. 
+le demandeur doit justifier en outre que les conditions prévues audit article L. 623-26 sont remplies.
 
 Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
 octroyée en vertu des articles L. 623-17 ou L. 623-20, le requérant doit justifier que les conditions de l'article L. 623-25
-sont remplies. 
+sont remplies.
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
 l'étendue de la contrefaçon.
+
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -50789,13 +50842,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2014-731 du 27 juin 2014 - art. 9
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. D631-1
-  - Code de la propriété intellectuelle - art. L623-17 (V)
-  - Code de la propriété intellectuelle - art. L623-20 (V)
+  - Code de la propriété intellectuelle - art. L623-17
+  - Code de la propriété intellectuelle - art. L623-20
   - Code de la propriété intellectuelle - art. L623-25
   - Code de la propriété intellectuelle - art. L623-26
   - Code de la propriété intellectuelle - art. L623-27-1
@@ -50860,14 +50913,13 @@ _Cite_:
 ###### Article R623-53-1
 
 Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
-preuve des actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt
-légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+preuve des actes de contrefaçon allégués.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 15
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
 ###### Article R623-54
@@ -52986,16 +53038,23 @@ _Nouveaux textes_:
 ###### Article R716-2
 
 La saisie, descriptive ou réelle, prévue à l'article L. 716-7 est ordonnée par le président du tribunal de grande instance
-compétent pour connaître du fond. 
+compétent pour connaître du fond.
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
 l'étendue de la contrefaçon.
 
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+
+_Transféré par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
 
 _Cite_:
 
@@ -53061,14 +53120,17 @@ _Nouveaux textes_:
 ###### Article R716-5
 
 Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve des actes de
-contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il peut
-également prendre toute mesure pour préserver la confidentialité de certains éléments.
+contrefaçon allégués.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-1316 du 9 décembre 2019 - art. 8
 
 _Cité par_:
 
@@ -54165,16 +54227,19 @@ _Cite_:
 ###### Article R722-2
 
 La saisie, descriptive ou réelle, prévue à l'article L. 722-4 est ordonnée par le président du tribunal de grande instance
-compétent pour connaître du fond. 
+compétent pour connaître du fond.
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
 l'étendue de l'atteinte à une indication géographique.
 
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 _Cite_:
 
@@ -54217,15 +54282,13 @@ _Cite_:
 ###### Article R722-5
 
 Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
-preuve des actes portant prétendument atteinte à une indication géographique. A la demande de la partie saisie agissant sans
-délai et justifiant d'un intérêt légitime, il peut également prendre toute mesure pour préserver la confidentialité de
-certains éléments.
+preuve des actes portant prétendument atteinte à une indication géographique.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
 ##### Section 2 : La retenue<a id=386></a>
@@ -54259,40 +54322,57 @@ _Cité par_:
 ###### Article R811-1
 
 Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables dans les îles Wallis et Futuna, en
-Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises : 
+Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises :
 
-1° Les dispositions du livre Ier à l'exception des articles R. 133-1, R. 133-2 (4°) et R. 135-1 à R. 135-4 ; 
+1° Les dispositions du livre Ier à l'exception des articles R. 133-1, R. 133-2 (4°) et R. 135-1 à R. 135-4 ;
 
 2° Les dispositions du livre II dans leur rédaction, pour leur application dans les îles Wallis et Futuna, résultant du
-décret n° 2017-338 du 15 mars 2017 ; 
+décret n° 2017-338 du 15 mars 2017 ;
 
-3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ; 
+3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ;
 
-4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R.
-423-2 ; 
+Les articles R. 331-88, R. 332-1 et R. 343-2 sont applicables à Wallis-et-Futuna dans leur rédaction issue du décret n°
+2018-1126 du 11 décembre 2018 ;
 
-L'article D. 411-1-3 est applicable dans sa rédaction issue du décret n° 2017-1094 du 12 juin 2017 ; 
+4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2 ;
+
+L'article D. 411-1-3 est applicable dans sa rédaction issue du décret n° 2017-1094 du 12 juin 2017 ;
 
 5° Les dispositions du livre V à l'exception des articles R. 522-1 et R. 717-11 ainsi que des articles R. 512-2, R. 512-3, R.
-512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ; 
+512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+
+Les articles R. 521-2 et R. 521-5 sont applicables à Wallis-et-Futuna dans leur rédaction issue du décret n° 2018-1126 du 11
+décembre 2018 ;
 
 6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-46, R.
-613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ; 
+613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+
+Les articles R. 615-2, R. 615-4, R. 623-51 et R. 623-53-1 sont applicables à Wallis-et-Futuna dans leur rédaction issue du
+décret n° 2018-1126 du 11 décembre 2018.
 
 7° Les dispositions du livre VII à l'exception des articles R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4 et
-R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle. 
+R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
 
-Toutefois, l'article R. 613-63 est ainsi rédigé : 
+Les articles R. 716-2, R. 716-5, R. 722-2 et R. 722-5 sont applicables à Wallis-et-Futuna dans leur rédaction issue du décret
+n° 2018-1126 du 11 décembre 2018.
+
+Toutefois, l'article R. 613-63 est ainsi rédigé :
 
 Art. R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi n°
 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
-industrielle. 
+industrielle.
 
 Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La
-décision est notifiée au requérant. 
+décision est notifiée au requérant.
 
 Si la demande est accueillie, le bénéfice de la rédaction est acquis au requérant sous réserve qu'il produise chaque année un
 avis de non-imposition ou une justification équivalente.
+
+**Nota:**
+
+Conformément aux dispositions du premier alinéa de l'article 5 du décret n° 2018-1126 du 11 décembre 2018, les dispositions
+de l'article R. 811-1 résultant du II de l'article 4 dudit décret sont applicables jusqu'à l'entrée en vigueur du décret n°
+2018-429 du 31 mai 2018.
 
 **Liens relatifs à cet article**
 
@@ -54354,7 +54434,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1094 du 12 juin 2017 - art. 4 (V)
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 4 (V)
 
 
 ###### Article R811-1-1
