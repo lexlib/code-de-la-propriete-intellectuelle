@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-11-07
+Version Consolidée au 2018-12-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -208,7 +208,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
         - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-18)](#204)
           - [Section 1 : Commission prévue à l'article L. 214-4 (art. R214-1 à R214-7)](#205)
           - [Section 2 : Médiateur de la musique (art. R214-8 à R214-18)](#206)
-    - [Livre III : Dispositions générales (art. D311-8 à R343-1)](#207)
+    - [Livre III : Dispositions générales (art. D311-8 à R343-2)](#207)
       - [Titre Ier : Rémunération pour copie privée (art. D311-8 à R311-12)](#208)
         - [Chapitre unique (art. D311-8 à R311-12)](#209)
           - [Section 1 : Commission prévue à l'article L. 311-5 (art. D311-8 à R311-7)](#210)
@@ -262,11 +262,11 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
               - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#258)
               - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#259)
             - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#260)
-        - [Chapitre II : Saisie-contrefaçon (art. R332-2 à R332-4)](#261)
+        - [Chapitre II : Saisie-contrefaçon (art. R332-1 à R332-4)](#261)
         - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#262)
         - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#263)
       - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#264)
-      - [Chapitre III : Procédures et sanctions (art. R343-1)](#265)
+      - [Chapitre III : Procédures et sanctions (art. R343-1 à R343-2)](#265)
     - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#266)
       - [Titre Ier : Institutions (art. D411-1-3 à R412-21)](#267)
         - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#268)
@@ -342,56 +342,55 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
           - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#338)
           - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#339)
         - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#340)
-        - [Chapitre V : Actions en justice (art. R615-2 à R615-31)](#341)
-          - [Section 1 : Dispositions relatives à la compétence juridictionnelle (art. R615-2)](#342)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#343)
-          - [Section 2 : Mesures probatoires (art. R615-2-1 à R615-5)](#344)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#345)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#346)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#347)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#348)
-          - [Section unique : Procédure (art. R618-1 à R618-6)](#349)
-      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#350)
-        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#351)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#352)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#353)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#354)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#355)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#356)
-            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#357)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#358)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#359)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#360)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#361)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#362)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#363)
-          - [Section 3 : La retenue (art. R623-60)](#364)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#365)
-        - [Chapitre unique (art. D631-1 à D631-2)](#366)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#367)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#368)
-        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#369)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#370)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#371)
-        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#372)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#373)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#374)
-          - [Section 3 : Retenue en douane (art. R716-6)](#375)
-          - [Section 4 : Dispositions communes (art. D716-12)](#376)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#377)
-          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#378)
-          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#379)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#380)
-          - [Section unique (art. R718-1 à R718-5)](#381)
-      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#382)
-        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#383)
-          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#384)
-        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#385)
-          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#386)
-          - [Section 2 : La retenue (art. R722-7)](#387)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#388)
-      - [Titre unique (art. R811-1 à R811-3)](#389)
-        - [Chapitre unique (art. R811-1 à R811-3)](#390)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#341)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#342)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#343)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#344)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#345)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#346)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#347)
+          - [Section unique : Procédure (art. R618-1 à R618-6)](#348)
+      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#349)
+        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#350)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#351)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#352)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#353)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#354)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#355)
+            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#356)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#357)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#358)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#359)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#360)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#361)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#362)
+          - [Section 3 : La retenue (art. R623-60)](#363)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#364)
+        - [Chapitre unique (art. D631-1 à D631-2)](#365)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#366)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#367)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#368)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#369)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#370)
+        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#371)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#372)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#373)
+          - [Section 3 : Retenue en douane (art. R716-6)](#374)
+          - [Section 4 : Dispositions communes (art. D716-12)](#375)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#376)
+          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#377)
+          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#378)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#379)
+          - [Section unique (art. R718-1 à R718-5)](#380)
+      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#381)
+        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#382)
+          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#383)
+        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#384)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#385)
+          - [Section 2 : La retenue (art. R722-7)](#386)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#387)
+      - [Titre unique (art. R811-1 à R811-3)](#388)
+        - [Chapitre unique (art. R811-1 à R811-3)](#389)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -34286,15 +34285,15 @@ _Créé par_:
 
 ###### Article R331-88
 
-Au terme de ses travaux, le centre d'évaluation remet un rapport d'évaluation au demandeur. 
+Au terme de ses travaux, le centre d'évaluation remet un rapport d'évaluation au demandeur.
 
-Ce rapport, qui contient des informations couvertes par le secret industriel et commercial, revêt un caractère confidentiel.
+Ce rapport, qui contient des informations couvertes par le secret des affaires, revêt un caractère confidentiel.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1630 du 23 décembre 2010 - art. 1
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
 ###### Article R331-89
@@ -34431,6 +34430,23 @@ _Cite_:
 
 
 #### Chapitre II : Saisie-contrefaçon<a id=261></a>
+
+###### Article R332-1
+
+Lorsqu'elle est saisie aux fins de saisie-contrefaçon en application de l'article L. 332-1 ou de l'article L. 332-4, la
+juridiction peut ordonner d'office le placement sous séquestre provisoire des pièces saisies afin d'assurer la protection du
+secret des affaires, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+
+_Cite_:
+
+  - Code de commerce - art. R153-1
+
 
 ###### Article R332-2
 
@@ -34961,6 +34977,23 @@ _Modifié par_:
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L343-2
+
+
+###### Article R343-2
+
+Lorsqu'elle est saisie aux fins de saisie-contrefaçon en application de l'article L. 343-1, la juridiction peut ordonner
+d'office le placement sous séquestre provisoire des pièces saisies afin d'assurer la protection du secret des affaires, dans
+les conditions prévues à l'article R. 153-1 du code de commerce.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+
+_Cite_:
+
+  - Code de commerce - art. R153-1
 
 
 ## Livre IV : Organisation administrative et professionnelle<a id=266></a>
@@ -41050,16 +41083,20 @@ La saisie, descriptive ou réelle, prévue à l'article L. 521-4 est ordonnée p
 compétent pour connaître du fond. 
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
-l'étendue de la contrefaçon.
+l'étendue de la contrefaçon. 
+
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 5
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 _Cite_:
 
+  - Code de commerce - art. R153-1
   - Code de la propriété intellectuelle - art. L521-4
 
 
@@ -41099,14 +41136,13 @@ _Cite_:
 ###### Article R521-5
 
 Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
-preuve des actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt
-légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+preuve des actes de contrefaçon allégués.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 5
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
 ##### Section 3 : Dispositions communes<a id=304></a>
@@ -47532,66 +47568,7 @@ _Créé par_:
 
 #### Chapitre V : Actions en justice<a id=341></a>
 
-##### Section 1 : Dispositions relatives à la compétence juridictionnelle<a id=342></a>
-
-###### Article R615-2
-
-Le tribunal, saisi d’une action en contrefaçon d’un brevet français, sursoit à statuer lorsque la juridiction unifiée du
-brevet est concomitamment saisie d’une demande fondée sur un brevet unitaire ou sur un brevet ne faisant pas l’objet d’une
-dérogation à sa compétence exclusive en application du paragraphe 3 de l’article 83 de l’Accord relatif à une juridiction
-unifiée du brevet et que le brevet objet du litige couvre la même invention, a été demandé par le même inventeur ou délivré à
-celui-ci ou à son ayant-cause avec la même date de priorité et porte sur les mêmes faits entre les mêmes parties. Le sursis à
-statuer se prolonge jusqu’à ce que ne soit plus susceptible de recours la décision de la juridiction unifiée du brevet sur
-cette demande.
-
-Est irrecevable une demande formée dans le cadre de l’action mentionnée au premier alinéa lorsque la juridiction unifiée du
-brevet a statué sur la même demande fondée sur les mêmes faits entre les mêmes parties par une décision ayant autorité de la
-chose jugée.
-
-**Nota:**
-
-Aux termes de l'article 9 du décret n° 2018-429 du 31 mai 2018, les présentes dispositions entrent en vigueur à la même date
-que celle de l’entrée en vigueur de l’ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à
-la juridiction unifiée du brevet.
-
-L'ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée
-du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification
-(entrée en vigueur : date indéterminée).
-
-Conformément aux dispositions de l'article 8 du décret n° 2018-429 du 31 mai 2018, les dispositions du premier alinéa de
-l'article R. 615-2, dans leur rédaction résultant de l'article 5 dudit décret, s'appliquent aux actions engagées à
-l'expiration de la période transitoire prévue au premier paragraphe de l'article 83 de l'accord relatif à une juridiction
-unifiée du brevet signé à Bruxelles le 19 février 2013.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-190 du 15 février 1969 - art. 2 (Ab)
-
-_Cité par_:
-
-  - Décret n°2018-429 du 31 mai 2018 (V)
-  - Décret n°2018-429 du 31 mai 2018 - art. 8 (VD)
-
-_Modifié par_:
-
-  - Décret n°2018-429 du 31 mai 2018 - art. 5
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. D631-2
-  - Code de la propriété intellectuelle - art. L613-11
-  - Code de la propriété intellectuelle - art. L615-2
-  - Code de la propriété intellectuelle - art. L615-4
-  - Code de la propriété intellectuelle - art. L615-5
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R615-4 (VD)
-
-
-##### Section 1 : Mesures provisoires et conservatoires<a id=343></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=342></a>
 
 ###### Article R615-1
 
@@ -47627,7 +47604,56 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=344></a>
+##### Section 2 : Mesures probatoires<a id=343></a>
+
+###### Article R615-2
+
+La saisie, descriptive ou réelle, prévue au deuxième alinéa de l'article L. 615-5 est ordonnée par le président d'un des
+tribunaux de grande instance mentionnés à l'article D. 631-2, dans le ressort duquel les opérations doivent être effectuées.
+
+L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de
+protection, du certificat d'utilité ou du certificat d'addition, soit, dans le cas prévu au premier alinéa de l'article L.
+615-4, d'une copie certifiée conforme de la demande de brevet, de certificat complémentaire de protection, de certificat
+d'utilité ou de certificat d'addition. Dans ce dernier cas, le requérant doit justifier en outre que les conditions prévues à
+cet article sont remplies.
+
+Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
+octroyée en vertu des articles L. 613-11, L. 613-15, L. 613-17, L. 613-17-1 et L. 613-19, le requérant doit justifier que les
+conditions prescrites, selon le cas, par le deuxième ou le quatrième alinéa de l'article L. 615-2 sont remplies.
+
+Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
+l'étendue de la contrefaçon.
+
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°69-190 du 15 février 1969 - art. 2 (Ab)
+
+_Cité par_:
+
+  - Décret n°2018-429 du 31 mai 2018 (V)
+  - Décret n°2018-429 du 31 mai 2018 - art. 8 (VD)
+
+_Modifié par_:
+
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. D631-2
+  - Code de la propriété intellectuelle - art. L613-11
+  - Code de la propriété intellectuelle - art. L615-2
+  - Code de la propriété intellectuelle - art. L615-4
+  - Code de la propriété intellectuelle - art. L615-5
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R615-4 (VD)
+
 
 ###### Article R615-2-1
 
@@ -47687,8 +47713,7 @@ _Nouveaux textes_:
 ###### Article R615-4
 
 Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure de nature à compléter la preuve des
-actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il
-peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+actes de contrefaçon allégués.
 
 **Liens relatifs à cet article**
 
@@ -47697,10 +47722,9 @@ _Anciens textes_:
   - Décret n°69-190 du 15 février 1969 - art. 4 (Ab)
   - Code de la propriété intellectuelle - art. R615-2 (M)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 _Nouveaux textes_:
 
@@ -47732,7 +47756,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (VD)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=345></a>
+##### Section 3 : Commission paritaire de conciliation<a id=344></a>
 
 ###### Article R615-6
 
@@ -48443,7 +48467,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (VD)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=346></a>
+#### Chapitre VI : Le certificat d'utilité<a id=345></a>
 
 ###### Article R616-1
 
@@ -48525,7 +48549,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60 (V)
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=347></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=346></a>
 
 ###### Article R*617-2-2
 
@@ -48610,9 +48634,9 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 10
 
 
-#### Chapitre VIII : Dispositions communes<a id=348></a>
+#### Chapitre VIII : Dispositions communes<a id=347></a>
 
-##### Section unique : Procédure<a id=349></a>
+##### Section unique : Procédure<a id=348></a>
 
 ###### Article R618-1
 
@@ -48796,9 +48820,9 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Protection des connaissances techniques<a id=350></a>
+### Titre II : Protection des connaissances techniques<a id=349></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=351></a>
+#### Chapitre II : Produits semi-conducteurs<a id=350></a>
 
 ###### Article R*622-3-2
 
@@ -49050,11 +49074,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-#### Chapitre III : Obtentions végétales<a id=352></a>
+#### Chapitre III : Obtentions végétales<a id=351></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=353></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=352></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=354></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=353></a>
 
 ###### Article R623-1
 
@@ -49492,7 +49516,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=355></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=354></a>
 
 ###### Article R623-16
 
@@ -49718,7 +49742,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=356></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=355></a>
 
 ###### Article R623-25
 
@@ -49854,7 +49878,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances<a id=357></a>
+##### Sous-section 4 : Redevances<a id=356></a>
 
 ###### Article D623-30-1
 
@@ -50042,7 +50066,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=358></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=357></a>
 
 ###### Article R623-36
 
@@ -50099,7 +50123,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=359></a>
+##### Sous-section 6 : Registres nationaux<a id=358></a>
 
 ###### Article R623-38
 
@@ -50296,7 +50320,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=360></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=359></a>
 
 ###### Article R623-43
 
@@ -50470,7 +50494,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=361></a>
+##### Sous-section 8 : Dispositions diverses<a id=360></a>
 
 ###### Article R623-48
 
@@ -50563,18 +50587,21 @@ _Cite_:
 ###### Article R623-51
 
 La saisie, descriptive ou réelle, prévue à l'article L. 623-27-1 est ordonnée par le président de l'un des tribunaux de
-grande instance mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées. 
+grande instance mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées.
 
 L'ordonnance est rendue sur simple requête et sur la présentation du certificat d'obtention végétale, soit dans le cas prévu
 à l'article L. 623-26, d'une copie certifiée conforme de la demande de certificat d'obtention végétale. Dans ce dernier cas,
-le demandeur doit justifier en outre que les conditions prévues audit article L. 623-26 sont remplies. 
+le demandeur doit justifier en outre que les conditions prévues audit article L. 623-26 sont remplies.
 
 Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
 octroyée en vertu des articles L. 623-17 ou L. 623-20, le requérant doit justifier que les conditions de l'article L. 623-25
-sont remplies. 
+sont remplies.
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
 l'étendue de la contrefaçon.
+
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -50584,13 +50611,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2014-731 du 27 juin 2014 - art. 9
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. D631-1
-  - Code de la propriété intellectuelle - art. L623-17 (V)
-  - Code de la propriété intellectuelle - art. L623-20 (V)
+  - Code de la propriété intellectuelle - art. L623-17
+  - Code de la propriété intellectuelle - art. L623-20
   - Code de la propriété intellectuelle - art. L623-25
   - Code de la propriété intellectuelle - art. L623-26
   - Code de la propriété intellectuelle - art. L623-27-1
@@ -50655,14 +50682,13 @@ _Cite_:
 ###### Article R623-53-1
 
 Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
-preuve des actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt
-légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+preuve des actes de contrefaçon allégués.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 15
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
 ###### Article R623-54
@@ -50681,7 +50707,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=362></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=361></a>
 
 ###### Article D623-58-1
 
@@ -50752,7 +50778,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 bis : Semences de ferme<a id=363></a>
+##### Section 2 bis : Semences de ferme<a id=362></a>
 
 ###### Article R623-59
 
@@ -50825,7 +50851,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : La retenue<a id=364></a>
+##### Section 3 : La retenue<a id=363></a>
 
 ###### Article R623-60
 
@@ -50843,9 +50869,9 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=365></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=364></a>
 
-#### Chapitre unique<a id=366></a>
+#### Chapitre unique<a id=365></a>
 
 ###### Article D631-1
 
@@ -51116,11 +51142,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=367></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=366></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=368></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=367></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=369></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=368></a>
 
 ###### Article D712-29
 
@@ -52250,7 +52276,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=370></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=369></a>
 
 ###### Article R714-1
 
@@ -52649,7 +52675,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=371></a>
+#### Chapitre V : Marques collectives<a id=370></a>
 
 ###### Article R715-1
 
@@ -52694,9 +52720,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=372></a>
+#### Chapitre VI : Contentieux<a id=371></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=373></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=372></a>
 
 ###### Article R716-1
 
@@ -52723,21 +52749,24 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-##### Section 2 :  Mesures probatoires<a id=374></a>
+##### Section 2 :  Mesures probatoires<a id=373></a>
 
 ###### Article R716-2
 
 La saisie, descriptive ou réelle, prévue à l'article L. 716-7 est ordonnée par le président du tribunal de grande instance
-compétent pour connaître du fond. 
+compétent pour connaître du fond.
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
 l'étendue de la contrefaçon.
 
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 _Cite_:
 
@@ -52783,17 +52812,16 @@ _Cite_:
 ###### Article R716-5
 
 Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve des actes de
-contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il peut
-également prendre toute mesure pour préserver la confidentialité de certains éléments.
+contrefaçon allégués.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
-##### Section 3 : Retenue en douane<a id=375></a>
+##### Section 3 : Retenue en douane<a id=374></a>
 
 ###### Article R716-6
 
@@ -52821,7 +52849,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L716-8
 
 
-##### Section 4 : Dispositions communes<a id=376></a>
+##### Section 4 : Dispositions communes<a id=375></a>
 
 ###### Article D716-12
 
@@ -52841,9 +52869,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=377></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=376></a>
 
-##### Section 1 : Marque internationale<a id=378></a>
+##### Section 1 : Marque internationale<a id=377></a>
 
 ###### Article R*717-1-1
 
@@ -53110,7 +53138,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque communautaire<a id=379></a>
+##### Section 2 : Marque communautaire<a id=378></a>
 
 ###### Article R*717-10-1
 
@@ -53208,9 +53236,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
 
-#### Chapitre VIII : Dispositions communes<a id=380></a>
+#### Chapitre VIII : Dispositions communes<a id=379></a>
 
-##### Section unique<a id=381></a>
+##### Section unique<a id=380></a>
 
 ###### Article R718-1
 
@@ -53351,11 +53379,11 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Indications géographiques<a id=382></a>
+### Titre II : Indications géographiques<a id=381></a>
 
-#### Chapitre Ier : Généralités<a id=383></a>
+#### Chapitre Ier : Généralités<a id=382></a>
 
-##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=384></a>
+##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=383></a>
 
 ###### Article R*721-6-1
 
@@ -53810,9 +53838,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R718-2
 
 
-#### Chapitre II : Contentieux<a id=385></a>
+#### Chapitre II : Contentieux<a id=384></a>
 
-##### Section 1 : Actions civiles<a id=386></a>
+##### Section 1 : Actions civiles<a id=385></a>
 
 ###### Article D722-6
 
@@ -53852,16 +53880,19 @@ _Cite_:
 ###### Article R722-2
 
 La saisie, descriptive ou réelle, prévue à l'article L. 722-4 est ordonnée par le président du tribunal de grande instance
-compétent pour connaître du fond. 
+compétent pour connaître du fond.
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
 l'étendue de l'atteinte à une indication géographique.
 
+Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
+provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 _Cite_:
 
@@ -53904,18 +53935,16 @@ _Cite_:
 ###### Article R722-5
 
 Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
-preuve des actes portant prétendument atteinte à une indication géographique. A la demande de la partie saisie agissant sans
-délai et justifiant d'un intérêt légitime, il peut également prendre toute mesure pour préserver la confidentialité de
-certains éléments.
+preuve des actes portant prétendument atteinte à une indication géographique.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
-##### Section 2 : La retenue<a id=387></a>
+##### Section 2 : La retenue<a id=386></a>
 
 ###### Article R722-7
 
@@ -53937,49 +53966,66 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=388></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=387></a>
 
-### Titre unique<a id=389></a>
+### Titre unique<a id=388></a>
 
-#### Chapitre unique<a id=390></a>
+#### Chapitre unique<a id=389></a>
 
 ###### Article R811-1
 
 Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables dans les îles Wallis et Futuna, en
-Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises : 
+Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises :
 
-1° Les dispositions du livre Ier à l'exception des articles R. 133-1, R. 133-2 (4°) et R. 135-1 à R. 135-4 ; 
+1° Les dispositions du livre Ier à l'exception des articles R. 133-1, R. 133-2 (4°) et R. 135-1 à R. 135-4 ;
 
 2° Les dispositions du livre II dans leur rédaction, pour leur application dans les îles Wallis et Futuna, résultant du
-décret n° 2017-338 du 15 mars 2017 ; 
+décret n° 2017-338 du 15 mars 2017 ;
 
-3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ; 
+3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ;
 
-4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R.
-423-2 ; 
+Les articles R. 331-88, R. 332-1 et R. 343-2 sont applicables à Wallis-et-Futuna dans leur rédaction issue du décret n°
+2018-1126 du 11 décembre 2018 ;
 
-L'article D. 411-1-3 est applicable dans sa rédaction issue du décret n° 2017-1094 du 12 juin 2017 ; 
+4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2 ;
+
+L'article D. 411-1-3 est applicable dans sa rédaction issue du décret n° 2017-1094 du 12 juin 2017 ;
 
 5° Les dispositions du livre V à l'exception des articles R. 522-1 et R. 717-11 ainsi que des articles R. 512-2, R. 512-3, R.
-512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ; 
+512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+
+Les articles R. 521-2 et R. 521-5 sont applicables à Wallis-et-Futuna dans leur rédaction issue du décret n° 2018-1126 du 11
+décembre 2018 ;
 
 6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-46, R.
-613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ; 
+613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+
+Les articles R. 615-2, R. 615-4, R. 623-51 et R. 623-53-1 sont applicables à Wallis-et-Futuna dans leur rédaction issue du
+décret n° 2018-1126 du 11 décembre 2018.
 
 7° Les dispositions du livre VII à l'exception des articles R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4 et
-R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle. 
+R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
 
-Toutefois, l'article R. 613-63 est ainsi rédigé : 
+Les articles R. 716-2, R. 716-5, R. 722-2 et R. 722-5 sont applicables à Wallis-et-Futuna dans leur rédaction issue du décret
+n° 2018-1126 du 11 décembre 2018.
+
+Toutefois, l'article R. 613-63 est ainsi rédigé :
 
 Art. R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi n°
 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
-industrielle. 
+industrielle.
 
 Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La
-décision est notifiée au requérant. 
+décision est notifiée au requérant.
 
 Si la demande est accueillie, le bénéfice de la rédaction est acquis au requérant sous réserve qu'il produise chaque année un
 avis de non-imposition ou une justification équivalente.
+
+**Nota:**
+
+Conformément aux dispositions du premier alinéa de l'article 5 du décret n° 2018-1126 du 11 décembre 2018, les dispositions
+de l'article R. 811-1 résultant du II de l'article 4 dudit décret sont applicables jusqu'à l'entrée en vigueur du décret n°
+2018-429 du 31 mai 2018.
 
 **Liens relatifs à cet article**
 
@@ -54041,7 +54087,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1094 du 12 juin 2017 - art. 4 (V)
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 4 (V)
 
 
 ###### Article R811-1-1
