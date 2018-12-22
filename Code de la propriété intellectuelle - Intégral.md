@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-12-14
+Version Consolidée au 2018-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -26708,20 +26708,17 @@ _Cite_:
 ###### Article R122-13
 
 Le ministre chargé de la culture et le ministre chargé des personnes handicapées arrêtent la liste mentionnée au 1° de
-l'article L. 122-5-1 après avis de la commission prévue à l'article R. 122-15. 
+l'article L. 122-5-1 après avis de la commission prévue à l'article R. 122-15.
 
-Cette liste indique : 
+Cette liste indique :
 
 1° Les personnes morales et établissements qui peuvent assurer la reproduction et la représentation d'une œuvre dans les
-conditions prévues au 1° de l'article L. 122-5-1 ; 
+conditions prévues au 1° de l'article L. 122-5-1 ;
 
 2° Parmi les personnes morales et établissements mentionnés au 1°, ceux qui sont agréés en vue de demander la mise à
-disposition des fichiers numériques déposés par les éditeurs en application du 2° de l'article L. 122-5-1 ; 
+disposition des fichiers numériques déposés par les éditeurs en application du 2° de l'article L. 122-5-1 ;
 
-3° Parmi les personnes morales et établissements mentionnés au 2°, ceux qui sont autorisés à recevoir et mettre des documents
-adaptés à la disposition d'un organisme établi dans un autre Etat en application de l'article L. 122-5-2. 
-
-La validité de l'inscription sur la liste est de cinq ans. 
+La validité de l'inscription sur la liste est de cinq ans.
 
 Cette liste est publiée au Journal officiel de la République française.
 
@@ -26729,7 +26726,7 @@ Cette liste est publiée au Journal officiel de la République française.
 
 _Modifié par_:
 
-  - Décret n°2017-253 du 27 février 2017 - art. 2
+  - Décret n°2018-1200 du 20 décembre 2018 - art. 2
 
 _Cite_:
 
@@ -26747,16 +26744,15 @@ _Cité par_:
 
 ###### Article R122-14
 
-Le retrait de l'autorisation, le retrait de l'agrément ou la radiation de la liste est prononcé par arrêté conjoint du
-ministre chargé de la culture et du ministre chargé des personnes handicapées après avis de la commission prévue à l'article
-R. 122-15. 
+Le retrait de l'agrément ou la radiation de la liste est prononcé par arrêté conjoint du ministre chargé de la culture et du
+ministre chargé des personnes handicapées après avis de la commission prévue à l'article R. 122-15.
 
-Ces mesures sont prises à la demande des personnes morales et des établissements inscrits ou agréés ou autorisés, ou lorsque
-ces derniers ne remplissent plus les conditions auxquelles est subordonné l'inscription, l'agrément ou l'autorisation. 
+Ces mesures sont prises à la demande des personnes morales et des établissements inscrits ou agréés, ou lorsque ces derniers
+ne remplissent plus les conditions auxquelles est subordonné l'inscription ou l'agrément.
 
 Dans ce dernier cas, le ministre chargé de la culture et le ministre chargé des personnes handicapées adressent aux personnes
 morales et établissements une mise en demeure aux fins de régularisation et s'assurent que ces derniers ont pu présenter
-leurs observations dans un délai de deux mois à compter de cette mise en demeure. 
+leurs observations dans un délai de deux mois à compter de cette mise en demeure.
 
 L'arrêté prévu au premier alinéa est publié au Journal officiel de la République française.
 
@@ -26764,9 +26760,9 @@ L'arrêté prévu au premier alinéa est publié au Journal officiel de la Répu
 
 _Modifié par_:
 
-  - Décret n°2017-253 du 27 février 2017 - art. 2
+  - Décret n°2018-1200 du 20 décembre 2018 - art. 3
 
-_Cité par_:
+_Cite_:
 
   - Code de la propriété intellectuelle - art. R122-15 (V)
 
@@ -26774,41 +26770,40 @@ _Cité par_:
 ###### Article R122-15
 
 I. – La commission en charge de l'exception handicap est placée auprès du ministre chargé de la culture et du ministre chargé
-des personnes handicapées. 
+des personnes handicapées.
 
-Elle a pour missions : 
+Elle a pour missions :
 
 1° D'instruire et d'émettre un avis sur les demandes déposées par les personnes morales et les établissements mentionnés au
-7° de l'article L. 122-5 en vue d'une inscription sur la liste, de la délivrance de l'agrément et de l'autorisation dans les
-conditions définies à l'article R. 122-13 ; 
+premier alinéa du 7° de l'article L. 122-5 en vue d'une inscription sur la liste et de la délivrance de l'agrément dans les
+conditions définies à l'article R. 122-13 ;
 
-2° D'émettre un avis sur les radiations de la liste, les retraits d'agrément et d'autorisation prévus à l'article R.
-122-14 ; 
+2° D'émettre un avis sur les radiations de la liste et les retraits d'agrément prévus à l'article R. 122-14 ;
 
-3° De veiller à ce que la mise en œuvre de l'exception prévue au 7° de l'article L. 122-5 se fasse dans le respect des
-dispositions du même article et des articles L. 122-5-1 et L. 122-5-2 et d'avertir le ministre chargé de la culture et le
-ministre chargé des personnes handicapées en cas d'inobservation de ces conditions ; 
+3° De veiller à ce que la mise en œuvre de l'exception prévue au premier alinéa du 7° de l'article L. 122-5 se fasse dans le
+respect des dispositions du même article et des articles L. 122-5-1 et L. 122-5-2 et d'avertir le ministre chargé de la
+culture et le ministre chargé des personnes handicapées en cas d'inobservation de ces conditions ;
 
-4° De formuler des recommandations aux ministres compétents relatives à la mise en œuvre de l'exception prévue au 7° de
-l'article L. 122-5. 
+4° De formuler des recommandations aux ministres compétents relatives à la mise en œuvre de l'exception prévue au premier
+alinéa du 7° de l'article L. 122-5.
 
 II. – La commission comprend dix membres nommés par arrêté conjoint du ministre chargé de la culture et du ministre chargé
-des personnes handicapées pour une période de cinq ans : 
+des personnes handicapées pour une période de cinq ans :
 
 1° Cinq membres représentant des organisations nationales représentatives de personnes atteintes d'un handicap et de leurs
-familles ; 
+familles ;
 
-2° Cinq membres représentant les titulaires de droits. 
+2° Cinq membres représentant les titulaires de droits.
 
-Un représentant de la Bibliothèque nationale de France participe aux travaux de la commission avec voix consultative. 
+Un représentant de la Bibliothèque nationale de France participe aux travaux de la commission avec voix consultative.
 
 III. – Le président de la commission est élu par les membres pour une durée d'un an, alternativement parmi les représentants
-des organisations représentatives de personnes atteintes d'un handicap et parmi les représentants des titulaires de droits. 
+des organisations représentatives de personnes atteintes d'un handicap et parmi les représentants des titulaires de droits.
 
 Les membres de la commission exercent leurs fonctions à titre gratuit. Toutefois, ils peuvent être remboursés de leurs frais
-de transport et de séjour dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat. 
+de transport et de séjour dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.
 
-IV. – La commission adopte un règlement intérieur. 
+IV. – La commission adopte un règlement intérieur.
 
 Le secrétariat de la commission est assuré conjointement par les ministères chargés de la culture et des personnes
 handicapées.
@@ -26817,95 +26812,73 @@ handicapées.
 
 _Modifié par_:
 
-  - Décret n°2017-253 du 27 février 2017 - art. 2
+  - Décret n°2018-1200 du 20 décembre 2018 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L122-5 (V)
+  - Code de la propriété intellectuelle - art. L122-5
   - Code de la propriété intellectuelle - art. L122-5-1
-  - Code de la propriété intellectuelle - art. R122-14 (M)
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R122-13 (V)
+  - Code de la propriété intellectuelle - art. R122-14 (V)
   - Code de la propriété intellectuelle - art. R122-16 (M)
   - Code de la propriété intellectuelle - art. R122-18 (M)
-  - Code de la propriété intellectuelle - art. R122-21 (V)
 
 
 ##### Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception<a id=188></a>
 
 ###### Article R122-16
 
-I. – Pour être inscrit sur la liste prévue au 1° de l'article L. 122-5-1, la personne morale ou l'établissement doit, à
-l'appui de sa demande adressée à la commission par lettre recommandée avec demande d'avis de réception : 
+I.-Pour être inscrit sur la liste prévue au 1° de l'article L. 122-5-1, la personne morale ou l'établissement doit, à l'appui
+de sa demande adressée à la commission par lettre recommandée avec demande d'avis de réception ou par voie électronique : 
 
-1° Donner toute information relative à son organisation, son fonctionnement, ses comptes financiers, ses conditions
-d'installation et d'équipement ainsi que, le cas échéant, à ses statuts ; 
+1° Transmettre ses statuts, ses coordonnées et, pour les organismes de droit privé, le compte de résultat du dernier exercice
+et toute information permettant d'établir le caractère non lucratif de la personne morale ou de l'établissement ; 
 
-2° Indiquer le nombre et la qualité de ses adhérents ou de ses usagers ; indiquer parmi ses adhérents ou usagers le nombre de
-personnes atteintes d'une ou plusieurs déficiences mentionnées au 7° de l'article L. 122-5 et préciser les moyens mis en
-œuvre pour s'assurer que ces personnes sont empêchées, du fait de ces déficiences, d'accéder à l'œuvre dans la forme sous
-laquelle l'auteur l'a rendue disponible au public ; 
+2° Indiquer le nombre de ses adhérents ou de ses usagers, les types de déficience auxquels ses activités répondent et les
+moyens mis en œuvre pour s'assurer que ces personnes remplissent les conditions prévues au 7° de l'article L. 122-5 ; 
 
-3° Justifier de son activité de conception, de réalisation ou de communication de documents adaptés au bénéfice de ces
-personnes en communiquant les éléments suivants : 
+3° Indiquer les types d'œuvres, les formats d'adaptation et les moyens humains et matériels disponibles pour assurer dans des
+conditions sécurisées la communication et, le cas échéant, la conception et la réalisation des documents adaptés ; 
 
-a) La composition de son catalogue d'œuvres disponibles sur des supports répondant à leurs besoins, en distinguant les types
-d'adaptation ; 
-
-b) Les moyens humains et matériels disponibles pour assurer dans des conditions sécurisées la communication et, le cas
-échéant, la conception et la réalisation des documents adaptés ; 
-
-c) Les conditions d'accès et d'utilisation de ses collections ; 
-
-d) Une présentation des services rendus annuellement et, le cas échéant, des œuvres rendues accessibles permettant
-d'apprécier l'effectivité de son activité au bénéfice des personnes mentionnées au 7° de l'article L. 122-5 ; 
-
-4° Préciser les moyens utilisés pour contrôler l'usage des œuvres dans le respect des conditions définies au 7° de l'article
-L. 122-5 et aux articles L. 122-5-1 et L. 122-5-2. 
+4° Préciser les conditions d'accès et d'utilisation de ses collections et les moyens utilisés pour informer ses usagers et
+ses personnels sur les conditions d'usage des œuvres dans le respect des dispositions du premier alinéa du 7° de l'article L.
+122-5 et des articles L. 122-5-1 et L. 122-5-2. 
 
 Toute demande de renouvellement de l'inscription sur la liste prévue au 1° de l'article L. 122-5-1 comporte les informations
-mentionnées aux 2° et 4° et, uniquement si des éléments nouveaux le justifient, celles mentionnées au 1°, ainsi que toute
-information mentionnée au 3° qui n'aurait pas été communiquée dans le rapport prévu au II de l'article R. 122-17. 
+mentionnées aux 2° et, uniquement si des éléments nouveaux le justifient, celles mentionnées aux 1°, 3° et 4°. 
 
-II. – Outre les informations demandées au titre de l'inscription sur la liste prévue au 1° de l'article L. 122-5-1, pour être
-agréé au titre du 2° de l'article L. 122-5-1, la personne morale ou l'établissement doit à l'appui de sa demande : 
+II.-Outre les informations demandées au titre de l'inscription sur la liste prévue au 1° de l'article L. 122-5-1, pour être
+agréé au titre du 2° de l'article L. 122-5-1, la personne morale ou l'établissement doit à l'appui de sa demande adressée à
+la commission par lettre recommandée avec demande d'avis de réception ou par voie électronique, en même temps que sa demande
+au titre de l'inscription sur la liste ou de manière autonome : 
 
-1° Donner toute information relative aux conditions de conservation et de sécurisation des fichiers numériques transmis par
-la Bibliothèque nationale de France ; 
+1° Préciser les conditions de conservation et de sécurisation des fichiers numériques transmis par la Bibliothèque nationale
+de France ; 
 
-2° Donner toute information relative aux modalités d'adaptation de ces fichiers aux besoins de lecture des personnes
-mentionnées au 7° de l'article L. 122-5 ; 
+2° Préciser les modalités d'adaptation et de traitement de ces fichiers ; 
 
 3° Justifier de la sécurisation du système d'information abritant ces fichiers et leurs adaptations ; 
 
-4° Justifier de la sécurisation et de la confidentialité de la transmission de ces fichiers aux personnes mentionnées au 7°
-de l'article L. 122-5. 
+4° Justifier de la sécurisation et de la confidentialité de la transmission de ces fichiers aux personnes mentionnées au
+premier alinéa du 7° de l'article L. 122-5. 
 
-III. – Outre les informations demandées au titre de l'inscription sur la liste prévue au 1° de l'article L. 122-5-1 et au
-titre de l'agrément prévu au 2° de l'article L. 122-5-1, pour être autorisé au titre de l'article L. 122-5-2, la personne
-morale ou l'établissement doit à l'appui de sa demande, indiquer le contenu envisagé des conventions mentionnées au troisième
-alinéa de l'article L. 122-5-2 s'agissant des conditions de mise à disposition des documents adaptés dès lors que les
-personnes mentionnées au 7° de l'article L. 122-5 ne peuvent accéder à l'œuvre dans la forme sous laquelle l'auteur la rend
-disponible au public, ainsi que des mesures prises par l'organisme destinataire de ces documents adaptés afin de garantir que
-ceux-ci ne sont consultés que par les personnes physiques atteintes d'une déficience qui les empêche de lire. 
-
-IV. – Le silence gardé par l'administration pendant plus de six mois sur une demande formulée au titre du I, du II ou du III
-vaut décision d'acceptation.
+III.-Le silence gardé par l'administration pendant plus de six mois sur une demande formulée au titre du I ou du II vaut
+décision d'acceptation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-253 du 27 février 2017 - art. 2
+  - Décret n°2018-1200 du 20 décembre 2018 - art. 5
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L122-5
   - Code de la propriété intellectuelle - art. L122-5-1
-  - Code de la propriété intellectuelle - art. L122-5-2 (V)
-  - Code de la propriété intellectuelle - art. R122-17 (V)
+  - Code de la propriété intellectuelle - art. L122-5-2
 
 _Cité par_:
 
@@ -26916,14 +26889,17 @@ _Cité par_:
 ###### Article R122-17
 
 I. – Les personnes morales et les établissements inscrits sur la liste communiquent à la commission toute modification
-significative concernant les renseignements qu'ils ont fournis à l'appui de leur demande. 
+significative concernant les renseignements qu'ils ont fournis à l'appui de leur demande.
 
-II. – Les personnes morales et les établissements inscrits sur la liste communiquent à la commission un rapport annuel de
-leur activité en faveur des personnes atteintes d'un handicap ainsi que toute information qui leur paraît utile. 
-
-III. – Un registre mentionnant, par pays de destination, la liste des œuvres ainsi que le nombre et la nature des documents
-adaptés mis à la disposition d'organismes sans but lucratif établis dans un autre Etat est annexé au rapport prévu à
-l'article L. 122-5-2.
+II. – Les personnes morales et les établissements inscrits sur la liste et qui reçoivent des documents adaptés ou en mettent
+à disposition d'une personne bénéficiaire ou d'une autre entité autorisée établie dans n'importe quel Etat membre de l'Union
+européenne ou partie au traité de Marrakech adopté le 27 juin 2013, tiennent un registre de ces adaptations. Ils publient et
+actualisent, sur leurs sites internet ou par divers autres canaux en ligne ou hors ligne, des informations sur la façon dont
+ils respectent les obligations prévues aux points a à c du I de l'article 5 de la directive (UE) 2017/1564 du Parlement
+européen et du Conseil du 13 septembre 2017 sur certaines utilisations autorisées de certaines œuvres et d'autres objets
+protégés par le droit d'auteur et les droits voisins en faveur des aveugles, des déficients visuels et des personnes ayant
+d'autres difficultés de lecture des textes imprimés et modifiant la directive 2001/29/CE sur l'harmonisation de certains
+aspects du droit d'auteur et des droits voisins dans la société de l'information.
 
 **Liens relatifs à cet article**
 
@@ -26937,25 +26913,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-253 du 27 février 2017 - art. 2
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L122-5-2 (V)
+  - Décret n°2018-1200 du 20 décembre 2018 - art. 6
 
 
 ###### Article R122-18
 
 Les personnes morales et les établissements inscrits sur la liste mentionnée au 1° de l'article L. 122-5-1 qui demandent le
 fichier numérique d'une œuvre déposé par l'éditeur ne peuvent communiquer le fichier transmis par la Bibliothèque nationale
-de France qu'aux personnes mentionnées au 7° de l'article L. 122-5, pour lesquelles l'accès à ces fichiers conditionne la
-lecture des ouvrages.
+de France qu'aux personnes mentionnées au premier alinéa du 7° de l'article L. 122-5, pour lesquelles l'accès à ces fichiers
+conditionne la lecture des ouvrages.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-253 du 27 février 2017 - art. 2
+  - Décret n°2018-1200 du 20 décembre 2018 - art. 7
 
 _Cite_:
 
