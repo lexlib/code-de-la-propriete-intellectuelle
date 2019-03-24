@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-12-23
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -8714,54 +8714,63 @@ _Créé par_:
 
 ###### Article L327-3
 
-Le collège de contrôle est composé de cinq membres nommés par décret : 
+Le collège de contrôle est composé de cinq membres nommés par décret :
 
-1° Un conseiller maître à la Cour des comptes, président, désigné par le premier président de la Cour des comptes ; 
+1° Un magistrat de la Cour des comptes, président, désigné par le premier président de la Cour des comptes ;
 
-2° Un conseiller d'Etat, président suppléant, désigné par le vice-président du Conseil d'Etat ; 
+2° Un membre du Conseil d'Etat, président suppléant, désigné par le vice-président du Conseil d'Etat ;
 
-3° Un conseiller à la Cour de cassation, désigné par le premier président de la Cour de cassation ; 
+3° Un membre de la Cour de cassation, désigné par le premier président de la Cour de cassation ;
 
-4° Un membre de l'inspection générale des finances, désigné par le ministre chargé des finances ; 
+4° Un membre de l'inspection générale des finances, désigné par le ministre chargé des finances ;
 
 5° Un membre de l'inspection générale de l'administration des affaires culturelles, désigné par le ministre chargé de la
-culture. 
+culture.
 
-Le président du collège de contrôle préside la commission. 
+Le président du collège de contrôle préside la commission.
 
 Pour l'accomplissement des missions qui sont confiées au collège de contrôle, le président du collège a qualité pour agir en
-justice. 
+justice.
 
 Il informe le procureur de la République de tout fait qu'il constate dans l'exercice de ses missions susceptible de
 constituer une infraction pénale.
 
+**Nota:**
+
+Conformément au A du XXIV de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à
+compter du prochain renouvellement de chaque commission.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
+  - Loi n°2019-222 du 23 mars 2019 - art. 102
 
 
 ###### Article L327-4
 
-Le collège des sanctions est composé de trois membres nommés par décret : 
+Le collège des sanctions est composé de trois membres nommés par décret :
 
-1° Un conseiller d'Etat, président, désigné par le vice-président du Conseil d'Etat ; 
+1° Un membre du Conseil d'Etat, président, désigné par le vice-président du Conseil d'Etat ;
 
-2° Un conseiller maître à la Cour des comptes, président suppléant, désigné par le premier président de la Cour des
-comptes ; 
+2° Un magistrat de la Cour des comptes, président suppléant, désigné par le premier président de la Cour des comptes ;
 
-3° Un conseiller à la Cour de cassation, désigné par le premier président de la Cour de cassation. 
+3° Un membre de la Cour de cassation, désigné par le premier président de la Cour de cassation.
 
-Des membres suppléants sont désignés dans les mêmes conditions. Le membre titulaire et son suppléant sont de sexe différent. 
+Des membres suppléants sont désignés dans les mêmes conditions. Le membre titulaire et son suppléant sont de sexe différent.
 
 Les fonctions de membre du collège des sanctions sont incompatibles avec celles de membre du collège de contrôle.
 
+**Nota:**
+
+Conformément au A du XXIV de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à
+compter du prochain renouvellement de chaque commission.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
+  - Loi n°2019-222 du 23 mars 2019 - art. 102
 
 
 ###### Article L327-5
