@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -103,7 +103,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
           - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. L422-1 à L422-13)](#99)
           - [Chapitre III : Dispositions diverses (art. L423-1 à L423-2)](#100)
       - [Livre V : Les dessins et modèles (art. L511-1 à L522-2)](#101)
-        - [Titre Ier : Conditions et modalités de la protection (art. L511-1 à L515-1)](#102)
+        - [Titre Ier : Conditions et modalités de la protection (art. L511-1 à L515-2)](#102)
           - [Chapitre Ier : Champ d'application (art. L511-1 à L511-11)](#103)
             - [Section 1 : Objet de la protection (art. L511-1 à L511-8)](#104)
             - [Section 2 : Bénéfice de la protection (art. L511-9 à L511-11)](#105)
@@ -112,7 +112,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#77)
             - [Section 2 : Nullité d'un enregistrement (art. L512-4 à L512-6)](#108)
           - [Chapitre III : Droits conférés par l'enregistrement (art. L513-1 à L513-8)](#109)
           - [Chapitre IV : Dispositions diverses (art. L514-1 à L514-2)](#110)
-          - [Chapitre V : Dessins ou modèles communautaires (art. L515-1)](#111)
+          - [Chapitre V : Dessins ou modèles communautaires (art. L515-1 à L515-2)](#111)
         - [Titre II : Contentieux (art. L521-1 à L522-2)](#112)
           - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. L521-1 à L521-13)](#113)
           - [Chapitre Ier bis : La retenue (art. L521-14 à L521-19)](#114)
@@ -14285,6 +14285,22 @@ _Créé par_:
   - Loi n°2007-1544 du 29 octobre 2007 - art. 1 () JORF 30 octobre 2007
 
 
+###### Article L515-2
+
+La formule exécutoire prévue au 2 de l'article 71 du règlement mentionné à l'article L. 515-1 est apposée par l'Institut
+national de la propriété industrielle.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 118 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L811-1 (VT)
+
+
 #### Titre II : Contentieux<a id=112></a>
 
 ##### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=113></a>
@@ -14354,17 +14370,14 @@ _Modifié par_:
 
 ###### Article L521-3
 
-L'action civile en contrefaçon se prescrit par cinq ans à compter des faits qui en sont la cause.
+L'action civile en contrefaçon se prescrit par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû
+connaître le dernier fait lui permettant de l'exercer.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 16
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
 _Cité par_:
 
@@ -14373,6 +14386,10 @@ _Cité par_:
 _Anciens textes_:
 
   - Loi n°1909-07-14 art. 11
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
 
 
 ###### Article L521-3-1
@@ -14393,6 +14410,26 @@ _Modifié par_:
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. D521-6 (VD)
+
+
+###### Article L521-3-2
+
+L'action en nullité d'un dessin ou modèle n'est soumise à aucun délai de prescription.
+
+**Nota:**
+
+Conformément aux dispositions du III de l'article 124 de la loi n° 2019-486 du 22 mai 2019 ces dispositions s'appliquent aux
+titres en vigueur au jour de la publication de ladite loi. Ils sont sans effet sur les décisions ayant force de chose jugée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L811-1 (VT)
 
 
 ###### Article L521-4
@@ -19913,8 +19950,8 @@ _Cité par_:
 
 ###### Article L615-8
 
-Les actions en contrefaçon prévues par le présent chapitre sont prescrites par cinq ans à compter des faits qui en sont la
-cause.
+Les actions en contrefaçon prévues par la présente section sont prescrites par cinq ans à compter du jour où le titulaire
+d'un droit a connu ou aurait dû connaître le dernier fait lui permettant de l'exercer.
 
 **Liens relatifs à cet article**
 
@@ -19928,12 +19965,33 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 16
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. L811-1 (VT)
   - Code de la propriété intellectuelle - art. L811-1-1 (MMN)
+
+
+###### Article L615-8-1
+
+L'action en nullité d'un brevet n'est soumise à aucun délai de prescription.
+
+**Nota:**
+
+Conformément aux dispositions du III de l'article 124 de la loi n° 2019-486 du 22 mai 2019 ces dispositions s'appliquent aux
+titres en vigueur au jour de la publication de ladite loi. Ils sont sans effet sur les décisions ayant force de chose jugée.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L622-7 (V)
+  - Code de la propriété intellectuelle - art. L811-1 (VT)
 
 
 ###### Article L615-9
@@ -20616,8 +20674,9 @@ _Créé par_:
 
 Les articles L. 411-4, L. 411-5, L. 612-11, L. 613-8, L. 613-9, 
 L. 613-19, L. 615-2, L. 615-3, 
-L. 615-5, L. 615-5-1-1, L. 615-5-2, L. 615-7, L. 615-7-1, L. 615-8, L. 615-10 et L. 615-17 sont applicables aux conditions et
-formes dans lesquelles :
+L. 615-5, 
+L. 615-5-1-1, L. 615-5-2, L. 615-7, L. 615-7-1, L. 615-8, L. 615-8-1, L. 615-10 et L. 615-17 sont applicables aux conditions
+et formes dans lesquelles :
 
 - sont prises les décisions du directeur de l'Institut national de la propriété industrielle mentionnées au présent
 chapitre ;
@@ -20625,6 +20684,11 @@ chapitre ;
 - peuvent être transmis, donnés en garantie ou saisis les droits attachés à l'enregistrement d'une topographie ;
 
 - est réglé le contentieux né du présent chapitre.
+
+**Nota:**
+
+Conformément aux dispositions du III de l'article 124 de la loi n° 2019-486 du 22 mai 2019 ces dispositions s'appliquent aux
+titres en vigueur au jour de la publication de ladite loi. Ils sont sans effet sur les décisions ayant force de chose jugée.
 
 **Liens relatifs à cet article**
 
@@ -20638,7 +20702,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 4
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
 _Cité par_:
 
@@ -20662,6 +20726,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L615-5-1-1
   - Code de la propriété intellectuelle - art. L615-5-2
   - Code de la propriété intellectuelle - art. L615-7
+  - Code de la propriété intellectuelle - art. L615-8-1 (V)
 
 
 ###### Article L622-8
@@ -22083,10 +22148,9 @@ _Cité par_:
 
 ###### Article L623-29
 
-Les actions civiles et pénales prévues par le présent chapitre se prescrivent par cinq ans à compter des faits qui en sont la
-cause. 
-
-L'action civile introduite suspend la prescription de l'action pénale.
+Les actions civiles prévues au présent chapitre, à l'exception de celle prévue à l'article L. 623-23-1, se prescrivent par
+cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître le dernier fait lui permettant de
+l'exercer.
 
 **Liens relatifs à cet article**
 
@@ -22100,7 +22164,31 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 16
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L623-23-1 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L811-1 (VT)
+
+
+###### Article L623-29-1
+
+L'action en nullité d'un certificat d'obtention végétale n'est soumise à aucun délai de prescription.
+
+**Nota:**
+
+Conformément aux dispositions du III de l'article 124 de la loi n° 2019-486 du 22 mai 2019 ces dispositions s'appliquent aux
+titres en vigueur au jour de la publication de ladite loi. Ils sont sans effet sur les décisions ayant force de chose jugée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
 _Cité par_:
 
@@ -23578,6 +23666,31 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L711-4 (V)
 
 
+###### Article L714-3-1
+
+Sans préjudice du troisième alinéa de l'article L. 714-3 et de l'article L. 714-4, l'action en nullité d'une marque n'est
+soumise à aucun délai de prescription.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, ces dispositions sont
+abrogées à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 6
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L811-1 (VT)
+
+
 ###### Article L714-4
 
 L'action en nullité ouverte au propriétaire d'une marque notoirement connue au sens de l'article 6 bis de la convention de
@@ -23928,12 +24041,13 @@ _Cite_:
 
 L'action civile en contrefaçon est engagée par le propriétaire de la marque. Toutefois, le bénéficiaire d'un droit exclusif
 d'exploitation peut agir en contrefaçon, sauf stipulation contraire du contrat si, après mise en demeure, le titulaire
-n'exerce pas ce droit. 
+n'exerce pas ce droit.
 
 Toute partie à un contrat de licence est recevable à intervenir dans l'instance en contrefaçon engagée par une autre partie
-afin d'obtenir la réparation du préjudice qui lui est propre. 
+afin d'obtenir la réparation du préjudice qui lui est propre.
 
-L'action en contrefaçon se prescrit par cinq ans. 
+L'action en contrefaçon se prescrit par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaitre
+le dernier fait lui permettant de l'exercer.
 
 Est irrecevable toute action en contrefaçon d'une marque postérieure enregistrée dont l'usage a été toléré pendant cinq ans,
 à moins que son dépôt n'ait été effectué de mauvaise foi. Toutefois, l'irrecevabilité est limitée aux seuls produits et
@@ -23952,7 +24066,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 16
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
 _Cité par_:
 
@@ -26146,11 +26260,22 @@ _Cite_:
 
 Les dispositions du présent code sont applicables dans les îles Wallis et Futuna et en Nouvelle-Calédonie à l'exception du
 quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, 
-L. 421-1 à     
+L. 421-1 à 
 L. 423-2. 
 
-Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à
-L. 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
+Les articles L. 515-2, L. 521-3, L. 521-3-2, L. 611-2, L. 612-12, L. 612-14, L. 612-15, L. 615-8, L. 615-8-1, L. 622-7, L.
+623-29, L. 623-29-1, L. 714-3-1 et L. 716-5 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant de
+la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises. 
+
+Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L.
+423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
+
+**Nota:**
+
+Conformément aux dispositions du second alinéa du III de l'article 124 de la loi n° 2019-486 du 22 mai 2019, le deuxième
+alinéa de l'article L. 811-1 dans sa rédaction résultant du 10° du I du même article est abrogé le jour de l'entrée en
+vigueur de l'ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à la juridiction unifiée du
+brevet.
 
 **Liens relatifs à cet article**
 
@@ -26173,20 +26298,35 @@ _Anciens textes_:
   - Loi n°91-7 1991-01-04 art. 43
   - Loi n°91-7 du 4 janvier 1991 - art. 43 (Ab)
 
-_Modifié par_:
+_Cite_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 173
+  - Loi n°2019-486 du 22 mai 2019 (V)
+  - Code de la propriété intellectuelle - art. L133-1
+  - Code de la propriété intellectuelle - art. L335-4
+  - Code de la propriété intellectuelle - art. L421-1
+  - Code de la propriété intellectuelle - art. L423-2
+  - Code de la propriété intellectuelle - art. L515-2 (V)
+  - Code de la propriété intellectuelle - art. L521-3 (V)
+  - Code de la propriété intellectuelle - art. L521-3-2 (V)
+  - Code de la propriété intellectuelle - art. L611-2 (VT)
+  - Code de la propriété intellectuelle - art. L612-12 (VT)
+  - Code de la propriété intellectuelle - art. L612-14 (VT)
+  - Code de la propriété intellectuelle - art. L612-15 (VT)
+  - Code de la propriété intellectuelle - art. L615-8 (VT)
+  - Code de la propriété intellectuelle - art. L615-8-1 (V)
+  - Code de la propriété intellectuelle - art. L622-7 (V)
+  - Code de la propriété intellectuelle - art. L623-29 (V)
+  - Code de la propriété intellectuelle - art. L623-29-1 (V)
+  - Code de la propriété intellectuelle - art. L714-3-1 (V)
+  - Code de la propriété intellectuelle - art. L716-5 (V)
 
 _Cité par_:
 
   - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la propriété intellectuelle - art. L133-1
-  - Code de la propriété intellectuelle - art. L335-4
-  - Code de la propriété intellectuelle - art. L421-1
-  - Code de la propriété intellectuelle - art. L423-2
+  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
 _Nouveaux textes_:
 
