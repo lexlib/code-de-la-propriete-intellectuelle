@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -7878,31 +7878,37 @@ _Créé par_:
 
 Les procédures mentionnées à l'article L. 323-12 prévoient notamment l'établissement d'une déclaration individuelle annuelle
 par chacun des membres, personnes physiques, du conseil d'administration, ou du conseil de surveillance et du directoire
-lorsque l'organisme en est doté, ainsi que par chacun des représentants légaux, précisant : 
+lorsque l'organisme en est doté, ainsi que par chacun des représentants légaux, précisant :
 
-1° Tout intérêt qu'il détient dans l'organisme de gestion collective ; 
+1° Tout intérêt qu'il détient dans l'organisme de gestion collective ;
 
 2° Toute rémunération qu'il a perçue lors de l'exercice précédent de l'organisme, y compris sous la forme de prestations de
-retraite, d'avantages en nature ou de tout autre avantage ; 
+retraite, d'avantages en nature ou de tout autre avantage ;
 
-3° Tout revenu qu'il a perçu, lors de l'exercice précédent, de l'organisme en tant que titulaire de droits ; 
+3° Tout revenu qu'il a perçu, lors de l'exercice précédent, de l'organisme en tant que titulaire de droits ;
 
 4° Tout conflit réel ou potentiel entre ses intérêts personnels et ceux de l'organisme ou entre ses obligations envers celui-
-ci et celles qu'il a envers toute autre personne physique ou morale. 
+ci et celles qu'il a envers toute autre personne physique ou morale.
 
 Cette déclaration est tenue à la disposition des membres de l'assemblée générale pendant un délai de deux mois avant la
 réunion annuelle de cette assemblée au siège de l'organisme de gestion collective. Les conditions de sa consultation doivent
-assurer le respect de la vie privée, de la protection des données personnelles et du secret des affaires. 
+assurer le respect de la vie privée, de la protection des données à caractère personnel et du secret des affaires.
 
 Les statuts ou le règlement général déterminent les sanctions applicables à la personne qui omet de transmettre sa
 déclaration complète à l'organisme dans les délais qu'ils fixent ou qui mentionne des informations erronées dans ce document.
 Ces sanctions doivent être graduelles et proportionnées.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 17
 
 _Cité par_:
 
@@ -8651,16 +8657,22 @@ _Créé par_:
 
 L'organisme de gestion collective communique au ministre chargé de la culture, à la demande de celui-ci, tout document
 relatif à la perception et à la répartition des revenus provenant de l'exploitation des droits, dans le respect de la vie
-privée, du secret des affaires et de la protection des données personnelles. 
+privée, du secret des affaires et de la protection des données à caractère personnel.
 
 Le ministre chargé de la culture ou son représentant peut recueillir, sur pièces et sur place, les renseignements mentionnés
 au présent article.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 17
 
 
 ###### Article L326-13
