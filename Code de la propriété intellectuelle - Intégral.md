@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2019-10-24
+Version Consolidée au 2019-11-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -26683,6 +26683,813 @@ _Modifié par_:
 _Nouveaux textes_:
 
   - Code rural - art. L683-1 (M)
+
+
+###### Article L811-1-1
+
+Sous réserve des adaptations prévues dans le présent chapitre, les dispositions suivantes du présent code sont applicables
+dans les îles Wallis et Futuna :
+
+1° Les livres Ier à V à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à
+L. 423-2 ;
+
+Les articles L. 515-2, L. 521-3 et L. 521-3-2 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai
+2019 relative à la croissance et la transformation des entreprises ;
+
+2° Les dispositions du livre VI dans les conditions suivantes :
+
+a) Les dispositions du titre Ier mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans
+la colonne de droite du même tableau :
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION RÉSULTANT DE</th>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Chapitre Ier : Champ d'application</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-1 </td>
+      <td align="justify">
+
+Loi n° 2008-518 du 3 juin 2008
+</td>
+    </tr>
+    <tr>
+      <td align="justify">Article L. 611-2</td>
+      <td align="justify">Loi n° 2019-486 du 22 mai 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 611-3 à L. 611-6 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-7 </td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-8 </td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-9 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-10 </td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-11 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-12 </td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 611-13 à L. 611-16 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 611-17 et L. 611-18 </td>
+      <td align="justify">
+
+Loi n° 2004-800 du 6 août 2004
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-19 </td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Chapitre II : Dépôt et instruction des demandes</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-1 </td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-2 </td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-3 et L. 612-4 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-5 </td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-6 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-7 </td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 612-8 à L. 612-11 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-12 </td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-13 </td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-14 </td>
+      <td align="justify">
+
+Loi n° 2019-486 du 22 mai 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">Article L. 612-15</td>
+      <td align="justify">Loi n° 2019-486 du 22 mai 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 612-16 à L. 612-17 </td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-18 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-19 </td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 612-20 à L. 612-22 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-22-1 </td>
+      <td align="justify">
+
+Ordonnance n° 2018-341 du 9 mai 2018</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-23 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td align="center" colspan="2">
+
+Chapitre III : Droits attachés aux brevets</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-1 et L. 613-2 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-2-1 </td>
+      <td align="justify">
+
+Loi n° 2004-800 du 6 août 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-2-2 à L. 613-2-4 </td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-3 </td>
+      <td align="justify">
+
+Ordonnance n° 2018-341 du 9 mai 2018</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-4 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-5 </td>
+      <td align="justify">
+
+Loi n° 2008-518 du 3 juin 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-5-1 à L. 613-5-3 </td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-6 </td>
+      <td align="justify">
+
+Ordonnance n° 2018-341 du 9 mai 2018</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-7 </td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-8 à L. 613-10 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-11 et L. 613-13 </td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-14 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-15 à L. 613-16 </td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-17 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-18 </td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-19 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-19-1 </td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-20 et L. 613-21 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-22 </td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-24 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-25 </td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-26 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-27 </td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-28 à L. 613-32 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Chapitre IV : Application de conventions internationales</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 614-1 </td>
+      <td align="justify">
+
+Ordonnance n° 2018-341 du 9 mai 2018</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-2 à L. 614-6 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 614-7 </td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-8 et L. 614-9 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 614-10 </td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-11 et L. 614-12 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-13 à L. 614-16-4 </td>
+      <td align="justify">
+
+Ordonnance n° 2018-341 du 9 mai 2018</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-17 à L. 614-20 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 614-21 </td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-22 à L. 614-24 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 614-25 </td>
+      <td align="justify">
+
+Ordonnance n° 2018-341 du 9 mai 2018</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Chapitre IV bis : La retenue</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-32 à L. 614-39 </td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Chapitre V : Actions en justice</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 615-1 et L. 615-2 </td>
+      <td align="justify">
+
+Ordonnance n° 2018-341 du 9 mai 2018</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-3 </td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-4 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-5 </td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-5-1 </td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 615-5-1-1 et L. 615-5-2 </td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-6 </td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-7 </td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-7-1 </td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 615-8 et L. 615-8-1</td>
+      <td align="justify">
+
+Loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-10 </td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-12 </td>
+      <td align="justify">
+
+Loi n° 2009-526 du 12 mai 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-13 </td>
+      <td align="justify">
+
+Ordonnance n° 2000-916 du 19 septembre 2000</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-14 </td>
+      <td align="justify">
+
+Loi n° 2016-731 du 3 juin 2016
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-14-1 </td>
+      <td align="justify">
+
+Loi n° 2010-853 du 23 juillet 2010
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-14-2 </td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-14-3 </td>
+      <td align="justify">
+
+Loi n° 2009-526 du 12 mai 2009
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 615-15 et L. 615-16 </td>
+      <td align="justify">
+
+Ordonnance n° 2000-916 du 19 septembre 2000
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-17 </td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-18 </td>
+      <td align="justify">
+
+Ordonnance n° 2018-341 du 9 mai 2018
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-20 </td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 615-21 et L. 615-22</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+  </tbody>
+</table>
+
+b) Le titre II ;
+
+Les articles L. 622-7, L. 623-29 et L. 623-29-1 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22
+mai 2019 relative à la croissance et la transformation des entreprises ;
+
+3° Le livre VII.
+
+Les articles L. 714-3-1 et L. 716-5 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019
+relative à la croissance et la transformation des entreprises.
+
+**Nota:**
+
+Ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à la juridiction unifiée du brevet,
+article 23 I : l’ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une
+juridiction unifiée du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé
+la ratification (entrée en vigueur : date indéterminée).
+
+Conformément au III de l’article 124 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur le jour de
+l'entrée en vigueur de l'ordonnance n° 2018-341 du 9 mai 2018.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°92-597 du 1 juillet 1992 (V)
+  - Loi n°94-102 du 5 février 1994 (V)
+  - Loi n°96-1106 du 18 décembre 1996 (V)
+  - Ordonnance n°2000-916 du 19 septembre 2000 (V)
+  - Loi n°2004-800 du 6 août 2004 (V)
+  - Loi n°2004-1338 du 8 décembre 2004 (V)
+  - Loi n°2007-1544 du 29 octobre 2007 (V)
+  - Loi n°2008-518 du 3 juin 2008 (V)
+  - Ordonnance n°2008-1301 du 11 décembre 2008 (V)
+  - Loi n°2009-526 du 12 mai 2009 (V)
+  - Loi n°2010-853 du 23 juillet 2010 (V)
+  - Loi n°2014-315  du 11 mars 2014 (V)
+  - Loi n°2016-731 du 3 juin 2016 (V)
+  - Ordonnance n°2018-341 du 9 mai 2018 (VD)
+  - Loi n°2019-486 du 22 mai 2019 (V)
 
 
 ###### Article L811-2
