@@ -1,7 +1,7 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2019-12-11
+Version Consolidée au 2019-12-15
 ## Contenu: 
-  - [Partie législative (art. L111-1 à L811-4)](#1)
+  - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
       - [Livre Ier : Le droit d'auteur (art. L111-1 à L136-4)](#3)
         - [Titre Ier : Objet du droit d'auteur (art. L111-1 à L113-10)](#4)
@@ -94,7 +94,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#78)
           - [Chapitre Ier : Champ d'application (art. L341-1 à L341-2)](#90)
           - [Chapitre II : Etendue de la protection (art. L342-1 à L342-5)](#91)
           - [Chapitre III : Procédures et sanctions (art. L343-1 à L343-7)](#92)
-    - [Deuxième partie : La propriété industrielle (art. L411-1 à L731-4)](#93)
+    - [Deuxième partie : La propriété industrielle (art. L411-1 à L717-7)](#93)
       - [Livre IV : Organisation administrative et professionnelle (art. L411-1 à L423-2)](#94)
         - [Titre Ier : Institutions (art. L411-1 à L412-1)](#95)
           - [Chapitre Ier : L'Institut national de la propriété industrielle (art. L411-1 à L411-5)](#96)
@@ -158,261 +158,265 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#78)
             - [Section 3 : Actions en justice (art. L623-25 à L623-35)](#154)
             - [Section 4 : La retenue (art. L623-36 à L623-44)](#155)
       - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. L711-1 à L731-4)](#156)
-        - [Titre Ier : Marques de fabrique, de commerce ou de service (art. L711-1 à L717-7)](#157)
+        - [Titre Ier : Marques de fabrique, de commerce ou de service (art. L711-1 à L716-4-11)](#157)
           - [Chapitre Ier : Eléments constitutifs de la marque (art. L711-1 à L711-4)](#158)
           - [Chapitre II : Acquisition du droit sur la marque (art. L712-1 à L712-14)](#159)
-          - [Chapitre III : Droits conférés par l'enregistrement (art. L713-1 à L713-6)](#160)
-          - [Chapitre IV : Transmission et perte du droit sur la marque (art. L714-1 à L714-8)](#161)
-          - [Chapitre V : Marques collectives (art. L715-1 à L715-3)](#162)
-          - [Chapitre VI : Contentieux (art. L716-1 à L716-6)](#163)
-          - [Chapitre VI bis :  La retenue (art. L716-8 à L716-16)](#164)
-          - [Chapitre VII : La marque communautaire (art. L717-1 à L717-7)](#165)
-        - [Titre II : Indications géographiques (art. L721-1 à L722-17)](#166)
-          - [Chapitre Ier : Généralités (art. L721-1 à L721-10)](#167)
-            - [Section 1 : Appellations d'origine (art. L721-1)](#168)
-            - [Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux (art. L721-2 à L721-10)](#169)
-          - [Chapitre II : Contentieux (art. L722-1 à L722-17)](#170)
-            - [Section 1 : Actions civiles (art. L722-1 à L722-8)](#171)
-            - [Section 2 : La retenue (art. L722-9 à L722-17)](#172)
-        - [Titre III : Indications relatives aux services publics (art. L731-1 à L731-4)](#173)
-          - [Chapitre unique (art. L731-1 à L731-4)](#174)
-    - [Troisième partie : Dispositions relatives à l'outre-mer (art. L811-1 à L811-4)](#175)
-      - [Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte (art. L811-1 à L811-4)](#176)
-        - [Titre unique (art. L811-1 à L811-4)](#177)
-          - [Chapitre unique (art. L811-1 à L811-4)](#178)
-  - [Partie réglementaire (art. R111-1 à R811-4)](#179)
-    - [Livre Ier : Le droit d'auteur (art. R111-1 à R135-4)](#180)
-      - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#181)
-        - [Chapitre Ier : Nature du droit d'auteur (art. R111-1 à R111-2)](#182)
-      - [Titre II : Droits des auteurs (art. R122-1 à R122-22)](#183)
-        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-22)](#184)
-          - [Section 1 : Dispositions générales (art. R122-1)](#185)
-          - [Section 2 : Droit de suite (art. R122-2 à R122-12)](#186)
-          - [Section 3 : Exception en faveur de personnes atteintes d'un handicap (art. R122-13 à R122-22)](#187)
-            - [Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative (art. R122-13 à R122-15)](#188)
-            - [Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception (art. R122-16 à R122-18)](#189)
-            - [Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France (art. R122-19 à R122-22)](#190)
-      - [Titre III : Exploitation des droits (art. R132-8 à R135-4)](#191)
-        - [Chapitre II : Dispositions particulières à certains contrats (art. R132-8 à D132-29)](#192)
-          - [Section 5 : Nantissement du droit d'exploitation des logiciels (art. R132-8 à R132-17)](#193)
-          - [Section 6 : Droit d'exploitation des œuvres des journalistes (art. R132-18 à R132-27)](#194)
-          - [Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige (art. D132-28 à D132-29)](#195)
-        - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. R133-1 à R133-2)](#196)
-        - [Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-11)](#197)
-          - [Section 1 : Registre des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-4)](#198)
-          - [Section 2 : Procédure (art. R134-11)](#199)
-        - [Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines (art. R135-1 à R135-4)](#200)
-    - [Livre II : Les droits voisins du droit d'auteur (art. R211-1 à R214-18)](#201)
-      - [Titre unique (art. R211-1 à R214-18)](#202)
-        - [Chapitre Ier : Dispositions générales (art. R211-1)](#203)
-        - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-8)](#204)
-        - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-18)](#205)
-          - [Section 1 : Commission prévue à l'article L. 214-4 (art. R214-1 à R214-7)](#206)
-          - [Section 2 : Médiateur de la musique (art. R214-8 à R214-18)](#207)
-    - [Livre III : Dispositions générales (art. D311-8 à R343-1)](#208)
-      - [Titre Ier : Rémunération pour copie privée (art. D311-8 à R311-12)](#209)
-        - [Chapitre unique (art. D311-8 à R311-12)](#210)
-          - [Section 1 : Commission prévue à l'article L. 311-5 (art. D311-8 à R311-7)](#211)
-          - [Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée (art. R311-9 à R311-12)](#212)
-      - [Titre II : Gestion des droits d'auteur et des droits voisins par un organisme (art. R321-1 à R329-12)](#213)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-2)](#214)
-          - [Section 1 : Organismes de gestion collective (art. R321-1)](#215)
-          - [Section 2 :  Organismes de gestion indépendants (art. R321-2)](#216)
-        - [Chapitre Ier ter : Organisations des organismes de gestion collective (art. R321-3 à R321-4)](#217)
-          - [Section 2 :  Décisions collectives des membres (art. R321-3 à R321-4)](#218)
-        - [Chapitre Ier quater : Gestion des droits (art. R321-5 à R321-7)](#219)
-          - [Section 2 :  Gestion des revenus issus de l'exploitation des droits (art. R321-5 à R321-7)](#220)
-        - [Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales (art. R321-8 à R321-13)](#221)
-        - [Chapitre Ier sexies : Transparence et procédures de contrôle (art. R321-14 à R321-23)](#222)
-          - [Section 1 : Transparence et obligations d'information (art. R321-14 à R321-21)](#223)
-          - [Section 3 :  Contrôle par le ministère chargé de la culture (art. R321-22 à R321-23)](#224)
-        - [Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins (art. R321-24 à R321-47)](#225)
-          - [Section 2 :  Règles de fonctionnement (art. R321-24 à R321-25)](#226)
-          - [Section 3 :  Procédure (art. R321-26 à R321-45)](#227)
-            - [Sous-section 1 : Règles générales de procédure (art. R321-26 à R321-27)](#228)
-            - [Sous-section 2 :  Procédure de contrôle des comptes et de la gestion (art. R321-28 à R321-30)](#229)
-            - [Sous-section 3 :  Procédure de sanction (art. R321-31 à R321-34)](#230)
-            - [Sous-section 4 :  Procédure de médiation (art. R321-35 à R321-45)](#231)
-          - [Section 4 :  Voies de recours (art. R321-46 à R321-47)](#232)
-        - [Chapitre Ier octies : Dispositions diverses (art. R321-48)](#233)
-        - [Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#234)
-        - [Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#235)
-        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#236)
-        - [Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R325-1 à R325-7)](#237)
-        - [Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle (art. R326-1 à R326-7)](#238)
-        - [Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes (art. R327-1 à R327-6)](#239)
-        - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence (art. R329-1 à R329-6)](#240)
-        - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée (art. R329-7 à R329-12)](#241)
-      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#242)
-        - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#243)
-          - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#244)
-          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à R331-95)](#245)
-            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à D331-34)](#246)
-              - [Paragraphe 1 : Le collège de la Haute Autorité (art. D331-5 à R331-4)](#247)
-              - [Paragraphe 2 : La commission de protection des droits (art. D331-8 à R331-7)](#248)
-              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. D331-13 à R331-14)](#249)
-              - [Paragraphe 4 : Dispositions relatives au personnel (art. R331-15 à R331-19)](#250)
-              - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#251)
-              - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#252)
-            - [Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. R331-35 à R331-46)](#253)
-            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. D331-54-1 à R331-54)](#254)
-            - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés (art. R331-55 à R331-84)](#255)
-              - [Paragraphe 1 : Règles générales de procédure (art. R331-56 à R331-64)](#256)
-              - [Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-65 à R331-71)](#257)
-              - [Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées (art. R331-72 à R331-73)](#258)
-              - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#259)
-              - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#260)
-            - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#261)
-        - [Chapitre II : Saisie-contrefaçon (art. R332-2 à R332-4)](#262)
-        - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#263)
-        - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#264)
-      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#265)
-      - [Chapitre III : Procédures et sanctions (art. R343-1)](#266)
-    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#267)
-      - [Titre Ier : Institutions (art. D411-1-3 à R412-21)](#268)
-        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#269)
-          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#270)
-          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#271)
-          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art.  à R411-18)](#272)
-          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle (art. D411-19-1 à R411-26)](#273)
-        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#274)
-          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#275)
-          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#276)
-      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#277)
-        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#278)
-        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#279)
-          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#280)
-          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#281)
-          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#282)
-          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#283)
-            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40-1)](#284)
-            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#285)
-            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#286)
-            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#287)
-            - [Sous-section 5 : Sociétés pluri-professionnelles d'exercice (art. R422-51-15 à R422-51-19)](#288)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#289)
-          - [Section 4 bis : Contrôle de l'exercice de la profession (art. R422-55-2 à R422-55-5)](#290)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#291)
-        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#292)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#293)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#294)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#295)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#296)
-        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#297)
-        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#298)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#299)
-          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#300)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#301)
-      - [Titre II : Contentieux (art. R521-1 à R523-1)](#302)
-        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#303)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#304)
-          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#305)
-          - [Section 3 : Dispositions communes (art. D521-6)](#306)
-        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#307)
-        - [Chapitre III : Retenue en douane (art. R523-1)](#308)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#309)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#310)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#311)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#312)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#313)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#314)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#315)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#316)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#317)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-1)](#318)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#319)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#320)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#321)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#322)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#323)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#324)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#325)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#326)
-          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#327)
-            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#328)
-            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#329)
-            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#330)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#331)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#332)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#333)
-          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#334)
-          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#335)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#336)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#337)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#338)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#339)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#340)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#341)
-        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#342)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#343)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#344)
-          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#345)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#346)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#347)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#348)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#349)
-          - [Section unique : Procédure (art. R618-1 à R618-6)](#350)
-      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#351)
-        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#352)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#353)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#354)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#355)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#356)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#357)
-            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#358)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#359)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#360)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#361)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#362)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#363)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#364)
-          - [Section 3 : La retenue (art. R623-60)](#365)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#366)
-        - [Chapitre unique (art. D631-1 à D631-2)](#367)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. R711-1 à R722-7)](#368)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. R711-1 à R718-7)](#369)
-        - [Chapitre Ier : Eléments constitutifs de la marque (art. R711-1)](#370)
-        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28-2)](#371)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#372)
-        - [Chapitre VI : Contentieux (art.  à R716-22 )](#373)
-          - [Section 1 : Mesures provisoires et conservatoires (art.  à R714-9)](#374)
-          - [Section 2 : Mesures provisoires et conservatoires (art. R716-1 à R716-15)](#375)
-          - [Section 2 :  Mesures probatoires (art.  à R716-15)](#376)
-          - [Section 3 :  Mesures probatoires (art. R716-2 à R716-19)](#377)
-          - [Section 3 : Retenue en douane (art.  à R716-19)](#378)
-          - [Section 4 : Retenue en douane (art. R716-6 à R716-20)](#379)
-          - [Section 5 : Dispositions diverses (art. R716-21 à R716-22 )](#380)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-8)](#381)
-          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#382)
-          - [Section 2 : Marque communautaire (art.  à R717-8)](#383)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-7)](#384)
-          - [Section unique (art. R718-1 à R718-5)](#385)
-          - [Section 2 : Dispositions transitoires (art. R718-6 à R718-7)](#386)
-      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#387)
-        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#388)
-          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#389)
-        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#390)
-          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#391)
-          - [Section 2 : La retenue (art. R722-7)](#392)
-    - [Livre VII : Marques de produits ou de services et autres signes distinctifs (art.  à R717-11)](#393)
-      - [Titre Ier : Marques de produits ou de services (art.  à R717-11)](#394)
-        - [Chapitre Ier : Eléments constitutifs de la marque (art.  à R722-7)](#395)
-        - [Chapitre II : Acquisition du droit sur la marque (art.  à R722-7)](#396)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art.  à R722-7)](#397)
-        - [Chapitre V : Marques de garantie et marques collectives (art. R715-1 à R715-2)](#398)
-          - [Section 1 : Marques de garantie (art. R715-1)](#399)
-          - [Section 2 : Marques collectives (art. R715-2)](#400)
-        - [Chapitre VI : Contentieux (art.  à R715-2)](#401)
-        - [Chapitre VII : Marque internationale et marque de l'Union européenne (art.  à R717-11)](#402)
-          - [Section 1 : Marque internationale (art.  à R715-2)](#403)
-          - [Section 2 : Marque de l'Union européenne (art. R*717-10-1 à R717-11)](#404)
-        - [Chapitre VIII : Dispositions communes (art.  à R717-11)](#405)
-      - [Titre II : Indications géographiques (art.  à R717-11)](#406)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. D811-1-2 à R811-4)](#407)
-      - [Titre unique (art. D811-1-2 à R811-4)](#408)
-        - [Chapitre unique (art. D811-1-2 à R811-4)](#409)
-    - [Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art.  à R811-4)](#410)
-      - [Titre unique (art.  à R811-4)](#411)
+          - [Chapitre IV : Transmission et perte du droit sur la marque (art. L714-1 à L714-8)](#160)
+          - [Chapitre V : Marques collectives (art. L715-1 à L715-10)](#161)
+            - [Section 1 : Marques de garantie (art. L715-1 à L715-5)](#162)
+            - [Section 2 :  Marques collectives (art. L715-6 à L715-10)](#163)
+          - [Chapitre VI : Contentieux (art. L716-1 à L716-4-11)](#164)
+            - [Section 1 : Contentieux de la nullité et de la déchéance de la marque (art. L716-2 à L716-3-1)](#165)
+              - [Sous-section 2 :  Nullité de la marque (art. L716-2 à L716-2-8)](#166)
+              - [Sous-section 3 :  Déchéance de la marque (art. L716-3-1)](#167)
+            - [Section 2 : Contentieux de la contrefaçon (art. L716-4 à L716-4-11)](#168)
+        - [Titre II : Indications géographiques (art. L721-1 à L722-17)](#169)
+          - [Chapitre Ier : Généralités (art. L721-1 à L721-10)](#170)
+            - [Section 1 : Appellations d'origine (art. L721-1)](#171)
+            - [Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux (art. L721-2 à L721-10)](#172)
+          - [Chapitre II : Contentieux (art. L722-1 à L722-17)](#173)
+            - [Section 1 : Actions civiles (art. L722-1 à L722-8)](#174)
+            - [Section 2 : La retenue (art. L722-9 à L722-17)](#175)
+        - [Titre III : Indications relatives aux services publics (art. L731-1 à L731-4)](#176)
+          - [Chapitre unique (art. L731-1 à L731-4)](#177)
+      - [Livre VII : Marques de produits ou de services et autres signes distinctifs (art.  à L717-7)](#178)
+        - [Titre Ier : Marques de produits ou de services (art.  à L717-7)](#179)
+          - [Chapitre Ier : Eléments constitutifs de la marque (art.  à L731-4)](#180)
+          - [Chapitre II : Acquisition du droit sur la marque (art.  à L731-4)](#181)
+          - [Chapitre III : Droits conférés par la marque (art. L713-1 à L713-6)](#182)
+          - [Chapitre IV : Transmission et perte du droit sur la marque (art.  à L713-6)](#183)
+          - [Chapitre V : Marques de garantie et marques collectives (art.  à L713-6)](#184)
+            - [Section 1 : Marques de garantie (art.  à L713-6)](#185)
+            - [Section 2 :  Marques collectives (art.  à L713-6)](#186)
+          - [Chapitre VI : Contentieux (art.  à L713-6)](#187)
+          - [Chapitre VI bis :  Retenue en douane et actions pénales (art. L716-8 à L716-13)](#188)
+            - [Section 1 : Retenue en douane (art. L716-8 à L716-8-8)](#189)
+            - [Section 2 : Actions pénales (art. L716-8-9 à L716-13)](#190)
+          - [Chapitre VII : Marque de l'Union européenne (art. L717-1 à L717-7)](#191)
+        - [Titre II : Indications géographiques (art.  à L717-7)](#192)
+        - [Titre III : Indications relatives aux services publics (art.  à L717-7)](#193)
+    - [Troisième partie : Dispositions relatives à l'outre-mer (art. L811-1 à L811-6)](#194)
+      - [Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte (art. L811-1 à L811-6)](#195)
+        - [Titre unique (art. L811-1 à L811-6)](#196)
+          - [Chapitre unique (art. L811-1 à L811-6)](#197)
+      - [Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon (art.  à L811-6)](#198)
+        - [Titre unique (art.  à L811-6)](#199)
+  - [Partie réglementaire (art. R111-1 à R811-4)](#200)
+    - [Livre Ier : Le droit d'auteur (art. R111-1 à R135-4)](#201)
+      - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#202)
+        - [Chapitre Ier : Nature du droit d'auteur (art. R111-1 à R111-2)](#203)
+      - [Titre II : Droits des auteurs (art. R122-1 à R122-22)](#204)
+        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-22)](#205)
+          - [Section 1 : Dispositions générales (art. R122-1)](#206)
+          - [Section 2 : Droit de suite (art. R122-2 à R122-12)](#207)
+          - [Section 3 : Exception en faveur de personnes atteintes d'un handicap (art. R122-13 à R122-22)](#208)
+            - [Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative (art. R122-13 à R122-15)](#209)
+            - [Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception (art. R122-16 à R122-18)](#210)
+            - [Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France (art. R122-19 à R122-22)](#211)
+      - [Titre III : Exploitation des droits (art. R132-8 à R135-4)](#212)
+        - [Chapitre II : Dispositions particulières à certains contrats (art. R132-8 à D132-29)](#213)
+          - [Section 5 : Nantissement du droit d'exploitation des logiciels (art. R132-8 à R132-17)](#214)
+          - [Section 6 : Droit d'exploitation des œuvres des journalistes (art. R132-18 à R132-27)](#215)
+          - [Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige (art. D132-28 à D132-29)](#216)
+        - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. R133-1 à R133-2)](#217)
+        - [Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-11)](#218)
+          - [Section 1 : Registre des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-4)](#219)
+          - [Section 2 : Procédure (art. R134-11)](#220)
+        - [Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines (art. R135-1 à R135-4)](#221)
+    - [Livre II : Les droits voisins du droit d'auteur (art. R211-1 à R214-18)](#222)
+      - [Titre unique (art. R211-1 à R214-18)](#223)
+        - [Chapitre Ier : Dispositions générales (art. R211-1)](#224)
+        - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-8)](#225)
+        - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-18)](#226)
+          - [Section 1 : Commission prévue à l'article L. 214-4 (art. R214-1 à R214-7)](#227)
+          - [Section 2 : Médiateur de la musique (art. R214-8 à R214-18)](#228)
+    - [Livre III : Dispositions générales (art. D311-8 à R343-1)](#229)
+      - [Titre Ier : Rémunération pour copie privée (art. D311-8 à R311-12)](#230)
+        - [Chapitre unique (art. D311-8 à R311-12)](#231)
+          - [Section 1 : Commission prévue à l'article L. 311-5 (art. D311-8 à R311-7)](#232)
+          - [Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée (art. R311-9 à R311-12)](#233)
+      - [Titre II : Gestion des droits d'auteur et des droits voisins par un organisme (art. R321-1 à R329-12)](#234)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-2)](#235)
+          - [Section 1 : Organismes de gestion collective (art. R321-1)](#236)
+          - [Section 2 :  Organismes de gestion indépendants (art. R321-2)](#237)
+        - [Chapitre Ier ter : Organisations des organismes de gestion collective (art. R321-3 à R321-4)](#238)
+          - [Section 2 :  Décisions collectives des membres (art. R321-3 à R321-4)](#239)
+        - [Chapitre Ier quater : Gestion des droits (art. R321-5 à R321-7)](#240)
+          - [Section 2 :  Gestion des revenus issus de l'exploitation des droits (art. R321-5 à R321-7)](#241)
+        - [Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales (art. R321-8 à R321-13)](#242)
+        - [Chapitre Ier sexies : Transparence et procédures de contrôle (art. R321-14 à R321-23)](#243)
+          - [Section 1 : Transparence et obligations d'information (art. R321-14 à R321-21)](#244)
+          - [Section 3 :  Contrôle par le ministère chargé de la culture (art. R321-22 à R321-23)](#245)
+        - [Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins (art. R321-24 à R321-47)](#246)
+          - [Section 2 :  Règles de fonctionnement (art. R321-24 à R321-25)](#247)
+          - [Section 3 :  Procédure (art. R321-26 à R321-45)](#248)
+            - [Sous-section 1 : Règles générales de procédure (art. R321-26 à R321-27)](#249)
+            - [Sous-section 2 :  Procédure de contrôle des comptes et de la gestion (art. R321-28 à R321-30)](#250)
+            - [Sous-section 3 :  Procédure de sanction (art. R321-31 à R321-34)](#251)
+            - [Sous-section 4 :  Procédure de médiation (art. R321-35 à R321-45)](#252)
+          - [Section 4 :  Voies de recours (art. R321-46 à R321-47)](#253)
+        - [Chapitre Ier octies : Dispositions diverses (art. R321-48)](#254)
+        - [Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#255)
+        - [Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#256)
+        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#257)
+        - [Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R325-1 à R325-7)](#258)
+        - [Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle (art. R326-1 à R326-7)](#259)
+        - [Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes (art. R327-1 à R327-6)](#260)
+        - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence (art. R329-1 à R329-6)](#261)
+        - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée (art. R329-7 à R329-12)](#262)
+      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#263)
+        - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#264)
+          - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#265)
+          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à R331-95)](#266)
+            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à D331-34)](#267)
+              - [Paragraphe 1 : Le collège de la Haute Autorité (art. D331-5 à R331-4)](#268)
+              - [Paragraphe 2 : La commission de protection des droits (art. D331-8 à R331-7)](#269)
+              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. D331-13 à R331-14)](#270)
+              - [Paragraphe 4 : Dispositions relatives au personnel (art. R331-15 à R331-19)](#271)
+              - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#272)
+              - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#273)
+            - [Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. R331-35 à R331-46)](#274)
+            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. D331-54-1 à R331-54)](#275)
+            - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés (art. R331-55 à R331-84)](#276)
+              - [Paragraphe 1 : Règles générales de procédure (art. R331-56 à R331-64)](#277)
+              - [Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-65 à R331-71)](#278)
+              - [Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées (art. R331-72 à R331-73)](#279)
+              - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#280)
+              - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#281)
+            - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#282)
+        - [Chapitre II : Saisie-contrefaçon (art. R332-2 à R332-4)](#283)
+        - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#284)
+        - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#285)
+      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#286)
+      - [Chapitre III : Procédures et sanctions (art. R343-1)](#287)
+    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#288)
+      - [Titre Ier : Institutions (art. D411-1-3 à R412-21)](#289)
+        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#290)
+          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#291)
+          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#292)
+          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle (art. D411-19-1 à R411-26)](#293)
+        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#294)
+          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#295)
+          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#296)
+      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#297)
+        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#298)
+        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#299)
+          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#300)
+          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#301)
+          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#302)
+          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#303)
+            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40-1)](#304)
+            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#305)
+            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#306)
+            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#307)
+            - [Sous-section 5 : Sociétés pluri-professionnelles d'exercice (art. R422-51-15 à R422-51-19)](#308)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#309)
+          - [Section 4 bis : Contrôle de l'exercice de la profession (art. R422-55-2 à R422-55-5)](#310)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#311)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#312)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#313)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#314)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#315)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#316)
+        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#317)
+        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#318)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#319)
+          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#320)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#321)
+      - [Titre II : Contentieux (art. R521-1 à R523-1)](#322)
+        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#323)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#324)
+          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#325)
+          - [Section 3 : Dispositions communes (art. D521-6)](#326)
+        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#327)
+        - [Chapitre III : Retenue en douane (art. R523-1)](#328)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#329)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#330)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#331)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#332)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#333)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#334)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#335)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#336)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#337)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-1)](#338)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#339)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#340)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#341)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#342)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#343)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#344)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#345)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#346)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#347)
+            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#348)
+            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#349)
+            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#350)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#351)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#352)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#353)
+          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#354)
+          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#355)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#356)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#357)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#358)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#359)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#360)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#361)
+        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#362)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#363)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#364)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#365)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#366)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#367)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#368)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#369)
+          - [Section unique : Procédure (art. R618-1 à R618-6)](#370)
+      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#371)
+        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#372)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#373)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#374)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#375)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#376)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#377)
+            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#378)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#379)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#380)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#381)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#382)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#383)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#384)
+          - [Section 3 : La retenue (art. R623-60)](#385)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#386)
+        - [Chapitre unique (art. D631-1 à D631-2)](#387)
+    - [Livre VII : Marques de produits ou de services et autres signes distinctifs (art. R711-1 à R722-7)](#388)
+      - [Titre Ier : Marques de produits ou de services (art. R711-1 à R718-7)](#389)
+        - [Chapitre Ier : Eléments constitutifs de la marque (art. R711-1)](#390)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28-2)](#391)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#392)
+        - [Chapitre V : Marques de garantie et marques collectives (art. R715-1 à R715-2)](#393)
+          - [Section 1 : Marques de garantie (art. R715-1)](#394)
+          - [Section 2 : Marques collectives (art. R715-2)](#395)
+        - [Chapitre VI : Contentieux (art. R716-1 à R716-22 )](#396)
+          - [Section 2 : Mesures provisoires et conservatoires (art. R716-1 à R716-15)](#397)
+          - [Section 3 :  Mesures probatoires (art. R716-2 à R716-19)](#398)
+          - [Section 4 : Retenue en douane (art. R716-6 à R716-20)](#399)
+          - [Section 5 : Dispositions diverses (art. R716-21 à R716-22 )](#400)
+        - [Chapitre VII : Marque internationale et marque de l'Union européenne (art. R*717-1-1 à R717-11)](#401)
+          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#402)
+          - [Section 2 : Marque de l'Union européenne (art. R*717-10-1 à R717-11)](#403)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-7)](#404)
+          - [Section unique (art. R718-1 à R718-5)](#405)
+          - [Section 2 : Dispositions transitoires (art. R718-6 à R718-7)](#406)
+      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#407)
+        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#408)
+          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#409)
+        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#410)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#411)
+          - [Section 2 : La retenue (art. R722-7)](#412)
+    - [Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. D811-1-2 à R811-4)](#413)
+      - [Titre unique (art. D811-1-2 à R811-4)](#414)
+        - [Chapitre unique (art. D811-1-2 à R811-4)](#415)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -12864,13 +12868,14 @@ entreprises, ainsi que d'engager toute action de sensibilisation et de formation
 2° D'appliquer les lois et règlements en matière de propriété industrielle et de registre du commerce et des sociétés ; à cet
 effet, l'Institut pourvoit, notamment, à la réception des dépôts de demandes des titres de propriété industrielle ou annexes
 à la propriété industrielle, à leur examen et à leur délivrance ou enregistrement et à la surveillance de leur maintien ; il
+connaît des demandes en nullité et en déchéance de marques mentionnées aux 1° et 2° du I de l'article L. 716-5 ; il
 centralise le registre du commerce et des sociétés, notamment sur la base de données informatiques transmises par les
 greffiers de tribunal de commerce, et le Bulletin officiel des annonces civiles et commerciales ; il assure la diffusion des
 informations techniques, commerciales et financières contenues dans les titres de propriété industrielle ; il assure la
 diffusion et la mise à la disposition gratuite du public, à des fins de réutilisation, des informations techniques,
 commerciales et financières qui sont contenues dans le registre national du commerce et des sociétés et dans les instruments
 centralisés de publicité légale, selon des modalités fixées par décret ; il statue sur les demandes d'homologation ou de
-modification des cahiers des charges des indications géographiques définies à l'article L. 721-2 ;
+modification des cahiers des charges des indications géographiques définies à l'article L. 721-2 ; 
 
 3° De prendre toute initiative en vue d'une adaptation permanente du droit national et international aux besoins des
 innovateurs et des entreprises ; à ce titre, il propose au ministre chargé de la propriété industrielle toute réforme qu'il
@@ -12879,10 +12884,14 @@ France dans les organisations internationales compétentes.
 
 **Nota:**
 
-Aux termes du IV de l'article 60 de la loi n° 2015-990 du 6 août 2015, ces dispositions entrent en vigueur à la même date que
-le premier arrêté fixant les tarifs des prestations des greffiers des tribunaux de commerce en application de l'article 50 de
-la présente loi, et au plus tard à l'expiration du douzième mois suivant la promulgation de la même loi. L'arrêté du 26
-février 2016 est entré en vigueur le 1er mars 2016.
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 411-1 dans leur rédaction résultant de la
+présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
+l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
+déchéance d'une marque.
 
 **Liens relatifs à cet article**
 
@@ -12902,11 +12911,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 60 (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L721-2 (V)
+  - Code de la propriété intellectuelle - art. L716-5 (VD)
+  - Code de la propriété intellectuelle - art. L721-2
 
 
 ###### Article L411-2
@@ -12966,10 +12976,27 @@ de la délivrance, du rejet ou du maintien des titres de propriété industriell
 rejet ou de la modification du cahier des charges des indications géographiques définies à l'article L. 721-2 ou du retrait
 de cette homologation. 
 
-Dans l'exercice de cette compétence, il n'est pas soumis à l'autorité de tutelle. Les cours d'appel désignées par voie
-réglementaire connaissent directement des recours formés contre ses décisions. Il y est statué, le ministère public et le
-directeur de l'Institut national de la propriété industrielle entendus. Le pourvoi en cassation est ouvert tant au demandeur
-qu'au directeur de l'Institut national de la propriété industrielle.
+Il statue sur les demandes en nullité ou en déchéance de marques mentionnées au 2° de l'article L. 411-1. Les recours exercés
+contre ces décisions sont suspensifs 
+
+Dans l'exercice de ces compétences, il n'est pas soumis à l'autorité de tutelle. Les cours d'appel désignées par voie
+réglementaire connaissent directement des recours formés contre ses décisions. 
+
+Le pourvoi en cassation contre les décisions des cours d'appel statuant sur ces recours est ouvert aux parties et au
+directeur général de l'Institut national de la propriété industrielle. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 411-4 dans leur rédaction résultant de la
+présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
+l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
+déchéance d'une marque.
 
 **Liens relatifs à cet article**
 
@@ -12996,21 +13023,35 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L721-2 (V)
+  - Code de la propriété intellectuelle - art. L411-1 (VT)
+  - Code de la propriété intellectuelle - art. L721-2
 
 
 ###### Article L411-5
 
-Les décisions de rejet mentionnées au premier alinéa de l'article L. 411-4 sont motivées. 
+Les décisions de rejet mentionnées au premier alinéa de l'article L. 411-4, les décisions statuant sur une opposition formée
+à l'encontre d'une demande d'enregistrement de marque ainsi que les décisions statuant sur une demande de relevé de déchéance
+en matière de marques ou de dessins et modèles sont motivées.
 
-Il en est de même des décisions acceptant une opposition présentée en vertu de l'article L. 712-4 ou une demande de relevé de
-déchéance en matière de marques de fabrique, de commerce ou de service. 
+Il en est de même des décisions statuant sur une demande en nullité ou en déchéance de marques.
 
-Elles sont notifiées au demandeur dans les formes et délais prévus par voie réglementaire.
+Ces décisions sont notifiées au demandeur et, le cas échéant, aux autres parties, dans les formes et délais prévus par décret
+en Conseil d'Etat.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 411-5 dans leur rédaction résultant de la
+présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
+l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
+déchéance d'une marque.
 
 **Liens relatifs à cet article**
 
@@ -13021,16 +13062,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L411-4 (V)
-  - Code de la propriété intellectuelle - art. L712-4 (V)
+  - Code de la propriété intellectuelle - art. L411-4 (VT)
+  - Code de la propriété intellectuelle - art. L712-4 (VD)
 
 _Cité par_:
 
@@ -21611,14 +21652,20 @@ Le certificat est opposable aux tiers dès sa publication.
 La dénomination portée sur le certificat devient obligatoire dès la publication de celui-ci pour toute transaction
 commerciale même après l'expiration de la durée du certificat.
 
-La dénomination conférée à ladite variété ne peut faire l'objet d'un dépôt au titre de marque de fabrique ou de commerce dans
+La dénomination conférée à ladite variété ne peut faire l'objet d'un dépôt au titre de marque de produits ou de services dans
 un Etat partie à la convention internationale pour la protection des obtentions végétales. Un tel dépôt peut toutefois être
 effectué à titre conservatoire, sans faire obstacle à la délivrance du certificat d'obtention, à condition que la preuve de
 la renonciation aux effets de ce dépôt dans les Etats parties à la convention soit produite préalablement à la délivrance
 dudit certificat.
 
 Les prescriptions de l'alinéa ci-dessus ne font pas obstacle à ce que, pour une même obtention, il soit ajouté à la
-dénomination de la variété en cause une marque de fabrique ou de commerce.
+dénomination de la variété en cause une marque de produits ou de services.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -21632,7 +21679,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1843 du 8 décembre 2011 - art. 11
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Cité par_:
 
@@ -23064,19 +23111,17 @@ _Créé par_:
 
 ###### Article L711-1
 
-La marque de fabrique, de commerce ou de service est un signe susceptible de représentation graphique servant à distinguer
-les produits ou services d'une personne physique ou morale.
+La marque de produits ou de services est un signe servant à distinguer les produits ou services d'une personne physique ou
+morale de ceux d'autres personnes physiques ou morales.
 
-Peuvent notamment constituer un tel signe :
+Ce signe doit pouvoir être représenté dans le registre national des marques de manière à permettre à toute personne de
+déterminer précisément et clairement l'objet de la protection conférée à son titulaire.
 
-a) Les dénominations sous toutes les formes telles que : mots, assemblages de mots, noms patronymiques et géographiques,
-pseudonymes, lettres, chiffres, sigles ;
+**Nota:**
 
-b) Les signes sonores tels que : sons, phrases musicales ;
-
-c) Les signes figuratifs tels que : dessins, étiquettes, cachets, lisières, reliefs, hologrammes, logos, images de synthèse ;
-les formes, notamment celles du produit ou de son conditionnement ou celles caractérisant un service ; les dispositions,
-combinaisons ou nuances de couleurs.
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -23087,38 +23132,67 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
   - Arrêté du 24 avril 2008 (V)
   - Code de la consommation - art. L213-5 (V)
+  - Code de la propriété intellectuelle - art. L711-2 (VD)
   - Code de la propriété intellectuelle - art. L712-9 (V)
   - Code de la propriété intellectuelle - art. L714-3 (VD)
   - Code de la propriété intellectuelle - art. R712-10 (M)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 3
+
 
 ###### Article L711-2
 
-Le caractère distinctif d'un signe de nature à constituer une marque s'apprécie à l'égard des produits ou services désignés.
+Ne peuvent être valablement enregistrés et, s'ils sont enregistrés, sont susceptibles d'être déclaré nuls : 
 
-Sont dépourvus de caractère distinctif :
+1° Un signe qui ne peut constituer une marque au sens de l'article L. 711-1 ; 
 
-a) Les signes ou dénominations qui, dans le langage courant ou professionnel, sont exclusivement la désignation nécessaire,
-générique ou usuelle du produit ou du service ;
+2° Une marque dépourvue de caractère distinctif ; 
 
-b) Les signes ou dénominations pouvant servir à désigner une caractéristique du produit ou du service, et notamment l'espèce,
-la qualité, la quantité, la destination, la valeur, la provenance géographique, l'époque de la production du bien ou de la
-prestation de service ;
+3° Une marque composée exclusivement d'éléments ou d'indications pouvant servir à désigner, dans le commerce, une
+caractéristique du produit ou du service, et notamment l'espèce, la qualité, la quantité, la destination, la valeur, la
+provenance géographique, l'époque de la production du bien ou de la prestation du service ; 
 
-c) Les signes constitués exclusivement par la forme imposée par la nature ou la fonction du produit, ou conférant à ce
-dernier sa valeur substantielle.
+4° Une marque composée exclusivement d'éléments ou d'indications devenus usuels dans le langage courant ou dans les habitudes
+loyales et constantes du commerce ; 
 
-Le caractère distinctif peut, sauf dans le cas prévu au c, être acquis par l'usage.
+5° Un signe constitué exclusivement par la forme ou une autre caractéristique du produit imposée par la nature même de ce
+produit, nécessaire à l'obtention d'un résultat technique ou qui confère à ce produit une valeur substantielle ; 
+
+6° Une marque exclue de l'enregistrement en application de l'article 6 ter de la convention de Paris pour la protection de la
+propriété industrielle à défaut d'autorisation des autorités compétentes ; 
+
+7° Une marque contraire à l'ordre public ou dont l'usage est légalement interdit ; 
+
+8° Une marque de nature à tromper le public, notamment sur la nature, la qualité ou la provenance géographique du produit ou
+du service ; 
+
+9° Une marque exclue de l'enregistrement en vertu de la législation nationale, du droit de l'Union européenne ou d'accords
+internationaux auxquels la France ou l'Union sont parties, qui prévoient la protection des appellations d'origine et des
+indications géographiques, des mentions traditionnelles pour les vins et des spécialités traditionnelles garanties ; 
+
+10° Une marque consistant en la dénomination d'une variété végétale antérieure, enregistrée conformément au livre VI du
+présent code, au droit de l'Union européenne ou aux accords internationaux auxquels la France ou l'Union sont parties, qui
+prévoient la protection des obtentions végétales, ou la reproduisant dans ses éléments essentiels, et qui porte sur des
+variétés végétales de la même espèce ou d'une espèce étroitement liée ; 
+
+11° Une marque dont le dépôt a été effectué de mauvaise foi par le demandeur. 
+
+Dans les cas prévus aux 2°, 3° et 4°, le caractère distinctif d'une marque peut être acquis à la suite de l'usage qui en a
+été fait.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -23129,11 +23203,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L711-1 (VD)
 
 _Cité par_:
 
@@ -23145,21 +23223,70 @@ _Cité par_:
 
 ###### Article L711-3
 
-Ne peut être adopté comme marque ou élément de marque un signe :
+I.-Ne peut être valablement enregistrée et, si elle est enregistrée, est susceptible d'être déclarée nulle une marque portant
+atteinte à des droits antérieurs ayant effet en France, notamment : 
 
-a) Exclu par l'article 6 ter de la convention de Paris en date du 20 mars 1883, révisée, pour la protection de la propriété
-industrielle ou par le paragraphe 2 de l'article 23 de l'annexe I C à l'accord instituant l'Organisation mondiale du
-commerce ;
+1° Une marque antérieure : 
 
-b) Contraire à l'ordre public ou aux bonnes moeurs, ou dont l'utilisation est légalement interdite ;
+a) Lorsqu'elle est identique à la marque antérieure et que les produits ou les services qu'elle désigne sont identiques à
+ceux pour lesquels la marque antérieure est protégée ; 
 
-c) De nature à tromper le public, notamment sur la nature, la qualité ou la provenance géographique du produit ou du service.
+b) Lorsqu'elle est identique ou similaire à la marque antérieure et que les produits ou les services qu'elle désigne sont
+identiques ou similaires à ceux pour lesquels la marque antérieure est protégée, s'il existe, dans l'esprit du public, un
+risque de confusion incluant le risque d'association avec la marque antérieure ; 
+
+2° Une marque antérieure enregistrée ou une demande de marque sous réserve de son enregistrement ultérieur, jouissant d'une
+renommée en France ou, dans le cas d'une marque de l'Union européenne, d'une renommée dans l'Union, lorsque la marque
+postérieure est identique ou similaire à la marque antérieure, que les produits ou les services qu'elle désigne soient ou non
+identiques ou similaires à ceux pour lesquels la marque antérieure est enregistrée ou demandée et lorsque l'usage de cette
+marque postérieure sans juste motif tirerait indûment profit du caractère distinctif ou de la renommée de la marque
+antérieure, ou qu'il leur porterait préjudice ; 
+
+3° Une dénomination ou une raison sociale, s'il existe un risque de confusion dans l'esprit du public ; 
+
+4° Un nom commercial, une enseigne ou un nom de domaine, dont la portée n'est pas seulement locale, s'il existe un risque de
+confusion dans l'esprit du public ; 
+
+5° Une indication géographique enregistrée mentionnée à l'article L. 722-1 ou à une demande d'indication géographique sous
+réserve de l'homologation de son cahier des charges et de son enregistrement ultérieur ; 
+
+6° Des droits d'auteur ; 
+
+7° Des droits résultant d'un dessin ou modèle protégé ; 
+
+8° Un droit de la personnalité d'un tiers, notamment à son nom de famille, à son pseudonyme ou à son image ; 
+
+9° Le nom, l'image ou la renommée d'une collectivité territoriale ou d'un établissement public de coopération
+intercommunale ; 
+
+10° Le nom d'une entité publique, s'il existe un risque de confusion dans l'esprit du public. 
+
+II.-Une marque antérieure au sens du 1° du I s'entend : 
+
+1° D'une marque française enregistrée, d'une marque de l'Union européenne ou d'une marque ayant fait l'objet d'un
+enregistrement international ayant effet en France ; 
+
+2° D'une demande d'enregistrement d'une marque mentionnée au 1°, sous réserve de son enregistrement ultérieur ; 
+
+3° D'une marque notoirement connue au sens de l'article 6 bis de la convention de Paris pour la protection de la propriété
+industrielle. 
+
+L'antériorité d'une marque enregistrée s'apprécie au regard de la date de la demande d'enregistrement, compte tenu, le cas
+échéant, du droit de priorité invoqué ou de l'ancienneté valablement revendiquée par une marque de l'Union européenne au sens
+de l'article L. 717-6. 
+
+III.-Ne peut être valablement enregistrée et, si elle est enregistrée, est susceptible d'être déclarée nulle une marque dont
+l'enregistrement a été demandé par l'agent ou le représentant du titulaire d'une marque protégée dans un Etat partie à la
+convention de Paris pour la protection de la propriété industrielle, en son propre nom et sans l'autorisation du titulaire à
+moins que cet agent ou ce représentant ne justifie sa démarche.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Accord OMC 1994-04-15, signé à Marrakech, annexe I C, art. 23
 
 _Anciens textes_:
 
@@ -23168,15 +23295,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°96-1106 du 18 décembre 1996 - art. 12 () JORF 19 décembre 1996
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 3
 
 _Cité par_:
 
@@ -23185,6 +23308,10 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L712-7 (V)
   - Code de la propriété intellectuelle - art. L717-6 (VD)
   - Code de la propriété intellectuelle - art. R712-10 (M)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L722-1
 
 
 ###### Article L711-4
@@ -23265,8 +23392,9 @@ _Cité par_:
 ###### Article L712-2
 
 La demande d'enregistrement est présentée et publiée dans les formes et conditions fixées par le présent titre et précisées
-par décret en Conseil d'Etat. Elle doit comporter notamment le modèle de la marque et l'énumération des produits ou services
-auxquels elle s'applique.
+par décret en Conseil d'Etat. Pour bénéficier d'une date de dépôt, elle doit comporter notamment la représentation de la
+marque, l'énumération des produits ou des services pour lesquels l'enregistrement est demandé, l'identification du demandeur
+et être accompagnée de la justification du paiement de la redevance de dépôt.
 
 **Liens relatifs à cet article**
 
@@ -23277,19 +23405,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 4 () JORF 28 juillet 2001
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. L712-10 (V)
+  - Code de la propriété intellectuelle - art. L712-7 (VD)
   - Code de la propriété intellectuelle - art. L717-5 (VD)
 
 
@@ -23323,8 +23448,20 @@ _Cité par_:
 
 ###### Article L712-3
 
-Pendant le délai de deux mois suivant la publication de la demande d'enregistrement, toute personne intéressée peut formuler
-des observations auprès du directeur de l'Institut national de la propriété industrielle.
+Dans le délai de deux mois suivant la publication de la demande d'enregistrement, toute personne peut formuler, auprès du
+directeur général de l'Institut national de la propriété industrielle, des observations écrites précisant les motifs pour
+lesquels la demande d'enregistrement devrait être rejetée en application des 2° et 3° de l'article L. 712-7. 
+
+Dans le délai de deux mois suivant la publication du règlement d'usage, toute personne peut également formuler, auprès du
+directeur général de l'Institut national de la propriété industrielle, des observations écrites précisant les motifs pour
+lesquels la demande d'enregistrement devrait être rejetée en application des dispositions des articles L. 715-4 et L. 715-9.
+
+**Nota:**
+
+Aux termes des I et VI de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 712-3, dans sa
+rédaction résultant de la présente ordonnance, est applicable aux oppositions formées à l'encontre d'une demande
+d'enregistrement déposée à compter de l'entrée en vigueur du décret pris pour l'application de la présente ordonnance et au
+plus tard le 15 décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -23335,11 +23472,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
 
 _Cité par_:
 
@@ -23348,39 +23485,45 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R712-9 (V)
   - Code de la propriété intellectuelle - art. R717-3 (V)
 
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L712-7
+  - Code de la propriété intellectuelle - art. L715-4
+  - Code de la propriété intellectuelle - art. L715-9
+
 
 ###### Article L712-4
 
-Pendant le délai mentionné à l'article L. 712-3, opposition à la demande d'enregistrement peut être faite auprès du directeur
-de l'Institut national de la propriété industrielle par : 
+Dans le délai de deux mois suivant la publication de la demande d'enregistrement, une opposition peut être formée auprès du
+directeur général de l'Institut national de la propriété industrielle à l'encontre d'une demande d'enregistrement en cas
+d'atteinte à l'un des droits antérieurs suivants ayant effet en France : 
 
-1° Le propriétaire d'une marque enregistrée ou déposée antérieurement ou bénéficiant d'une date de priorité antérieure, ou le
-propriétaire d'une marque antérieure notoirement connue ; 
+1° Une marque antérieure en application du 1° du I de l'article L. 711-3 ; 
 
-1° bis Le directeur de l'Institut national de l'origine et de la qualité, dès lors qu'il y a un risque d'atteinte au nom, à
-l'image, à la réputation ou à la notoriété d'une appellation d'origine ou d'une indication géographique mentionnées aux
-articles L. 641-5, L. 641-10, L. 641-11 et L. 641-11-1 du code rural et de la pêche maritime ; 
+2° Une marque antérieure jouissant d'une renommée en application du 2° du I de l'article L. 711-3 ; 
 
-2° Le bénéficiaire d'un droit exclusif d'exploitation, sauf stipulation contraire du contrat ; 
+3° Une dénomination ou une raison sociale, s'il existe un risque de confusion dans l'esprit du public ; 
 
-3° Une collectivité territoriale au titre du h de l'article L. 711-4 ou au titre d'une atteinte à une indication géographique
-définie à l'article L. 721-2, dès lors que cette indication comporte le nom de la collectivité concernée ; 
+4° Un nom commercial, une enseigne ou un nom de domaine, dont la portée n'est pas seulement locale, s'il existe un risque de
+confusion dans l'esprit du public ; 
 
-4° Un organisme de défense et de gestion mentionné à l'article L. 721-4 dont une indication géographique a été homologuée en
-application de l'article L. 721-3 ou dont la demande d'homologation est en cours d'instruction par l'institut. 
+5° Une indication géographique enregistrée mentionnée à l'article L. 722-1 ou une demande d'indication géographique sous
+réserve de l'homologation de son cahier des charges et de son enregistrement ultérieur ; 
 
-L'opposition est réputée rejetée s'il n'est pas statué dans un délai de six mois suivant l'expiration du délai prévu à
-l'article L. 712-3. 
+6° Le nom, l'image ou la renommée d'une collectivité territoriale ou d'un établissement public de coopération
+intercommunale ; 
 
-Toutefois, ce délai peut être suspendu : 
+7° Le nom d'une entité publique, s'il existe un risque de confusion dans l'esprit du public. 
 
-a) Lorsque l'opposition est fondée sur une demande d'enregistrement de marque ou sur une demande d'homologation d'indication
-géographique ; 
+Une opposition peut également être formée en cas d'atteinte à une marque protégée dans un Etat partie à la convention de
+Paris pour la protection de la propriété industrielle dans les conditions prévues au III de l'article L. 711-3.
 
-b) En cas de demande en nullité, en déchéance ou en revendication de propriété, de la marque sur laquelle est fondée
-l'opposition ; 
+**Nota:**
 
-c) Sur demande conjointe des parties, pendant une durée de trois mois renouvelable une fois.
+Aux termes des I et VI de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 712-4, dans sa
+rédaction résultant de la présente ordonnance, est applicable aux oppositions formées à l'encontre d'une demande
+d'enregistrement déposée à compter de l'entrée en vigueur du décret pris pour l'application de la présente ordonnance et au
+plus tard le 15 décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -23423,23 +23566,87 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 23
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L711-4
-  - Code de la propriété intellectuelle - art. L712-3
-  - Code de la propriété intellectuelle - art. L721-2
-  - Code de la propriété intellectuelle - art. L721-3
-  - Code de la propriété intellectuelle - art. L721-4
-  - Code rural - art. L641-10
-  - Code rural - art. L641-11 (V)
-  - Code rural - art. L641-5
+  - Code de la propriété intellectuelle - art. L711-3
+  - Code de la propriété intellectuelle - art. L722-1
+
+
+###### Article L712-4-1
+
+Peuvent former opposition sur le fondement d'un ou de plusieurs des droits mentionnés à l'article L. 712-4, sous réserve que
+ces droits appartiennent au même titulaire, les personnes suivantes : 
+
+1° Le titulaire d'une marque antérieure mentionnée aux 1° et 2° de l'article L. 712-4 ; 
+
+2° Le bénéficiaire d'un droit exclusif d'exploitation d'une marque antérieure enregistrée mentionnée aux 1° et 2° de
+l'article L. 712-4, sauf stipulation contraire du contrat ; 
+
+3° Toute personne morale agissant sur le fondement de sa dénomination ou de sa raison sociale mentionnée au 3° de l'article
+L. 712-4 ; 
+
+4° Le titulaire d'un nom de domaine mentionné au 4° de l'article L. 712-4 ; 
+
+5° Toute personne agissant au titre du 4° de l'article L. 712-4 sur le fondement du nom commercial sous lequel elle exerce
+son activité ou de l'enseigne désignant le lieu où s'exerce cette activité ; 
+
+6° Toute personne qui, agissant au titre du 5° de l'article L. 712-4, est autorisée à exercer les droits découlant de
+l'indication géographique concernée et notamment d'en assurer la gestion ou la défense ; 
+
+7° Une collectivité territoriale ou un établissement public de coopération intercommunale au titre du 5° de l'article L.
+712-4 dès lors que l'indication géographique comporte leur dénomination, ou au titre du 6° du même article ; 
+
+8° Toute personne morale de droit public agissant au titre du 7° de l'article L. 712-4 sur le fondement du nom sous lequel
+cette personne, ou ses services, exerce son activité ; 
+
+9° Le titulaire de la marque déposée sans son autorisation au nom de son agent ou de son représentant, en application du III
+de l'article L. 711-3.
+
+**Nota:**
+
+Aux termes des I et VI de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 712-4-1, dans sa
+rédaction résultant de la présente ordonnance, est applicable aux oppositions formées à l'encontre d'une demande
+d'enregistrement déposée à compter de l'entrée en vigueur du décret pris pour l'application de la présente ordonnance et au
+plus tard le 15 décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L711-3
+  - Code de la propriété intellectuelle - art. L712-4
+
+**Liens**:
+
+  - CODIFICATION: Code de la propriété intellectuelle - art. R712-10 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R712-8 (V)
+  - Code de la propriété intellectuelle - art. R717-9 (V)
+  - Code rural et de la pêche maritime - art. L643-3-1 (VD)
 
 
 ###### Article L712-5
 
-Il est statué sur l'opposition après une procédure contradictoire définie par décret en Conseil d'Etat.
+Le directeur général de l'Institut national de la propriété industrielle statue sur l'opposition au terme d'une procédure
+contradictoire comprenant une phase d'instruction, dans les conditions définies par décret en Conseil d'Etat.
+
+L'opposition est réputée rejetée si le directeur général de l'Institut n'a pas statué dans le délai, fixé par le même décret,
+qui court à compter de la date de fin de cette phase d'instruction.
+
+**Nota:**
+
+Aux termes des I et VI de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 712-5, dans sa
+rédaction résultant de la présente ordonnance, est applicable aux oppositions formées à l'encontre d'une demande
+d'enregistrement déposée à compter de l'entrée en vigueur du décret pris pour l'application de la présente ordonnance et au
+plus tard le 15 décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -23450,11 +23657,44 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
+
+
+###### Article L712-5-1 
+
+L'opposition fondée sur une marque antérieure enregistrée depuis plus de cinq ans est rejetée lorsque l'opposant, sur requête
+du titulaire de la demande d'enregistrement, ne peut établir : 
+
+1° Que la marque antérieure a fait l'objet, pour les produits ou services sur lesquels est fondée l'opposition, d'un usage
+sérieux au cours des cinq années précédant la date de dépôt ou la date de priorité de la demande d'enregistrement contestée,
+dans les conditions prévues à l'article L. 714-5 ou, s'il s'agit d'une marque de l'Union européenne, à l'article 18 du
+règlement (UE) 2017/1001 du 14 juin 2017 ; 
+
+2° Ou qu'il existait de justes motifs pour son non-usage. 
+
+Aux fins de l'examen de l'opposition, la marque antérieure n'est réputée enregistrée que pour ceux des produits ou services
+pour lesquels un usage sérieux a été prouvé ou de justes motifs de non-usage établis.
+
+**Nota:**
+
+Aux termes des I et VI de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 712-5-1, dans sa
+rédaction résultant de la présente ordonnance, est applicable aux oppositions formées à l'encontre d'une demande
+d'enregistrement déposée à compter de l'entrée en vigueur du décret pris pour l'application de la présente ordonnance et au
+plus tard le 15 décembre 2019.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L714-5 (VD)
 
 
 ###### Article L712-6
@@ -23481,18 +23721,55 @@ _Modifié par_:
   - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 
+###### Article L712-6-1 
+
+Si une marque protégée dans un Etat partie à la convention de Paris pour la protection industrielle a été enregistrée en
+France au nom de l'agent ou du représentant du titulaire de cette marque sans l'autorisation de son titulaire, ce dernier
+peut :
+
+1° S'opposer à l'usage de la marque par son agent ou représentant ;
+
+2° Demander la cession de la marque à son profit.
+
+Les dispositions qui précèdent ne s'appliquent pas si l'agent ou le représentant justifie sa démarche.
+
+A moins que l'agent ou le représentant ne soit de mauvaise foi, l'action du titulaire se prescrit par cinq ans à compter de
+la publication de la demande d'enregistrement.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
+
+
 ###### Article L712-7
 
-La demande d'enregistrement est rejetée : 
+Le directeur général de l'Institut national de la propriété industrielle rejette la demande d'enregistrement : 
 
-a) Si elle ne satisfait pas aux conditions prévues à l'article L. 712-2 ; 
+1° Si elle ne satisfait pas aux conditions prévues à l'article L. 712-2 ; 
 
-b) Si le signe ne peut constituer une marque par application des articles L. 711-1 et L. 711-2, ou être adopté comme une
-marque par application de l'article L. 711-3 ; 
+2° Si la marque ne répond pas aux conditions énoncées aux 1° et 5° à 10° de l'article L. 711-2 ; 
 
-c) Si l'opposition dont elle fait l'objet au titre de l'article L. 712-4 est reconnue justifiée. 
+3° Si la marque est dépourvue de caractère distinctif en application des 2°, 3° et 4° de l'article L. 711-2, à moins que le
+demandeur n'établisse que la marque a acquis un caractère distinctif à la suite de l'usage qui en a été fait avant la date de
+dépôt ; 
+
+4° S'il est fait droit à l'opposition dont elle fait l'objet en application de l'article L. 712-4. 
 
 Lorsque les motifs de rejet n'affectent la demande qu'en partie, il n'est procédé qu'à son rejet partiel.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -23503,17 +23780,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L711-2 (V)
-  - Code de la propriété intellectuelle - art. L711-3 (V)
-  - Code de la propriété intellectuelle - art. L712-4 (V)
+  - Code de la propriété intellectuelle - art. L711-2
+  - Code de la propriété intellectuelle - art. L712-2 (VD)
+  - Code de la propriété intellectuelle - art. L712-4
 
 _Cité par_:
 
@@ -23548,12 +23825,18 @@ L'enregistrement d'une marque peut être renouvelé s'il ne comporte ni modifica
 produits ou services. Le renouvellement est opéré et publié selon des modalités et dans des délais fixés par décret en
 Conseil d'Etat. 
 
-Il n'est soumis ni à la vérification de conformité aux dispositions des articles L. 711-1 à L. 711-3 ni à la procédure
-d'opposition prévue à l'article L. 712-4. 
+Il n'est soumis ni à la vérification de conformité aux dispositions de l'article L. 711-2, ni à celle des articles L. 715-4
+et L. 715-9, ni à la procédure d'opposition prévue à l'article L. 712-4. 
 
 La nouvelle période de dix ans court à compter de l'expiration de la précédente. 
 
 Toute modification du signe ou extension de la liste des produits ou services désignés doit faire l'objet d'un nouveau dépôt.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -23564,21 +23847,23 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
   - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
   - Code de la propriété intellectuelle - art. L712-10 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L711-1 (V)
-  - Code de la propriété intellectuelle - art. L712-4 (V)
+  - Code de la propriété intellectuelle - art. L711-2
+  - Code de la propriété intellectuelle - art. L712-4
+  - Code de la propriété intellectuelle - art. L715-4
+  - Code de la propriété intellectuelle - art. L715-9
 
 
 ###### Article L712-10
@@ -23666,46 +23951,24 @@ _Modifié par_:
 
 ###### Article L712-13
 
-Les syndicats peuvent déposer leurs marques et labels dans les conditions prévues aux articles L. 413-1 et L. 413-2 du code
-du travail ci-après reproduits :
-
-Art. L. 413-1 :
-
-Les syndicats peuvent déposer, en remplissant les formalités prévues par le chapitre II du livre VII du code de la propriété
-intellectuelle, leurs marques ou labels. Ils peuvent, dès lors, en revendiquer la propriété exclusive dans les conditions
-prévues par ledit code.
-
-Les marques ou labels peuvent être apposés sur tout produit ou objet de commerce pour en certifier l'origine et les
-conditions de fabrication. Ils peuvent être utilisés par tous les individus ou entreprises mettant en vente ces produits.
-
-Art. L. 413-2 :
-
-L'utilisation des marques syndicales ou des labels par application de l'article précédent ne peut avoir pour effet de porter
-atteinte aux dispositions de l'article L. 412-2.
-
-Sont nuls et de nul effet tout accord ou disposition tendant à obliger l'employeur à n'embaucher ou à ne conserver à son
-service que les adhérents du syndicat propriétaire de la marque ou du label.
+Les syndicats peuvent déposer leurs marques dans les conditions prévues aux articles L. 2134-1 et L. 2134-2 du code du
+travail.
 
 **Nota:**
 
-Les dispositions des articles L413-1 et L413-2 du code du travail ont été reprises aux articles L2134-1 et L2134-2 du même
-code.
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-_Cite_:
-
-  - Code de la propriété intellectuelle L412-2
-  - Code du travail - art. L413-1 (M)
-  - Code du travail - art. L413-2 (M)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -23743,190 +24006,39 @@ _Anciens textes_:
   - Code du travail - art. L413-2 (M)
 
 
-##### Chapitre III : Droits conférés par l'enregistrement<a id=160></a>
-
-###### Article L713-1
-
-L'enregistrement de la marque confère à son titulaire un droit de propriété sur cette marque pour les produits et services
-qu'il a désignés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 14
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
-###### Article L713-2
-
-Sont interdits, sauf autorisation du propriétaire :
-
-a) La reproduction, l'usage ou l'apposition d'une marque, même avec l'adjonction de mots tels que : "formule, façon, système,
-imitation, genre, méthode", ainsi que l'usage d'une marque reproduite, pour des produits ou services identiques à ceux
-désignés dans l'enregistrement ;
-
-b) La suppression ou la modification d'une marque régulièrement apposée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 15 I
-  - Loi n°91-7 du 4 janvier 1991 - art. 15 (Ab)
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L713-3-1 (VD)
-  - Code de la propriété intellectuelle - art. L713-3-3 (VD)
-  - Code de la propriété intellectuelle - art. L716-1 (VD)
-
-
-###### Article L713-3
-
-Sont interdits, sauf autorisation du propriétaire, s'il peut en résulter un risque de confusion dans l'esprit du public :
-
-a) La reproduction, l'usage ou l'apposition d'une marque, ainsi que l'usage d'une marque reproduite, pour des produits ou
-services similaires à ceux désignés dans l'enregistrement ;
-
-b) L'imitation d'une marque et l'usage d'une marque imitée, pour des produits ou services identiques ou similaires à ceux
-désignés dans l'enregistrement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 15 II
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
-###### Article L713-4
-
-Le droit conféré par la marque ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des produits qui ont été
-mis dans le commerce dans la Communauté économique européenne ou dans l'Espace économique européen sous cette marque par le
-titulaire ou avec son consentement.
-
-Toutefois, faculté reste alors ouverte au propriétaire de s'opposer à tout nouvel acte de commercialisation s'il justifie de
-motifs légitimes, tenant notamment à la modification ou à l'altération, ultérieurement intervenue, de l'état des produits.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Accord EEE 1992-05-02, signé à Porto art. 129 *date d'effet*
-  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 *champ d'application territorial*, art. 10 *modalités*
-  - SPEC_APPLI: Décret n°94-113 1994-02-01 *entrée en vigueur de l'accord sur l'Espace économique européen*
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 15 III
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Modifié par_:
-
-  - Loi n°93-1420 du 31 décembre 1993 - art. 2 () JORF 1er janvier 1994
-
-
-###### Article L713-5
-
-La reproduction ou l'imitation d'une marque jouissant d'une renommée pour des produits ou services non similaires à ceux
-désignés dans l'enregistrement engage la responsabilité civile de son auteur si elle est de nature à porter préjudice au
-propriétaire de la marque ou si cette reproduction ou imitation constitue une exploitation injustifiée de cette dernière.
-
-Les dispositions de l'alinéa précédent sont applicables à la reproduction ou l'imitation d'une marque notoirement connue au
-sens de l'article 6 bis de la convention de Paris pour la protection de la propriété industrielle précitée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 16
-  - Loi n°91-7 du 4 janvier 1991 - art. 16 (Ab)
-
-_Modifié par_:
-
-  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 2
-
-
-###### Article L713-6
-
-L'enregistrement d'une marque ne fait pas obstacle à l'utilisation du même signe ou d'un signe similaire comme : 
-
-a) Dénomination sociale, nom commercial ou enseigne, lorsque cette utilisation est soit antérieure à l'enregistrement, soit
-le fait d'un tiers de bonne foi employant son nom patronymique ; 
-
-b) Référence nécessaire pour indiquer la destination d'un produit ou d'un service, notamment en tant qu'accessoire ou pièce
-détachée, à condition qu'il n'y ait pas de confusion dans leur origine ; 
-
-c) Indication géographique définie à l'article L. 721-2, sauf lorsque la marque, compte tenu de sa renommée, de sa notoriété
-et de la durée de son usage, est à l'origine exclusive de la réputation ou de la connaissance par le consommateur du produit
-pour lequel une indication géographique est demandée. 
-
-Toutefois, si cette utilisation porte atteinte à ses droits, le titulaire de l'enregistrement peut demander qu'elle soit
-limitée ou interdite.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 17
-  - Loi n°91-7 du 4 janvier 1991 - art. 17 (Ab)
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Modifié par_:
-
-  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L721-2 (V)
-
-
-##### Chapitre IV : Transmission et perte du droit sur la marque<a id=161></a>
+##### Chapitre IV : Transmission et perte du droit sur la marque<a id=160></a>
 
 ###### Article L714-1
 
-Les droits attachés à une marque sont transmissibles en totalité ou en partie, indépendamment de l'entreprise qui les
-exploite ou les fait exploiter. La cession, même partielle, ne peut comporter de limitation territoriale.
+Les droits attachés à une marque sont transmissibles en totalité ou en partie, indépendamment de la personne qui les exploite
+ou les fait exploiter. La cession de ces droits, même partielle, ne peut comporter de limitation territoriale.
 
-Les droits attachés à une marque peuvent faire l'objet en tout ou partie d'une concession de licence d'exploitation exclusive
-ou non exclusive ainsi que d'une mise en gage.
+La transmission totale de l'entreprise, y compris en application d'une obligation contractuelle, emporte la transmission des
+droits attachés à la marque, sauf s'il existe une convention contraire ou si cela ressort clairement des circonstances de ce
+transfert.
 
-La concession non exclusive peut résulter d'un règlement d'usage. Les droits conférés par la demande d'enregistrement de
-marque ou par la marque peuvent être invoqués à l'encontre d'un licencié qui enfreint l'une des limites de sa licence en ce
-qui concerne sa durée, la forme couverte par l'enregistrement sous laquelle la marque peut être utilisée, la nature des
-produits ou des services pour lesquels la licence est octroyée, le territoire sur lequel la marque peut être apposée ou la
-qualité des produits fabriqués ou des services fournis par le licencié.
+Les droits attachés à la marque peuvent faire l'objet de droits réels. Ils peuvent notamment être nantis.
 
-Le transfert de propriété, ou la mise en gage, est constaté par écrit, à peine de nullité.
+Les droits attachés à une marque peuvent faire l'objet, pour tout ou partie du territoire et des produits ou services
+protégés, d'une concession de licence d'exploitation exclusive ou non exclusive.
+
+Les droits conférés par la marque peuvent être invoqués à l'encontre d'un licencié qui enfreint l'une des limites de sa
+licence en ce qui concerne sa durée, la forme couverte par l'enregistrement sous laquelle la marque peut être utilisée, la
+nature des produits ou des services pour lesquels la licence est octroyée, le territoire sur lequel la marque peut être
+apposée ou la qualité des produits fabriqués ou des services fournis par le licencié.
+
+Les droits attachés à la marque peuvent faire l'objet de mesures d'exécution forcée.
+
+La cession et la constitution de droits réels, dont le nantissement, sur les droits attachés à la marque sont constatés par
+écrit, à peine de nullité.
+
+Les dispositions du présent article s'appliquent aux demandes d'enregistrement de marques.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -23937,26 +24049,28 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
-
-_Modifié par_:
-
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 2 () JORF 28 juillet 2001
+  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
   - Décret n°2016-501 du 22 avril 2016 - art. 1
   - Code monétaire et financier - art. R511-2-1-1 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 6
+
 
 ###### Article L714-2
 
-L'auteur d'une demande d'enregistrement ou le propriétaire d'une marque enregistrée peut renoncer aux effets de cette demande
-ou de cet enregistrement pour tout ou partie des produits ou services auxquels s'applique la marque.
+L'auteur d'une demande d'enregistrement ou le titulaire d'une marque enregistrée peut renoncer aux effets de cette demande ou
+de cet enregistrement pour tout ou partie des produits ou services auxquels s'applique la marque.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -23967,11 +24081,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 6
 
 
 ###### Article L714-3
@@ -24007,31 +24121,6 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L711-4 (V)
 
 
-###### Article L714-3-1
-
-Sans préjudice du troisième alinéa de l'article L. 714-3 et de l'article L. 714-4, l'action en nullité d'une marque n'est
-soumise à aucun délai de prescription.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, ces dispositions sont
-abrogées à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 6
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L811-1 (VT)
-
-
 ###### Article L714-4
 
 L'action en nullité ouverte au propriétaire d'une marque notoirement connue au sens de l'article 6 bis de la convention de
@@ -24056,30 +24145,28 @@ _Créé par_:
 
 ###### Article L714-5
 
-Encourt la déchéance de ses droits le propriétaire de la marque qui, sans justes motifs, n'en a pas fait un usage sérieux,
-pour les produits et services visés dans l'enregistrement, pendant une période ininterrompue de cinq ans.
+Encourt la déchéance de ses droits le titulaire de la marque qui, sans justes motifs, n'en a pas fait un usage sérieux, pour
+les produits ou services pour lesquels la marque est enregistrée, pendant une période ininterrompue de cinq ans. Le point de
+départ de cette période est fixé au plus tôt à la date de l'enregistrement de la marque suivant les modalités précisées par
+un décret en Conseil d'Etat.
 
-Est assimilé à un tel usage :
+Est assimilé à un usage au sens du premier alinéa :
 
-a) L'usage fait avec le consentement du propriétaire de la marque ou, pour les marques collectives, dans les conditions du
-règlement ;
+1° L'usage fait avec le consentement du titulaire de la marque ;
 
-b) L'usage de la marque sous une forme modifiée n'en altérant pas le caractère distinctif ;
+2° L'usage fait par une personne habilitée à utiliser la marque collective ou la marque de garantie ;
 
-c) L'apposition de la marque sur des produits ou leur conditionnement exclusivement en vue de l'exportation.
+3° L'usage de la marque, par le titulaire ou avec son consentement, sous une forme modifiée n'en altérant pas le caractère
+distinctif, que la marque soit ou non enregistrée au nom du titulaire sous la forme utilisée ;
 
-La déchéance peut être demandée en justice par toute personne intéressée. Si la demande ne porte que sur une partie des
-produits ou des services visés dans l'enregistrement, la déchéance ne s'étend qu'aux produits ou aux services concernés.
+4° L'apposition de la marque sur des produits ou leur conditionnement, par le titulaire ou avec son consentement,
+exclusivement en vue de l'exportation.
 
-L'usage sérieux de la marque commencé ou repris postérieurement à la période de cinq ans visée au premier alinéa du présent
-article n'y fait pas obstacle s'il a été entrepris dans les trois mois précédant la demande de déchéance et après que le
-propriétaire a eu connaissance de l'éventualité de cette demande.
+**Nota:**
 
-La preuve de l'exploitation incombe au propriétaire de la marque dont la déchéance est demandée. Elle peut être apportée par
-tous moyens.
-
-La déchéance prend effet à la date d'expiration du délai de cinq ans prévu au premier alinéa du présent article. Elle a un
-effet absolu.
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -24090,18 +24177,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°94-102 du 5 février 1994 - art. 32 () JORF 8 février 1994
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 6
 
 _Cité par_:
 
+  - Code de la propriété intellectuelle - art. L712-5-1  (VD)
   - Code de la propriété intellectuelle - art. L811-4 (V)
   - Code de la propriété intellectuelle - art. R712-23 (V)
   - Code de la propriété intellectuelle - art. R716-1 (VD)
@@ -24109,11 +24193,17 @@ _Cité par_:
 
 ###### Article L714-6
 
-Encourt la déchéance de ses droits le propriétaire d'une marque devenue de son fait :
+Encourt la déchéance de ses droits le titulaire d'une marque devenue de son fait :
 
 a) La désignation usuelle dans le commerce du produit ou du service ;
 
 b) Propre à induire en erreur, notamment sur la nature, la qualité ou la provenance géographique du produit ou du service.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -24124,11 +24214,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 6
 
 
 ###### Article L714-7
@@ -24137,11 +24227,17 @@ Toute transmission ou modification des droits attachés à une marque doit, pour
 Registre national des marques.
 
 Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis des droits après la date de cet acte mais
-qui avaient connaissance de celui-ci lors de l'acquisition de ces droits. 
+qui avaient connaissance de celui-ci lors de l'acquisition de ces droits.
 
 Le licencié, partie à un contrat de licence non inscrit sur le Registre national ou international des marques, est également
-recevable à intervenir dans l'instance en contrefaçon engagée par le propriétaire de la marque afin d'obtenir la réparation
-du préjudice qui lui est propre.
+recevable à intervenir dans l'instance en contrefaçon engagée par le titulaire de la marque afin d'obtenir la réparation du
+préjudice qui lui est propre.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -24150,13 +24246,13 @@ _Anciens textes_:
   - Loi n°91-7 1991-01-04 art. 29
   - Loi n°91-7 du 4 janvier 1991 - art. 29 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 2
-
 _Cité par_:
 
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 6
 
 
 ###### Article L714-8
@@ -24174,15 +24270,24 @@ _Créé par_:
   - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 2
 
 
-##### Chapitre V : Marques collectives<a id=162></a>
+##### Chapitre V : Marques collectives<a id=161></a>
+
+##### Section 1 : Marques de garantie<a id=162></a>
 
 ###### Article L715-1
 
-La marque est dite collective lorsqu'elle peut être exploitée par toute personne respectant un règlement d'usage établi par
-le titulaire de l'enregistrement.
+Une marque de garantie est une marque ainsi désignée lors de son dépôt et propre à distinguer les produits ou les services
+pour lesquels la matière, le mode de fabrication ou de prestation, la qualité, la précision ou d'autres caractéristiques sont
+garantis.
 
-La marque collective de certification est appliquée au produit ou au service qui présente notamment, quant à sa nature, ses
-propriétés ou ses qualités, des caractères précisés dans son règlement.
+Les dispositions du présent livre sont applicables aux marques de garantie sous réserve des dispositions particulières
+prévues dans la présente section.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -24193,11 +24298,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
@@ -24206,30 +24307,27 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L717-5 (VD)
   - Code rural - art. R*643-29 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
+
 
 ###### Article L715-2
 
-Les dispositions du présent livre sont applicables aux marques collectives, sous réserve, en ce qui concerne les marques
-collectives de certification, des dispositions particulières ci-après ainsi que de celles de l'article L. 715-3 : 
+Peut déposer une marque de garantie toute personne physique ou morale y compris une personne morale de droit public, sous
+réserve que cette personne n'exerce pas une activité ayant trait à la fourniture de produits ou de services du même type que
+ceux qui sont garantis.
 
-1. Une marque collective de certification ne peut être déposée que par une personne morale qui n'est ni fabricant, ni
-importateur, ni vendeur des produits ou services ; 
+Le dépôt d'une demande d'enregistrement de marque de garantie est accompagné d'un règlement d'usage. Toute modification
+ultérieure du règlement d'usage est portée à la connaissance de l'Institut national de la propriété industrielle.
 
-2. Le dépôt d'une marque collective de certification doit comprendre un règlement déterminant les conditions auxquelles est
-subordonné l'usage de la marque ; 
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
-3. L'usage de la marque collective de certification est ouvert à toutes les personnes, distinctes du titulaire, qui
-fournissent des produits ou des services répondant aux conditions imposées par le règlement ; 
+**Nota:**
 
-4. La marque collective de certification ne peut faire l'objet ni de cession, ni de gage, ni d'aucune mesure d'exécution
-forcée ; toutefois, en cas de dissolution de la personne morale qui en est titulaire, elle peut être transmise à une autre
-personne morale dans des conditions fixées par décret en Conseil d'Etat ; 
-
-5. La demande d'enregistrement est rejetée lorsqu'elle ne satisfait pas aux conditions fixées par la législation applicable à
-la certification ; 
-
-6. Lorsqu'une marque de certification a été utilisée et qu'elle a cessé d'être protégée par la loi, elle ne peut, sous
-réserve des dispositions de l'article L. 712-10, être ni déposée ni utilisée à un titre quelconque avant un délai de dix ans.
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -24240,24 +24338,28 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L712-10 (V)
-  - Code de la propriété intellectuelle - art. L715-3 (V)
+  - Code de la propriété intellectuelle - art. L712-10
+  - Code de la propriété intellectuelle - art. L715-3
 
 
 ###### Article L715-3
 
-La nullité de l'enregistrement d'une marque collective de certification peut être prononcée sur requête du ministère public
-ou à la demande de tout intéressé lorsque la marque ne répond pas à l'une des prescriptions du présent chapitre.
+Une marque de garantie ne peut être cédée ou transmise qu'à une personne répondant aux conditions énoncées au premier alinéa
+de l'article L. 715-2.
 
-La décision d'annulation a un effet absolu.
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -24268,18 +24370,201 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. L715-2 (VD)
 
 
-##### Chapitre VI : Contentieux<a id=163></a>
+###### Article L715-4
+
+Outre les motifs de rejet ou de nullité prévus respectivement aux articles L. 712-7 et L. 714-3, une marque de garantie est
+refusée à l'enregistrement ou, si elle enregistrée, est susceptible d'être déclarée nulle lorsqu'elle ne respecte pas les
+dispositions des articles L. 715-1 à L. 715-3 ou que son règlement d'usage est contraire à l'ordre public.
+
+Une marque de garantie est également refusée à l'enregistrement ou, si elle est enregistrée, est susceptible d'être déclarée
+nulle lorsqu'elle risque d'induire le public en erreur sur son caractère ou sa signification, notamment lorsqu'elle est
+susceptible de ne pas apparaître comme une marque de garantie.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L712-3 (VD)
+  - Code de la propriété intellectuelle - art. L712-9 (VD)
+  - Code de la propriété intellectuelle - art. R712-10 (V)
+
+
+###### Article L715-5
+
+Outre les motifs de déchéance prévus aux articles L. 714-5 et L. 714-6, le titulaire de la marque de garantie est déclaré
+déchu de ses droits pour les motifs suivants :
+
+1° Le titulaire ne satisfait plus aux conditions de l'article L. 715-2 ;
+
+2° Le titulaire ne prend pas de mesures raisonnables en vue de prévenir un usage de la marque qui ne serait pas compatible
+avec le règlement d'usage ;
+
+3° La marque est devenue, du fait de l'usage par les personnes habilitées, susceptible d'induire le public en erreur au sens
+du second alinéa de l'article L. 715-4 ;
+
+4° Une modification du règlement d'usage l'a rendu non conforme aux conditions prévues aux articles L. 715-1 et L. 715-2 ou
+contraire à l'ordre public.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
+
+
+##### Section 2 :  Marques collectives<a id=163></a>
+
+###### Article L715-6
+
+Une marque collective est une marque ainsi désignée lors de son dépôt et propre à distinguer les produits ou les services des
+personnes autorisées à l'utiliser en vertu de son règlement d'usage.
+
+Les dispositions du présent livre sont applicables aux marques collectives sous réserve des dispositions particulières
+prévues dans la présente section.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L717-5 (VD)
+
+
+###### Article L715-7
+
+Peut déposer une marque collective toute association ou tout groupement doté de la personnalité morale représentant des
+fabricants, des producteurs, des prestataires de services ou des commerçants, ainsi que toute personne morale de droit
+public.
+
+Le dépôt d'une demande d'enregistrement de marque collective est accompagné d'un règlement d'usage. Toute modification
+ultérieure du règlement d'usage est portée à la connaissance de l'Institut national de la propriété industrielle.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
+
+
+###### Article L715-8
+
+Une marque collective ne peut être cédée ou transmise qu'à une personne morale répondant aux conditions énoncées au premier
+alinéa de l'article L. 715-7.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
+
+
+###### Article L715-9
+
+Outre les motifs de rejet ou de nullité prévus respectivement aux articles L. 712-7 et L. 714-3, une marque collective est
+refusée à l'enregistrement ou, si elle est enregistrée, est susceptible d'être déclarée nulle lorsqu'elle ne respecte pas les
+dispositions des articles L. 715-6 à L. 715-8 ou que son règlement d'usage est contraire à l'ordre public.
+
+Une marque collective est également rejetée ou, si elle enregistrée, est susceptible d'être déclarée nulle lorsqu'elle risque
+d'induire le public en erreur sur son caractère ou sa signification, notamment lorsqu'elle est susceptible de ne pas
+apparaître comme une marque collective.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L712-3 (VD)
+  - Code de la propriété intellectuelle - art. L712-9 (VD)
+  - Code de la propriété intellectuelle - art. R712-10 (V)
+
+
+###### Article L715-10
+
+Outre les motifs de déchéance prévus aux articles L. 714-5 et L. 714-6, le titulaire de la marque collective est déclaré
+déchu de ses droits pour les motifs suivants :
+
+1° Le titulaire ne prend pas de mesures raisonnables en vue de prévenir un usage de la marque qui ne serait pas compatible
+avec le règlement d'usage ;
+
+2° La marque est devenue, du fait de l'usage par les personnes habilitées, susceptible d'induire le public en erreur au sens
+du second alinéa de l'article L. 715-9 ;
+
+3° Une modification du règlement d'usage l'a rendu non conforme aux conditions prévues aux articles L. 715-6 et L. 715-7 ou
+contraire à l'ordre public.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 7
+
+
+##### Chapitre VI : Contentieux<a id=164></a>
 
 ###### Article L716-1
 
@@ -24311,35 +24596,33 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L713-2 (V)
 
 
-###### Article L716-2
-
-Les faits antérieurs à la publication de la demande d'enregistrement de la marque ne peuvent être considérés comme ayant
-porté atteinte aux droits qui y sont attachés.
-
-Cependant, pourront être constatés et poursuivis les faits postérieurs à la notification faite au présumé contrefacteur d'une
-copie de la demande d'enregistrement. Le tribunal saisi sursoit à statuer jusqu'à la publication de l'enregistrement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 18
-  - Loi n°91-7 du 4 janvier 1991 - art. 18 (Ab)
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
 ###### Article L716-3
 
-Les actions civiles et les demandes relatives aux marques, y compris lorsqu'elles portent également sur une question connexe
-de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par voie
-réglementaire.
+Devant l'Institut national de la propriété industrielle, les demandes en déchéance de marque fondées sur les articles L.
+714-5, L. 714-6, L. 715-5 et L. 715-10 sont introduites par toute personne physique ou morale. Devant les tribunaux de grande
+instance déterminés par voie réglementaire, elles sont introduites par toute personne intéressée.
+
+La demande en déchéance peut porter sur une partie ou sur la totalité des produits ou des services pour lesquels la marque
+contestée est enregistrée.
+
+Lorsque la demande ne porte que sur une partie des produits ou des services pour lesquels la marque est enregistrée, la
+déchéance ne s'étend qu'aux produits ou aux services concernés.
+
+L'usage sérieux de la marque commencé ou repris postérieurement à la période de cinq ans mentionnée au premier alinéa de
+l'article L. 714-5 ne fait pas obstacle à la déchéance si cet usage a débuté ou a repris dans un délai de trois mois
+précédant la demande de déchéance et après que le titulaire a appris que la demande en déchéance pourrait être présentée.
+
+La déchéance prend effet à la date de la demande ou, sur requête d'une partie, à la date à laquelle est survenu un motif de
+déchéance. Elle a un effet absolu.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Les juridictions qui au 1er avril 2020 sont saisies d'un litige en application des articles L. 716-2 et L. 716-3 du code de
+la propriété intellectuelle, dans leur rédaction résultant de la présente ordonnance, restent compétentes pour en connaître.
 
 **Liens relatifs à cet article**
 
@@ -24350,38 +24633,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 196
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. D716-12 (MMN)
   - Code de la propriété intellectuelle - art. L716-4 (V)
-
-
-###### Article L716-4
-
-Les dispositions de l'article L. 716-3 ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux
-articles 2059 et 2060 du code civil.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 35
-  - Loi n°91-7 du 4 janvier 1991 - art. 35 (Ab)
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-3 (V)
-  - Code civil - art. 2059 (V)
 
 
 ###### Article L716-5
@@ -24480,886 +24737,666 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R716-1 (V)
 
 
-##### Chapitre VI bis :  La retenue<a id=164></a>
+##### Section 1 : Contentieux de la nullité et de la déchéance de la marque<a id=165></a>
 
-###### Article L716-8
+##### Sous-section 2 :  Nullité de la marque<a id=166></a>
 
-En dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, sur demande
-écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation, assortie des
-justifications de son droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une
-contrefaçon. 
+###### Article L716-2
 
-Cette retenue est immédiatement notifiée au demandeur et au détenteur. Le procureur de la République est également informé de
-ladite mesure par l'administration des douanes. 
+I.-Sont introduites devant l'Institut national de la propriété industrielle, par toute personne physique ou morale, les
+demandes en nullité de marques fondées sur les articles L. 711-2, L. 715-4 et L. 715-9. Devant les tribunaux de grande
+instance déterminés par voie réglementaire, elles sont introduites par toute personne intéressée.
 
-Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature, la quantité réelle
-ou estimée ainsi que des images des marchandises sont communiquées au propriétaire du droit ou au bénéficiaire du droit
-exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être
-communiquées avant la mise en œuvre de la mesure de retenue prévue par le présent article. 
+II.-Sont introduites devant l'Institut national de la propriété industrielle et devant les tribunaux de grande instance
+déterminés par voie réglementaire les demandes en nullité de marques sur le fondement de l'article L. 711-3, par les seuls
+titulaires de droits antérieurs, notamment :
 
-Sous réserve des procédures prévues aux articles L. 716-8-4 et L. 716-8-5, la mesure de retenue est levée de plein droit à
-défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois jours ouvrables s'il s'agit de denrées
-périssables, à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers soit de
-mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la voie
-correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises au
-cas où la contrefaçon ne serait pas ultérieurement reconnue, soit d'avoir déposé une plainte auprès du procureur de la
-République. L'administration des douanes peut proroger le délai de dix jours, prévu au présent alinéa, de dix jours ouvrables
-maximum sur requête dûment motivée du demandeur. En cas de prorogation du délai, le procureur de la République et le
-détenteur des marchandises en sont informés. 
+1° Le titulaire d'une marque antérieure mentionnée aux 1° et 2° du I de l'article L. 711-3 ;
 
-Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
-charge du demandeur, sous réserve des procédures prévues aux articles L. 716-8-4 et L. 716-8-5. 
+2° Le bénéficiaire d'un droit exclusif d'exploitation d'une marque antérieure enregistrée mentionnée aux 1° et 2° du I de
+l'article L. 711-3, sauf stipulation contraire du contrat ;
 
-Aux fins de l'engagement des actions en justice visées au quatrième alinéa, le demandeur peut obtenir de l'administration des
-douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de
-leur détenteur, ainsi que des images de ces marchandises et des informations sur leur quantité, leur origine, leur provenance
-et leur destination par dérogation à l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus
-les agents de l'administration des douanes. 
+3° Toute personne morale agissant sur le fondement de sa dénomination ou de sa raison sociale mentionnée au 3° du I de
+l'article L. 711-3 ;
 
-La retenue mentionnée au premier alinéa ne porte pas :
+4° Le titulaire d'un nom de domaine mentionné au 4° du I de l'article L. 711-3 ;
 
-- sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la
-Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des
-douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne pour y être légalement
-commercialisées ;
+5° Toute personne agissant au titre du 4° du I de l'article L. 711-3 sur le fondement du nom commercial sous lequel elle
+exerce son activité ou de l'enseigne désignant le lieu où s'exerce cette activité ;
 
-- sur les marchandises de statut communautaire, légalement fabriquées ou légalement mises en libre pratique dans un autre
-Etat membre de la Communauté européenne, dans lequel elles ont été placées sous le régime du transit et qui sont destinées,
-après avoir transité sur le territoire douanier tel que défini à l'article 1er du code des douanes, à être exportées vers un
-Etat non membre de la Communauté européenne.
+6° Toute personne qui, agissant au titre du 5° du I de l'article L. 711-3, est autorisée à exercer les droits découlant d'une
+indication géographique mentionnée à l'article L. 722-1 et notamment d'en assurer la gestion ou la défense ;
+
+7° Une collectivité territoriale ou un établissement public de coopération intercommunale agissant sur le fondement du droit
+mentionné au 9° du I de l'article L. 711-3, ou sur le fondement d'une atteinte à une indication géographique mentionnée à
+l'article L. 722-1 dès lors que cette indication comporte leur dénomination ;
+
+8° Toute personne morale de droit public agissant au titre du 10° du I de l'article L. 711-3 sur le fondement du nom sous
+lequel cette personne, ou ses services, exerce son activité ;
+
+9° Le titulaire d'une marque protégée dans un Etat partie à la convention de Paris pour la protection de la propriété
+industrielle agissant sur le fondement du III de l'article L. 711-3.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Les juridictions qui au 1er avril 2020 sont saisies d'un litige en application des articles L. 716-2 et L. 716-3 du code de
+la propriété intellectuelle, dans leur rédaction résultant de la présente ordonnance, restent compétentes pour en connaître.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°91-7 1991-01-04 art. 22
-  - Loi n°91-7 du 4 janvier 1991 - art. 22 (Ab)
+  - Loi n°91-7 1991-01-04 art. 18
+  - Loi n°91-7 du 4 janvier 1991 - art. 18 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-2-1
+
+La demande en nullité peut porter sur une partie ou sur la totalité des produits ou des services pour lesquels la marque
+contestée est enregistrée.
+
+Une demande en nullité peut être fondée sur un ou plusieurs motifs. Sous réserve de leur appartenance au même titulaire, une
+telle demande peut être fondée sur plusieurs droits antérieurs.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-2-2
+
+La décision d'annulation a un effet absolu.
+
+Lorsque les motifs de nullité n'affectent qu'en partie l'enregistrement d'une marque, il n'est procédé qu'à son annulation
+partielle.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-2-3
+
+Est irrecevable :
+
+1° La demande en nullité formée par le titulaire d'une marque antérieure enregistrée depuis plus de cinq ans à la date de la
+demande en nullité qui, sur requête du titulaire de la marque postérieure, ne rapporte pas la preuve :
+
+a) Que la marque antérieure a fait l'objet, pour les produits ou services pour lesquels elle est enregistrée et qui sont
+invoqués à l'appui de la demande, d'un usage sérieux au cours des cinq années précédant la date à laquelle la demande en
+nullité a été formée, dans les conditions prévues à l'article L. 714-5 ou, s'il s'agit d'une marque de l'Union européenne, à
+l'article 18 du règlement (UE) 2017/1001 du 14 juin 2017 ;
+
+b) Ou qu'il existait de justes motifs pour son non-usage ;
+
+2° La demande en nullité formée par le titulaire d'une marque antérieure enregistrée depuis plus de cinq ans à la date de
+dépôt ou à la date de priorité de la marque postérieure qui, sur requête du titulaire de la marque postérieure, ne rapporte
+pas la preuve :
+
+a) Que la marque antérieure a fait l'objet, pour les produits ou services pour lesquels elle est enregistrée et qui sont
+invoqués à l'appui de la demande, d'un usage sérieux au cours des cinq années précédant la date de dépôt ou la date de
+priorité de la marque postérieure, dans les conditions prévues à l'article L. 714-5 ou, s'il s'agit d'une marque de l'Union
+européenne, à l'article 18 du règlement (UE) 2017/1001 du 14 juin 2017 ;
+
+b) Ou qu'il existait de justes motifs pour son non-usage.
+
+Aux fins de l'examen de la demande en nullité, la marque antérieure n'est réputée enregistrée que pour les produits ou
+services pour lesquels un usage sérieux a été prouvé ou de justes motifs de non-usage établis.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Les articles L. 716-2-3, L. 716-2-4, L. 716-4-3, L. 716-4-4 et L. 716-4-5 du code de la propriété intellectuelle, dans leur
+rédaction résultant de la présente ordonnance, sont applicables aux instances introduites à compter de l'entrée en vigueur de
+la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-2-4
+
+Est irrecevable :
+
+1° La demande en nullité fondée sur une marque antérieure lorsque le titulaire de la marque antérieure enregistrée n'établit
+pas, sur requête du titulaire de la marque postérieure, qu'à la date du dépôt ou à la date de priorité de cette marque
+postérieure, la marque antérieure, susceptible d'être annulée sur le fondement des 2°, 3° et 4° de l'article L. 711-2, avait
+acquis un caractère distinctif ;
+
+2° La demande en nullité fondée sur le b du 1° du I de l'article L. 711-3 lorsque le titulaire de la marque antérieure
+enregistrée n'établit pas, sur requête du titulaire de la marque postérieure, qu'à la date du dépôt ou à la date de priorité
+de cette marque postérieure, la marque antérieure invoquée avait acquis un caractère suffisamment distinctif susceptible de
+justifier l'existence d'un risque de confusion dans l'esprit du public ;
+
+3° La demande en nullité fondée sur le 2° du I de l'article L. 711-3 lorsque le titulaire de la marque antérieure enregistrée
+n'établit pas, sur requête du titulaire de la marque postérieure, qu'à la date du dépôt ou à la date de priorité de cette
+marque postérieure, la marque antérieure invoquée avait acquis une renommée au sens de cette disposition.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Les articles L. 716-2-3, L. 716-2-4, L. 716-4-3, L. 716-4-4 et L. 716-4-5 du code de la propriété intellectuelle, dans leur
+rédaction résultant de la présente ordonnance, sont applicables aux instances introduites à compter de l'entrée en vigueur de
+la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-2-5
+
+Est rejetée la demande en nullité introduite sur le fondement des 2°, 3° et 4° de l'article L. 711-2 lorsque le titulaire de
+la marque contestée peut établir que celle-ci avait acquis, par son usage, un caractère distinctif avant la date de la
+demande en nullité.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-2-6
+
+Sous réserve des articles L. 716-2-7 et L. 716-2-8, l'action ou la demande en nullité d'une marque n'est soumise à aucun
+délai de prescription.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-2-7
+
+L'action ou la demande en nullité introduite par le titulaire d'une marque notoirement connue au sens de l'article 6 bis de
+la convention de Paris pour la protection de la propriété industrielle se prescrit par cinq ans à compter de la date
+d'enregistrement, à moins que ce dernier n'ait été demandé de mauvaise foi.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-2-8
+
+Le titulaire d'un droit antérieur qui a toléré pendant une période de cinq années consécutives l'usage d'une marque
+postérieure enregistrée en connaissance de cet usage n'est plus recevable à demander la nullité de la marque postérieure sur
+le fondement de l'article L. 711-3, pour les produits ou les services pour lesquels l'usage de la marque a été toléré, à
+moins que l'enregistrement de celle-ci ait été demandé de mauvaise foi.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+##### Sous-section 3 :  Déchéance de la marque<a id=167></a>
+
+###### Article L716-3-1
+
+La preuve de l'exploitation incombe au titulaire de la marque dont la déchéance est demandée. Elle peut être apportée par
+tous moyens.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+##### Section 2 : Contentieux de la contrefaçon<a id=168></a>
+
+###### Article L716-4
+
+L'atteinte portée au droit du titulaire de la marque constitue une contrefaçon engageant la responsabilité civile de son
+auteur. Constitue une atteinte aux droits attachés à la marque la violation des interdictions prévues aux articles L. 713-2 à
+L. 713-3-3 et au deuxième alinéa de l'article L. 713-4.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-3 (VD)
+  - Code civil - art. 2059
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 35
+  - Loi n°91-7 du 4 janvier 1991 - art. 35 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-4-1
+
+Les faits antérieurs à la publication de la demande d'enregistrement de la marque ne peuvent être considérés comme ayant
+porté atteinte aux droits qui y sont attachés.
+
+Cependant, pourront être constatés et poursuivis les faits postérieurs à la notification faite au présumé contrefacteur d'une
+copie de la demande d'enregistrement. Le tribunal saisi sursoit à statuer jusqu'à la publication de l'enregistrement.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-4-2
+
+L'action civile en contrefaçon est engagée par le titulaire de la marque ou par le licencié avec le consentement du
+titulaire, sauf stipulation contraire du contrat. Toutefois, le bénéficiaire d'un droit exclusif d'exploitation peut agir en
+contrefaçon si, après mise en demeure, le titulaire n'exerce pas ce droit dans un délai raisonnable.
+
+La personne habilitée à faire usage d'une marque de garantie ou d'une marque collective ne peut engager une action en
+contrefaçon qu'avec le consentement du titulaire de celle-ci, sauf mention contraire du règlement d'usage.
+
+Le titulaire d'une marque de garantie ou d'une marque collective peut demander, au nom des personnes habilitées à utiliser la
+marque, réparation du préjudice subi par celles-ci du fait de l'usage non autorisé de la marque.
+
+Toute partie à un contrat de licence est recevable à intervenir dans l'instance en contrefaçon engagée par une autre partie
+afin d'obtenir la réparation du préjudice qui lui est propre.
+
+Toute personne habilitée à utiliser une marque de garantie ou une marque collective est recevable à intervenir dans
+l'instance en contrefaçon engagée par le titulaire afin d'obtenir la réparation du préjudice qui lui est propre.
+
+L'action en contrefaçon se prescrit par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître
+le dernier fait lui permettant de l'exercer.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-4-3
+
+Est irrecevable toute action en contrefaçon lorsque, sur requête du défendeur, le titulaire de la marque ne peut rapporter la
+preuve :
+
+1° Que la marque a fait l'objet, pour les produits ou les services pour lesquels elle est enregistrée et qui sont invoqués à
+l'appui de la demande, d'un usage sérieux au cours des cinq années précédant la date à laquelle la demande en contrefaçon a
+été formée, dans les conditions prévues à l'article L. 714-5 ;
+
+2° Ou qu'il existait de justes motifs pour son non-usage.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Les articles L. 716-2-3, L. 716-2-4, L. 716-4-3, L. 716-4-4 et L. 716-4-5 du code de la propriété intellectuelle, dans leur
+rédaction résultant de la présente ordonnance, sont applicables aux instances introduites à compter de l'entrée en vigueur de
+la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-4-4
+
+Est irrecevable toute action engagée conformément au règlement (UE) 608/2013 du 12 juin 2013 par le titulaire de la marque
+sur le fondement des dispositions de l'article L. 713-3-2 si, au cours de la procédure visant à déterminer s'il été porté
+atteinte à la marque enregistrée, le déclarant ou le détenteur des produits apporte la preuve que le titulaire de la marque
+enregistrée n'a pas le droit d'interdire la mise sur le marché des produits dans le pays de destination finale.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Les articles L. 716-2-3, L. 716-2-4, L. 716-4-3, L. 716-4-4 et L. 716-4-5 du code de la propriété intellectuelle, dans leur
+rédaction résultant de la présente ordonnance, sont applicables aux instances introduites à compter de l'entrée en vigueur de
+la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-4-5
+
+Est irrecevable toute action en contrefaçon introduite par le titulaire d'une marque antérieure à l'encontre d'une marque
+postérieure :
+
+1° Lorsque le titulaire de la marque antérieure a toléré pendant une période de cinq années consécutives l'usage de la marque
+postérieure en connaissance de cet usage et pour les produits ou les services pour lesquels l'usage a été toléré, à moins que
+son dépôt n'ait été effectué de mauvaise foi ;
+
+2° Lorsque, sur requête du titulaire de la marque postérieure, le demandeur à l'action en contrefaçon sur le fondement d'une
+marque antérieure ne rapporte pas les preuves exigées, selon les cas, par l'article L. 716-2-3 ou par l'article L. 716-2-4.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Les articles L. 716-2-3, L. 716-2-4, L. 716-4-3, L. 716-4-4 et L. 716-4-5 du code de la propriété intellectuelle, dans leur
+rédaction résultant de la présente ordonnance, sont applicables aux instances introduites à compter de l'entrée en vigueur de
+la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-4-6
+
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir
+ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les
+services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite
+d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête
+lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard
+serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut
+ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable
+qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
+
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties
+destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des
+produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation
+dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des
+dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu
+contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer
+les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires,
+financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement
+contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est
+ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
+le demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou pénale, soit déposer une
+plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa
+demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+###### Article L716-4-7
+
+La contrefaçon peut être prouvée par tous moyens. 
+
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
+huissiers, le cas échéant assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
+juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie
+réelle des produits ou services prétendus contrefaisants ainsi que de tout document s'y rapportant. L'ordonnance peut
+autoriser la saisie réelle de tout document se rapportant aux produits et services prétendus contrefaisants en l'absence de
+ces derniers.
+
+La juridiction peut ordonner, aux mêmes fins probatoires, la description détaillée ou la saisie réelle des matériels et
+instruments utilisés pour fabriquer ou distribuer les produits ou fournir les services prétendus contrefaisants. 
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
+assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
+annulée. 
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
+l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
+demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. L716-7 (T)
+
+
+###### Article L716-4-8
+
+La juridiction peut ordonner, d'office ou à la demande de toute personne ayant qualité pour agir en contrefaçon, toutes les
+mesures d'instruction légalement admissibles même si une saisie-contrefaçon n'a pas préalablement été ordonnée dans les
+conditions prévues à l'article L. 716-4-7.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. L716-7-1 A (T)
+
+
+###### Article L716-4-9
+
+Si la demande lui en est faite, la juridiction saisie au fond ou en référé d'une procédure civile prévue au présent titre
+peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits argués de
+contrefaçon qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le
+défendeur ou par toute personne qui a été trouvée en possession de produits argués de contrefaçon ou qui fournit des services
+utilisés dans de prétendues activités de contrefaçon ou encore qui a été signalée comme intervenant dans la production, la
+fabrication ou la distribution de ces produits ou la fourniture de ces services. 
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. L716-7-1 (T)
+
+
+###### Article L716-4-10
+
+Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement : 
+
+1° Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ; 
+
+2° Le préjudice moral causé à cette dernière ; 
+
+3° Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et
+promotionnels que celui-ci a retirées de la contrefaçon. 
+
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
+intérêts une somme forfaitaire. Cette somme est supérieure au montant des redevances ou droits qui auraient été dus si le
+contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte. Cette somme n'est pas exclusive de
+l'indemnisation du préjudice moral causé à la partie lésée.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Anciens textes_:
+
+  - Code de la propriété intellectuelle - art. L716-14 (T)
 
 _Cité par_:
 
-  - Décret n°92-100 du 30 janvier 1992 - art. 47 (Ab)
-  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
-  - Décret n°2015-427 du 15 avril 2015 (V)
-  - Arrêté du 29 juin 2015 (V)
-  - Arrêté du 29 juin 2015 - art. 1 (V)
-  - Code de la propriété intellectuelle - art. L716-8-1 (VD)
-  - Code de la propriété intellectuelle - art. L716-8-3 (VD)
-  - Code de la propriété intellectuelle - art. L716-8-4 (VD)
-  - Code de la propriété intellectuelle - art. L716-8-5 (VD)
-  - Code de la propriété intellectuelle - art. L716-8-7 (VD)
-  - Code de la propriété intellectuelle - art. L716-8-8 (V)
   - Code de la propriété intellectuelle - art. L717-2 (VD)
-  - Code de la propriété intellectuelle - art. R716-1 (M)
-  - Code de la propriété intellectuelle - art. R716-10 (Ab)
-  - Code de la propriété intellectuelle - art. R716-6 (VD)
-  - Code de la propriété intellectuelle - art. R716-8 (Ab)
-  - Code de la propriété intellectuelle - art. R716-9 (Ab)
 
-_Codifié par_:
 
-  - Loi n°92-597 du 1 juillet 1992
+###### Article L716-4-11
 
-_Modifié par_:
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les
+produits reconnus comme produits contrefaisants et les matériaux et instruments ayant principalement servi à leur création ou
+fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au
+profit de la partie lésée.
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 11
-  - Loi n°2014-315 du 11 mars 2014 - art. 7
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa
+publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle
+désigne, selon les modalités qu'elle précise.
 
-_Cite_:
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
 
-  - Code des douanes - art. 1
-  - Code des douanes - art. 59 bis
+**Nota:**
 
-
-###### Article L716-8-1
-
-En l'absence de demande écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation
-et en dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, dans le cadre
-de ses contrôles, retenir une marchandise susceptible de porter atteinte à une marque enregistrée ou à un droit exclusif
-d'exploitation. 
-
-Cette retenue est immédiatement notifiée au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif
-d'exploitation. Le procureur de la République est également informé de ladite mesure. 
-
-Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
-réelle ou estimée ainsi que des images des marchandises sont communiquées au propriétaire du droit ou au bénéficiaire du
-droit exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être
-communiquées avant la mise en œuvre de la mesure de retenue prévue au présent article. 
-
-La mesure de retenue est levée de plein droit si l'administration des douanes n'a pas reçu du propriétaire de la marque
-enregistrée ou du bénéficiaire du droit exclusif d'exploitation la demande prévue à l'article L. 716-8 du présent code,
-déposée dans un délai de quatre jours ouvrables à compter de la notification de la retenue mentionnée à la première phrase du
-deuxième alinéa du présent article. 
-
-Si la demande a été reçue conformément au quatrième alinéa du présent article, le délai de dix jours ouvrables mentionné au
-quatrième alinéa de l'article L. 716-8 commence à courir à compter de l'acceptation de cette demande par l'administration des
-douanes. 
-
-Le présent article n'est pas applicable aux marchandises périssables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Cité par_:
-
-  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
-  - Code de la propriété intellectuelle - art. L716-8-4 (V)
-
-_Modifié par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8
-  - Code des douanes - art. 59 bis
-
-
-###### Article L716-8-2
-
-I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée, prévue
-par la réglementation communautaire en vigueur, est mise en oeuvre avant qu'une demande d'intervention du propriétaire de la
-marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation ait été déposée ou acceptée, les agents des douanes
-peuvent, par dérogation à l'article 59 bis du code des douanes, informer ce propriétaire ou ce bénéficiaire du droit exclusif
-d'exploitation de la mise en oeuvre de cette mesure. Ils peuvent également lui communiquer des informations portant sur la
-quantité des marchandises et leur nature. 
-
-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon de marque, prévue par la
-réglementation communautaire en vigueur, est mise en oeuvre après qu'une demande d'intervention du propriétaire de la marque
-enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation a été acceptée, les agents des douanes peuvent également
-communiquer à ce propriétaire ou à ce bénéficiaire les informations prévues par cette réglementation communautaire
-nécessaires pour déterminer s'il y a eu violation de son droit. 
-
-II.-Les frais générés par la mise en oeuvre d'une retenue prévue par la réglementation communautaire en vigueur sont à la
-charge du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-**Liens**:
-
-  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L716-8-3 (V)
-  - Code de la propriété intellectuelle - art. R716-10 (Ab)
-  - Code de la propriété intellectuelle - art. R716-7 (Ab)
-  - Code de la propriété intellectuelle - art. R716-9 (Ab)
-
-_Cite_:
-
-  - Code des douanes - art. 59 bis
-
-
-###### Article L716-8-3
-
-Pendant le délai de la retenue visée à l'article L. 716-8 et au second alinéa du I de l'article L. 716-8-2, le propriétaire
-de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de
-l'administration des douanes, inspecter les marchandises retenues. 
-
-Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons. A la demande
-du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation, ces échantillons peuvent lui
-être remis aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou
-pénale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Cité par_:
-
-  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
-  - Code de la propriété intellectuelle - art. R716-11 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8
-  - Code de la propriété intellectuelle - art. L716-8-2
-
-
-###### Article L716-8-4
-
-I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée est
-mise en œuvre après qu'une demande mentionnée à l'article L. 716-8 a été acceptée, les marchandises soupçonnées de porter
-atteinte à la marque enregistrée peuvent être détruites sous le contrôle des agents des douanes dès lors que les conditions
-suivantes sont remplies : 
-
-1° Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours
-ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère
-contrefaisant des marchandises ; 
-
-2° Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours
-ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa
-responsabilité, des marchandises ; 
-
-3° Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de
-trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction
-des marchandises. 
-
-II.-Si le détenteur des marchandises n'a, dans le délai mentionné au 3° du I, ni confirmé qu'il consent à la destruction des
-marchandises, ni informé l'administration des douanes qu'il s'oppose à leur destruction, il est réputé avoir consenti à cette
-destruction. 
-
-III.-Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction et qu'il n'est pas
-réputé avoir consenti à la destruction des marchandises dans les délais prévus, l'administration des douanes en informe
-immédiatement le demandeur lequel, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
-périssables, à partir de la notification de la retenue, prend les mesures mentionnées au quatrième alinéa de l'article L.
-716-8. Le délai de dix jours peut être prorogé de dix jours ouvrables maximum sur requête dûment motivée du demandeur. En cas
-de prorogation du délai, le procureur de la République et le détenteur des marchandises en sont informés. 
-
-Si les conditions prévues au I du présent article ne sont pas réunies et si le demandeur n'a pas justifié auprès de
-l'administration des douanes qu'il a pris les mesures mentionnées au quatrième alinéa de l'article L. 716-8, la mesure de
-retenue est levée de plein droit. 
-
-IV.-Dans le cadre de la communication d'informations prévues au troisième alinéa des articles L. 716-8 et L. 716-8-1, les
-autorités douanières informent le demandeur de l'existence de la procédure prévue au présent article. Les informations
-prévues au sixième alinéa de l'article L. 716-8 peuvent également être communiquées au demandeur aux fins de mise en œuvre de
-la présente mesure.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Cité par_:
-
-  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
-  - Arrêté du 31 décembre 2018 (V)
-  - Arrêté du 31 décembre 2018 - art. 2 (V)
-  - Code de la propriété intellectuelle - art. L716-8 (VD)
-
-_Modifié par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8-1
-
-
-###### Article L716-8-5
-
-I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée est
-mise en œuvre après qu'une demande mentionnée à l'article L. 716-8 a été acceptée, les marchandises transportées en petits
-envois soupçonnées de porter atteinte à une marque enregistrée peuvent être détruites sous le contrôle des agents des douanes
-lorsque le demandeur a, dans sa demande, sollicité le recours à la procédure prévue au présent article. 
-
-II.-La notification mentionnée à la première phrase du deuxième alinéa de l'article L. 716-8 est faite dans un délai d'un
-jour ouvrable à compter de la date de la mise en retenue. Elle mentionne l'intention de l'administration des douanes de
-détruire ou non les marchandises et indique que : 
-
-1° Le détenteur des marchandises dispose d'un délai de dix jours ouvrables à compter de la notification de la retenue pour
-faire connaître à l'administration des douanes ses observations ; 
-
-2° Les marchandises concernées peuvent être détruites lorsque, dans un délai de dix jours ouvrables à partir de leur mise en
-retenue, le détenteur des marchandises a confirmé à l'administration des douanes qu'il consent à cette destruction. En cas de
-silence du détenteur des marchandises à l'issue de ce délai, le détenteur est réputé avoir consenti à leur destruction. 
-
-Les autorités douanières communiquent au demandeur, sur requête de celui-ci, les informations relatives à la quantité réelle
-ou estimée des marchandises détruites et à leur nature. 
-
-III.-Lorsque le déclarant ou le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction ou
-lorsqu'il n'est pas réputé avoir consenti à leur destruction, l'administration des douanes en informe immédiatement le
-demandeur et lui communique la quantité, la nature ainsi que des images des marchandises. 
-
-IV.-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter
-de l'information prévue au III du présent article, de justifier auprès de l'administration des douanes qu'il a pris les
-mesures mentionnées au quatrième alinéa de l'article L. 716-8. 
-
-En vue de prendre ces mesures, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de
-l'expéditeur, de l'importateur, du destinataire et du détenteur des marchandises retenues, ainsi que de leur quantité, leur
-origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
-
-V.-La définition des petits envois mentionnés au I du présent article est précisée par arrêté du ministre chargé des
-douanes. 
-
-VI.-Le présent article n'est pas applicable aux denrées périssables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Cité par_:
-
-  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
-
-_Modifié par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8
-
-
-###### Article L716-8-6
-
-Lorsque le demandeur utilise les informations qui lui sont communiquées par l'administration des douanes, par dérogation à
-l'article 59 bis du code des douanes, à d'autres fins que celles prévues au présent chapitre, l'administration des douanes
-abroge, suspend ou refuse de renouveler ladite demande.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Modifié par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code des douanes - art. 59 bis
-
-
-###### Article L716-8-7
-
-En vue de prononcer les mesures prévues aux articles L. 716-8 à L. 716-8-3, les agents des douanes appliquent les pouvoirs
-qui leur sont dévolus par le code des douanes.
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8
-
-
-###### Article L716-8-8
-
-Un décret en Conseil d'Etat fixe : 
-
-1° Les conditions d'application des mesures prévues aux articles L. 716-8 à L. 716-8-6 ; 
-
-2° Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de constituer une contrefaçon d'une
-marque enregistrée, prévue par la réglementation de l'Union européenne, ainsi que les conditions du prélèvement
-d'échantillons préalable à ladite destruction.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8
-
-
-###### Article L716-8-9
-
-Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues aux articles L. 716-9 et L.
-716-10, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels
-spécialement installés en vue de tels agissements.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-9
-
-
-###### Article L716-9
-
-Est puni de quatre ans d'emprisonnement et de 400 000 euros d'amende le fait pour toute personne, en vue de vendre, fournir,
-offrir à la vente ou louer des marchandises présentées sous une marque contrefaite : 
-
-a) D'importer, d'exporter, de réexporter ou de transborder des marchandises présentées sous une marque contrefaisante ; 
-
-b) De produire industriellement des marchandises présentées sous une marque contrefaisante ; 
-
-c) De donner des instructions ou des ordres pour la commission des actes visés aux a et b. 
-
-Lorsque les délits prévus au présent article ont été commis en bande organisée ou sur un réseau de communication au public en
-ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les
-peines sont portées à            sept ans d'emprisonnement et à 750 000 euros d'amende.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°84-610 du 16 juillet 1984 - art. 19 (Ab)
-  - Loi n°89-1008 du 31 décembre 1989 - art. 9 (VT)
-  - Loi n°92-60 du 18 janvier 1992 - art. 10 (MMN)
-  - Loi n°94-102 du 5 février 1994 - art. 19 (V)
-  - Code de la consommation - art. L121-14 (VT)
-  - Code de la consommation - art. L132-25 (VD)
-  - Code de la consommation - art. L213-5 (VT)
-  - Code de la consommation - art. L455-2 (VD)
-  - Code de la consommation - art. L511-13 (V)
-  - Code de la propriété intellectuelle - art. L716-11-1 (VD)
-  - Code de la propriété intellectuelle - art. L716-11-2 (VD)
-  - Code de la propriété intellectuelle - art. L716-12 (VD)
-  - Code de la propriété intellectuelle - art. L716-13 (V)
-  - Code de la propriété intellectuelle - art. L716-14 (M)
-  - Code de la propriété intellectuelle - art. L716-8-1 (M)
-  - Code de la propriété intellectuelle - art. L716-8-6 (V)
-  - Code de la propriété intellectuelle - art. L716-8-9 (VD)
-  - Code de procédure pénale - art. 28-1 (V)
-  - Code de procédure pénale - art. 706-1-2 (VD)
-  - Code des douanes - art. 67 bis (V)
-  - Code du sport. - art. L141-5 (V)
-  - Code du sport. - art. L141-7 (V)
-  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
 
 _Anciens textes_:
 
-  - Loi n°91-7 1991-01-04 art. 38
-  - Loi n°91-7 du 4 janvier 1991 - art. 39 (Ab)
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Modifié par_:
-
-  - Loi n°2016-731 du 3 juin 2016 - art. 44
-
-
-###### Article L716-10
-
-Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait pour toute personne : 
-
-a) De détenir sans motif légitime, d'importer ou d'exporter des marchandises présentées sous une marque contrefaisante ; 
-
-b) D'offrir à la vente ou de vendre des marchandises présentées sous une marque contrefaisante ; 
-
-c) De reproduire, d'imiter, d'utiliser, d'apposer, de supprimer, de modifier une marque, une marque collective ou une marque
-collective de certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de
-celui-ci. L'infraction, prévue dans les conditions prévues au présent c, n'est pas constituée lorsqu'un logiciel d'aide à la
-prescription permet, si le prescripteur le décide, de prescrire en dénomination commune internationale, selon les règles de
-bonne pratique prévues à l'article L. 161-38 du code de la sécurité sociale ; 
-
-d) De sciemment livrer un produit ou fournir un service autre que celui qui lui est demandé sous une marque enregistrée. 
-
-L'infraction, dans les conditions prévues au d, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de
-substitution prévue à l'article L. 5125-23 du code de la santé publique. 
-
-Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication au public en ligne ou
-lorsque les faits portent sur des marchandises dangereuses pour la santé ou la sécurité de l'homme ou l'animal, les peines
-sont portées à            sept ans d'emprisonnement et à 750 000 euros d'amende.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°89-1008 du 31 décembre 1989 - art. 9 (VT)
-  - Code de la consommation - art. L511-13 (V)
-  - Code de la propriété intellectuelle - art. L716-11-1 (M)
-  - Code de la propriété intellectuelle - art. L716-14 (M)
-  - Code de la propriété intellectuelle - art. L716-8-1 (M)
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 38
-
-_Modifié par_:
-
-  - Loi n°2016-731 du 3 juin 2016 - art. 44
-
-_Cite_:
-
-  - Code de la santé publique - art. L5125-23
-  - Code de la sécurité sociale. - art. L161-38
-
-
-###### Article L716-11
-
-Sera puni des mêmes peines quiconque :
-
-a) Aura sciemment fait un usage quelconque d'une marque collective de certification enregistrée dans des conditions autres
-que celles prescrites au règlement accompagnant le dépôt ;
-
-b) Aura sciemment vendu ou mis en vente un produit revêtu d'une marque collective de certification irrégulièrement employée ;
-
-c) Dans un délai de dix ans à compter de la date à laquelle a pris fin la protection d'une marque collective de certification
-ayant fait l'objet d'une utilisation, aura sciemment soit fait un usage d'une marque qui en constitue la reproduction ou
-l'imitation, soit vendu, mis en vente, fourni ou offert de fournir des produits ou des services sous une telle marque.
-
-Les dispositions du présent article sont applicables aux marques syndicales prévues par le chapitre III du titre Ier du livre
-IV du code du travail.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°89-1008 du 31 décembre 1989 - art. 9 (VT)
-  - Code de la consommation - art. L511-13 (V)
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 38
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-**Liens**:
-
-  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
-
-
-###### Article L716-11-1
-
-Outre les sanctions prévues aux articles L. 716-9 et L. 716-10, le tribunal peut ordonner la fermeture totale ou partielle,
-définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction. 
-
-La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à
-l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
-dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4
-et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six
-mois d'emprisonnement et de 3 750 euros d'amende.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-**Liens**:
-
-  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-9
-  - Code du travail - art. L122-14-4
-
-
-###### Article L716-11-2
-
-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
-infractions définies aux articles L. 716-9 à L. 716-11 encourent, outre l'amende suivant les modalités prévues par l'article
-131-38 du code pénal, les peines prévues par l'article 131-39 du même code. 
-
-L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
-l'exercice de laquelle l'infraction a été commise. 
-
-Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
-circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction. 
-
-La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
-des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°94-102 du 5 février 1994 - art. 17 (V)
-
-**Liens**:
-
-  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-9
-  - Code pénal - art. 121-2
-  - Code pénal - art. 131-38
-  - Code pénal - art. 131-39
-
-
-###### Article L716-12
-
-En cas de récidive des infractions définies aux articles L. 716-9 à L. 716-11, ou si le délinquant est ou a été lié par
-convention avec la partie lésée, les peines encourues sont portées au double. 
-
-Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et
-d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie territoriales et les chambres de
-métiers ainsi que pour les conseils de prud'hommes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 38
-
-_Cité par_:
-
-  - Loi n°92-60 du 18 janvier 1992 - art. 10 (MMN)
-  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
-  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
-  - Code de la consommation - art. L121-14 (V)
-  - Code de la consommation - art. L132-25 (VD)
-  - Code de la consommation - art. L216-9 (VT)
-
-**Liens**:
-
-  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle
-  - Code de la propriété intellectuelle - art. L716-9
-
-
-###### Article L716-13
-
-Les personnes physiques coupables de l'un des délits prévus aux articles L. 716-9 et L. 716-10 peuvent être condamnées, à
-leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée
-à commettre l'infraction. 
-
-La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
-des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts. 
-
-Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la
-condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 38
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-**Liens**:
-
-  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-9
-  - Code pénal - art. 131-35
-
-_Cité par_:
-
-  - Code du sport. - art. L141-5 (V)
-  - Code du sport. - art. L141-7 (V)
-
-
-###### Article L716-16
-
-Des décrets en Conseil d'Etat fixent en tant que de besoin les conditions d'application du présent livre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 41
   - Code de la propriété intellectuelle - art. L716-15 (T)
 
-_Codifié par_:
 
-  - Loi n°92-597 du 1 juillet 1992
+#### Titre II : Indications géographiques<a id=169></a>
 
-**Liens**:
+##### Chapitre Ier : Généralités<a id=170></a>
 
-  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
-
-_Abrogé par_:
-
-  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
-
-
-##### Chapitre VII : La marque communautaire<a id=165></a>
-
-###### Article L717-1
-
-Constitue une contrefaçon engageant la responsabilité civile de son auteur la violation des interdictions prévues aux
-articles 9, 10, 11 et 13 du règlement (CE) 40/94 du Conseil du 20 décembre 1993 sur la marque communautaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L717-4 (V)
-  - Code de la propriété intellectuelle - art. L717-5 (V)
-  - Code de la propriété intellectuelle - art. L717-7 (V)
-  - Code de la propriété intellectuelle - art. L811-4 (V)
-
-_Cite_:
-
-  - Règlement CEE 40/94 1993-12-20 Conseil art. 9, art. 10, art. 11, art. 13
-
-
-###### Article L717-2
-
-Les dispositions des articles L. 716-8 à L. 716-15 sont applicables aux atteintes portées au droit du propriétaire d'une
-marque communautaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Modifié par_:
-
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-8 (V)
-
-
-###### Article L717-3
-
-Est irrecevable toute action en contrefaçon, fondée sur une marque communautaire antérieure, contre une marque nationale
-postérieure enregistrée dont l'usage a été toléré pendant cinq ans, à moins que le dépôt de la marque nationale n'ait été
-effectué de mauvaise foi.
-
-L'irrecevabilité est limitée aux seuls produits et services pour lesquels l'usage a été toléré.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Créé par_:
-
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 10
-
-
-###### Article L717-4
-
-Un décret en Conseil d'Etat détermine le siège et le ressort des juridictions de première instance et d'appel qui sont seules
-compétentes pour connaître des actions et des demandes prévues à l'article 92 du règlement communautaire mentionné à
-l'article L. 717-1, y compris lorsque ces actions portent à la fois sur une question de marque et sur une question connexe de
-dessin et modèle ou de concurrence déloyale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-10 (Ab)
-  - Code de la propriété intellectuelle - art. L811-4 (V)
-  - Code de la propriété intellectuelle - art. R717-11 (VT)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L717-1 (V)
-
-
-###### Article L717-5
-
-Une demande de marque communautaire ou une marque communautaire ne peut être transformée en demande de marque nationale que
-dans les cas prévus à l'article 108 du règlement communautaire mentionné à l'article L. 717-1. 
-
-Dans ces cas, la demande de marque nationale doit, sous peine de rejet, satisfaire aux dispositions des articles L. 711-2, L.
-711-3, 
-L. 712-2 et L. 712-4. Les conditions d'application du présent alinéa sont fixées par décret en Conseil d'Etat. 
-
-Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'ancienneté d'une marque enregistrée antérieurement
-en France a été revendiquée au bénéfice de la marque communautaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L711-2 (V)
-  - Code de la propriété intellectuelle - art. L712-2 (V)
-  - Code de la propriété intellectuelle - art. L712-4 (V)
-  - Code de la propriété intellectuelle - art. L717-1 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R717-9 (V)
-
-
-###### Article L717-6
-
-Lorsqu'une marque antérieurement enregistrée en France n'a pas été renouvelée ou a fait l'objet d'une renonciation, le fait
-que l'ancienneté de cette marque a été revendiquée au nom d'une marque communautaire ne fait pas obstacle à ce que la nullité
-de cette marque ou la déchéance des droits de son titulaire soit prononcée.
-
-Une telle déchéance ne peut cependant être prononcée en application du présent article que si celle-ci était encourue à la
-date de la renonciation ou à la date d'expiration de l'enregistrement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
-
-
-###### Article L717-7
-
-La formule exécutoire mentionnée à l'article 82 du règlement communautaire mentionné à l'article L. 717-1 est apposée par
-l'Institut national de la propriété industrielle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L717-1 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L811-4 (V)
-
-
-#### Titre II : Indications géographiques<a id=166></a>
-
-##### Chapitre Ier : Généralités<a id=167></a>
-
-##### Section 1 : Appellations d'origine<a id=168></a>
+##### Section 1 : Appellations d'origine<a id=171></a>
 
 ###### Article L721-1
 
@@ -25388,7 +25425,7 @@ _Anciens textes_:
   - Loi n°1919-05-06 art. A
 
 
-##### Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux<a id=169></a>
+##### Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux<a id=172></a>
 
 ###### Article L721-2
 
@@ -25736,9 +25773,9 @@ _Créé par_:
   - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
 
 
-##### Chapitre II : Contentieux<a id=170></a>
+##### Chapitre II : Contentieux<a id=173></a>
 
-##### Section 1 : Actions civiles<a id=171></a>
+##### Section 1 : Actions civiles<a id=174></a>
 
 ###### Article L722-1
 
@@ -25994,7 +26031,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. D722-6 (VD)
 
 
-##### Section 2 : La retenue<a id=172></a>
+##### Section 2 : La retenue<a id=175></a>
 
 ###### Article L722-9
 
@@ -26331,9 +26368,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L722-9
 
 
-#### Titre III : Indications relatives aux services publics<a id=173></a>
+#### Titre III : Indications relatives aux services publics<a id=176></a>
 
-##### Chapitre unique<a id=174></a>
+##### Chapitre unique<a id=177></a>
 
 ###### Article L731-1
 
@@ -26414,24 +26451,1276 @@ _Cite_:
   - Code de la consommation - art. L141-1
 
 
-## Troisième partie : Dispositions relatives à l'outre-mer<a id=175></a>
+### Livre VII : Marques de produits ou de services et autres signes distinctifs<a id=178></a>
 
-### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte<a id=176></a>
+#### Titre Ier : Marques de produits ou de services<a id=179></a>
 
-#### Titre unique<a id=177></a>
+##### Chapitre Ier : Eléments constitutifs de la marque<a id=180></a>
 
-##### Chapitre unique<a id=178></a>
+##### Chapitre II : Acquisition du droit sur la marque<a id=181></a>
+
+##### Chapitre III : Droits conférés par la marque<a id=182></a>
+
+###### Article L713-1
+
+L'enregistrement de la marque confère à son titulaire un droit de propriété sur cette marque pour les produits ou services
+qu'il a désignés.
+
+Ce droit s'exerce sans préjudice des droits acquis par les tiers avant la date de dépôt ou la date de priorité de cette
+marque.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 14
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+
+###### Article L713-2
+
+Est interdit, sauf autorisation du titulaire de la marque, l'usage dans la vie des affaires pour des produits ou des
+services :
+
+1° D'un signe identique à la marque et utilisé pour des produits ou des services identiques à ceux pour lesquels la marque
+est enregistrée ;
+
+2° D'un signe identique ou similaire à la marque et utilisé pour des produits ou des services identiques ou similaires à ceux
+pour lesquels la marque est enregistrée, s'il existe, dans l'esprit du public, un risque de confusion incluant le risque
+d'association du signe avec la marque.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 15 I
+  - Loi n°91-7 du 4 janvier 1991 - art. 15 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L713-3-1 (VD)
+  - Code de la propriété intellectuelle - art. L713-3-3 (VD)
+  - Code de la propriété intellectuelle - art. L716-1 (VD)
+
+
+###### Article L713-3
+
+Est interdit, sauf autorisation du titulaire de la marque, l'usage dans la vie des affaires, pour des produits ou des
+services, d'un signe identique ou similaire à la marque jouissant d'une renommée et utilisé pour des produits ou des services
+identiques, similaires ou non similaires à ceux pour lesquels la marque est enregistrée, si cet usage du signe, sans juste
+motif, tire indûment profit du caractère distinctif ou de la renommée de la marque, ou leur porte préjudice.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 15 II
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+
+###### Article L713-3-1
+
+Sont notamment interdits, en application des articles L. 713-2 et L. 713-3, les actes ou usages suivants : 
+
+1° L'apposition du signe sur les produits ou sur leur conditionnement ; 
+
+2° L'offre des produits, leur mise sur le marché ou leur détention à ces fins sous le signe, ou l'offre ou la fourniture des
+services sous le signe ; 
+
+3° L'importation ou l'exportation des produits sous le signe ; 
+
+4° L'usage du signe comme nom commercial ou dénomination sociale ou comme partie d'un nom commercial ou d'une dénomination
+sociale ; 
+
+5° L'usage du signe dans les papiers d'affaires et la publicité ; 
+
+6° L'usage du signe dans des publicités comparatives en violation des dispositions des articles L. 122-1 à L. 122-7 du code
+de la consommation ; 
+
+7° La suppression ou la modification d'une marque régulièrement apposée. 
+
+Ces actes et usages sont interdits même s'ils sont accompagnés de mots tels que : " formule, façon, système, imitation,
+genre, méthode ".
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L713-2
+  - Code de la consommation - art. L122-1
+
+
+###### Article L713-3-2
+
+Sous réserve de l'application des dispositions de l'article L. 716-4-4, est également interdite l'introduction sur le
+territoire national, dans la vie des affaires, de produits, sans qu'ils y soient mis en libre pratique, lorsque ces produits,
+conditionnement inclus, proviennent de pays tiers et sont, sans autorisation du titulaire, revêtus d'un signe identique à la
+marque enregistrée pour ces produits ou d'un signe qui ne peut en être distingué dans ses aspects essentiels.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+
+###### Article L713-3-3
+
+Lorsqu'il existe un risque d'atteinte à ses droits, en application des articles L. 713-2 à L. 713-3-1, du fait de l'usage
+dans la vie des affaires pour des produits ou services, de conditionnements, d'étiquettes, de marquages, de dispositifs de
+sécurité ou d'authentification ou de tout autre support sur lequel est apposée la marque, le titulaire d'une marque peut
+interdire : 
+
+1° L'apposition d'un signe identique ou similaire à la marque sur les supports mentionnés au premier alinéa ; 
+
+2° L'offre, la mise sur le marché ou la détention à ces fins, l'importation ou l'exportation des mêmes supports.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L713-2
+
+
+###### Article L713-3-4
+
+Lorsque la reproduction d'une marque dans un dictionnaire, une encyclopédie ou un ouvrage de référence similaire, sous forme
+imprimée ou électronique, donne l'impression qu'elle constitue le terme générique désignant les produits ou les services pour
+lesquels elle est enregistrée et que le titulaire de la marque en fait la demande, l'éditeur indique sans délai et au plus
+tard lors de l'édition suivante si l'ouvrage est imprimé qu'il s'agit d'une marque enregistrée.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+
+###### Article L713-4
+
+Le droit conféré par la marque ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des produits qui ont été
+mis dans le commerce dans l'Union européenne ou dans l'Espace économique européen sous cette marque par le titulaire ou avec
+son consentement.
+
+Toutefois, faculté reste alors ouverte au titulaire de la marque de s'opposer à tout nouvel acte de commercialisation s'il
+justifie de motifs légitimes, tenant notamment à la modification ou à l'altération, ultérieurement intervenue, de l'état des
+produits.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 15 III
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+
+###### Article L713-5
+
+Ne constitue pas une contrefaçon mais engage la responsabilité civile de son auteur l'usage dans la vie des affaires, pour
+des produits ou des services, non autorisé par le titulaire d'une marque notoirement connue au sens de l'article 6 bis de la
+convention de Paris pour la protection de la propriété industrielle :
+
+1° D'un signe identique à la marque et utilisé pour des produits ou des services identiques à ceux pour lesquels la marque
+est notoirement connue ;
+
+2° D'un signe identique ou similaire à la marque et utilisé pour des produits ou des services identiques ou similaires à ceux
+pour lesquels la marque est notoirement connue, s'il existe, dans l'esprit du public, un risque de confusion incluant le
+risque d'association du signe avec la marque ;
+
+3° D'un signe identique ou similaire à la marque et utilisé pour des produits ou des services identiques, similaires ou non
+similaires à ceux pour lesquels la marque est notoirement connue, si cet usage du signe, sans juste motif, tire indûment
+profit du caractère distinctif ou de la notoriété de la marque, ou leur porte préjudice.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 16
+  - Loi n°91-7 du 4 janvier 1991 - art. 16 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+
+###### Article L713-6
+
+I. - Une marque ne permet pas à son titulaire d'interdire à un tiers l'usage, dans la vie des affaires, conformément aux
+usages loyaux du commerce :
+
+1° De son nom de famille ou de son adresse lorsque ce tiers est une personne physique ;
+
+2° De signes ou d'indications qui sont dépourvus de caractère distinctif ou qui se rapportent à l'espèce, à la qualité, à la
+quantité, à la destination, à la valeur, à la provenance géographique, à l'époque de la production du produit ou de la
+prestation du service ou à d'autres caractéristiques de ceux-ci ;
+
+3° De la marque pour désigner ou mentionner des produits ou des services comme étant ceux du titulaire de cette marque, en
+particulier lorsque cet usage est nécessaire pour indiquer la destination d'un produit ou d'un service, notamment en tant
+qu'accessoire ou pièce détachée.
+
+II. - Une marque ne permet pas à son titulaire d'interdire à un tiers l'usage, dans la vie des affaires, d'un nom commercial,
+d'une enseigne ou d'un nom de domaine, de portée locale, lorsque cet usage est antérieur à la date de la demande
+d'enregistrement de la marque et s'exerce dans les limites du territoire où ils sont reconnus.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 17
+  - Loi n°91-7 du 4 janvier 1991 - art. 17 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 5
+
+
+##### Chapitre IV : Transmission et perte du droit sur la marque<a id=183></a>
+
+##### Chapitre V : Marques de garantie et marques collectives<a id=184></a>
+
+##### Section 1 : Marques de garantie<a id=185></a>
+
+##### Section 2 :  Marques collectives<a id=186></a>
+
+##### Chapitre VI : Contentieux<a id=187></a>
+
+##### Chapitre VI bis :  Retenue en douane et actions pénales<a id=188></a>
+
+##### Section 1 : Retenue en douane<a id=189></a>
+
+###### Article L716-8
+
+En dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, sur demande
+écrite du titulaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation, assortie des
+justifications de son droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une
+contrefaçon.
+
+Cette retenue est immédiatement notifiée au demandeur et au détenteur. Le procureur de la République est également informé de
+ladite mesure par l'administration des douanes.
+
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature, la quantité réelle
+ou estimée ainsi que des images des marchandises sont communiquées au titulaire du droit ou au bénéficiaire du droit exclusif
+d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être communiquées
+avant la mise en œuvre de la mesure de retenue prévue par le présent article.
+
+Sous réserve des procédures prévues aux articles L. 716-8-4 et L. 716-8-5, la mesure de retenue est levée de plein droit à
+défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois jours ouvrables s'il s'agit de denrées
+périssables, à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers soit de
+mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la voie
+correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises au
+cas où la contrefaçon ne serait pas ultérieurement reconnue, soit d'avoir déposé une plainte auprès du procureur de la
+République. L'administration des douanes peut proroger le délai de dix jours, prévu au présent alinéa, de dix jours ouvrables
+maximum sur requête dûment motivée du demandeur. En cas de prorogation du délai, le procureur de la République et le
+détenteur des marchandises en sont informés.
+
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
+charge du demandeur, sous réserve des procédures prévues aux articles L. 716-8-4 et L. 716-8-5.
+
+Aux fins de l'engagement des actions en justice visées au quatrième alinéa, le demandeur peut obtenir de l'administration des
+douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de
+leur détenteur, ainsi que des images de ces marchandises et des informations sur leur quantité, leur origine, leur provenance
+et leur destination par dérogation à l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus
+les agents de l'administration des douanes.
+
+La retenue mentionnée au premier alinéa ne porte pas :
+
+- sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de
+l'Union européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des
+douanes, à être mises sur le marché d'un autre Etat membre de l'Union européenne pour y être légalement commercialisées ;
+
+- sur les marchandises de statut communautaire, légalement fabriquées ou légalement mises en libre pratique dans un autre
+Etat membre de l'Union européenne, dans lequel elles ont été placées sous le régime du transit et qui sont destinées, après
+avoir transité sur le territoire douanier tel que défini à l'article 1er du code des douanes, à être exportées vers un Etat
+non membre de l'Union européenne.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 22
+  - Loi n°91-7 du 4 janvier 1991 - art. 22 (Ab)
+
+_Cité par_:
+
+  - Décret n°92-100 du 30 janvier 1992 - art. 47 (Ab)
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Décret n°2015-427 du 15 avril 2015 (V)
+  - Arrêté du 29 juin 2015 (V)
+  - Arrêté du 29 juin 2015 - art. 1 (V)
+  - Code de la propriété intellectuelle - art. L716-8-1 (VD)
+  - Code de la propriété intellectuelle - art. L716-8-3 (VD)
+  - Code de la propriété intellectuelle - art. L716-8-4 (VD)
+  - Code de la propriété intellectuelle - art. L716-8-5 (VD)
+  - Code de la propriété intellectuelle - art. L716-8-7 (VD)
+  - Code de la propriété intellectuelle - art. L716-8-8 (VD)
+  - Code de la propriété intellectuelle - art. L717-2 (VD)
+  - Code de la propriété intellectuelle - art. R716-1 (M)
+  - Code de la propriété intellectuelle - art. R716-10 (Ab)
+  - Code de la propriété intellectuelle - art. R716-6 (VD)
+  - Code de la propriété intellectuelle - art. R716-8 (Ab)
+  - Code de la propriété intellectuelle - art. R716-9 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code des douanes - art. 1
+  - Code des douanes - art. 59 bis
+
+
+###### Article L716-8-1
+
+En l'absence de demande écrite du titulaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation et
+en dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, dans le cadre de
+ses contrôles, retenir une marchandise susceptible de porter atteinte à une marque enregistrée ou à un droit exclusif
+d'exploitation.
+
+Cette retenue est immédiatement notifiée au titulaire de la marque enregistrée ou au bénéficiaire du droit exclusif
+d'exploitation. Le procureur de la République est également informé de ladite mesure.
+
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées au titulaire du droit ou au bénéficiaire du droit
+exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être
+communiquées avant la mise en œuvre de la mesure de retenue prévue au présent article.
+
+La mesure de retenue est levée de plein droit si l'administration des douanes n'a pas reçu du titulaire de la marque
+enregistrée ou du bénéficiaire du droit exclusif d'exploitation la demande prévue à l'article L. 716-8 du présent code,
+déposée dans un délai de quatre jours ouvrables à compter de la notification de la retenue mentionnée à la première phrase du
+deuxième alinéa du présent article.
+
+Si la demande a été reçue conformément au quatrième alinéa du présent article, le délai de dix jours ouvrables mentionné au
+quatrième alinéa de l'article L. 716-8 commence à courir à compter de l'acceptation de cette demande par l'administration des
+douanes.
+
+Le présent article n'est pas applicable aux marchandises périssables.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Code de la propriété intellectuelle - art. L716-8-4 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8
+  - Code des douanes - art. 59 bis
+
+
+###### Article L716-8-2
+
+I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée, prévue
+par la réglementation communautaire en vigueur, est mise en oeuvre avant qu'une demande d'intervention du titulaire de la
+marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation ait été déposée ou acceptée, les agents des douanes
+peuvent, par dérogation à l'article 59 bis du code des douanes, informer ce titulaire ou ce bénéficiaire du droit exclusif
+d'exploitation de la mise en oeuvre de cette mesure. Ils peuvent également lui communiquer des informations portant sur la
+quantité des marchandises et leur nature.
+
+Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon de marque, prévue par la
+réglementation communautaire en vigueur, est mise en oeuvre après qu'une demande d'intervention du titulaire de la marque
+enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation a été acceptée, les agents des douanes peuvent également
+communiquer à ce titulaire ou à ce bénéficiaire les informations prévues par cette réglementation communautaire nécessaires
+pour déterminer s'il y a eu violation de son droit.
+
+II.-Les frais générés par la mise en oeuvre d'une retenue prévue par la réglementation communautaire en vigueur sont à la
+charge du titulaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L716-8-3 (VD)
+  - Code de la propriété intellectuelle - art. R716-10 (Ab)
+  - Code de la propriété intellectuelle - art. R716-7 (Ab)
+  - Code de la propriété intellectuelle - art. R716-9 (Ab)
+
+_Cite_:
+
+  - Code des douanes - art. 59 bis
+
+
+###### Article L716-8-3
+
+Pendant le délai de la retenue visée à l'article L. 716-8 et au second alinéa du I de l'article L. 716-8-2, le titulaire de
+la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de
+l'administration des douanes, inspecter les marchandises retenues.
+
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons. A la demande
+du titulaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation, ces échantillons peuvent lui être
+remis aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou
+pénale.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Code de la propriété intellectuelle - art. R716-11 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8
+  - Code de la propriété intellectuelle - art. L716-8-2 (VD)
+
+
+###### Article L716-8-4
+
+I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée est
+mise en œuvre après qu'une demande mentionnée à l'article L. 716-8 a été acceptée, les marchandises soupçonnées de porter
+atteinte à la marque enregistrée peuvent être détruites sous le contrôle des agents des douanes dès lors que les conditions
+suivantes sont remplies : 
+
+1° Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours
+ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère
+contrefaisant des marchandises ; 
+
+2° Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours
+ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa
+responsabilité, des marchandises ; 
+
+3° Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de
+trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction
+des marchandises. 
+
+II.-Si le détenteur des marchandises n'a, dans le délai mentionné au 3° du I, ni confirmé qu'il consent à la destruction des
+marchandises, ni informé l'administration des douanes qu'il s'oppose à leur destruction, il est réputé avoir consenti à cette
+destruction. 
+
+III.-Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction et qu'il n'est pas
+réputé avoir consenti à la destruction des marchandises dans les délais prévus, l'administration des douanes en informe
+immédiatement le demandeur lequel, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à partir de la notification de la retenue, prend les mesures mentionnées au quatrième alinéa de l'article L.
+716-8. Le délai de dix jours peut être prorogé de dix jours ouvrables maximum sur requête dûment motivée du demandeur. En cas
+de prorogation du délai, le procureur de la République et le détenteur des marchandises en sont informés. 
+
+Si les conditions prévues au I du présent article ne sont pas réunies et si le demandeur n'a pas justifié auprès de
+l'administration des douanes qu'il a pris les mesures mentionnées au quatrième alinéa de l'article L. 716-8, la mesure de
+retenue est levée de plein droit. 
+
+IV.-Dans le cadre de la communication d'informations prévues au troisième alinéa des articles L. 716-8 et L. 716-8-1, les
+autorités douanières informent le demandeur de l'existence de la procédure prévue au présent article. Les informations
+prévues au sixième alinéa de l'article L. 716-8 peuvent également être communiquées au demandeur aux fins de mise en œuvre de
+la présente mesure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+  - Arrêté du 31 décembre 2018 (V)
+  - Arrêté du 31 décembre 2018 - art. 2 (V)
+  - Code de la propriété intellectuelle - art. L716-8 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8-1 (VD)
+
+
+###### Article L716-8-5
+
+I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée est
+mise en œuvre après qu'une demande mentionnée à l'article L. 716-8 a été acceptée, les marchandises transportées en petits
+envois soupçonnées de porter atteinte à une marque enregistrée peuvent être détruites sous le contrôle des agents des douanes
+lorsque le demandeur a, dans sa demande, sollicité le recours à la procédure prévue au présent article. 
+
+II.-La notification mentionnée à la première phrase du deuxième alinéa de l'article L. 716-8 est faite dans un délai d'un
+jour ouvrable à compter de la date de la mise en retenue. Elle mentionne l'intention de l'administration des douanes de
+détruire ou non les marchandises et indique que : 
+
+1° Le détenteur des marchandises dispose d'un délai de dix jours ouvrables à compter de la notification de la retenue pour
+faire connaître à l'administration des douanes ses observations ; 
+
+2° Les marchandises concernées peuvent être détruites lorsque, dans un délai de dix jours ouvrables à partir de leur mise en
+retenue, le détenteur des marchandises a confirmé à l'administration des douanes qu'il consent à cette destruction. En cas de
+silence du détenteur des marchandises à l'issue de ce délai, le détenteur est réputé avoir consenti à leur destruction. 
+
+Les autorités douanières communiquent au demandeur, sur requête de celui-ci, les informations relatives à la quantité réelle
+ou estimée des marchandises détruites et à leur nature. 
+
+III.-Lorsque le déclarant ou le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction ou
+lorsqu'il n'est pas réputé avoir consenti à leur destruction, l'administration des douanes en informe immédiatement le
+demandeur et lui communique la quantité, la nature ainsi que des images des marchandises. 
+
+IV.-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter
+de l'information prévue au III du présent article, de justifier auprès de l'administration des douanes qu'il a pris les
+mesures mentionnées au quatrième alinéa de l'article L. 716-8. 
+
+En vue de prendre ces mesures, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de
+l'expéditeur, de l'importateur, du destinataire et du détenteur des marchandises retenues, ainsi que de leur quantité, leur
+origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
+
+V.-La définition des petits envois mentionnés au I du présent article est précisée par arrêté du ministre chargé des
+douanes. 
+
+VI.-Le présent article n'est pas applicable aux denrées périssables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8
+
+
+###### Article L716-8-6
+
+Lorsque le demandeur utilise les informations qui lui sont communiquées par l'administration des douanes, par dérogation à
+l'article 59 bis du code des douanes, à d'autres fins que celles prévues au présent chapitre, l'administration des douanes
+abroge, suspend ou refuse de renouveler ladite demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code des douanes - art. 59 bis
+
+
+###### Article L716-8-7
+
+En vue de prononcer les mesures prévues aux articles L. 716-8 à L. 716-8-3, les agents des douanes appliquent les pouvoirs
+qui leur sont dévolus par le code des douanes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8
+
+
+###### Article L716-8-8
+
+Un décret en Conseil d'Etat fixe : 
+
+1° Les conditions d'application des mesures prévues aux articles L. 716-8 à L. 716-8-6 ; 
+
+2° Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de constituer une contrefaçon d'une
+marque enregistrée, prévue par la réglementation de l'Union européenne, ainsi que les conditions du prélèvement
+d'échantillons préalable à ladite destruction.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8 (VD)
+
+
+##### Section 2 : Actions pénales<a id=190></a>
+
+###### Article L716-8-9
+
+Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues aux articles L. 716-9 et L.
+716-10, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels
+spécialement installés en vue de tels agissements.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-9
+
+
+###### Article L716-9
+
+Est puni de quatre ans d'emprisonnement et de 400 000 euros d'amende le fait pour toute personne, en vue de vendre, fournir,
+offrir à la vente ou louer des marchandises présentées sous une marque contrefaisante :
+
+a) D'importer, d'exporter, de réexporter ou de transborder des marchandises présentées sous une marque contrefaisante ;
+
+b) De produire industriellement des marchandises présentées sous une marque contrefaisante ;
+
+c) De donner des instructions ou des ordres pour la commission des actes visés aux a et b.
+
+Lorsque les délits prévus au présent article ont été commis en bande organisée ou sur un réseau de communication au public en
+ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les
+peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°84-610 du 16 juillet 1984 - art. 19 (Ab)
+  - Loi n°89-1008 du 31 décembre 1989 - art. 9 (VT)
+  - Loi n°92-60 du 18 janvier 1992 - art. 10 (MMN)
+  - Loi n°94-102 du 5 février 1994 - art. 19 (V)
+  - Code de la consommation - art. L121-14 (VT)
+  - Code de la consommation - art. L132-25 (VD)
+  - Code de la consommation - art. L213-5 (VT)
+  - Code de la consommation - art. L455-2 (VD)
+  - Code de la consommation - art. L511-13 (V)
+  - Code de la propriété intellectuelle - art. L716-11-1 (VD)
+  - Code de la propriété intellectuelle - art. L716-11-2 (VD)
+  - Code de la propriété intellectuelle - art. L716-12 (VD)
+  - Code de la propriété intellectuelle - art. L716-13 (VD)
+  - Code de la propriété intellectuelle - art. L716-14 (M)
+  - Code de la propriété intellectuelle - art. L716-8-1 (M)
+  - Code de la propriété intellectuelle - art. L716-8-6 (V)
+  - Code de la propriété intellectuelle - art. L716-8-9 (VD)
+  - Code de procédure pénale - art. 28-1 (V)
+  - Code de procédure pénale - art. 706-1-2 (VD)
+  - Code des douanes - art. 67 bis (V)
+  - Code du sport. - art. L141-5 (V)
+  - Code du sport. - art. L141-7 (V)
+  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 38
+  - Loi n°91-7 du 4 janvier 1991 - art. 39 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+
+###### Article L716-10
+
+Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait pour toute personne :
+
+a) De détenir sans motif légitime, d'importer ou d'exporter des marchandises présentées sous une marque contrefaisante ;
+
+b) D'offrir à la vente ou de vendre des marchandises présentées sous une marque contrefaisante ;
+
+c) De reproduire, d'imiter, d'utiliser, d'apposer, de supprimer, de modifier une marque, une marque collective ou une marque
+de garantie en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci.
+L'infraction, prévue dans les conditions prévues au présent c, n'est pas constituée lorsqu'un logiciel d'aide à la
+prescription permet, si le prescripteur le décide, de prescrire en dénomination commune internationale, selon les règles de
+bonne pratique prévues à l'article L. 161-38 du code de la sécurité sociale ;
+
+d) De sciemment livrer un produit ou fournir un service autre que celui qui lui est demandé sous une marque enregistrée.
+
+L'infraction, dans les conditions prévues au d, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de
+substitution prévue à l'article L. 5125-23 du code de la santé publique.
+
+Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication au public en ligne ou
+lorsque les faits portent sur des marchandises dangereuses pour la santé ou la sécurité de l'homme ou l'animal, les peines
+sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°89-1008 du 31 décembre 1989 - art. 9 (VT)
+  - Code de la consommation - art. L511-13 (V)
+  - Code de la propriété intellectuelle - art. L716-11-1 (M)
+  - Code de la propriété intellectuelle - art. L716-14 (M)
+  - Code de la propriété intellectuelle - art. L716-8-1 (M)
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 38
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la santé publique - art. L5125-23
+  - Code de la sécurité sociale. - art. L161-38
+
+
+###### Article L716-11
+
+Sera puni des mêmes peines quiconque :
+
+a) Aura sciemment fait un usage quelconque d'une marque collective ou d'une marque de garantie enregistrée dans des
+conditions autres que celles prescrites au règlement accompagnant le dépôt ;
+
+b) Aura sciemment vendu ou mis en vente un produit revêtu d'une marque collective ou d'une marque de garantie irrégulièrement
+employée.
+
+Les dispositions du présent article sont applicables aux marques syndicales prévues par le chapitre IV du titre III du livre
+Ier de la deuxième partie du code du travail.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°89-1008 du 31 décembre 1989 - art. 9 (VT)
+  - Code de la consommation - art. L511-13 (V)
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 38
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+
+###### Article L716-11-1
+
+Outre les sanctions prévues aux articles L. 716-9 et L. 716-10, le tribunal peut ordonner la fermeture totale ou partielle,
+définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction. 
+
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à
+l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
+dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 1235-2 à
+L. 1235-5 et L. 1235-11 à L. 1235-13 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces
+indemnités est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-9
+  - Code du travail - art. L1235-11
+  - Code du travail - art. L1235-2
+
+
+###### Article L716-11-2
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 716-9 à L. 716-11 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par l'article 131-39 du même code. 
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise. 
+
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction. 
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°94-102 du 5 février 1994 - art. 17 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-9
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+
+
+###### Article L716-12
+
+En cas de récidive des infractions définies aux articles L. 716-9 à L. 716-11, ou si le délinquant est ou a été lié par
+convention avec la partie lésée, les peines encourues sont portées au double. 
+
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et
+d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie territoriales et les chambres de
+métiers ainsi que pour les conseils de prud'hommes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 38
+
+_Cité par_:
+
+  - Loi n°92-60 du 18 janvier 1992 - art. 10 (MMN)
+  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+  - Code de la consommation - art. L121-14 (V)
+  - Code de la consommation - art. L132-25 (VD)
+  - Code de la consommation - art. L216-9 (VT)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle
+  - Code de la propriété intellectuelle - art. L716-9
+
+
+###### Article L716-13
+
+Les personnes physiques coupables de l'un des délits prévus aux articles L. 716-9 et L. 716-10 peuvent être condamnées, à
+leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée
+à commettre l'infraction. 
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
+des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts. 
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la
+condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 38
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-9 (VD)
+  - Code pénal - art. 131-35
+
+_Cité par_:
+
+  - Code du sport. - art. L141-5 (V)
+  - Code du sport. - art. L141-7 (V)
+
+
+##### Chapitre VII : Marque de l'Union européenne<a id=191></a>
+
+###### Article L717-1
+
+Constitue une contrefaçon engageant la responsabilité civile de son auteur la violation des interdictions prévues aux
+articles 9, 10, 13 et 15 du règlement (UE) 2017/1001 du 14 juin 2017 sur la marque de l'Union européenne.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 10
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L717-4 (VD)
+  - Code de la propriété intellectuelle - art. L717-5 (V)
+  - Code de la propriété intellectuelle - art. L717-7 (V)
+  - Code de la propriété intellectuelle - art. L811-4 (V)
+
+_Cite_:
+
+  - Règlement CEE 40/94 1993-12-20 Conseil art. 9, art. 10, art. 11, art. 13
+
+
+###### Article L717-2
+
+Les dispositions des articles L. 716-4-10, L. 716-4-11 et L. 716-8 à L. 716-13 sont applicables aux atteintes portées au
+droit du titulaire d'une marque de l'Union européenne.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 10
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-4-10
+  - Code de la propriété intellectuelle - art. L716-8
+
+
+###### Article L717-4
+
+Un décret en Conseil d'Etat détermine le siège et le ressort des juridictions de première instance et d'appel qui sont seules
+compétentes pour connaître des actions et des demandes prévues à l'article 124 du règlement (UE) 2017/1001 du 14 juin 2017, y
+compris lorsque ces actions portent à la fois sur une question de marque et sur une question connexe de dessin et modèle ou
+de concurrence déloyale.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 10
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-10 (Ab)
+  - Code de la propriété intellectuelle - art. L811-4 (V)
+  - Code de la propriété intellectuelle - art. R717-11 (VT)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L717-1 (VD)
+
+
+###### Article L717-5
+
+Une demande de marque de l'Union européenne ou une marque de l'Union européenne ne peut être transformée en demande de marque
+nationale que dans les cas prévus à l'article 139 du règlement (UE) 2017/1001 du 14 juin 2017. 
+
+Dans ces cas, la demande de marque nationale doit, sous peine de rejet, satisfaire aux dispositions des articles L. 711-2, L.
+712-2 et L. 712-4 ainsi que, le cas échéant, des articles L. 715-1 à L. 715-4 ou des articles L. 715-6 à L. 715-9. Les
+conditions d'application du présent alinéa sont fixées par décret en Conseil d'Etat. 
+
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'ancienneté d'une marque enregistrée antérieurement
+en France a été revendiquée au bénéfice de la marque de l'Union européenne.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 10
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L711-2
+  - Code de la propriété intellectuelle - art. L712-2
+  - Code de la propriété intellectuelle - art. L715-1
+  - Code de la propriété intellectuelle - art. L715-6
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R717-9 (V)
+
+
+###### Article L717-6
+
+Constitue une antériorité opposable au titre du I de l'article L. 711-3 une marque de l'Union européenne qui revendique
+valablement l'ancienneté d'une marque enregistrée en France ou d'un enregistrement international désignant la France,
+conformément aux articles 39 et 40 du règlement (UE) 2017/1001 du 14 juin 2017. 
+
+Lorsqu'une marque antérieurement enregistrée en France n'a pas été renouvelée ou a fait l'objet d'une renonciation, le fait
+que l'ancienneté de cette marque a été revendiquée au nom d'une marque de l'Union européenne ne fait pas obstacle à ce que la
+nullité de cette marque ou la déchéance des droits de son titulaire soit prononcée. 
+
+Une telle déchéance ne peut cependant être prononcée en application du présent article que si celle-ci était encourue à la
+date de la renonciation ou à la date d'expiration de l'enregistrement.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 10
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L711-3 (VD)
+
+
+###### Article L717-7
+
+La formule exécutoire mentionnée à l'article 110 du règlement (UE) 2017/1001 du 14 juin 2017 est annexée par l'Institut
+national de la propriété industrielle à toute décision définitive de l'Office de l'Union européenne pour la propriété
+intellectuelle qui fixe le montant des frais.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 10
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L811-4 (V)
+
+
+#### Titre II : Indications géographiques<a id=192></a>
+
+#### Titre III : Indications relatives aux services publics<a id=193></a>
+
+## Troisième partie : Dispositions relatives à l'outre-mer<a id=194></a>
+
+### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte<a id=195></a>
+
+#### Titre unique<a id=196></a>
+
+##### Chapitre unique<a id=197></a>
 
 ###### Article L811-1
 
-Les dispositions du présent code sont applicables dans les îles Wallis et Futuna et en Nouvelle-Calédonie à l'exception du
-quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, 
+Les dispositions du présent code sont applicables en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L.
+335-4 et des articles L. 133-1 à L. 133-4, 
 L. 421-1 à 
 L. 423-2. 
-
-Les articles L. 515-2, L. 521-3, L. 521-3-2, L. 611-2, L. 612-12, L. 612-14, L. 612-15, L. 615-8, L. 615-8-1, L. 622-7, L.
-623-29, L. 623-29-1, L. 714-3-1 et L. 716-5 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant de
-la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises. 
 
 Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L.
 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
@@ -26442,6 +27731,10 @@ Conformément aux dispositions du second alinéa du III de l'article 124 de la l
 alinéa de l'article L. 811-1 dans sa rédaction résultant du 10° du I du même article est abrogé le jour de l'entrée en
 vigueur de l'ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à la juridiction unifiée du
 brevet.
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -26464,35 +27757,20 @@ _Anciens textes_:
   - Loi n°91-7 1991-01-04 art. 43
   - Loi n°91-7 du 4 janvier 1991 - art. 43 (Ab)
 
-_Cite_:
-
-  - Loi n°2019-486 du 22 mai 2019 (V)
-  - Code de la propriété intellectuelle - art. L133-1
-  - Code de la propriété intellectuelle - art. L335-4
-  - Code de la propriété intellectuelle - art. L421-1
-  - Code de la propriété intellectuelle - art. L423-2
-  - Code de la propriété intellectuelle - art. L515-2 (V)
-  - Code de la propriété intellectuelle - art. L521-3 (V)
-  - Code de la propriété intellectuelle - art. L521-3-2 (V)
-  - Code de la propriété intellectuelle - art. L611-2 (VT)
-  - Code de la propriété intellectuelle - art. L612-12 (VT)
-  - Code de la propriété intellectuelle - art. L612-14 (VT)
-  - Code de la propriété intellectuelle - art. L612-15 (VT)
-  - Code de la propriété intellectuelle - art. L615-8 (VT)
-  - Code de la propriété intellectuelle - art. L615-8-1 (V)
-  - Code de la propriété intellectuelle - art. L622-7 (V)
-  - Code de la propriété intellectuelle - art. L623-29 (V)
-  - Code de la propriété intellectuelle - art. L623-29-1 (V)
-  - Code de la propriété intellectuelle - art. L714-3-1 (V)
-  - Code de la propriété intellectuelle - art. L716-5 (V)
-
 _Cité par_:
 
   - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 11
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L133-1
+  - Code de la propriété intellectuelle - art. L335-4
+  - Code de la propriété intellectuelle - art. L421-1
+  - Code de la propriété intellectuelle - art. L423-2
 
 _Nouveaux textes_:
 
@@ -26504,13 +27782,74 @@ _Nouveaux textes_:
 Sous réserve des adaptations prévues dans le présent chapitre, les dispositions suivantes du présent code sont applicables
 dans les îles Wallis et Futuna :
 
-1° Les livres Ier à V à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à
-L. 423-2 ;
+1° Les dispositions des livres Ier à III à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 et
+L. 133-4 ;
+
+2° Les dispositions du livre IV mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans
+la colonne de droite du même tableau :
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th align="center">
+
+DISPOSITIONS APPLICABLES</th>
+      <th align="center">
+
+DANS LEUR RÉDACTION RÉSULTANT DE</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article L. 411-1</td>
+      <td align="justify">
+
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles L. 411-2 et L. 411-3</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles L. 411-4 et L. 411-5</td>
+      <td align="justify">
+
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article L. 412-1</td>
+      <td align="justify">
+
+Loi n° 2011-1843 du 8 décembre 2011
+</td>
+    </tr>
+  </tbody>
+</table>
+
+3° Les dispositions du livre V ;
 
 Les articles L. 515-2, L. 521-3 et L. 521-3-2 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai
-2019 relative à la croissance et la transformation des entreprises ;
+2019 relative à la croissance et la transformation des entreprises.
 
-2° Les dispositions du livre VI dans les conditions suivantes :
+4° Les dispositions du livre VI ;
+
+Les articles L. 611-2, L. 612-12, L. 612-14, L. 612-15, L. 615-8, L. 615-8-1, L. 622-7, L. 623-29 et L. 623-29-1 sont
+applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation
+des entreprises.
+
+L'article L. 623-15 est applicable dans sa rédaction résultant de l'ordonnance n° 2019-1169 du 13 novembre 2019 relative aux
+marques de produits ou de services.
+
+5° Les dispositions du livre VII dans les conditions suivantes :
 
 a) Les dispositions du titre Ier mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans
 la colonne de droite du même tableau :
@@ -26518,772 +27857,266 @@ la colonne de droite du même tableau :
 <table border="1">
   <tbody>
     <tr>
-      <th>
+      <th align="center">
 
 DISPOSITIONS APPLICABLES</th>
-      <th>
+      <th align="center">
 
 DANS LEUR RÉDACTION RÉSULTANT DE</th>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="left">
 
-Chapitre Ier : Champ d'application</td>
+Articles L. 711-1 à L. 711-3</td>
+      <td align="left">
+
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 611-1 </td>
-      <td align="justify">
-
-Loi n° 2008-518 du 3 juin 2008
-</td>
-    </tr>
-    <tr>
-      <td align="justify">Article L. 611-2</td>
-      <td align="justify">Loi n° 2019-486 du 22 mai 2019</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 611-3 à L. 611-6 </td>
-      <td align="justify">
+Article L. 712-1</td>
+      <td align="left">
 
 Loi n° 92-597 du 1er juillet 1992</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 611-7 </td>
-      <td align="justify">
+Article L. 712-2</td>
+      <td align="left">
 
-Loi n° 94-102 du 5 février 1994</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 611-8 </td>
-      <td align="justify">
+Article L. 712-2-1</td>
+      <td align="left">
+
+Loi n° 2014-344 du 17 mars 2014
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles L. 712-3 à L. 712-5-1</td>
+      <td align="left">
+
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article L. 712-6</td>
+      <td align="left">
 
 Loi n° 2014-315 du 11 mars 2014</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 611-9 </td>
-      <td align="justify">
+Articles L. 712-6-1 et L. 712-7</td>
+      <td align="left">
+
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article L. 712-8</td>
+      <td align="left">
 
 Loi n° 92-597 du 1er juillet 1992</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 611-10 </td>
-      <td align="justify">
+Article L. 712-9</td>
+      <td align="left">
 
-Loi n° 2004-1338 du 8 décembre 2004
-</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 611-11 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 611-12 </td>
-      <td align="justify">
-
-Loi n° 96-1106 du 18 décembre 1996</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 611-13 à L. 611-16 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 611-17 et L. 611-18 </td>
-      <td align="justify">
-
-Loi n° 2004-800 du 6 août 2004
-</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 611-19 </td>
-      <td align="justify">
-
-Loi n° 2004-1338 du 8 décembre 2004</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Chapitre II : Dépôt et instruction des demandes</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-1 </td>
-      <td align="justify">
-
-Loi n° 94-102 du 5 février 1994</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-2 </td>
-      <td align="justify">
+Article L. 712-10</td>
+      <td align="left">
 
 Ordonnance n° 2008-1301 du 11 décembre 2008</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 612-3 et L. 612-4 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-5 </td>
-      <td align="justify">
-
-Loi n° 2004-1338 du 8 décembre 2004</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-6 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-7 </td>
-      <td align="justify">
-
-Ordonnance n° 2008-1301 du 11 décembre 2008</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 612-8 à L. 612-11 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-12 </td>
-      <td align="justify">
-
-Loi n° 2004-1338 du 8 décembre 2004</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-13 </td>
-      <td align="justify">
-
-Loi n° 94-102 du 5 février 1994</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-14 </td>
-      <td align="justify">
-
-Loi n° 2019-486 du 22 mai 2019</td>
-    </tr>
-    <tr>
-      <td align="justify">Article L. 612-15</td>
-      <td align="justify">Loi n° 2019-486 du 22 mai 2019</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 612-16 à L. 612-17 </td>
-      <td align="justify">
-
-Ordonnance n° 2008-1301 du 11 décembre 2008</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-18 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-19 </td>
-      <td align="justify">
-
-Ordonnance n° 2008-1301 du 11 décembre 2008</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 612-20 à L. 612-22 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-22-1 </td>
-      <td align="justify">
-
-Ordonnance n° 2018-341 du 9 mai 2018</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 612-23 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border="1">
-  <tbody>
-    <tr>
-      <td align="center" colspan="2">
-
-Chapitre III : Droits attachés aux brevets</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 613-1 et L. 613-2 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 613-2-1 </td>
-      <td align="justify">
-
-Loi n° 2004-800 du 6 août 2004</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 613-2-2 à L. 613-2-4 </td>
-      <td align="justify">
-
-Loi n° 2004-1338 du 8 décembre 2004</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 613-3 </td>
-      <td align="justify">
-
-Ordonnance n° 2018-341 du 9 mai 2018</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 613-4 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 613-5 </td>
-      <td align="justify">
-
-Loi n° 2008-518 du 3 juin 2008</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 613-5-1 à L. 613-5-3 </td>
-      <td align="justify">
-
-Loi n° 2004-1338 du 8 décembre 2004</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 613-6 </td>
-      <td align="justify">
-
-Ordonnance n° 2018-341 du 9 mai 2018</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 613-7 </td>
-      <td align="justify">
-
-Loi n° 96-1106 du 18 décembre 1996</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 613-8 à L. 613-10 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 613-11 et L. 613-13 </td>
-      <td align="justify">
-
-Loi n° 96-1106 du 18 décembre 1996</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 613-14 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 613-15 à L. 613-16 </td>
-      <td align="justify">
-
-Loi n° 2004-1338 du 8 décembre 2004</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 613-17 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 613-18 </td>
-      <td align="justify">
+Articles L. 712-11 et L. 712-12</td>
+      <td align="left">
 
 Loi n° 96-1106 du 18 décembre 1996
 </td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 613-19 </td>
-      <td align="justify">
+Articles L. 712-13 et L. 712-14</td>
+      <td align="left">
 
-Loi n° 92-597 du 1er juillet 1992</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 613-19-1 </td>
-      <td align="justify">
+Articles L. 713-1 à L. 713-3-1</td>
+      <td align="left">
 
-Loi n° 96-1106 du 18 décembre 1996</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Articles L. 613-20 et L. 613-21 </td>
-      <td align="justify">
+Articles L. 713-3-3 à L. 713-6</td>
+      <td align="left">
 
-Loi n° 92-597 du 1er juillet 1992
-</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 613-22 </td>
-      <td align="justify">
+Articles L. 714-1 à L. 714-7</td>
+      <td align="left">
+
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article L. 714-8</td>
+      <td align="left">
 
 Ordonnance n° 2008-1301 du 11 décembre 2008
 </td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 613-24 </td>
-      <td align="justify">
+Articles L. 715-1 à L. 715-10</td>
+      <td align="left">
 
-Loi n° 92-597 du 1er juillet 1992</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 613-25 </td>
-      <td align="justify">
+Articles L. 716-1 à L. 716-4-3</td>
+      <td align="left">
 
-Loi n° 2007-1544 du 29 octobre 2007
-</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 613-26 </td>
-      <td align="justify">
+Articles L. 716-4-5 à L. 716-6</td>
+      <td align="left">
 
-Loi n° 92-597 du 1er juillet 1992</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Article L. 613-27 </td>
-      <td align="justify">
+Articles L. 716-8 à L. 716-8-3</td>
+      <td align="left">
 
-Loi n° 94-102 du 5 février 1994</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Articles L. 613-28 à L. 613-32 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Chapitre IV : Application de conventions internationales</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 614-1 </td>
-      <td align="justify">
-
-Ordonnance n° 2018-341 du 9 mai 2018</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 614-2 à L. 614-6 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 614-7 </td>
-      <td align="justify">
-
-Loi n° 2007-1544 du 29 octobre 2007</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 614-8 et L. 614-9 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 614-10 </td>
-      <td align="justify">
-
-Loi n° 2007-1544 du 29 octobre 2007</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 614-11 et L. 614-12 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 614-13 à L. 614-16-4 </td>
-      <td align="justify">
-
-Ordonnance n° 2018-341 du 9 mai 2018</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 614-17 à L. 614-20 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 614-21 </td>
-      <td align="justify">
-
-Loi n° 94-102 du 5 février 1994
-</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 614-22 à L. 614-24 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 614-25 </td>
-      <td align="justify">
-
-Ordonnance n° 2018-341 du 9 mai 2018</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Chapitre IV bis : La retenue</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 614-32 à L. 614-39 </td>
-      <td align="justify">
-
-Loi n° 2014-315 du 11 mars 2014</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Chapitre V : Actions en justice</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 615-1 et L. 615-2 </td>
-      <td align="justify">
-
-Ordonnance n° 2018-341 du 9 mai 2018</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-3 </td>
-      <td align="justify">
-
-Loi n° 2014-315 du 11 mars 2014</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-4 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-5 </td>
-      <td align="justify">
-
-Loi n° 2014-315 du 11 mars 2014</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-5-1 </td>
-      <td align="justify">
-
-Loi n° 96-1106 du 18 décembre 1996</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 615-5-1-1 et L. 615-5-2 </td>
-      <td align="justify">
-
-Loi n° 2014-315 du 11 mars 2014</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-6 </td>
-      <td align="justify">
-
-Loi n° 92-597 du 1er juillet 1992</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-7 </td>
-      <td align="justify">
-
-Loi n° 2014-315 du 11 mars 2014</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-7-1 </td>
-      <td align="justify">
-
-Loi n° 2007-1544 du 29 octobre 2007</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 615-8 et L. 615-8-1</td>
-      <td align="justify">
-
-Loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-10 </td>
-      <td align="justify">
-
-Loi n° 2007-1544 du 29 octobre 2007</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-12 </td>
-      <td align="justify">
-
-Loi n° 2009-526 du 12 mai 2009</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-13 </td>
-      <td align="justify">
-
-Ordonnance n° 2000-916 du 19 septembre 2000</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-14 </td>
-      <td align="justify">
-
-Loi n° 2016-731 du 3 juin 2016
-</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-14-1 </td>
-      <td align="justify">
-
-Loi n° 2010-853 du 23 juillet 2010
-</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-14-2 </td>
-      <td align="justify">
-
-Loi n° 2007-1544 du 29 octobre 2007</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-14-3 </td>
-      <td align="justify">
-
-Loi n° 2009-526 du 12 mai 2009
-</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Articles L. 615-15 et L. 615-16 </td>
-      <td align="justify">
-
-Ordonnance n° 2000-916 du 19 septembre 2000
-</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-17 </td>
-      <td align="justify">
-
-Loi n° 2014-315 du 11 mars 2014</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-18 </td>
-      <td align="justify">
-
-Ordonnance n° 2018-341 du 9 mai 2018
-</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-Article L. 615-20 </td>
-      <td align="justify">
+Articles L. 716-8-4 à L. 716-8-9</td>
+      <td align="left">
 
 Loi n° 2014-315 du 11 mars 2014
 </td>
     </tr>
     <tr>
-      <td align="justify">
+      <td align="left">
 
-Articles L. 615-21 et L. 615-22</td>
-      <td align="justify">
+Articles L. 716-9 à L. 716-11-1</td>
+      <td align="left">
 
-Loi n° 92-597 du 1er juillet 1992</td>
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article L. 716-11-2</td>
+      <td align="left">
+
+Loi n° 2009-526 du 12 mai 2009
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article L. 716-12</td>
+      <td align="left">
+
+Loi n° 94-102 du 5 février 1994
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Article L. 716-13</td>
+      <td align="left">
+
+Loi n° 2007-1544 du 29 octobre 2007
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Articles L. 717-1 à L. 717-7</td>
+      <td align="left">
+
+Ordonnance n° 2019-1169 du 13 novembre 2019</td>
     </tr>
   </tbody>
 </table>
 
-b) Le titre II ;
+Les règles applicables en métropole en vertu du règlement (UE) 2017/1001 du 14 juin 2017 sont applicables dans les îles
+Wallis et Futuna à l'exception du paragraphe 4 de l'article 9 et de l'article15 de ce règlement.
 
-Les articles L. 622-7, L. 623-29 et L. 623-29-1 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22
-mai 2019 relative à la croissance et la transformation des entreprises ;
+Pour leur application dans les îles Wallis et Futuna, les articles L. 713-4 et L. 717-1 sont ainsi rédigés :
 
-3° Le livre VII.
+Art. L. 713-4.-Le droit conféré par la marque ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des produits
+qui ont été mis dans le commerce dans l'Union européenne, dans l'Espace économique européen ou dans les îles Wallis, sous
+cette marque par le titulaire ou avec son consentement.
 
-Les articles L. 714-3-1 et L. 716-5 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019
-relative à la croissance et la transformation des entreprises.
+Toutefois, faculté reste alors ouverte au titulaire de la marque de s'opposer à tout nouvel acte de commercialisation s'il
+justifie de motifs légitimes, tenant notamment à la modification ou à l'altération, ultérieurement intervenue, de l'état des
+produits.
+
+Art. L. 717-1.-I.-Constitue une contrefaçon engageant la responsabilité civile de son auteur la violation des interdictions
+prévues aux articles 9, à l'exception de son quatrième paragraphe, 10 et 13 du règlement mentionné au I.
+
+II.-Une marque de l'Union européenne ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des produits qui ont
+été mis sur le marché dans l'Espace économique européen ou dans les îles Wallis et Futuna, sous cette marque par le titulaire
+ou avec son consentement, sauf lorsque des motifs légitimes justifient que le titulaire s'oppose à la commercialisation
+ultérieure des produits, notamment lorsque l'état des produits est modifié ou altéré après leur mise dans le commerce.
+
+III.-Constitue une contrefaçon engageant la responsabilité civile de son auteur la violation des interdictions prévues au I
+et II. 
+
+b) Les dispositions du titre II.
 
 **Nota:**
 
-Ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à la juridiction unifiée du brevet,
-article 23 I : l’ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une
-juridiction unifiée du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé
-la ratification (entrée en vigueur : date indéterminée).
+Conformément au II de l'article 11 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 811-1-1, dans sa rédaction
+résultant du I de l'article 11, est abrogé à la date de l'entrée en vigueur de l'ordonnance n° 2018-341 du 9 mai 2018
+relative au brevet européen à effet unitaire et à la juridiction unifiée du brevet.
 
-Conformément au III de l’article 124 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur le jour de
-l'entrée en vigueur de l'ordonnance n° 2018-341 du 9 mai 2018.
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -27292,18 +28125,18 @@ _Cite_:
   - Loi n°92-597 du 1 juillet 1992 (V)
   - Loi n°94-102 du 5 février 1994 (V)
   - Loi n°96-1106 du 18 décembre 1996 (V)
-  - Ordonnance n°2000-916 du 19 septembre 2000 (V)
-  - Loi n°2004-800 du 6 août 2004 (V)
-  - Loi n°2004-1338 du 8 décembre 2004 (V)
   - Loi n°2007-1544 du 29 octobre 2007 (V)
-  - Loi n°2008-518 du 3 juin 2008 (V)
   - Ordonnance n°2008-1301 du 11 décembre 2008 (V)
   - Loi n°2009-526 du 12 mai 2009 (V)
-  - Loi n°2010-853 du 23 juillet 2010 (V)
+  - Loi n°2011-1843  du 8 décembre 2011 (V)
   - Loi n°2014-315  du 11 mars 2014 (V)
-  - Loi n°2016-731 du 3 juin 2016 (V)
-  - Ordonnance n°2018-341 du 9 mai 2018 (VD)
+  - Loi n°2014-344  du 17 mars 2014 (V)
   - Loi n°2019-486 du 22 mai 2019 (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 11
 
 
 ###### Article L811-2
@@ -27409,10 +28242,37 @@ _Cite_:
   - Code pénal - art. 131-26 (V)
 
 
+###### Article L811-3-1
+
+Pour son application à Saint-Barthélemy, à Saint-Pierre-et-Miquelon et dans les Terres australes et antarctiques françaises,
+l'article L. 713-4 est ainsi rédigé :
+
+Art. L. 713-4.-Le droit conféré par la marque ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des produits
+qui ont été mis dans le commerce dans l'Union européenne, dans l'Espace économique européen, à Saint-Barthélemy, à Saint-
+Pierre-et-Miquelon ou dans les Terres australes et antarctiques françaises, sous cette marque par le titulaire ou avec son
+consentement.
+
+Toutefois, faculté reste alors ouverte au titulaire de la marque de s'opposer à tout nouvel acte de commercialisation s'il
+justifie de motifs légitimes, tenant notamment à la modification ou à l'altération, ultérieurement intervenue, de l'état des
+produits.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 11
+
+
 ###### Article L811-4
 
-I. - Pour leur application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-
-Calédonie et à Mayotte, les articles L. 717-1, L. 717-4 et l'article L. 717-7 du présent code sont ainsi rédigés :
+I. - Pour leur application en Nouvelle-Calédonie, les articles L. 717-1, L. 717-4 et l'article L. 717-7 du présent code sont
+ainsi rédigés :
 
 "Art. L. 717-1. :
 
@@ -27460,10 +28320,9 @@ peut statuer au fond tant que l'enregistrement n'a pas été publié.
 
 V. - Le droit conféré par la marque communautaire ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des
 produits qui ont été mis dans le commerce sous cette marque par le titulaire ou avec son consentement, dans la Communauté
-européenne, dans l'Espace économique européen, en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres
-australes et antarctiques françaises, en Nouvelle-Calédonie ou à Mayotte. Il en est autrement lorsque des motifs légitimes
-justifient que le titulaire s'oppose à la commercialisation ultérieure des produits, notamment lorsque l'état de ceux-ci est
-modifié ou altéré après leur mise dans le commerce."
+européenne, dans l'Espace économique européen, en Polynésie française ou en Nouvelle-Calédonie. Il en est autrement lorsque
+des motifs légitimes justifient que le titulaire s'oppose à la commercialisation ultérieure des produits, notamment lorsque
+l'état de ceux-ci est modifié ou altéré après leur mise dans le commerce."
 
 "Art. L. 717-4. :
 
@@ -27489,8 +28348,8 @@ de l'authenticité du titre.
 La partie intéressée peut ensuite poursuivre l'exécution forcée qui est alors régie par les règles de procédure civile en
 vigueur au lieu de l'exécution."
 
-II. - Pour l'application de l'article L. 717-5 dans les mêmes territoires, le premier alinéa de cet article est remplacé par
-les dispositions suivantes :
+II. - Pour l'application de l'article L. 717-5 dans le même territoire, le premier alinéa de cet article est remplacé par les
+dispositions suivantes :
 
 "Art. L. 717-5. :
 
@@ -27515,20 +28374,79 @@ III. - La demande de marque nationale issue de la transformation d'une demande o
 date de dépôt ou de la date de priorité de cette demande ou de cette marque et, le cas échéant, de l'ancienneté d'une marque
 nationale antérieurement enregistrée et valablement revendiquée."
 
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 11
 
 
-# Partie réglementaire<a id=179></a>
+###### Article L811-5
 
-## Livre Ier : Le droit d'auteur<a id=180></a>
+Les règles applicables en métropole en vertu du règlement (UE) 2017/1001 du 14 juin 2017 sont applicables à Saint-Barthélemy,
+à Saint-Pierre-et-Miquelon et dans les Terres australes et antarctiques françaises, à l'exception du paragraphe 4 de
+l'article 9 et de l'article15 de ce règlement.
 
-### Titre Ier : Objet du droit d'auteur<a id=181></a>
+**Nota:**
 
-#### Chapitre Ier : Nature du droit d'auteur<a id=182></a>
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 11
+
+
+###### Article L811-6
+
+Pour son application à Saint-Barthélemy, à Saint-Pierre-et-Miquelon et dans les Terres australes et antarctiques françaises,
+l'article L. 717-1 est ainsi rédigé :
+
+Art. L. 717-1.-I.-Constitue une contrefaçon engageant la responsabilité civile de son auteur la violation des interdictions
+prévues aux articles 9, à l'exception de son quatrième paragraphe, 10 et 13 du règlement mentionné à l'article L. 811-5.
+
+II.-Une marque de l'Union européenne ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des produits qui ont
+été mis sur le marché dans l'Espace économique européen, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon ou dans les Terres
+australes et antarctiques françaises, sous cette marque par le titulaire ou avec son consentement, sauf lorsque des motifs
+légitimes justifient que le titulaire s'oppose à la commercialisation ultérieure des produits, notamment lorsque l'état des
+produits est modifié ou altéré après leur mise dans le commerce.
+
+III.-Constitue une contrefaçon engageant la responsabilité civile de son auteur la violation des interdictions prévues au I
+et II.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 11
+
+
+### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon<a id=198></a>
+
+#### Titre unique<a id=199></a>
+
+# Partie réglementaire<a id=200></a>
+
+## Livre Ier : Le droit d'auteur<a id=201></a>
+
+### Titre Ier : Objet du droit d'auteur<a id=202></a>
+
+#### Chapitre Ier : Nature du droit d'auteur<a id=203></a>
 
 ###### Article R111-1
 
@@ -27593,11 +28511,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-### Titre II : Droits des auteurs<a id=183></a>
+### Titre II : Droits des auteurs<a id=204></a>
 
-#### Chapitre II : Droits patrimoniaux<a id=184></a>
+#### Chapitre II : Droits patrimoniaux<a id=205></a>
 
-##### Section 1 : Dispositions générales<a id=185></a>
+##### Section 1 : Dispositions générales<a id=206></a>
 
 ###### Article R122-1
 
@@ -27633,7 +28551,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R122-6 (M)
 
 
-##### Section 2 : Droit de suite<a id=186></a>
+##### Section 2 : Droit de suite<a id=207></a>
 
 ###### Article R122-2
 
@@ -28040,9 +28958,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-9
 
 
-##### Section 3 : Exception en faveur de personnes atteintes d'un handicap<a id=187></a>
+##### Section 3 : Exception en faveur de personnes atteintes d'un handicap<a id=208></a>
 
-##### Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative<a id=188></a>
+##### Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative<a id=209></a>
 
 ###### Article R122-13
 
@@ -28166,7 +29084,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R122-18 (M)
 
 
-##### Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception<a id=189></a>
+##### Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception<a id=210></a>
 
 ###### Article R122-16
 
@@ -28274,7 +29192,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L122-5-1
 
 
-##### Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France<a id=190></a>
+##### Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France<a id=211></a>
 
 ###### Article R122-19
 
@@ -28356,11 +29274,11 @@ _Cite_:
   - Code de l'éducation - art. D314-128
 
 
-### Titre III : Exploitation des droits<a id=191></a>
+### Titre III : Exploitation des droits<a id=212></a>
 
-#### Chapitre II : Dispositions particulières à certains contrats<a id=192></a>
+#### Chapitre II : Dispositions particulières à certains contrats<a id=213></a>
 
-##### Section 5 : Nantissement du droit d'exploitation des logiciels<a id=193></a>
+##### Section 5 : Nantissement du droit d'exploitation des logiciels<a id=214></a>
 
 ###### Article R132-8
 
@@ -28713,7 +29631,7 @@ _Créé par_:
   - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
 
 
-##### Section 6 : Droit d'exploitation des œuvres des journalistes<a id=194></a>
+##### Section 6 : Droit d'exploitation des œuvres des journalistes<a id=215></a>
 
 ###### Article R132-18
 
@@ -28868,7 +29786,7 @@ _Créé par_:
   - Décret n°2010-994 du 26 août 2010 - art. 1
 
 
-##### Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige<a id=195></a>
+##### Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige<a id=216></a>
 
 ###### Article D132-28
 
@@ -28914,7 +29832,7 @@ _Créé par_:
   - Décret n°2017-927 du 9 mai 2017 - art. 1
 
 
-#### Chapitre III : Rémunération au titre du prêt en bibliothèque<a id=196></a>
+#### Chapitre III : Rémunération au titre du prêt en bibliothèque<a id=217></a>
 
 ###### Article R133-1
 
@@ -29009,9 +29927,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle<a id=197></a>
+#### Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle<a id=218></a>
 
-##### Section 1 : Registre des livres indisponibles du xxe siècle<a id=198></a>
+##### Section 1 : Registre des livres indisponibles du xxe siècle<a id=219></a>
 
 ###### Article Annexe à l'article R134-1
 
@@ -29148,7 +30066,7 @@ _Créé par_:
   - Décret n°2013-182 du 27 février 2013 - art. 1
 
 
-##### Section 2 : Procédure<a id=199></a>
+##### Section 2 : Procédure<a id=220></a>
 
 ###### Article R134-11
 
@@ -29174,7 +30092,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R134-1
 
 
-#### Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines<a id=200></a>
+#### Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines<a id=221></a>
 
 ###### Article R135-1
 
@@ -29325,11 +30243,11 @@ _Créé par_:
   - Décret n°2015-506 du 6 mai 2015 - art. 1
 
 
-## Livre II : Les droits voisins du droit d'auteur<a id=201></a>
+## Livre II : Les droits voisins du droit d'auteur<a id=222></a>
 
-### Titre unique<a id=202></a>
+### Titre unique<a id=223></a>
 
-#### Chapitre Ier : Dispositions générales<a id=203></a>
+#### Chapitre Ier : Dispositions générales<a id=224></a>
 
 ###### Article R211-1
 
@@ -29350,7 +30268,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-17
 
 
-#### Chapitre II : Droits des artistes-interprètes<a id=204></a>
+#### Chapitre II : Droits des artistes-interprètes<a id=225></a>
 
 ###### Article R212-1
 
@@ -29554,9 +30472,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L212-3-1
 
 
-#### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=205></a>
+#### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=226></a>
 
-##### Section 1 : Commission prévue à l'article L. 214-4<a id=206></a>
+##### Section 1 : Commission prévue à l'article L. 214-4<a id=227></a>
 
 ###### Article R214-1
 
@@ -29715,7 +30633,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
-##### Section 2 : Médiateur de la musique<a id=207></a>
+##### Section 2 : Médiateur de la musique<a id=228></a>
 
 ###### Article R214-8
 
@@ -29962,13 +30880,13 @@ _Créé par_:
   - Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
-## Livre III : Dispositions générales<a id=208></a>
+## Livre III : Dispositions générales<a id=229></a>
 
-### Titre Ier : Rémunération pour copie privée<a id=209></a>
+### Titre Ier : Rémunération pour copie privée<a id=230></a>
 
-#### Chapitre unique<a id=210></a>
+#### Chapitre unique<a id=231></a>
 
-##### Section 1 : Commission prévue à l'article L. 311-5<a id=211></a>
+##### Section 1 : Commission prévue à l'article L. 311-5<a id=232></a>
 
 ###### Article D311-8
 
@@ -30160,7 +31078,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 
-##### Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée<a id=212></a>
+##### Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée<a id=233></a>
 
 ###### Article R311-9
 
@@ -30260,11 +31178,11 @@ _Cite_:
   - Code de la consommation - art. R141-4
 
 
-### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme<a id=213></a>
+### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme<a id=234></a>
 
-#### Chapitre Ier : Dispositions générales<a id=214></a>
+#### Chapitre Ier : Dispositions générales<a id=235></a>
 
-##### Section 1 : Organismes de gestion collective<a id=215></a>
+##### Section 1 : Organismes de gestion collective<a id=236></a>
 
 ###### Article R321-1
 
@@ -30295,7 +31213,7 @@ _Modifié par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Section 2 :  Organismes de gestion indépendants<a id=216></a>
+##### Section 2 :  Organismes de gestion indépendants<a id=237></a>
 
 ###### Article R321-2
 
@@ -30333,9 +31251,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R321-6-4 (Ab)
 
 
-#### Chapitre Ier ter : Organisations des organismes de gestion collective<a id=217></a>
+#### Chapitre Ier ter : Organisations des organismes de gestion collective<a id=238></a>
 
-##### Section 2 :  Décisions collectives des membres<a id=218></a>
+##### Section 2 :  Décisions collectives des membres<a id=239></a>
 
 ###### Article R321-3
 
@@ -30407,9 +31325,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre Ier quater : Gestion des droits<a id=219></a>
+#### Chapitre Ier quater : Gestion des droits<a id=240></a>
 
-##### Section 2 :  Gestion des revenus issus de l'exploitation des droits<a id=220></a>
+##### Section 2 :  Gestion des revenus issus de l'exploitation des droits<a id=241></a>
 
 ###### Article R321-5
 
@@ -30509,7 +31427,7 @@ _Modifié par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales<a id=221></a>
+#### Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales<a id=242></a>
 
 ###### Article R321-8
 
@@ -30748,9 +31666,9 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre Ier sexies : Transparence et procédures de contrôle<a id=222></a>
+#### Chapitre Ier sexies : Transparence et procédures de contrôle<a id=243></a>
 
-##### Section 1 : Transparence et obligations d'information<a id=223></a>
+##### Section 1 : Transparence et obligations d'information<a id=244></a>
 
 ###### Article R321-14
 
@@ -31053,7 +31971,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R321-18 (V)
 
 
-##### Section 3 :  Contrôle par le ministère chargé de la culture<a id=224></a>
+##### Section 3 :  Contrôle par le ministère chargé de la culture<a id=245></a>
 
 ###### Article R321-22
 
@@ -31103,9 +32021,9 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins<a id=225></a>
+#### Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins<a id=246></a>
 
-##### Section 2 :  Règles de fonctionnement<a id=226></a>
+##### Section 2 :  Règles de fonctionnement<a id=247></a>
 
 ###### Article R321-24
 
@@ -31148,9 +32066,9 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Section 3 :  Procédure<a id=227></a>
+##### Section 3 :  Procédure<a id=248></a>
 
-##### Sous-section 1 : Règles générales de procédure<a id=228></a>
+##### Sous-section 1 : Règles générales de procédure<a id=249></a>
 
 ###### Article R321-26
 
@@ -31213,7 +32131,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 2 :  Procédure de contrôle des comptes et de la gestion<a id=229></a>
+##### Sous-section 2 :  Procédure de contrôle des comptes et de la gestion<a id=250></a>
 
 ###### Article R321-28
 
@@ -31271,7 +32189,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 3 :  Procédure de sanction<a id=230></a>
+##### Sous-section 3 :  Procédure de sanction<a id=251></a>
 
 ###### Article R321-31
 
@@ -31368,7 +32286,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R321-32 (V)
 
 
-##### Sous-section 4 :  Procédure de médiation<a id=231></a>
+##### Sous-section 4 :  Procédure de médiation<a id=252></a>
 
 ###### Article R321-35
 
@@ -31548,7 +32466,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Section 4 :  Voies de recours<a id=232></a>
+##### Section 4 :  Voies de recours<a id=253></a>
 
 ###### Article R321-46
 
@@ -31617,7 +32535,7 @@ _Cite_:
   - Code de procédure civile - art. 692-1 (V)
 
 
-#### Chapitre Ier octies : Dispositions diverses<a id=233></a>
+#### Chapitre Ier octies : Dispositions diverses<a id=254></a>
 
 ###### Article R321-48
 
@@ -31631,7 +32549,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie<a id=234></a>
+#### Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie<a id=255></a>
 
 ###### Article R322-1
 
@@ -31756,7 +32674,7 @@ _Modifié par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 4
 
 
-#### Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=235></a>
+#### Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=256></a>
 
 ###### Article R323-1
 
@@ -31898,7 +32816,7 @@ _Codifié par_:
   - Décret n°95-406 1955-04-14
 
 
-#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=236></a>
+#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=257></a>
 
 ###### Article R324-1
 
@@ -32213,7 +33131,7 @@ _Créé par_:
   - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
 
 
-#### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=237></a>
+#### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=258></a>
 
 ###### Article R325-1
 
@@ -32389,7 +33307,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R326-7 (T)
 
 
-#### Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle<a id=238></a>
+#### Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle<a id=259></a>
 
 ###### Article R326-1
 
@@ -32622,7 +33540,7 @@ _Codifié par_:
   - Décret n°95-406 1955-04-14
 
 
-#### Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes<a id=239></a>
+#### Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes<a id=260></a>
 
 ###### Article R327-1
 
@@ -32768,7 +33686,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R328-6 (T)
 
 
-#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence<a id=240></a>
+#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence<a id=261></a>
 
 ###### Article R329-1
 
@@ -32887,7 +33805,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R329-1 (V)
 
 
-#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée<a id=241></a>
+#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée<a id=262></a>
 
 ###### Article R329-7
 
@@ -33001,11 +33919,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R329-7
 
 
-### Titre III : Procédures et sanctions<a id=242></a>
+### Titre III : Procédures et sanctions<a id=263></a>
 
-#### Chapitre Ier : Dispositions générales<a id=243></a>
+#### Chapitre Ier : Dispositions générales<a id=264></a>
 
-##### Section 1 : Dispositions communes<a id=244></a>
+##### Section 1 : Dispositions communes<a id=265></a>
 
 ###### Article D331-1-1
 
@@ -33090,11 +34008,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-2
 
 
-##### Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=245></a>
+##### Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=266></a>
 
-##### Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=246></a>
+##### Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=267></a>
 
-##### Paragraphe 1 : Le collège de la Haute Autorité<a id=247></a>
+##### Paragraphe 1 : Le collège de la Haute Autorité<a id=268></a>
 
 ###### Article D331-5
 
@@ -33236,7 +34154,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-36 (V)
 
 
-##### Paragraphe 2 : La commission de protection des droits<a id=248></a>
+##### Paragraphe 2 : La commission de protection des droits<a id=269></a>
 
 ###### Article D331-8
 
@@ -33282,7 +34200,7 @@ _Modifié par_:
   - Décret n°2009-1773 du 29 décembre 2009 - art. 2
 
 
-##### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité<a id=249></a>
+##### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité<a id=270></a>
 
 ###### Article D331-13
 
@@ -33419,7 +34337,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-19 (V)
 
 
-##### Paragraphe 4 : Dispositions relatives au personnel<a id=250></a>
+##### Paragraphe 4 : Dispositions relatives au personnel<a id=271></a>
 
 ###### Article R331-15
 
@@ -33546,7 +34464,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-28 (V)
 
 
-##### Paragraphe 5 : Dispositions financières et comptables<a id=251></a>
+##### Paragraphe 5 : Dispositions financières et comptables<a id=272></a>
 
 ###### Article D331-28
 
@@ -33958,7 +34876,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-63 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=252></a>
+##### Paragraphe 6 : Dispositions diverses<a id=273></a>
 
 ###### Article D331-33
 
@@ -34009,7 +34927,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-18 (V)
 
 
-##### Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=253></a>
+##### Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=274></a>
 
 ###### Article R331-35
 
@@ -34352,7 +35270,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-42 (V)
 
 
-##### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=254></a>
+##### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=275></a>
 
 ###### Article D331-54-1
 
@@ -34554,7 +35472,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-47 (V)
 
 
-##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés<a id=255></a>
+##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés<a id=276></a>
 
 ###### Article R331-55
 
@@ -34579,7 +35497,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-34 (V)
 
 
-##### Paragraphe 1 : Règles générales de procédure<a id=256></a>
+##### Paragraphe 1 : Règles générales de procédure<a id=277></a>
 
 ###### Article R331-56
 
@@ -34848,7 +35766,7 @@ _Créé par_:
   - Décret n°2010-1366 du 10 novembre 2010 - art. 2
 
 
-##### Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=257></a>
+##### Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=278></a>
 
 ###### Article R331-65
 
@@ -35110,7 +36028,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-70 (V)
 
 
-##### Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées<a id=258></a>
+##### Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées<a id=279></a>
 
 ###### Article R331-72
 
@@ -35175,7 +36093,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-75 (V)
 
 
-##### Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins<a id=259></a>
+##### Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins<a id=280></a>
 
 ###### Article R331-74
 
@@ -35192,7 +36110,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-36 (V)
 
 
-##### Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité<a id=260></a>
+##### Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité<a id=281></a>
 
 ###### Article R331-75
 
@@ -35429,7 +36347,7 @@ _Créé par_:
   - Décret n°2010-1366 du 10 novembre 2010 - art. 2
 
 
-##### Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne<a id=261></a>
+##### Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne<a id=282></a>
 
 ###### Article R331-85
 
@@ -35648,7 +36566,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-26
 
 
-#### Chapitre II : Saisie-contrefaçon<a id=262></a>
+#### Chapitre II : Saisie-contrefaçon<a id=283></a>
 
 ###### Article R332-2
 
@@ -35702,7 +36620,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L332-4
 
 
-#### Chapitre V : Dispositions pénales<a id=263></a>
+#### Chapitre V : Dispositions pénales<a id=284></a>
 
 ###### Article R335-2
 
@@ -35827,7 +36745,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-25
 
 
-#### Chapitre V bis : La retenue<a id=264></a>
+#### Chapitre V bis : La retenue<a id=285></a>
 
 ###### Article R335-6
 
@@ -36144,7 +37062,7 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 1
 
 
-### Titre IV : Droits des producteurs de bases de données<a id=265></a>
+### Titre IV : Droits des producteurs de bases de données<a id=286></a>
 
 ###### Article R341-1
 
@@ -36162,7 +37080,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-13
 
 
-### Chapitre III : Procédures et sanctions<a id=266></a>
+### Chapitre III : Procédures et sanctions<a id=287></a>
 
 ###### Article R343-1
 
@@ -36181,13 +37099,13 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L343-2
 
 
-## Livre IV : Organisation administrative et professionnelle<a id=267></a>
+## Livre IV : Organisation administrative et professionnelle<a id=288></a>
 
-### Titre Ier : Institutions<a id=268></a>
+### Titre Ier : Institutions<a id=289></a>
 
-#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=269></a>
+#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=290></a>
 
-##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=270></a>
+##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=291></a>
 
 ###### Article D411-1-3
 
@@ -36746,7 +37664,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=271></a>
+##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=292></a>
 
 ###### Article R411-17
 
@@ -36929,9 +37847,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle<a id=272></a>
-
-##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle<a id=273></a>
+##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle<a id=293></a>
 
 ###### Article D411-19-1
 
@@ -37179,9 +38095,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : L'instance nationale des obtentions végétales<a id=274></a>
+#### Chapitre II : L'instance nationale des obtentions végétales<a id=294></a>
 
-##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=275></a>
+##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=295></a>
 
 ###### Article D412-7
 
@@ -37319,7 +38235,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R412-13 (T)
 
 
-##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=276></a>
+##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=296></a>
 
 ###### Article R412-15
 
@@ -37453,9 +38369,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Qualification en propriété industrielle<a id=277></a>
+### Titre II : Qualification en propriété industrielle<a id=297></a>
 
-#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=278></a>
+#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=298></a>
 
 ###### Article R421-1
 
@@ -38081,9 +38997,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=279></a>
+#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=299></a>
 
-##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=280></a>
+##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=300></a>
 
 ###### Article R422-1
 
@@ -38387,7 +39303,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L423-2
 
 
-##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=281></a>
+##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=301></a>
 
 ###### Article R422-7-1
 
@@ -38455,7 +39371,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=282></a>
+##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=302></a>
 
 ###### Article R422-8
 
@@ -38560,9 +39476,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Exercice sous forme de société<a id=283></a>
+##### Section 3 : Exercice sous forme de société<a id=303></a>
 
-##### Sous-section 1 : Sociétés civiles professionnelles<a id=284></a>
+##### Sous-section 1 : Sociétés civiles professionnelles<a id=304></a>
 
 ###### Article R422-12
 
@@ -39463,7 +40379,7 @@ _Créé par_:
   - Décret n°2017-795 du 5 mai 2017 - art. 2
 
 
-##### Sous-section 2 : Sociétés d'exercice libéral<a id=285></a>
+##### Sous-section 2 : Sociétés d'exercice libéral<a id=305></a>
 
 ###### Article R422-41
 
@@ -39651,7 +40567,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Sociétés en participation<a id=286></a>
+##### Sous-section 3 : Sociétés en participation<a id=306></a>
 
 ###### Article R422-50
 
@@ -39700,7 +40616,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=287></a>
+##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=307></a>
 
 ###### Article R422-51-1
 
@@ -39986,7 +40902,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
 
 
-##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice<a id=288></a>
+##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice<a id=308></a>
 
 ###### Article R422-51-15
 
@@ -40078,7 +40994,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L422-8
 
 
-##### Section 4 : Obligations professionnelles<a id=289></a>
+##### Section 4 : Obligations professionnelles<a id=309></a>
 
 ###### Article R422-52
 
@@ -40271,7 +41187,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L422-10-1
 
 
-##### Section 4 bis : Contrôle de l'exercice de la profession<a id=290></a>
+##### Section 4 bis : Contrôle de l'exercice de la profession<a id=310></a>
 
 ###### Article R422-55-2
 
@@ -40351,7 +41267,7 @@ _Créé par_:
   - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
 
 
-##### Section 5 : Régime disciplinaire<a id=291></a>
+##### Section 5 : Régime disciplinaire<a id=311></a>
 
 ###### Article R422-56
 
@@ -40698,7 +41614,7 @@ _Créé par_:
   - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-#### Chapitre III : Dispositions diverses<a id=292></a>
+#### Chapitre III : Dispositions diverses<a id=312></a>
 
 ###### Article R423-1
 
@@ -40778,13 +41694,13 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre V : Les dessins et modèles<a id=293></a>
+## Livre V : Les dessins et modèles<a id=313></a>
 
-### Titre Ier : Acquisition des droits<a id=294></a>
+### Titre Ier : Acquisition des droits<a id=314></a>
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=295></a>
+#### Chapitre Ier : Droits et oeuvres protégés<a id=315></a>
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=296></a>
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=316></a>
 
 ###### Article R511-1
 
@@ -40947,7 +41863,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=297></a>
+#### Chapitre II : Formalités de dépôt<a id=317></a>
 
 ###### Article R*512-9-3
 
@@ -41843,7 +42759,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=298></a>
+#### Chapitre III : Durée de la protection<a id=318></a>
 
 ###### Article R*513-1-2
 
@@ -42020,9 +42936,9 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 28 () JORF 3 mars 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=299></a>
+#### Chapitre IV : Dispositions communes<a id=319></a>
 
-##### Section 1 : Procédure<a id=300></a>
+##### Section 1 : Procédure<a id=320></a>
 
 ###### Article R514-1
 
@@ -42198,7 +43114,7 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-##### Section 2 : Dispositions transitoires<a id=301></a>
+##### Section 2 : Dispositions transitoires<a id=321></a>
 
 ###### Article R514-6
 
@@ -42244,11 +43160,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=302></a>
+### Titre II : Contentieux<a id=322></a>
 
-#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=303></a>
+#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=323></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=304></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=324></a>
 
 ###### Article R521-1
 
@@ -42271,7 +43187,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-6
 
 
-##### Section 2 : Mesures probatoires<a id=305></a>
+##### Section 2 : Mesures probatoires<a id=325></a>
 
 ###### Article R521-2
 
@@ -42341,7 +43257,7 @@ _Modifié par_:
   - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
-##### Section 3 : Dispositions communes<a id=306></a>
+##### Section 3 : Dispositions communes<a id=326></a>
 
 ###### Article D521-6
 
@@ -42361,7 +43277,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1 (VD)
 
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=307></a>
+#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=327></a>
 
 ###### Article R522-1
 
@@ -42385,7 +43301,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-2 (V)
 
 
-#### Chapitre III : Retenue en douane<a id=308></a>
+#### Chapitre III : Retenue en douane<a id=328></a>
 
 ###### Article R523-1
 
@@ -42413,15 +43329,15 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-14
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=309></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=329></a>
 
-### Titre Ier : Brevets d'invention<a id=310></a>
+### Titre Ier : Brevets d'invention<a id=330></a>
 
-#### Chapitre Ier : Champ d'application<a id=311></a>
+#### Chapitre Ier : Champ d'application<a id=331></a>
 
-##### Section 2 : Droit au titre<a id=312></a>
+##### Section 2 : Droit au titre<a id=332></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=313></a>
+##### Sous-section 1 : Inventions de salariés<a id=333></a>
 
 ###### Article R611-1
 
@@ -42731,7 +43647,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=314></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=334></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -43282,7 +44198,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R611-12 (V)
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=315></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=335></a>
 
 ###### Article R611-15
 
@@ -43456,9 +44372,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=316></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=336></a>
 
-##### Section 1 : Dépôt des demandes<a id=317></a>
+##### Section 1 : Dépôt des demandes<a id=337></a>
 
 ###### Article R612-1
 
@@ -44325,9 +45241,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=318></a>
+##### Section 2 : L'instruction des demandes<a id=338></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=319></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=339></a>
 
 ###### Article R612-26
 
@@ -44569,7 +45485,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=320></a>
+##### Sous-section 2 : Division de la demande<a id=340></a>
 
 ###### Article R612-33
 
@@ -44682,7 +45598,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=321></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=341></a>
 
 ###### Article R612-36
 
@@ -45029,7 +45945,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=322></a>
+##### Sous-section 4 : Rejet de la demande<a id=342></a>
 
 ###### Article R612-45
 
@@ -45299,7 +46215,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=323></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=343></a>
 
 ###### Article R612-55
 
@@ -45714,7 +46630,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=324></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=344></a>
 
 ###### Article R*612-73-2
 
@@ -45897,7 +46813,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 8
 
 
-##### Section 3 : Diffusion légale des inventions<a id=325></a>
+##### Section 3 : Diffusion légale des inventions<a id=345></a>
 
 ###### Article R612-74
 
@@ -45951,11 +46867,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=326></a>
+#### Chapitre III : Droits attachés aux brevets<a id=346></a>
 
-##### Section 1 : Droits d'exploitation<a id=327></a>
+##### Section 1 : Droits d'exploitation<a id=347></a>
 
-##### Sous-section 1 : Licences obligatoires<a id=328></a>
+##### Sous-section 1 : Licences obligatoires<a id=348></a>
 
 ###### Article R613-4
 
@@ -46106,7 +47022,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=329></a>
+##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=349></a>
 
 ###### Article R613-10
 
@@ -46568,7 +47484,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=330></a>
+##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=350></a>
 
 ###### Article R613-25-1
 
@@ -46648,7 +47564,7 @@ _Modifié par_:
   - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=331></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=351></a>
 
 ###### Article R613-26
 
@@ -46877,7 +47793,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=332></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=352></a>
 
 ###### Article R613-34
 
@@ -47151,7 +48067,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=333></a>
+##### Sous-section 6 : Dispositions diverses<a id=353></a>
 
 ###### Article R613-43
 
@@ -47213,7 +48129,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=334></a>
+##### Section 2 : Transmission et perte des droits<a id=354></a>
 
 ###### Article R*613-45-2
 
@@ -47494,7 +48410,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=335></a>
+##### Section 4 : Recours en restauration<a id=355></a>
 
 ###### Article R613-52
 
@@ -47559,7 +48475,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 9
 
 
-##### Section 5 : Registre national des brevets<a id=336></a>
+##### Section 5 : Registre national des brevets<a id=356></a>
 
 ###### Article R613-53
 
@@ -47843,7 +48759,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=337></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=357></a>
 
 ###### Article R613-60
 
@@ -47944,7 +48860,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=338></a>
+##### Section 7 : Réduction des redevances<a id=358></a>
 
 ###### Article R613-63
 
@@ -47995,9 +48911,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
-#### Chapitre IV : Application de conventions internationales<a id=339></a>
+#### Chapitre IV : Application de conventions internationales<a id=359></a>
 
-##### Section 1 : Brevets européens<a id=340></a>
+##### Section 1 : Brevets européens<a id=360></a>
 
 ###### Article R614-1
 
@@ -48418,7 +49334,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=341></a>
+##### Section 2 : Demandes internationales<a id=361></a>
 
 ###### Article R614-21
 
@@ -48750,7 +49666,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre IV bis : La retenue<a id=342></a>
+#### Chapitre IV bis : La retenue<a id=362></a>
 
 ###### Article R614-36
 
@@ -48793,9 +49709,9 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 3
 
 
-#### Chapitre V : Actions en justice<a id=343></a>
+#### Chapitre V : Actions en justice<a id=363></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=344></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=364></a>
 
 ###### Article R615-1
 
@@ -48831,7 +49747,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=345></a>
+##### Section 2 : Mesures probatoires<a id=365></a>
 
 ###### Article R615-2
 
@@ -48983,7 +49899,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (VD)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=346></a>
+##### Section 3 : Commission paritaire de conciliation<a id=366></a>
 
 ###### Article R615-6
 
@@ -49694,7 +50610,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (VD)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=347></a>
+#### Chapitre VI : Le certificat d'utilité<a id=367></a>
 
 ###### Article R616-1
 
@@ -49778,7 +50694,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60 (V)
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=348></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=368></a>
 
 ###### Article R*617-2-2
 
@@ -49863,9 +50779,9 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 10
 
 
-#### Chapitre VIII : Dispositions communes<a id=349></a>
+#### Chapitre VIII : Dispositions communes<a id=369></a>
 
-##### Section unique : Procédure<a id=350></a>
+##### Section unique : Procédure<a id=370></a>
 
 ###### Article R618-1
 
@@ -50051,9 +50967,9 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Protection des connaissances techniques<a id=351></a>
+### Titre II : Protection des connaissances techniques<a id=371></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=352></a>
+#### Chapitre II : Produits semi-conducteurs<a id=372></a>
 
 ###### Article R*622-3-2
 
@@ -50305,11 +51221,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-#### Chapitre III : Obtentions végétales<a id=353></a>
+#### Chapitre III : Obtentions végétales<a id=373></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=354></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=374></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=355></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=375></a>
 
 ###### Article R623-1
 
@@ -50755,7 +51671,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=356></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=376></a>
 
 ###### Article R623-16
 
@@ -50981,7 +51897,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=357></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=377></a>
 
 ###### Article R623-25
 
@@ -51121,7 +52037,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances<a id=358></a>
+##### Sous-section 4 : Redevances<a id=378></a>
 
 ###### Article D623-30-1
 
@@ -51309,7 +52225,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=359></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=379></a>
 
 ###### Article R623-36
 
@@ -51366,7 +52282,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=360></a>
+##### Sous-section 6 : Registres nationaux<a id=380></a>
 
 ###### Article R623-38
 
@@ -51563,7 +52479,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=361></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=381></a>
 
 ###### Article R623-43
 
@@ -51745,7 +52661,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=362></a>
+##### Sous-section 8 : Dispositions diverses<a id=382></a>
 
 ###### Article R623-48
 
@@ -51958,7 +52874,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=363></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=383></a>
 
 ###### Article D623-58-1
 
@@ -52029,7 +52945,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-15
 
 
-##### Section 2 bis : Semences de ferme<a id=364></a>
+##### Section 2 bis : Semences de ferme<a id=384></a>
 
 ###### Article R623-59
 
@@ -52102,7 +53018,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : La retenue<a id=365></a>
+##### Section 3 : La retenue<a id=385></a>
 
 ###### Article R623-60
 
@@ -52120,9 +53036,9 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=366></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=386></a>
 
-#### Chapitre unique<a id=367></a>
+#### Chapitre unique<a id=387></a>
 
 ###### Article D631-1
 
@@ -52393,11 +53309,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=368></a>
+## Livre VII : Marques de produits ou de services et autres signes distinctifs<a id=388></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=369></a>
+### Titre Ier : Marques de produits ou de services<a id=389></a>
 
-#### Chapitre Ier : Eléments constitutifs de la marque<a id=370></a>
+#### Chapitre Ier : Eléments constitutifs de la marque<a id=390></a>
 
 ###### Article R711-1
 
@@ -52422,7 +53338,7 @@ _Créé par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 3
 
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=371></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=391></a>
 
 ###### Article D712-29
 
@@ -53761,7 +54677,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R712-28-1 (V)
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=372></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=392></a>
 
 ###### Article R714-1
 
@@ -54193,11 +55109,99 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre VI : Contentieux<a id=373></a>
+#### Chapitre V : Marques de garantie et marques collectives<a id=393></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=374></a>
+##### Section 1 : Marques de garantie<a id=394></a>
 
-##### Section 2 : Mesures provisoires et conservatoires<a id=375></a>
+###### Article R715-1
+
+Le règlement d'usage mentionné à l'article L. 715-2 comprend :
+
+1° Le nom du titulaire de la marque ;
+
+2° Une déclaration selon laquelle le titulaire de la marque se conforme aux exigences de l'article L. 715-2 ;
+
+3° La représentation de la marque ;
+
+4° Les produits ou services visés par la marque ;
+
+5° Les caractéristiques des produits ou services que la marque garantit ;
+
+6° Les personnes autorisées à utiliser la marque ;
+
+7° Les conditions d'usage de la marque, y compris les sanctions ;
+
+8° Le cas échéant, lorsque la législation l'impose, le nom, le numéro d'accréditation et l'attestation d'accréditation du ou
+des organismes de certification. L'accréditation doit être en lien avec l'objet du dépôt de la marque. Dans le cas où
+l'organisme de certification n'est pas encore accrédité, le document attestant de la recevabilité de la demande
+d'accréditation et de la portée d'accréditation demandée doit également être fourni ;
+
+9° La manière dont la personne délivrant la garantie vérifie les caractéristiques des produits et services et surveille
+l'usage de la marque.
+
+Le règlement d'usage est publié au Bulletin officiel de la propriété industrielle. Tout règlement d'usage modifié soumis par
+le titulaire de la marque à l'Institut national de la propriété industrielle est inscrit au registre national des marques
+après vérification de sa conformité aux dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°92-100 du 30 janvier 1992 - art. 49 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 7
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R718-7 (V)
+
+
+##### Section 2 : Marques collectives<a id=395></a>
+
+###### Article R715-2
+
+Le règlement d'usage mentionné à l'article L. 715-6 comprend :
+
+1° Le nom du titulaire de la marque ;
+
+2° L'objet de l'association, du groupement ou de la personne morale de droit public titulaire de la marque ;
+
+3° Les organismes habilités à représenter l'association, le groupement ou la personne morale de droit public ;
+
+4° Dans le cas d'une association ou d'un groupement, les conditions d'affiliation ;
+
+5° La représentation de la marque ;
+
+6° Les produits ou services visés par la marque ;
+
+7° Les personnes autorisées à utiliser la marque ;
+
+8° Les conditions d'usage de la marque, y compris les sanctions.
+
+Le règlement d'usage est publié au Bulletin officiel de la propriété industrielle. Tout règlement d'usage modifié soumis par
+le titulaire de la marque à l'Institut national de la propriété industrielle est inscrit au registre national des marques
+après vérification de sa conformité aux dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 du 10 avril 1995 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 7
+
+
+#### Chapitre VI : Contentieux<a id=396></a>
+
+##### Section 2 : Mesures provisoires et conservatoires<a id=397></a>
 
 ###### Article R716-1
 
@@ -54252,9 +55256,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R716-1 (T)
 
 
-##### Section 2 :  Mesures probatoires<a id=376></a>
-
-##### Section 3 :  Mesures probatoires<a id=377></a>
+##### Section 3 :  Mesures probatoires<a id=398></a>
 
 ###### Article R716-2
 
@@ -54436,9 +55438,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R716-5 (T)
 
 
-##### Section 3 : Retenue en douane<a id=378></a>
-
-##### Section 4 : Retenue en douane<a id=379></a>
+##### Section 4 : Retenue en douane<a id=399></a>
 
 ###### Article R716-6
 
@@ -54487,7 +55487,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R716-6 (T)
 
 
-##### Section 5 : Dispositions diverses<a id=380></a>
+##### Section 5 : Dispositions diverses<a id=400></a>
 
 ###### Article R716-21
 
@@ -54523,9 +55523,9 @@ _Créé par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 8
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=381></a>
+#### Chapitre VII : Marque internationale et marque de l'Union européenne<a id=401></a>
 
-##### Section 1 : Marque internationale<a id=382></a>
+##### Section 1 : Marque internationale<a id=402></a>
 
 ###### Article R*717-1-1
 
@@ -54797,11 +55797,108 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque communautaire<a id=383></a>
+##### Section 2 : Marque de l'Union européenne<a id=403></a>
 
-#### Chapitre VIII : Dispositions communes<a id=384></a>
+###### Article R*717-10-1
 
-##### Section unique<a id=385></a>
+La demande de marque nationale issue de la requête en transformation est également examinée et enregistrée ou rejetée dans
+les conditions prévues à l'article R. * 712-23-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1436 du 6 novembre 2015 - art. 14
+
+
+###### Article R717-9
+
+La marque de l'Union européenne ou la demande de marque de l'Union européenne est transformée en demande de marque française
+dès la réception par l'Institut national de la propriété industrielle de la requête en transformation adressée à l'Office de
+l'Union européenne pour la propriété intellectuelle. Un numéro national lui est attribué. 
+
+1° Un délai est imparti au demandeur pour fournir : 
+
+a) La demande d'enregistrement prévue au 1° de l'article R. 712-3 ; 
+
+b) La justification du paiement des redevances prévue au a du 2° de l'article R. 712-3 ; 
+
+c) La traduction en français, s'il y a lieu, de la requête en transformation et des pièces jointes à celle-ci ; 
+
+d) S'il s'agit d'une marque collective ou d'une marque de garantie, le règlement déterminant les conditions auxquelles est
+subordonné l'usage de la marque. 
+
+Si le demandeur n'a pas son domicile ou son siège dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord
+sur l'Espace économique européen, il doit, dans le même délai, constituer un mandataire satisfaisant aux conditions prévues à
+l'article R. 712-2 et communiquer le nom et l'adresse de celui-ci à l'Institut national de la propriété industrielle ; 
+
+2° La demande issue de la requête en transformation est rejetée si les pièces mentionnées au 1° ne sont pas produites dans le
+délai prescrit ; 
+
+3° Lorsque la demande issue de la requête en transformation est reconnue recevable, elle est publiée au Bulletin officiel de
+la propriété industrielle dans les six semaines qui suivent la réception par l'Institut national de la propriété industrielle
+des pièces visées au 1°. Sous réserve des dispositions du troisième alinéa de l'article L. 717-5, mention y est faite de la
+faculté ouverte à toute personne intéressée de formuler des observations dans le délai de deux mois et aux personnes
+mentionnées à l'article L. 712-4-1 de former dans ce même délai opposition à enregistrement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L712-4-1 (V)
+  - Code de la propriété intellectuelle - art. L717-5
+  - Code de la propriété intellectuelle - art. R712-2
+  - Code de la propriété intellectuelle - art. R712-3
+
+
+###### Article R717-10
+
+La demande de marque nationale issue de la requête en transformation est examinée et enregistrée ou rejetée dans les
+conditions prévues aux articles R. 712-9 à R. 712-23-1.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2015-1436 du 6 novembre 2015 - art. 14
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R717-11
+
+Les actions et demandes en matière de marques de l'Union Européenne prévues par l'article L. 717-4 sont portées devant les
+tribunaux de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 du 10 avril 1995 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 9
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L717-4
+  - Code de l'organisation judiciaire - art. R211-7 (VT)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R811-1 (VT)
+
+
+#### Chapitre VIII : Dispositions communes<a id=404></a>
+
+##### Section unique<a id=405></a>
 
 ###### Article R718-1
 
@@ -54946,7 +56043,7 @@ _Modifié par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 10
 
 
-##### Section 2 : Dispositions transitoires<a id=386></a>
+##### Section 2 : Dispositions transitoires<a id=406></a>
 
 ###### Article R718-6
 
@@ -54992,11 +56089,11 @@ _Créé par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 10
 
 
-### Titre II : Indications géographiques<a id=387></a>
+### Titre II : Indications géographiques<a id=407></a>
 
-#### Chapitre Ier : Généralités<a id=388></a>
+#### Chapitre Ier : Généralités<a id=408></a>
 
-##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=389></a>
+##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=409></a>
 
 ###### Article R*721-6-1
 
@@ -55451,9 +56548,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R718-2
 
 
-#### Chapitre II : Contentieux<a id=390></a>
+#### Chapitre II : Contentieux<a id=410></a>
 
-##### Section 1 : Actions civiles<a id=391></a>
+##### Section 1 : Actions civiles<a id=411></a>
 
 ###### Article D722-6
 
@@ -55557,7 +56654,7 @@ _Modifié par_:
   - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
-##### Section 2 : La retenue<a id=392></a>
+##### Section 2 : La retenue<a id=412></a>
 
 ###### Article R722-7
 
@@ -55579,220 +56676,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-## Livre VII : Marques de produits ou de services et autres signes distinctifs<a id=393></a>
+## Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=413></a>
 
-### Titre Ier : Marques de produits ou de services<a id=394></a>
+### Titre unique<a id=414></a>
 
-#### Chapitre Ier : Eléments constitutifs de la marque<a id=395></a>
-
-#### Chapitre II : Acquisition du droit sur la marque<a id=396></a>
-
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=397></a>
-
-#### Chapitre V : Marques de garantie et marques collectives<a id=398></a>
-
-##### Section 1 : Marques de garantie<a id=399></a>
-
-###### Article R715-1
-
-Le règlement d'usage mentionné à l'article L. 715-2 comprend :
-
-1° Le nom du titulaire de la marque ;
-
-2° Une déclaration selon laquelle le titulaire de la marque se conforme aux exigences de l'article L. 715-2 ;
-
-3° La représentation de la marque ;
-
-4° Les produits ou services visés par la marque ;
-
-5° Les caractéristiques des produits ou services que la marque garantit ;
-
-6° Les personnes autorisées à utiliser la marque ;
-
-7° Les conditions d'usage de la marque, y compris les sanctions ;
-
-8° Le cas échéant, lorsque la législation l'impose, le nom, le numéro d'accréditation et l'attestation d'accréditation du ou
-des organismes de certification. L'accréditation doit être en lien avec l'objet du dépôt de la marque. Dans le cas où
-l'organisme de certification n'est pas encore accrédité, le document attestant de la recevabilité de la demande
-d'accréditation et de la portée d'accréditation demandée doit également être fourni ;
-
-9° La manière dont la personne délivrant la garantie vérifie les caractéristiques des produits et services et surveille
-l'usage de la marque.
-
-Le règlement d'usage est publié au Bulletin officiel de la propriété industrielle. Tout règlement d'usage modifié soumis par
-le titulaire de la marque à l'Institut national de la propriété industrielle est inscrit au registre national des marques
-après vérification de sa conformité aux dispositions du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°92-100 du 30 janvier 1992 - art. 49 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 7
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R718-7 (V)
-
-
-##### Section 2 : Marques collectives<a id=400></a>
-
-###### Article R715-2
-
-Le règlement d'usage mentionné à l'article L. 715-6 comprend :
-
-1° Le nom du titulaire de la marque ;
-
-2° L'objet de l'association, du groupement ou de la personne morale de droit public titulaire de la marque ;
-
-3° Les organismes habilités à représenter l'association, le groupement ou la personne morale de droit public ;
-
-4° Dans le cas d'une association ou d'un groupement, les conditions d'affiliation ;
-
-5° La représentation de la marque ;
-
-6° Les produits ou services visés par la marque ;
-
-7° Les personnes autorisées à utiliser la marque ;
-
-8° Les conditions d'usage de la marque, y compris les sanctions.
-
-Le règlement d'usage est publié au Bulletin officiel de la propriété industrielle. Tout règlement d'usage modifié soumis par
-le titulaire de la marque à l'Institut national de la propriété industrielle est inscrit au registre national des marques
-après vérification de sa conformité aux dispositions du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 du 10 avril 1995 (V)
-
-_Modifié par_:
-
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 7
-
-
-#### Chapitre VI : Contentieux<a id=401></a>
-
-#### Chapitre VII : Marque internationale et marque de l'Union européenne<a id=402></a>
-
-##### Section 1 : Marque internationale<a id=403></a>
-
-##### Section 2 : Marque de l'Union européenne<a id=404></a>
-
-###### Article R*717-10-1
-
-La demande de marque nationale issue de la requête en transformation est également examinée et enregistrée ou rejetée dans
-les conditions prévues à l'article R. * 712-23-2.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-1436 du 6 novembre 2015 - art. 14
-
-
-###### Article R717-9
-
-La marque de l'Union européenne ou la demande de marque de l'Union européenne est transformée en demande de marque française
-dès la réception par l'Institut national de la propriété industrielle de la requête en transformation adressée à l'Office de
-l'Union européenne pour la propriété intellectuelle. Un numéro national lui est attribué. 
-
-1° Un délai est imparti au demandeur pour fournir : 
-
-a) La demande d'enregistrement prévue au 1° de l'article R. 712-3 ; 
-
-b) La justification du paiement des redevances prévue au a du 2° de l'article R. 712-3 ; 
-
-c) La traduction en français, s'il y a lieu, de la requête en transformation et des pièces jointes à celle-ci ; 
-
-d) S'il s'agit d'une marque collective ou d'une marque de garantie, le règlement déterminant les conditions auxquelles est
-subordonné l'usage de la marque. 
-
-Si le demandeur n'a pas son domicile ou son siège dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord
-sur l'Espace économique européen, il doit, dans le même délai, constituer un mandataire satisfaisant aux conditions prévues à
-l'article R. 712-2 et communiquer le nom et l'adresse de celui-ci à l'Institut national de la propriété industrielle ; 
-
-2° La demande issue de la requête en transformation est rejetée si les pièces mentionnées au 1° ne sont pas produites dans le
-délai prescrit ; 
-
-3° Lorsque la demande issue de la requête en transformation est reconnue recevable, elle est publiée au Bulletin officiel de
-la propriété industrielle dans les six semaines qui suivent la réception par l'Institut national de la propriété industrielle
-des pièces visées au 1°. Sous réserve des dispositions du troisième alinéa de l'article L. 717-5, mention y est faite de la
-faculté ouverte à toute personne intéressée de formuler des observations dans le délai de deux mois et aux personnes
-mentionnées à l'article L. 712-4-1 de former dans ce même délai opposition à enregistrement.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 9
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L712-4-1 (V)
-  - Code de la propriété intellectuelle - art. L717-5
-  - Code de la propriété intellectuelle - art. R712-2
-  - Code de la propriété intellectuelle - art. R712-3
-
-
-###### Article R717-10
-
-La demande de marque nationale issue de la requête en transformation est examinée et enregistrée ou rejetée dans les
-conditions prévues aux articles R. 712-9 à R. 712-23-1.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2015-1436 du 6 novembre 2015 - art. 14
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-
-###### Article R717-11
-
-Les actions et demandes en matière de marques de l'Union Européenne prévues par l'article L. 717-4 sont portées devant les
-tribunaux de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 du 10 avril 1995 (V)
-
-_Modifié par_:
-
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 9
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L717-4
-  - Code de l'organisation judiciaire - art. R211-7 (VT)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R811-1 (VT)
-
-
-#### Chapitre VIII : Dispositions communes<a id=405></a>
-
-### Titre II : Indications géographiques<a id=406></a>
-
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=407></a>
-
-### Titre unique<a id=408></a>
-
-#### Chapitre unique<a id=409></a>
+#### Chapitre unique<a id=415></a>
 
 ###### Article D811-1-2
 
@@ -56788,8 +57676,4 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R811-3 (MMN)
   - Code de la propriété intellectuelle - art. R811-3 (T)
 
-
-## Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=410></a>
-
-### Titre unique<a id=411></a>
 
