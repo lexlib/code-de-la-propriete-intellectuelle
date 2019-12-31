@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -34046,48 +34046,48 @@ _Cite_:
 ###### Article R331-1
 
 I.-L'agrément mentionné à l'article L. 331-2 est délivré, de manière individuelle, par le ministre chargé de la culture pour
-une durée de cinq ans renouvelable. 
+une durée de cinq ans renouvelable.
 
 Pour délivrer l'agrément, le ministre vérifie que l'agent est ressortissant d'un Etat membre de l'Union européenne ou d'un
 Etat partie à l'accord sur l'Espace économique européen et qu'il présente les capacités et les garanties requises au regard
 des fonctions pour lesquelles l'agrément est sollicité. Il tient compte notamment de son niveau de formation et de son
-expérience professionnelle. 
+expérience professionnelle.
 
 L'agrément ne peut être accordé en cas de condamnation pour crime ou en cas de condamnation à une peine correctionnelle pour
 des faits incompatibles avec les fonctions à exercer. Le ministre chargé de la culture s'assure du respect de cette condition
 en demandant communication du bulletin n° 2 du casier judiciaire de l'agent au casier judiciaire national automatisé par un
 moyen de télécommunication sécurisé ou de son équivalent pour les ressortissants d'un Etat membre de l'Union européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen. 
+d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
 II.-La demande présentée par le Centre national du cinéma et de l'image animée, un organisme de défense professionnelle visé
 à l'article L. 331-1 ou un organisme de gestion collective mentionné au titre II du présent livre en vue d'obtenir l'agrément
-de l'un de ses agents comprend : 
+de l'un de ses agents comprend :
 
 1° Un extrait d'acte de naissance avec filiation pour les ressortissants français ou un document équivalent pour les
-ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
-européen ; 
+ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
 2° L'indication des fonctions confiées à l'agent et une copie des documents attestant de son niveau de formation et de son
-expérience professionnelle, notamment dans le recueil d'éléments probants. 
+expérience professionnelle, notamment dans le recueil d'éléments probants.
 
-III.-La demande de renouvellement de l'agrément est présentée au plus tard trois mois avant l'expiration de l'agrément. 
+III.-La demande de renouvellement de l'agrément est présentée au plus tard trois mois avant l'expiration de l'agrément.
 
-La demande de renouvellement comporte uniquement l'indication des fonctions exercées par l'agent. 
+La demande de renouvellement comporte uniquement l'indication des fonctions exercées par l'agent.
 
-IV.-Après avoir été agréés par le ministre chargé de la culture, les agents prêtent serment devant le   juge du tribunal
-judiciaire de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions
-et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ". 
+IV.-Après avoir été agréés par le ministre chargé de la culture, les agents prêtent serment devant le juge du tribunal
+judiciaire de leur résidence, au siège de ce tribunal ou, le cas échéant, de l'une de ses chambres de proximité. La formule
+de serment est la suivante : "Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui
+sera porté à ma connaissance à l'occasion de leur exercice".
 
 Ces agents demeurent liés par les termes de leur serment tout au long de l'exercice de leurs fonctions, sans être tenus de
-prêter à nouveau serment à chaque renouvellement de leur agrément. 
+prêter à nouveau serment à chaque renouvellement de leur agrément.
 
 V.-Le Centre national du cinéma et de l'image animée, les organismes de défense professionnelle visés à l'article L. 331-1 et
 les organismes de gestion collective mentionnés au titre II du présent livre informent le ministre chargé de la culture dans
 les meilleurs délais dès lors que l'agent au profit duquel ils ont sollicité un agrément n'exerce plus les fonctions à raison
-desquelles il a été agréé ou qu'il cesse d'être employé par eux. 
+desquelles il a été agréé ou qu'il cesse d'être employé par eux.
 
 VI.-Le ministre chargé de la culture peut, par décision motivée, mettre fin à l'agrément dès lors que son titulaire n'exerce
-plus les fonctions à raison desquelles il a été habilité ou ne remplit plus les conditions définies au I du présent article. 
+plus les fonctions à raison desquelles il a été habilité ou ne remplit plus les conditions définies au I du présent article.
 
 La personne intéressée est préalablement informée des motifs et de la nature de la mesure envisagée et mise à même de
 présenter des observations. En cas d'urgence, le ministre chargé de la culture peut suspendre l'agrément pour une durée
@@ -34095,8 +34095,9 @@ maximale de six mois.
 
 **Nota:**
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -34106,7 +34107,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-913 du 30 août 2019 - art. 22
 
 _Cite_:
 
@@ -34547,22 +34548,25 @@ _Cite_:
 
 ###### Article R331-19
 
-Les agents habilités dans les conditions définies aux articles R. 331-17 et R. 331-18 prêtent serment devant le   juge du
-tribunal judiciaire de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes
-fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ". 
+Les agents habilités dans les conditions définies aux articles R. 331-17 et R. 331-18 prêtent serment devant le juge du
+tribunal judiciaire de leur résidence, au siège de ce tribunal ou, le cas échéant, de l'une de ses chambres de proximité. La
+formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser
+de ce qui sera porté à ma connaissance à l'occasion de leur exercice ".
 
 Le greffier du tribunal judiciaire porte mention de l'accomplissement de cette prestation de serment, de sa date et de son
 lieu sur la décision d'habilitation.
 
 **Nota:**
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
+  - Décret n°2019-913 du 30 août 2019 - art. 22
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
