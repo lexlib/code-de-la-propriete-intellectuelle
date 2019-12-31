@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2019-10-24
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -12178,18 +12178,23 @@ _Cite_:
 ###### Article L336-2
 
 En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionnée par le contenu d'un service de communication
-au public en ligne, le tribunal de grande instance, statuant le cas échéant en la forme des référés, peut ordonner à la
-demande des titulaires de droits sur les œuvres et objets protégés, de leurs ayants droit,                  des organismes de
-gestion collective régis par le titre II du livre III ou des organismes de défense professionnelle visés à l'article L.
-331-1, toutes mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à
-l'encontre de toute personne susceptible de contribuer à y remédier. La demande peut également être effectuée par le Centre
-national du cinéma et de l'image animée.
+au public en ligne, le président du tribunal judiciaire statuant selon la procédure accélérée au fond peut ordonner à la
+demande des titulaires de droits sur les œuvres et objets protégés, de leurs ayants droit,  des organismes de gestion
+collective régis par le titre II du livre III ou des organismes de défense professionnelle visés à l'article L. 331-1, toutes
+mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à l'encontre de toute
+personne susceptible de contribuer à y remédier. La demande peut également être effectuée par le Centre national du cinéma et
+de l'image animée.
+
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 2
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 10
 
 _Cite_:
 
@@ -26425,10 +26430,12 @@ L. 423-2.
 
 Les articles L. 515-2, L. 521-3, L. 521-3-2, L. 611-2, L. 612-12, L. 612-14, L. 612-15, L. 615-8, L. 615-8-1, L. 622-7, L.
 623-29, L. 623-29-1, L. 714-3-1 et L. 716-5 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant de
-la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises. 
+la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises.
 
 Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L.
 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
+
+L'article L. 336-2 est applicable dans sa rédaction résultant de l'ordonnance n° 2019-738 du 17 juillet 2019.
 
 **Nota:**
 
@@ -26436,6 +26443,9 @@ Conformément aux dispositions du second alinéa du III de l'article 124 de la l
 alinéa de l'article L. 811-1 dans sa rédaction résultant du 10° du I du même article est abrogé le jour de l'entrée en
 vigueur de l'ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à la juridiction unifiée du
 brevet.
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -26458,35 +26468,20 @@ _Anciens textes_:
   - Loi n°91-7 1991-01-04 art. 43
   - Loi n°91-7 du 4 janvier 1991 - art. 43 (Ab)
 
-_Cite_:
-
-  - Loi n°2019-486 du 22 mai 2019 (V)
-  - Code de la propriété intellectuelle - art. L133-1
-  - Code de la propriété intellectuelle - art. L335-4
-  - Code de la propriété intellectuelle - art. L421-1
-  - Code de la propriété intellectuelle - art. L423-2
-  - Code de la propriété intellectuelle - art. L515-2 (V)
-  - Code de la propriété intellectuelle - art. L521-3 (V)
-  - Code de la propriété intellectuelle - art. L521-3-2 (V)
-  - Code de la propriété intellectuelle - art. L611-2 (VT)
-  - Code de la propriété intellectuelle - art. L612-12 (VT)
-  - Code de la propriété intellectuelle - art. L612-14 (VT)
-  - Code de la propriété intellectuelle - art. L612-15 (VT)
-  - Code de la propriété intellectuelle - art. L615-8 (VT)
-  - Code de la propriété intellectuelle - art. L615-8-1 (V)
-  - Code de la propriété intellectuelle - art. L622-7 (V)
-  - Code de la propriété intellectuelle - art. L623-29 (V)
-  - Code de la propriété intellectuelle - art. L623-29-1 (V)
-  - Code de la propriété intellectuelle - art. L714-3-1 (V)
-  - Code de la propriété intellectuelle - art. L716-5 (V)
-
 _Cité par_:
 
   - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 29
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L133-1
+  - Code de la propriété intellectuelle - art. L335-4
+  - Code de la propriété intellectuelle - art. L421-1
+  - Code de la propriété intellectuelle - art. L423-2
 
 _Nouveaux textes_:
 
@@ -32236,9 +32231,10 @@ III.-La demande de renouvellement de l'agrément est présentée au plus tard tr
 
 La demande de renouvellement comporte uniquement l'indication des fonctions exercées par l'agent.
 
-IV.-Après avoir été agréés par le ministre chargé de la culture, les agents prêtent serment devant le juge d'instance de leur
-résidence. La formule de serment est la suivante : "Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler
-ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice".
+IV.-Après avoir été agréés par le ministre chargé de la culture, les agents prêtent serment devant le juge du tribunal
+judiciaire de leur résidence, au siège de ce tribunal ou, le cas échéant, de l'une de ses chambres de proximité. La formule
+de serment est la suivante : "Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui
+sera porté à ma connaissance à l'occasion de leur exercice".
 
 Ces agents demeurent liés par les termes de leur serment tout au long de l'exercice de leurs fonctions, sans être tenus de
 prêter à nouveau serment à chaque renouvellement de leur agrément.
@@ -32255,6 +32251,12 @@ La personne intéressée est préalablement informée des motifs et de la nature
 présenter des observations. En cas d'urgence, le ministre chargé de la culture peut suspendre l'agrément pour une durée
 maximale de six mois.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -32263,7 +32265,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
+  - Décret n°2019-913 du 30 août 2019 - art. 22
 
 _Cite_:
 
@@ -32696,22 +32698,29 @@ _Cite_:
 
 ###### Article R331-19
 
-Les agents habilités dans les conditions définies aux articles R. 331-17 et R. 331-18 prêtent serment devant le juge
-d'instance de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions
-et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ". 
+Les agents habilités dans les conditions définies aux articles R. 331-17 et R. 331-18 prêtent serment devant le juge du
+tribunal judiciaire de leur résidence, au siège de ce tribunal ou, le cas échéant, de l'une de ses chambres de proximité. La
+formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser
+de ce qui sera porté à ma connaissance à l'occasion de leur exercice ".
 
 Le greffier du tribunal d'instance porte mention de l'accomplissement de cette prestation de serment, de sa date et de son
 lieu sur la décision d'habilitation.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1773 du 29 décembre 2009 - art. 2
+  - Décret n°2019-913 du 30 août 2019 - art. 22
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L331-17 (V)
+  - Code de la propriété intellectuelle - art. L331-17
 
 _Cité par_:
 
@@ -54605,8 +54614,6 @@ Pour application du présent code et des dispositions qu'il rend applicables aux
 
 - "tribunal de grande instance" par "tribunal de première instance" ;
 
-- "juge d'instance" par "juge du tribunal de première instance" ;
-
 - "région" par "territoire" et, en ce qui concerne Mayotte, par "collectivité départementale" ;
 
 - "cour d'appel" par "tribunal supérieur d'appel" et "commissaire de police" par "officier de police judiciaire" en ce qui
@@ -54621,15 +54628,20 @@ Wallis-et-Futuna ;
 Pour l'application du présent code aux collectivités d'outre-mer, toute référence au code des douanes est remplacée par la
 référence aux codes des douanes applicables à ces collectivités, ayant le même objet.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-953 du 31 octobre 2018 - art. 18
+  - Décret n°2019-913 du 30 août 2019 - art. 22
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R811-1 (VT)
-  - Code de la propriété intellectuelle - art. R811-2 (V)
+  - Code de la propriété intellectuelle - art. R811-2 (M)
 
 
