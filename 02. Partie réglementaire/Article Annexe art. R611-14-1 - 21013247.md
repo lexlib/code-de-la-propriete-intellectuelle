@@ -158,7 +158,7 @@ industrielles et des mines placées sous la tutelle du ministre chargé de l'ind
 agents contractuels hors catégorie et agents contractuels de 1re catégorie régis par le décret n° 75-62 du 28 janvier 1975
 modifié.
 
-- Personnels contractuels de droit public de l' Institut Mines-Télécom recrutés en vertu du 2° de l'article 36 du décret n°
+- Personnels contractuels de droit public de l'Institut Mines-Télécom recrutés en vertu du 2° de l'article 36 du décret n°
 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
 
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
@@ -201,9 +201,8 @@ Agents non titulaires :
 - décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration,
 du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
 
-- règlement du 14 mai 1973 régissant les personnels non titulaires du institut français des sciences et technologies des
-transports, de l'aménagement et des réseaux et des centre d'études et d'expertise sur les risques, l'environnement, la
-mobilité et l'aménagement ;
+- règlement du 14 mai 1973 régissant les personnels non titulaires du               Université Gustave Eiffel et des centre
+d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 - règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études
 techniques des routes et autoroutes ;
@@ -359,4 +358,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-1273 du 27 décembre 2013 - art. 26
+  - Décret n°2010-1702 du 30 décembre 2010 - art. 31 (VT)
+  - Décret n°2019-1360 du 13 décembre 2019 - art. 19
