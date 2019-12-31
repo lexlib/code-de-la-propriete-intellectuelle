@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2019-10-24
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -473,8 +473,13 @@ L'acquéreur de cet objet n'est investi, du fait de cette acquisition, d'aucun d
 dans les cas prévus par les dispositions des deuxième et troisième alinéas de l'article L. 123-4. Ces droits subsistent en la
 personne de l'auteur ou de ses ayants droit qui, pourtant, ne pourront exiger du propriétaire de l'objet matériel la mise à
 leur disposition de cet objet pour l'exercice desdits droits. Néanmoins, en cas d'abus notoire du propriétaire empêchant
-l'exercice du droit de divulgation, le tribunal de grande instance peut prendre toute mesure appropriée, conformément aux
+l'exercice du droit de divulgation, le   tribunal judiciaire peut prendre toute mesure appropriée, conformément aux
 dispositions de l'article L. 121-3.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -484,17 +489,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L111-1 (V)
-  - Code de la propriété intellectuelle - art. L121-3 (V)
-  - Code de la propriété intellectuelle - art. L123-4 (V)
+  - Code de la propriété intellectuelle - art. L111-1
+  - Code de la propriété intellectuelle - art. L121-3
+  - Code de la propriété intellectuelle - art. L123-4
 
 _Cité par_:
 
@@ -1003,13 +1008,17 @@ _Cite_:
 
 Sauf dispositions statutaires ou stipulations contraires, les droits patrimoniaux sur les logiciels et leur documentation
 créés par un ou plusieurs employés dans l'exercice de leurs fonctions ou d'après les instructions de leur employeur sont
-dévolus à l'employeur qui est seul habilité à les exercer.
+dévolus à l'employeur qui est seul habilité à les exercer. 
 
-Toute contestation sur l'application du présent article est soumise au tribunal de grande instance du siège social de
-l'employeur.
+Toute contestation sur l'application du présent article est soumise au   tribunal judiciaire du siège social de l'employeur. 
 
 Les dispositions du premier alinéa du présent article sont également applicables aux agents de l'Etat, des collectivités
 publiques et des établissements publics à caractère administratif.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -1020,15 +1029,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-361 1994-05-10 art. 11 *champ d'application*
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°94-361 du 10 mai 1994 - art. 2 () JORF 11 mai 1994
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L113-10
@@ -1129,10 +1134,15 @@ _Cite_:
 ###### Article L121-3
 
 En cas d'abus notoire dans l'usage ou le non-usage du droit de divulgation de la part des représentants de l'auteur décédé
-visés à l'article L. 121-2, le tribunal de grande instance peut ordonner toute mesure appropriée. Il en est de même s'il y a
+visés à l'article L. 121-2, le   tribunal judiciaire peut ordonner toute mesure appropriée. Il en est de même s'il y a
 conflit entre lesdits représentants, s'il n'y a pas d'ayant droit connu ou en cas de vacance ou de déshérence. 
 
 Le tribunal peut être saisi notamment par le ministre chargé de la culture.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -1143,11 +1153,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -1155,7 +1165,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L121-2 (V)
+  - Code de la propriété intellectuelle - art. L121-2
 
 
 ###### Article L121-4
@@ -2070,28 +2080,33 @@ _Cité par_:
 ###### Article L122-9
 
 En cas d'abus notoire dans l'usage ou le non-usage des droits d'exploitation de la part des représentants de l'auteur décédé
-visés à l'article L. 121-2, le tribunal de grande instance peut ordonner toute mesure appropriée. Il en est de même s'il y a
+visés à l'article L. 121-2, le   tribunal judiciaire peut ordonner toute mesure appropriée. Il en est de même s'il y a
 conflit entre lesdits représentants, s'il n'y a pas d'ayant droit connu ou en cas de vacance ou de déshérence. 
 
 Le tribunal peut être saisi notamment par le ministre chargé de la culture.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
   - Loi n°97-283 du 27 mars 1997 - art. 16 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L121-2 (V)
+  - Code de la propriété intellectuelle - art. L121-2
 
 
 ###### Article L122-10
@@ -2397,20 +2412,20 @@ legs.
 En l'absence d'héritier et de legs du droit de suite, ce dernier revient au légataire universel ou, à défaut, au détenteur du
 droit moral. 
 
-II.-En l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence, le tribunal de grande instance peut confier le
+II.-En l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence, le   tribunal judiciaire peut confier le
 bénéfice du droit de suite à un organisme de gestion collective régi par le titre II du livre III de la présente partie,
 agréé à cet effet par arrêté du ministre chargé de la culture. Le tribunal peut être saisi par le ministre chargé de la
 culture ou par l'organisme agréé. 
 
-Les sommes perçues par l'organisme agréé  sont affectées à la prise en charge d'une fraction des cotisations dues par les
+Les sommes perçues par l'organisme agréé sont affectées à la prise en charge d'une fraction des cotisations dues par les
 auteurs des arts graphiques et plastiques au titre de la retraite complémentaire. 
 
 La gestion du droit de suite prévue au premier alinéa du présent II prend fin lorsqu'un ayant droit justifiant de sa qualité
 se fait connaître auprès de l'organisme agréé. 
 
-III.-L'agrément des organismes  prévu au II est délivré en considération : 
+III.-L'agrément des organismes prévu au II est délivré en considération : 
 
-1° De la diversité des membres  ; 
+1° De la diversité des membres ; 
 
 2° De la qualification professionnelle des dirigeants ; 
 
@@ -2425,10 +2440,8 @@ précisées par décret en Conseil d'Etat.
 
 **Nota:**
 
-Conformément à l'article 31 II de la loi n° 2016-925 du 7 juillet 2016, les présentes dispositions sont applicables aux
-successions ouvertes à compter de la publication de ladite loi. Elles sont également applicables aux successions ouvertes
-avant la publication de cette même loi, y compris celles qui auraient été réglées à cette date, lorsqu'il n'existe aucun
-héritier régulièrement investi du droit de suite en application des règles de transmission en vigueur au jour du décès.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2451,12 +2464,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 2
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
   - Code de la propriété intellectuelle
-  - Code de la propriété intellectuelle - art. L122-8 (V)
+  - Code de la propriété intellectuelle - art. L122-8
   - Code de la propriété intellectuelle - art. L123-6
 
 
@@ -8823,18 +8836,23 @@ _Créé par_:
 Les projets de statuts et de règlements généraux des organismes de gestion collective sont adressés, préalablement à la
 constitution de ceux-ci, au ministre chargé de la culture selon les modalités définies par décret en Conseil d'Etat. 
 
-Dans les deux mois de leur réception, le ministre peut saisir le tribunal de grande instance au cas où des motifs réels et
-sérieux s'opposeraient à la constitution d'un de ces organismes. 
+Dans les deux mois de leur réception, le ministre peut saisir le   tribunal judiciaire au cas où des motifs réels et sérieux
+s'opposeraient à la constitution d'un de ces organismes. 
 
 Le tribunal apprécie la qualification professionnelle des fondateurs de ces organismes, les moyens humains et matériels
 qu'ils proposent de mettre en œuvre pour assurer le recouvrement des droits et l'exploitation de leur répertoire ainsi que la
 conformité de leurs statuts et de leur règlement général à la réglementation en vigueur.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -9319,8 +9337,8 @@ _Créé par_:
 ###### Article L331-1
 
 Les actions civiles et les demandes relatives à la propriété littéraire et artistique, y compris lorsqu'elles portent
-également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande
-instance, déterminés par voie réglementaire.
+également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des   tribunaux judiciaires,
+déterminés par voie réglementaire. 
 
 Les organismes de défense professionnelle régulièrement constitués ont qualité pour ester en justice pour la défense des
 intérêts dont ils ont statutairement la charge. 
@@ -9331,6 +9349,11 @@ licence, exercer l'action en justice au titre de ce droit. L'exercice de l'actio
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
 et 2060 du code civil.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -9351,7 +9374,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 196
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L331-1-1
@@ -11013,14 +11036,19 @@ _Créé par_:
 
 ###### Article L332-2
 
-Dans un délai fixé par voie réglementaire, le saisi ou le tiers saisi peuvent demander au président du tribunal de grande
-instance de prononcer la mainlevée de la saisie ou d'en cantonner les effets, ou encore d'autoriser la reprise de la
-fabrication ou celle des représentations ou exécutions publiques, sous l'autorité d'un administrateur constitué séquestre,
-pour le compte de qui il appartiendra, des produits de cette fabrication ou de cette exploitation.
+Dans un délai fixé par voie réglementaire, le saisi ou le tiers saisi peuvent demander au président du   tribunal judiciaire
+de prononcer la mainlevée de la saisie ou d'en cantonner les effets, ou encore d'autoriser la reprise de la fabrication ou
+celle des représentations ou exécutions publiques, sous l'autorité d'un administrateur constitué séquestre, pour le compte de
+qui il appartiendra, des produits de cette fabrication ou de cette exploitation. 
 
-Le président du tribunal de grande instance statuant en référé peut, s'il fait droit à la demande du saisi ou du tiers saisi,
+Le président du   tribunal judiciaire statuant en référé peut, s'il fait droit à la demande du saisi ou du tiers saisi,
 ordonner à la charge du demandeur la consignation d'une somme affectée à la garantie des dommages et intérêts auxquels
 l'auteur pourrait prétendre.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11030,11 +11058,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 35 () JORF 30 octobre 2007
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -11121,8 +11149,13 @@ _Cité par_:
 ###### Article L333-1
 
 Lorsque les produits d'exploitation revenant à l'auteur d'une oeuvre de l'esprit ont fait l'objet d'une saisie, le président
-du tribunal de grande instance peut ordonner le versement à l'auteur, à titre alimentaire, d'une certaine somme ou d'une
-quotité déterminée des sommes saisies.
+du   tribunal judiciaire peut ordonner le versement à l'auteur, à titre alimentaire, d'une certaine somme ou d'une quotité
+déterminée des sommes saisies.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11136,7 +11169,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L333-2
@@ -12165,7 +12198,7 @@ _Cite_:
 ###### Article L336-1
 
 Lorsqu'un logiciel est principalement utilisé pour la mise à disposition illicite d'oeuvres ou d'objets protégés par un droit
-de propriété littéraire et artistique, le président du tribunal de grande instance, statuant en référé, peut ordonner sous
+de propriété littéraire et artistique, le président du   tribunal judiciaire, statuant en référé, peut ordonner sous
 astreinte toutes mesures nécessaires à la protection de ce droit et conformes à l'état de l'art. 
 
 Les mesures ainsi ordonnées ne peuvent avoir pour effet de dénaturer les caractéristiques essentielles ou la destination
@@ -12173,36 +12206,46 @@ initiale du logiciel.
 
 L'article L. 332-4 est applicable aux logiciels mentionnés au présent article.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-961 du 1 août 2006 - art. 27 () JORF 3 août 2006
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L332-4 (V)
+  - Code de la propriété intellectuelle - art. L332-4
 
 
 ###### Article L336-2
 
 En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionnée par le contenu d'un service de communication
-au public en ligne, le tribunal de grande instance, statuant le cas échéant en la forme des référés, peut ordonner à la
-demande des titulaires de droits sur les œuvres et objets protégés, de leurs ayants droit,                  des organismes de
-gestion collective régis par le titre II du livre III ou des organismes de défense professionnelle visés à l'article L.
-331-1, toutes mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à
-l'encontre de toute personne susceptible de contribuer à y remédier. La demande peut également être effectuée par le Centre
-national du cinéma et de l'image animée.
+au public en ligne, le président du tribunal judiciaire statuant selon la procédure accélérée au fond peut ordonner à la
+demande des titulaires de droits sur les œuvres et objets protégés, de leurs ayants droit,  des organismes de gestion
+collective régis par le titre II du livre III ou des organismes de défense professionnelle visés à l'article L. 331-1, toutes
+mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à l'encontre de toute
+personne susceptible de contribuer à y remédier. La demande peut également être effectuée par le Centre national du cinéma et
+de l'image animée.
+
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 2
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 10
 
 _Cite_:
 
@@ -14682,17 +14725,22 @@ _Codifié par_:
 ###### Article L521-3-1
 
 Les actions civiles et les demandes relatives aux dessins et modèles, y compris lorsqu'elles portent également sur une
-question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par
-voie réglementaire.
+question connexe de concurrence déloyale, sont exclusivement portées devant des   tribunaux judiciaires, déterminés par voie
+réglementaire. 
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
 et 2060 du code civil.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 196
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -15688,7 +15736,7 @@ lesquelles le salarié, auteur d'une invention appartenant à l'employeur, bén�
 déterminées par les conventions collectives, les accords d'entreprise et les contrats individuels de travail. 
 
 Si l'employeur n'est pas soumis à une convention collective de branche, tout litige relatif à la rémunération supplémentaire
-est soumis à la commission de conciliation instituée par l'article L. 615-21 ou au tribunal de grande instance. 
+est soumis à la commission de conciliation instituée par l'article L. 615-21 ou au   tribunal judiciaire. 
 
 2. Toutes les autres inventions appartiennent au salarié. Toutefois, lorsqu'une invention est faite par un salarié soit dans
 le cours de l'exécution de ses fonctions, soit dans le domaine des activités de l'entreprise, soit par la connaissance ou
@@ -15697,8 +15745,8 @@ droit, dans des conditions et délais fixés par décret en Conseil d'Etat, de s
 de tout ou partie des droits attachés au brevet protégeant l'invention de son salarié. 
 
 Le salarié doit en obtenir un juste prix qui, à défaut d'accord entre les parties, est fixé par la commission de conciliation
-instituée par l'article L. 615-21 ou par le tribunal de grande instance : ceux-ci prendront en considération tous éléments
-qui pourront leur être fournis notamment par l'employeur et par le salarié, pour calculer le juste prix tant en fonction des
+instituée par l'article L. 615-21 ou par le   tribunal judiciaire : ceux-ci prendront en considération tous éléments qui
+pourront leur être fournis notamment par l'employeur et par le salarié, pour calculer le juste prix tant en fonction des
 apports initiaux de l'un et de l'autre que de l'utilité industrielle et commerciale de l'invention. 
 
 3. Le salarié auteur d'une invention en informe son employeur qui en accuse réception selon des modalités et des délais fixés
@@ -15714,6 +15762,11 @@ constaté par écrit.
 
 5. Les dispositions du présent article sont également applicables aux agents de l'Etat, des collectivités publiques et de
 toutes autres personnes morales de droit public, selon des modalités qui sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -15731,6 +15784,7 @@ _Cité par_:
   - Décret n°2014-1518 du 16 décembre 2014 - art. 1 (V)
   - Décret n°2016-311 du 17 mars 2016 - art. 14 (V)
   - Code de la propriété intellectuelle - art. L615-17 (VD)
+  - Code de la propriété intellectuelle - art. L615-21 (VD)
   - Code de la propriété intellectuelle - art. L623-24 (V)
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
   - Code de la propriété intellectuelle - art. R611-11 (V)
@@ -15747,11 +15801,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 175
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L615-21 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L611-8
@@ -16495,13 +16545,18 @@ article peuvent être prorogées, sur réquisition du ministre chargé de la dé
 interdictions prorogées peuvent être levées à tout moment, sous la même condition. 
 
 La prorogation des interdictions édictées en vertu du présent article ouvre droit à une indemnité au profit du titulaire de
-la demande de brevet, dans la mesure du préjudice subi. A défaut d'accord amiable, cette indemnité est fixée par le tribunal
-de grande instance. A tous les degrés de juridiction, les débats ont lieu en chambre du conseil. 
+la demande de brevet, dans la mesure du préjudice subi. A défaut d'accord amiable, cette indemnité est fixée par le
+tribunal judiciaire. A tous les degrés de juridiction, les débats ont lieu en chambre du conseil. 
 
 Une demande de révision de l'indemnité prévue à l'alinéa précédent peut être introduite par le titulaire du brevet à
 l'expiration du délai d'un an qui suit la date du jugement définitif fixant le montant de l'indemnité. 
 
 Le titulaire du brevet doit apporter la preuve que le préjudice qu'il subit est supérieur à l'estimation du tribunal.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16512,15 +16567,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-9 (V)
+  - Code de la propriété intellectuelle - art. L612-9
 
 _Cité par_:
 
@@ -16533,10 +16588,6 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-30 (V)
   - Code de la propriété intellectuelle - art. R612-32 (V)
   - Code de la propriété intellectuelle - art. R613-42 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la propriété intellectuelle L615-13 *sanctions pénales*
 
 
 ###### Article L612-11
@@ -17636,14 +17687,19 @@ _Cité par_:
 
 ###### Article L613-12
 
-La demande de licence obligatoire est formée auprès du tribunal de grande instance : elle doit être accompagnée de la
-justification que le demandeur n'a pu obtenir du propriétaire du brevet une licence d'exploitation et qu'il est en état
-d'exploiter l'invention de manière sérieuse et effective.
+La demande de licence obligatoire est formée auprès du   tribunal judiciaire : elle doit être accompagnée de la justification
+que le demandeur n'a pu obtenir du propriétaire du brevet une licence d'exploitation et qu'il est en état d'exploiter
+l'invention de manière sérieuse et effective. 
 
 La licence obligatoire est accordée à des conditions déterminées, notamment quant à sa durée, son champ d'application et le
-montant des redevances auxquelles elle donne lieu.
+montant des redevances auxquelles elle donne lieu. 
 
 Ces conditions peuvent être modifiées par décision du tribunal, à la requête du propriétaire ou du licencié.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -17653,19 +17709,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°96-1106 du 18 décembre 1996 - art. 7 () JORF 19 décembre 1996
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
-  - Code de la propriété intellectuelle - art. L613-15 (V)
+  - Code de la propriété intellectuelle - art. L613-15 (VD)
   - Code de la propriété intellectuelle - art. L613-15-1 (V)
 
 
@@ -17724,7 +17776,7 @@ du brevet antérieur ; ledit titulaire ne peut exploiter le brevet postérieur s
 postérieur. 
 
 Lorsque le titulaire d'un brevet ne peut l'exploiter sans porter atteinte à un brevet antérieur dont un tiers est titulaire,
-le tribunal de grande instance peut lui accorder une licence d'exploitation du brevet antérieur dans la mesure nécessaire à
+le   tribunal judiciaire peut lui accorder une licence d'exploitation du brevet antérieur dans la mesure nécessaire à
 l'exploitation du brevet dont il est titulaire et pour autant que cette invention constitue à l'égard du brevet antérieur un
 progrès technique important et présente un intérêt économique considérable. 
 
@@ -17735,6 +17787,11 @@ brevet postérieur.
 
 Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -17743,15 +17800,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-1338 du 8 décembre 2004 - art. 9 () JORF 9 décembre 2004
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-12 (V)
+  - Code de la propriété intellectuelle - art. L613-12 (VD)
 
 _Cité par_:
 
@@ -17846,12 +17903,17 @@ _Cite_:
 Du jour de la publication de l'arrêté qui soumet le brevet au régime de la licence d'office, toute personne qualifiée peut
 demander au ministre chargé de la propriété industrielle l'octroi d'une licence d'exploitation. Cette licence est accordée
 par arrêté dudit ministre à des conditions déterminées, notamment quant à sa durée et son champ d'application, mais à
-l'exclusion des redevances auxquelles elle donne lieu.
+l'exclusion des redevances auxquelles elle donne lieu. 
 
-Elle prend effet à la date de la notification de l'arrêté aux parties.
+Elle prend effet à la date de la notification de l'arrêté aux parties. 
 
 A défaut d'accord amiable approuvé par le ministre chargé de la propriété industrielle et le ministre chargé de la santé
-publique, le montant des redevances est fixé par le tribunal de grande instance.
+publique, le montant des redevances est fixé par le   tribunal judiciaire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -17861,11 +17923,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -17956,7 +18018,12 @@ Cette licence est accordée par arrêté dudit ministre à des conditions déter
 d'application, mais à l'exclusion des redevances auxquelles elle donne lieu. Elle prend effet à la date de notification de
 l'arrêté aux parties. 
 
-A défaut d'accord amiable, le montant des redevances est fixé par le tribunal de grande instance.
+A défaut d'accord amiable, le montant des redevances est fixé par le   tribunal judiciaire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -17966,19 +18033,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°96-1106 du 18 décembre 1996 - art. 7 () JORF 19 décembre 1996
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-16 (V)
+  - Code de la propriété intellectuelle - art. L613-16
 
 _Cité par_:
 
@@ -17993,16 +18056,21 @@ _Cité par_:
 ###### Article L613-19
 
 L'Etat peut obtenir d'office, à tout moment, pour les besoins de la défense nationale, une licence pour l'exploitation d'une
-invention, objet d'une demande de brevet ou d'un brevet, que cette exploitation soit faite par lui-même ou pour son compte.
+invention, objet d'une demande de brevet ou d'un brevet, que cette exploitation soit faite par lui-même ou pour son compte. 
 
 La licence d'office est accordée à la demande du ministre chargé de la défense par arrêté du ministre chargé de la propriété
 industrielle. Cet arrêté fixe les conditions de la licence à l'exclusion de celles relatives aux redevances auxquelles elle
-donne lieu.
+donne lieu. 
 
-La licence prend effet à la date de la demande de licence d'office.
+La licence prend effet à la date de la demande de licence d'office. 
 
-A défaut d'accord amiable, le montant des redevances est fixé par le tribunal de grande instance. A tous les degrés de
-juridiction, les débats ont lieu en chambre du conseil.
+A défaut d'accord amiable, le montant des redevances est fixé par le   tribunal judiciaire. A tous les degrés de juridiction,
+les débats ont lieu en chambre du conseil.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -18012,11 +18080,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -18060,11 +18128,16 @@ _Cité par_:
 ###### Article L613-20
 
 L'Etat peut, à tout moment, par décret, exproprier, en tout ou partie, pour les besoins de la défense nationale, les
-inventions, objet de demandes de brevet ou de brevets.
+inventions, objet de demandes de brevet ou de brevets. 
 
-A défaut d'accord amiable, l'indemnité d'expropriation est fixée par le tribunal de grande instance.
+A défaut d'accord amiable, l'indemnité d'expropriation est fixée par le   tribunal judiciaire. 
 
 A tous les degrés de juridiction, les débats ont lieu en chambre du conseil.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -18074,11 +18147,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -18356,39 +18429,44 @@ _Cité par_:
 
 ###### Article L613-29
 
-La copropriété d'une demande de brevet ou d'un brevet est régie par les dispositions suivantes :
+La copropriété d'une demande de brevet ou d'un brevet est régie par les dispositions suivantes : 
 
 a) Chacun des copropriétaires peut exploiter l'invention à son profit, sauf à indemniser équitablement les autres
 copropriétaires qui n'exploitent pas personnellement l'invention ou qui n'ont pas concédé de licences d'exploitation. A
-défaut d'accord amiable, cette indemnité est fixée par le tribunal de grande instance.
+défaut d'accord amiable, cette indemnité est fixée par le   tribunal judiciaire. 
 
 b) Chacun des copropriétaires peut agir en contrefaçon à son seul profit. Le copropriétaire qui agit en contrefaçon doit
 notifier l'assignation délivrée aux autres copropriétaires ; il est sursis à statuer sur l'action tant qu'il n'est pas
-justifié de cette notification.
+justifié de cette notification. 
 
 c) Chacun des copropriétaires peut concéder à un tiers une licence d'exploitation non exclusive à son profit, sauf à
 indemniser équitablement les autres copropriétaires qui n'exploitent pas personnellement l'invention ou qui n'ont pas concédé
-de licence d'exploitation. A défaut d'accord amiable, cette indemnité est fixée par le tribunal de grande instance.
+de licence d'exploitation. A défaut d'accord amiable, cette indemnité est fixée par le   tribunal judiciaire. 
 
 Toutefois, le projet de concession doit être notifié aux autres copropriétaires accompagné d'une offre de cession de la
-quote-part à un prix déterminé.
+quote-part à un prix déterminé. 
 
 Dans un délai de trois mois suivant cette notification, l'un quelconque des copropriétaires peut s'opposer à la concession de
-licence à la condition d'acquérir la quote-part de celui qui désire accorder la licence.
+licence à la condition d'acquérir la quote-part de celui qui désire accorder la licence. 
 
-A défaut d'accord dans le délai prévu à l'alinéa précédent, le prix est fixé par le tribunal de grande instance. Les parties
+A défaut d'accord dans le délai prévu à l'alinéa précédent, le prix est fixé par le   tribunal judiciaire. Les parties
 disposent d'un délai d'un mois à compter de la notification du jugement ou, en cas d'appel, de l'arrêt, pour renoncer à la
 concession de la licence ou à l'achat de la part de copropriété sans préjudice des dommages-intérêts qui peuvent être dus ;
-les dépens sont à la charge de la partie qui renonce.
+les dépens sont à la charge de la partie qui renonce. 
 
 d) Une licence d'exploitation exclusive ne peut être accordée qu'avec l'accord de tous les copropriétaires ou par
-autorisation de justice.
+autorisation de justice. 
 
 e) Chaque copropriétaire peut, à tout moment, céder sa quote-part. Les copropriétaires disposent d'un droit de préemption
 pendant un délai de trois mois à compter de la notification du projet de cession. A défaut d'accord sur le prix, celui-ci est
-fixé par le tribunal de grande instance. Les parties disposent d'un délai d'un mois à compter de la notification du jugement
-ou, en cas d'appel, de l'arrêt, pour renoncer à la vente ou à l'achat de la part de copropriété sans préjudice des dommages-
-intérêts qui peuvent être dus ; les dépens sont à la charge de la partie qui renonce.
+fixé par le   tribunal judiciaire. Les parties disposent d'un délai d'un mois à compter de la notification du jugement ou, en
+cas d'appel, de l'arrêt, pour renoncer à la vente ou à l'achat de la part de copropriété sans préjudice des dommages-intérêts
+qui peuvent être dus ; les dépens sont à la charge de la partie qui renonce.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -18398,11 +18476,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -20317,8 +20395,8 @@ _Cité par_:
 
 Lorsqu'une invention, objet d'une demande de brevet ou d'un brevet, est exploitée pour les besoins de la défense nationale
 par l'Etat ou ses fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une licence d'exploitation leur ait
-été octroyée, l'action civile est portée devant la chambre du conseil du tribunal de grande instance. Celui-ci ne peut
-ordonner ni la cessation ou l'interruption de l'exploitation ni la confiscation prévue aux articles L. 615-3 et L. 615-7-1. 
+été octroyée, l'action civile est portée devant la chambre du conseil du   tribunal judiciaire. Celui-ci ne peut ordonner ni
+la cessation ou l'interruption de l'exploitation ni la confiscation prévue aux articles L. 615-3 et L. 615-7-1. 
 
 Si une expertise ou une description avec ou sans saisie réelle telle que prévue à l'article L. 615-5 est ordonnée par le
 président du tribunal, l'officier public commis doit surseoir à la saisie, à la description et à toute recherche dans les
@@ -20327,12 +20405,17 @@ défense.
 
 Il en est de même si les études ou fabrications sont exécutées dans un établissement des armées. 
 
-Le président du tribunal de grande instance peut, s'il en est requis par l'ayant droit, ordonner une expertise qui ne peut
-être effectuée que par des personnes agréées par le ministre chargé de la défense et devant ses représentants. 
+Le président du   tribunal judiciaire peut, s'il en est requis par l'ayant droit, ordonner une expertise qui ne peut être
+effectuée que par des personnes agréées par le ministre chargé de la défense et devant ses représentants. 
 
 Les dispositions de l'article L. 615-4 ne sont pas applicables aux demandes de brevet exploité dans les conditions définies
 au présent article aussi longtemps que ces demandes sont soumises aux interdictions prévues par les articles L. 612-9 et L.
 612-10. Une telle exploitation fait encourir de plein droit à ses auteurs la responsabilité définie au présent article.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -20342,19 +20425,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 14 () JORF 30 octobre 2007
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-9 (V)
-  - Code de la propriété intellectuelle - art. L615-3 (V)
-  - Code de la propriété intellectuelle - art. L615-4 (V)
-  - Code de la propriété intellectuelle - art. L615-5 (V)
-  - Code de la propriété intellectuelle - art. L615-7-1 (V)
+  - Code de la propriété intellectuelle - art. L612-9
+  - Code de la propriété intellectuelle - art. L615-3
+  - Code de la propriété intellectuelle - art. L615-4
+  - Code de la propriété intellectuelle - art. L615-5
+  - Code de la propriété intellectuelle - art. L615-7-1
 
 _Cité par_:
 
@@ -20609,15 +20692,20 @@ _Cite_:
 
 Les actions civiles et les demandes relatives aux brevets d'invention, y compris dans les cas prévus à l'article L. 611-7 ou
 lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des
-tribunaux de grande instance, déterminés par voie réglementaire, à l'exception des recours formés contre les actes
-administratifs du ministre chargé de la propriété industrielle qui relèvent de la juridiction administrative. 
+tribunaux judiciaires, déterminés par voie réglementaire, à l'exception des recours formés contre les actes administratifs du
+ministre chargé de la propriété industrielle qui relèvent de la juridiction administrative. 
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
 et 2060 du code civil. 
 
-Les tribunaux de grande instance mentionnés au premier alinéa du présent article sont seuls compétents pour constater que le
+Les   tribunaux judiciaires mentionnés au premier alinéa du présent article sont seuls compétents pour constater que le
 brevet français cesse de produire ses effets, en totalité ou en partie, dans les conditions prévues à l'article L. 614-13 du
 présent code.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -20632,7 +20720,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 1
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -20687,8 +20775,8 @@ prépondérante en cas de partage.
 
 Dans les six mois de sa saisine, cette commission, créée auprès de l'Institut national de la propriété industrielle, formule
 une proposition de conciliation ; celle-ci vaut accord entre les parties, si, dans le mois de sa notification, l'une d'elles
-n'a pas saisi le tribunal de grande instance compétent statuant en chambre du conseil. Cet accord peut être rendu exécutoire
-par ordonnance du président du tribunal de grande instance saisi sur simple requête par la partie la plus diligente. 
+n'a pas saisi le   tribunal judiciaire compétent statuant en chambre du conseil. Cet accord peut être rendu exécutoire par
+ordonnance du président du   tribunal judiciaire saisi sur simple requête par la partie la plus diligente. 
 
 Les parties pourront se présenter elles-mêmes devant la commission et se faire assister ou représenter par une personne de
 leur choix. 
@@ -20699,6 +20787,11 @@ Les modalités d'application du présent article, qui comportent des disposition
 dernier alinéa de l'article L. 611-7, sont fixées par décret en Conseil d'Etat après consultation des organisations
 professionnelles et syndicales intéressées.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -20708,11 +20801,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -21777,9 +21870,14 @@ _Créé par_:
 ###### Article L623-22
 
 L'Etat peut, à tout moment, par décret, exproprier en tout ou en partie pour les besoins de la défense nationale les
-obtentions végétales, objet de demandes de certificat ou de certificats.
+obtentions végétales, objet de demandes de certificat ou de certificats. 
 
-A défaut d'accord amiable, l'indemnité d'expropriation est fixée par le tribunal de grande instance.
+A défaut d'accord amiable, l'indemnité d'expropriation est fixée par le   tribunal judiciaire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -21789,11 +21887,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L623-22-1
@@ -21822,7 +21920,7 @@ _Cité par_:
 
 ###### Article L623-22-2
 
-La demande de licence prévue à l'article L. 623-22-1 est formée auprès du tribunal de grande instance. 
+La demande de licence prévue à l'article L. 623-22-1 est formée auprès du   tribunal judiciaire. 
 
 La licence est non exclusive. Le tribunal détermine notamment sa durée, son champ d'application et le montant des redevances
 auxquelles elle donne lieu. Ces conditions peuvent être modifiées par décision du tribunal, à la demande du titulaire du
@@ -21838,19 +21936,24 @@ Si le titulaire d'une licence ne satisfait pas aux conditions auxquelles cette l
 certificat d'obtention végétale et, le cas échéant, les autres licenciés peuvent obtenir du tribunal le retrait de cette
 licence.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-1338 du 8 décembre 2004 - art. 8 () JORF 9 décembre 2004
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-22-1 (V)
+  - Code de la propriété intellectuelle - art. L623-22-1
 
 
 ###### Article L623-22-3
@@ -21858,8 +21961,8 @@ _Cite_:
 Toute personne de droit public ou de droit privé peut obtenir une licence obligatoire dans les conditions prévues au présent
 article et à l'article L. 623-22-4. 
 
-La demande de licence obligatoire est formée auprès du tribunal de grande instance du lieu de situation du titulaire du
-droit. Elle doit être accompagnée de la justification que : 
+La demande de licence obligatoire est formée auprès du   tribunal judiciaire du lieu de situation du titulaire du droit. Elle
+doit être accompagnée de la justification que : 
 
 1° Le demandeur n'a pu obtenir une licence dans un délai d'un an à dater de sa demande auprès du titulaire du certificat ; 
 
@@ -21885,19 +21988,18 @@ licence.
 
 **Nota:**
 
-Loi n° 2011-1843 du 8 décembre 2011 article 19 I : Les dispositions nouvelles du présent article sont applicables aux
-certificats d'obtention délivrés avant le 11 décembre 2011. Ces dispositions s'appliquent également aux certificats
-d'obtention délivrés pour les demandes de certificat enregistrées avant cette date.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-1843 du 8 décembre 2011 - art. 12
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-22-4 (V)
+  - Code de la propriété intellectuelle - art. L623-22-4
 
 _Cité par_:
 
@@ -22528,15 +22630,20 @@ _Cite_:
 ###### Article L623-31
 
 Les actions civiles et les demandes relatives aux obtentions végétales, y compris lorsqu'elles portent également sur une
-question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par
-voie réglementaire, à l'exception des recours formés contre les actes administratifs ministériels, qui relèvent de la
-juridiction administrative. 
+question connexe de concurrence déloyale, sont exclusivement portées devant des   tribunaux judiciaires, déterminés par voie
+réglementaire, à l'exception des recours formés contre les actes administratifs ministériels, qui relèvent de la juridiction
+administrative. 
 
 La cour d'appel de Paris connaît directement des recours formés contre les décisions de l'organisme mentionné à l'article L.
 412-1 prises en application du présent chapitre. 
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux  articles 2059
 et 2060 du code civil .
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -22559,7 +22666,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 1
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -24246,8 +24353,12 @@ _Créé par_:
 ###### Article L716-3
 
 Les actions civiles et les demandes relatives aux marques, y compris lorsqu'elles portent également sur une question connexe
-de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par voie
-réglementaire.
+de concurrence déloyale, sont exclusivement portées devant des   tribunaux judiciaires, déterminés par voie réglementaire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -24258,7 +24369,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 196
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -25992,17 +26103,22 @@ _Modifié par_:
 ###### Article L722-8
 
 Les actions civiles et les demandes relatives aux indications géographiques, y compris lorsqu'elles portent également sur une
-question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par
-voie réglementaire.
+question connexe de concurrence déloyale, sont exclusivement portées devant des   tribunaux judiciaires, déterminés par voie
+réglementaire. 
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
 et 2060 du code civil.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 196
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -26446,10 +26562,12 @@ L. 423-2.
 
 Les articles L. 515-2, L. 521-3, L. 521-3-2, L. 611-2, L. 612-12, L. 612-14, L. 612-15, L. 615-8, L. 615-8-1, L. 622-7, L.
 623-29, L. 623-29-1, L. 714-3-1 et L. 716-5 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant de
-la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises. 
+la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises.
 
 Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L.
 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
+
+L'article L. 336-2 est applicable dans sa rédaction résultant de l'ordonnance n° 2019-738 du 17 juillet 2019.
 
 **Nota:**
 
@@ -26457,6 +26575,9 @@ Conformément aux dispositions du second alinéa du III de l'article 124 de la l
 alinéa de l'article L. 811-1 dans sa rédaction résultant du 10° du I du même article est abrogé le jour de l'entrée en
 vigueur de l'ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à la juridiction unifiée du
 brevet.
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -26479,35 +26600,20 @@ _Anciens textes_:
   - Loi n°91-7 1991-01-04 art. 43
   - Loi n°91-7 du 4 janvier 1991 - art. 43 (Ab)
 
-_Cite_:
-
-  - Loi n°2019-486 du 22 mai 2019 (V)
-  - Code de la propriété intellectuelle - art. L133-1
-  - Code de la propriété intellectuelle - art. L335-4
-  - Code de la propriété intellectuelle - art. L421-1
-  - Code de la propriété intellectuelle - art. L423-2
-  - Code de la propriété intellectuelle - art. L515-2 (V)
-  - Code de la propriété intellectuelle - art. L521-3 (V)
-  - Code de la propriété intellectuelle - art. L521-3-2 (V)
-  - Code de la propriété intellectuelle - art. L611-2 (VT)
-  - Code de la propriété intellectuelle - art. L612-12 (VT)
-  - Code de la propriété intellectuelle - art. L612-14 (VT)
-  - Code de la propriété intellectuelle - art. L612-15 (VT)
-  - Code de la propriété intellectuelle - art. L615-8 (VT)
-  - Code de la propriété intellectuelle - art. L615-8-1 (V)
-  - Code de la propriété intellectuelle - art. L622-7 (V)
-  - Code de la propriété intellectuelle - art. L623-29 (V)
-  - Code de la propriété intellectuelle - art. L623-29-1 (V)
-  - Code de la propriété intellectuelle - art. L714-3-1 (V)
-  - Code de la propriété intellectuelle - art. L716-5 (V)
-
 _Cité par_:
 
   - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 29
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L133-1
+  - Code de la propriété intellectuelle - art. L335-4
+  - Code de la propriété intellectuelle - art. L421-1
+  - Code de la propriété intellectuelle - art. L423-2
 
 _Nouveaux textes_:
 
@@ -26520,7 +26626,7 @@ Pour l'application du présent code dans les Terres australes et antarctiques fr
 dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, les mots
 suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
 
-- " tribunal de grande instance " et " juges d'instance " par " tribunal de première instance " ;
+- “ tribunal judiciaire ” par " tribunal de première instance " ;
 
 - " région " par " territoire " ;
 
@@ -26534,20 +26640,15 @@ même objet, résultant des textes applicables localement.
 
 **Nota:**
 
-Aux termes du VIII de l'article 259 de la loi n° 2015-990 du 6 août 2015, le II de l'article 16 de l'ordonnance n° 2011-337
-du 29 mars 2011 prévoyant la date d'entrée en vigueur du dernier alinéa de l'article 12 de ladite ordonnance est modifié.
-Cette date fixée par décret interviendra au plus tard le 31 décembre 2017.
-
-Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
-instance est remplacéé par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des
-compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur
+le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2011-337 - art. 12 (VD)
-  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 23 (VD)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 19
 
 
 ###### Article L811-2-1
@@ -32212,15 +32313,20 @@ _Cite_:
 
 ###### Article D331-1-1
 
-Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de
+Le siège et le ressort des   tribunaux judiciaires ayant compétence exclusive pour connaître des actions en matière de
 propriété littéraire et artistique en application de l'article L. 331-1 du code de la propriété intellectuelle sont fixés
 conformément à l'article D. 211-6-1 du code de l'organisation judiciaire.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1205 du 9 octobre 2009 - art. 7
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -32231,51 +32337,57 @@ _Cite_:
 ###### Article R331-1
 
 I.-L'agrément mentionné à l'article L. 331-2 est délivré, de manière individuelle, par le ministre chargé de la culture pour
-une durée de cinq ans renouvelable.
+une durée de cinq ans renouvelable. 
 
 Pour délivrer l'agrément, le ministre vérifie que l'agent est ressortissant d'un Etat membre de l'Union européenne ou d'un
 Etat partie à l'accord sur l'Espace économique européen et qu'il présente les capacités et les garanties requises au regard
 des fonctions pour lesquelles l'agrément est sollicité. Il tient compte notamment de son niveau de formation et de son
-expérience professionnelle.
+expérience professionnelle. 
 
 L'agrément ne peut être accordé en cas de condamnation pour crime ou en cas de condamnation à une peine correctionnelle pour
 des faits incompatibles avec les fonctions à exercer. Le ministre chargé de la culture s'assure du respect de cette condition
 en demandant communication du bulletin n° 2 du casier judiciaire de l'agent au casier judiciaire national automatisé par un
 moyen de télécommunication sécurisé ou de son équivalent pour les ressortissants d'un Etat membre de l'Union européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen.
+d'un autre Etat partie à l'accord sur l'Espace économique européen. 
 
 II.-La demande présentée par le Centre national du cinéma et de l'image animée, un organisme de défense professionnelle visé
 à l'article L. 331-1 ou un organisme de gestion collective mentionné au titre II du présent livre en vue d'obtenir l'agrément
-de l'un de ses agents comprend :
+de l'un de ses agents comprend : 
 
 1° Un extrait d'acte de naissance avec filiation pour les ressortissants français ou un document équivalent pour les
-ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
+ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen ; 
 
 2° L'indication des fonctions confiées à l'agent et une copie des documents attestant de son niveau de formation et de son
-expérience professionnelle, notamment dans le recueil d'éléments probants.
+expérience professionnelle, notamment dans le recueil d'éléments probants. 
 
-III.-La demande de renouvellement de l'agrément est présentée au plus tard trois mois avant l'expiration de l'agrément.
+III.-La demande de renouvellement de l'agrément est présentée au plus tard trois mois avant l'expiration de l'agrément. 
 
-La demande de renouvellement comporte uniquement l'indication des fonctions exercées par l'agent.
+La demande de renouvellement comporte uniquement l'indication des fonctions exercées par l'agent. 
 
-IV.-Après avoir été agréés par le ministre chargé de la culture, les agents prêtent serment devant le juge d'instance de leur
-résidence. La formule de serment est la suivante : "Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler
-ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice".
+IV.-Après avoir été agréés par le ministre chargé de la culture, les agents prêtent serment devant le   juge du tribunal
+judiciaire de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions
+et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ". 
 
 Ces agents demeurent liés par les termes de leur serment tout au long de l'exercice de leurs fonctions, sans être tenus de
-prêter à nouveau serment à chaque renouvellement de leur agrément.
+prêter à nouveau serment à chaque renouvellement de leur agrément. 
 
 V.-Le Centre national du cinéma et de l'image animée, les organismes de défense professionnelle visés à l'article L. 331-1 et
 les organismes de gestion collective mentionnés au titre II du présent livre informent le ministre chargé de la culture dans
 les meilleurs délais dès lors que l'agent au profit duquel ils ont sollicité un agrément n'exerce plus les fonctions à raison
-desquelles il a été agréé ou qu'il cesse d'être employé par eux.
+desquelles il a été agréé ou qu'il cesse d'être employé par eux. 
 
 VI.-Le ministre chargé de la culture peut, par décision motivée, mettre fin à l'agrément dès lors que son titulaire n'exerce
-plus les fonctions à raison desquelles il a été habilité ou ne remplit plus les conditions définies au I du présent article.
+plus les fonctions à raison desquelles il a été habilité ou ne remplit plus les conditions définies au I du présent article. 
 
 La personne intéressée est préalablement informée des motifs et de la nature de la mesure envisagée et mise à même de
 présenter des observations. En cas d'urgence, le ministre chargé de la culture peut suspendre l'agrément pour une durée
 maximale de six mois.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -32285,7 +32397,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2017-924 du 6 mai 2017 - art. 4
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -32718,22 +32830,27 @@ _Cite_:
 
 ###### Article R331-19
 
-Les agents habilités dans les conditions définies aux articles R. 331-17 et R. 331-18 prêtent serment devant le juge
-d'instance de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions
-et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ". 
+Les agents habilités dans les conditions définies aux articles R. 331-17 et R. 331-18 prêtent serment devant le   juge du
+tribunal judiciaire de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes
+fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ". 
 
-Le greffier du tribunal d'instance porte mention de l'accomplissement de cette prestation de serment, de sa date et de son
+Le greffier du tribunal judiciaire porte mention de l'accomplissement de cette prestation de serment, de sa date et de son
 lieu sur la décision d'habilitation.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1773 du 29 décembre 2009 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L331-17 (V)
+  - Code de la propriété intellectuelle - art. L331-17
 
 _Cité par_:
 
@@ -33466,10 +33583,15 @@ _Cité par_:
 
 La délibération de la commission constatant que les faits sont susceptibles de constituer une infraction, à laquelle sont
 joints, selon les cas, un procès-verbal récapitulatif de l'ensemble des faits et procédure ainsi que toutes pièces utiles,
-est transmise au procureur de la République près le tribunal de grande instance compétent. 
+est transmise au procureur de la République près le   tribunal judiciaire compétent. 
 
 La commission de protection des droits avise les auteurs des saisines qui lui ont été adressées dans les conditions prévues à
 l'article L. 331-24 de la transmission de la procédure au procureur de la République.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -33477,9 +33599,9 @@ _Cité par_:
 
   - Décret n°2010-236 du 5 mars 2010 - art. 3 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-872 du 26 juillet 2010 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -34315,21 +34437,26 @@ en cause, constatant la conciliation, précisant les mesures à prendre pour met
 délai pour l'exécution de ces mesures. Ce procès-verbal de conciliation devient définitif et exécutoire après accord de la
 Haute Autorité, qui peut entendre les parties avant de statuer si elle le juge utile. 
 
-Le procès-verbal est déposé immédiatement au secrétariat-greffe du ou des tribunaux d'instance dans le ressort duquel ou
+Le procès-verbal est déposé immédiatement au secrétariat-greffe du ou des   tribunaux judiciaires dans le ressort duquel ou
 desquels les parties au litige ont leur domicile ou siège social. 
 
 Toute conciliation réalisée ultérieurement est constatée par procès-verbal établi et déposé dans les mêmes conditions.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1366 du 10 novembre 2010 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L331-35 (V)
-  - Code de la propriété intellectuelle - art. R331-65 (V)
+  - Code de la propriété intellectuelle - art. L331-35
+  - Code de la propriété intellectuelle - art. R331-65
 
 _Cité par_:
 
@@ -39135,27 +39262,28 @@ _Créé par_:
 
 ###### Article R422-51-12
 
-Le liquidateur peut être choisi parmi les associés.
+Le liquidateur peut être choisi parmi les associés. 
 
-Plusieurs liquidateurs peuvent être désignés.
+Plusieurs liquidateurs peuvent être désignés. 
 
-Le liquidateur peut être remplacé pour cause d'empêchement, ou pour tout autre motif grave, par le président du tribunal de
-grande instance du lieu du siège social de la société, statuant en référé à la demande du liquidateur lui-même, des associés
-ou de leurs ayants droit, ou du directeur général de l'Institut national de la propriété industrielle.
+Le liquidateur peut être remplacé pour cause d'empêchement, ou pour tout autre motif grave, par le président du   tribunal
+judiciaire du lieu du siège social de la société, statuant en référé à la demande du liquidateur lui-même, des associés ou de
+leurs ayants droit, ou du directeur général de l'Institut national de la propriété industrielle.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R422-51-13
@@ -40427,11 +40555,16 @@ _Modifié par_:
 ###### Article R512-6
 
 A la réception du dépôt, sont mentionnés sur la déclaration : la date, le lieu et le numéro d'ordre de dépôt ou le numéro
-national prévu à l'article suivant. Un récépissé de dépôt est remis au déposant.
+national prévu à l'article suivant. Un récépissé de dépôt est remis au déposant. 
 
-Lorsque le dépôt est effectué au greffe du tribunal de commerce ou du tribunal de grande instance en tenant lieu, les pièces
-du dépôt et le montant des redevances sont transmis sans délai à l'Institut national de la propriété industrielle par le
+Lorsque le dépôt est effectué au greffe du tribunal de commerce ou du   tribunal judiciaire en tenant lieu, les pièces du
+dépôt et le montant des redevances sont transmis sans délai à l'Institut national de la propriété industrielle par le
 greffier.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -40444,9 +40577,9 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R512-7
@@ -41493,7 +41626,7 @@ _Cite_:
 
 ###### Article R521-2
 
-La saisie, descriptive ou réelle, prévue à l'article L. 521-4 est ordonnée par le président du tribunal de grande instance
+La saisie, descriptive ou réelle, prévue à l'article L. 521-4 est ordonnée par le président du   tribunal judiciaire
 compétent pour connaître du fond. 
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
@@ -41502,11 +41635,16 @@ l'étendue de la contrefaçon.
 Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
 provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -41549,34 +41687,44 @@ _Cite_:
 
 ###### Article R521-5
 
-Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
-preuve des actes de contrefaçon allégués.
+Le président du   tribunal judiciaire peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve
+des actes de contrefaçon allégués.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ##### Section 3 : Dispositions communes<a id=305></a>
 
 ###### Article D521-6
 
-Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de
+Le siège et le ressort des   tribunaux judiciaires ayant compétence exclusive pour connaître des actions en matière de
 dessins et modèles en application de l'article L. 521-3-1 du code de la propriété intellectuelle sont fixés conformément au
 tableau VI annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1204 du 9 octobre 2009 - art. 3
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L521-3-1
-  - Code de l'organisation judiciaire - art. D211-6-1 (VD)
+  - Code de l'organisation judiciaire - art. D211-6-1
 
 
 #### Chapitre II : Contentieux des dessins et modèles communautaires<a id=306></a>
@@ -41584,13 +41732,18 @@ _Cite_:
 ###### Article R522-1
 
 Les actions et demandes en matière de dessins ou modèles communautaires prévues par l'article L. 522-2 sont portées devant
-les tribunaux de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
+les   tribunaux judiciaires mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 5
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -42627,16 +42780,21 @@ _Cité par_:
 ###### Article R611-19
 
 La procédure de délivrance du brevet est suspendue à la requête écrite de toute personne qui apporte la justification qu'elle
-a intenté auprès du tribunal de grande instance une action en revendication de la propriété de la demande de brevet. 
+a intenté auprès du   tribunal judiciaire une action en revendication de la propriété de la demande de brevet. 
 
 La suspension de la procédure prend effet du jour où la justification est apportée ; toutefois, elle ne fait pas obstacle à
-l'application de l'article R. 612-39.
+l'application de l'article R. 612-39. 
 
 La procédure de délivrance du brevet est reprise dès que la décision du tribunal est passée en force de chose jugée ; elle
 peut également être reprise à tout moment sur le consentement écrit de la personne qui a intenté l'action en revendication de
 propriété de la demande de brevet ; ce consentement est irrévocable. 
 
 La suspension et la reprise de la procédure sont inscrites au Registre national des brevets.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -42646,7 +42804,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-1472 du 30 décembre 2008 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -43658,13 +43816,21 @@ _Cite_:
 La requête en indemnité tendant à la réparation du préjudice causé par la prorogation des interdictions de divulgation et de
 libre exploitation est adressée par le propriétaire de la demande de brevet au ministre chargé de la défense nationale par
 lettre recommandée avec demande d'avis de réception. La requête précise, en les chiffrant, les divers chefs de préjudice
-invoqués.
+invoqués. 
 
-Le tribunal de grande instance ne peut être saisi en vue de la fixation de l'indemnité avant l'expiration d'un délai de
-quatre mois à compter de la date de réception de la requête, sauf au cas où une décision expresse est intervenue au cours
-dudit délai.
+Le   tribunal judiciaire ne peut être saisi en vue de la fixation de l'indemnité avant l'expiration d'un délai de quatre mois
+à compter de la date de réception de la requête, sauf au cas où une décision expresse est intervenue au cours dudit délai.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R623-47 (V)
 
 _Codifié par_:
 
@@ -43674,13 +43840,9 @@ _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 21 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R623-47 (V)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R612-30
@@ -46024,20 +46186,25 @@ _Anciens textes_:
 
 ###### Article R613-32
 
-Les instances tendant à la fixation des redevances prévues à l'article L. 613-18 sont portées devant le tribunal de grande
-instance de Paris. 
+Les instances tendant à la fixation des redevances prévues à l'article L. 613-18 sont portées devant le   tribunal judiciaire
+de Paris. 
 
 Dans ces instances, l'assignation est faite à jour fixe.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-18 (V)
+  - Code de la propriété intellectuelle - art. L613-18
 
 _Codifié par_:
 
@@ -46136,19 +46303,24 @@ A la suite des notifications prévues à l'article précédent, le propriétaire
 connaître au ministre chargé de la défense nationale, par lettre recommandée avec demande d'avis de réception, ses
 prétentions quant à la rémunération de la licence accordée à l'Etat. 
 
-Le tribunal de grande instance ne peut être saisi en vue de la fixation du montant de la rémunération, en application de
-l'article L. 613-19 (quatrième alinéa), avant l'expiration d'un délai de quatre mois à compter de la date de réception de la
-lettre recommandée ci-dessus mentionnée.
+Le   tribunal judiciaire ne peut être saisi en vue de la fixation du montant de la rémunération, en application de l'article
+L. 613-19 (quatrième alinéa), avant l'expiration d'un délai de quatre mois à compter de la date de réception de la lettre
+recommandée ci-dessus mentionnée.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-19 (V)
+  - Code de la propriété intellectuelle - art. L613-19
 
 _Cité par_:
 
@@ -48023,23 +48195,28 @@ _Cité par_:
 ###### Article R615-2
 
 La saisie, descriptive ou réelle, prévue au deuxième alinéa de l'article L. 615-5 est ordonnée par le président d'un des
-tribunaux de grande instance mentionnés à l'article D. 631-2, dans le ressort duquel les opérations doivent être effectuées.
+tribunaux judiciaires mentionnés à l'article D. 631-2, dans le ressort duquel les opérations doivent être effectuées. 
 
 L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de
 protection, du certificat d'utilité ou du certificat d'addition, soit, dans le cas prévu au premier alinéa de l'article L.
 615-4, d'une copie certifiée conforme de la demande de brevet, de certificat complémentaire de protection, de certificat
 d'utilité ou de certificat d'addition. Dans ce dernier cas, le requérant doit justifier en outre que les conditions prévues à
-cet article sont remplies.
+cet article sont remplies. 
 
 Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
 octroyée en vertu des articles L. 613-11, L. 613-15, L. 613-17, L. 613-17-1 et L. 613-19, le requérant doit justifier que les
-conditions prescrites, selon le cas, par le deuxième ou le quatrième alinéa de l'article L. 615-2 sont remplies.
+conditions prescrites, selon le cas, par le deuxième ou le quatrième alinéa de l'article L. 615-2 sont remplies. 
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
-l'étendue de la contrefaçon.
+l'étendue de la contrefaçon. 
 
 Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
 provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -48054,11 +48231,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. D631-2
+  - Code de la propriété intellectuelle - art. D631-2 (VD)
   - Code de la propriété intellectuelle - art. L613-11
   - Code de la propriété intellectuelle - art. L615-2
   - Code de la propriété intellectuelle - art. L615-4
@@ -49988,10 +50165,15 @@ _Codifié par_:
 ###### Article R623-18
 
 Les contestations relatives au bien-fondé du droit de l'obtenteur sur la variété pour laquelle un certificat d'obtention
-végétale est demandé sont portées directement devant les tribunaux de grande instance et, dans les territoires d'outre-mer,
-les tribunaux de première instance.
+végétale est demandé sont portées directement devant les   tribunaux judiciaires et, dans les territoires d'outre-mer, les
+tribunaux de première instance. 
 
 Elles font l'objet d'une inscription au registre.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -50003,9 +50185,9 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R623-19
@@ -50105,10 +50287,10 @@ _Codifié par_:
 
 ###### Article R623-23
 
-L'instruction est suspendue à la requête écrite de toute personne qui apporte la preuve qu'elle a intenté auprès du tribunal
-de grande instance ou, dans les territoires d'outre-mer, du tribunal de première instance une action en revendication de la
+L'instruction est suspendue à la requête écrite de toute personne qui apporte la preuve qu'elle a intenté auprès du
+tribunal judiciaire ou, dans les territoires d'outre-mer, du tribunal de première instance une action en revendication de la
 propriété de la demande de certificat d'obtention végétale. Toutefois, les essais décidés par le responsable des missions
-relevant de l'instance nationale des obtentions végétales peuvent être effectués.
+relevant de l'instance nationale des obtentions végétales peuvent être effectués. 
 
 L'instruction est reprise dès que la décision du tribunal est passée en force de chose jugée. Elle peut être également
 reprise à tout moment sur le consentement écrit de la personne qui a intenté l'action en revendication. Ce consentement est
@@ -50116,19 +50298,24 @@ alors irrévocable. Pendant cette période, le titulaire de la demande ne peut r
 l'auteur de l'action en revendication. De plus, celui-ci est appelé à participer à l'instruction au même titre que le
 titulaire de la demande.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 23
 
-_Modifié par_:
-
-  - Décret n°2014-731 du 27 juin 2014 - art. 3
-
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R623-24
@@ -51000,22 +51187,27 @@ _Cite_:
 
 ###### Article R623-51
 
-La saisie, descriptive ou réelle, prévue à l'article L. 623-27-1 est ordonnée par le président de l'un des tribunaux de
-grande instance mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées.
+La saisie, descriptive ou réelle, prévue à l'article L. 623-27-1 est ordonnée par le président de l'un des   tribunaux
+judiciaires mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées. 
 
 L'ordonnance est rendue sur simple requête et sur la présentation du certificat d'obtention végétale, soit dans le cas prévu
 à l'article L. 623-26, d'une copie certifiée conforme de la demande de certificat d'obtention végétale. Dans ce dernier cas,
-le demandeur doit justifier en outre que les conditions prévues audit article L. 623-26 sont remplies.
+le demandeur doit justifier en outre que les conditions prévues audit article L. 623-26 sont remplies. 
 
 Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
 octroyée en vertu des articles L. 623-17 ou L. 623-20, le requérant doit justifier que les conditions de l'article L. 623-25
-sont remplies.
+sont remplies. 
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
-l'étendue de la contrefaçon.
+l'étendue de la contrefaçon. 
 
 Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
 provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -51025,11 +51217,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. D631-1
+  - Code de la propriété intellectuelle - art. D631-1 (VD)
   - Code de la propriété intellectuelle - art. L623-17
   - Code de la propriété intellectuelle - art. L623-20
   - Code de la propriété intellectuelle - art. L623-25
@@ -51095,14 +51287,19 @@ _Cite_:
 
 ###### Article R623-53-1
 
-Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
-preuve des actes de contrefaçon allégués.
+Le président du   tribunal judiciaire peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve
+des actes de contrefaçon allégués.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R623-54
@@ -51289,16 +51486,16 @@ _Cité par_:
 
 ###### Article D631-1
 
-Ainsi qu'il est dit à l'article D. 211-5 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande
-instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de
-la propriété intellectuelle sont fixés conformément au tableau V annexé au code de l'organisation judiciaire, ci-après
+Ainsi qu'il est dit à l'article D. 211-5 du code de l'organisation judiciaire, le siège et le ressort des   tribunaux
+judiciaires appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code
+de la propriété intellectuelle sont fixés conformément au tableau V annexé au code de l'organisation judiciaire, ci-après
 reproduit : 
 
-Siège et ressort des tribunaux de grande instance compétents pour connaître des actions 
+Siège et ressort des   tribunaux judiciaires compétents pour connaître des actions 
 
 en matière d'obtentions végétales (annexe de l'article D. 211-5) 
 
-<table width="700" border="1" cellpadding="0">
+<table border="1" cellpadding="0" width="700">
   <tbody>
     <tr>
       <td>
@@ -51506,21 +51703,26 @@ Ressort des cours d'appel de Montpellier, Pau et Toulouse.
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-1878 du 14 décembre 2011 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L623-31
   - Code de l'organisation judiciaire - art. Annexe Tableau V
-  - Code de l'organisation judiciaire - art. D211-5 (V)
+  - Code de l'organisation judiciaire - art. D211-5
 
 _Cité par_:
 
-  - Code de la propriété intellectuelle - art. R623-51 (V)
+  - Code de la propriété intellectuelle - art. R623-51 (VD)
 
 _Anciens textes_:
 
@@ -51529,16 +51731,21 @@ _Anciens textes_:
 
 ###### Article D631-2
 
-Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de
+Le siège et le ressort des   tribunaux judiciaires ayant compétence exclusive pour connaître des actions en matière de
 brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits
 semi-conducteurs en application des articles L. 611-2, L. 615-17 et L. 622-7 du code de la propriété intellectuelle sont
 fixés conformément à l'article D. 211-6 du code de l'organisation judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1205 du 9 octobre 2009 - art. 6
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -51549,7 +51756,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la propriété intellectuelle - art. R615-2 (M)
+  - Code de la propriété intellectuelle - art. R615-2 (VT)
 
 _Anciens textes_:
 
@@ -51823,11 +52030,20 @@ le numéro national prévu à l'article R. 712-6.
 
 Un récépissé du dépôt est remis au déposant. 
 
-Lorsque le dépôt est effectué au greffe du tribunal de commerce ou du tribunal de grande instance en tenant lieu, les pièces
-du dépôt et le montant des redevances sont transmis sans délai à l'Institut national de la propriété industrielle par le
+Lorsque le dépôt est effectué au greffe du tribunal de commerce ou du   tribunal judiciaire en tenant lieu, les pièces du
+dépôt et le montant des redevances sont transmis sans délai à l'Institut national de la propriété industrielle par le
 greffier.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R712-6
 
 _Codifié par_:
 
@@ -51837,13 +52053,9 @@ _Anciens textes_:
 
   - Décret n°92-100 du 30 janvier 1992 - art. 5 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R712-6 (V)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R712-6
@@ -53167,20 +53379,25 @@ _Cité par_:
 
 ###### Article R716-2
 
-La saisie, descriptive ou réelle, prévue à l'article L. 716-7 est ordonnée par le président du tribunal de grande instance
-compétent pour connaître du fond.
+La saisie, descriptive ou réelle, prévue à l'article L. 716-7 est ordonnée par le président du   tribunal judiciaire
+compétent pour connaître du fond. 
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
-l'étendue de la contrefaçon.
+l'étendue de la contrefaçon. 
 
 Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
 provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -53267,20 +53484,25 @@ _Cite_:
 
 ###### Article D716-12
 
-Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de
+Le siège et le ressort des   tribunaux judiciaires ayant compétence exclusive pour connaître des actions en matière de
 marques en application de l'article L. 716-3 du code de la propriété intellectuelle sont fixés conformément au tableau VI
 annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1204 du 9 octobre 2009 - art. 4
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L716-3
-  - Code de l'organisation judiciaire - art. D211-6-1 (VD)
+  - Code de l'organisation judiciaire - art. D211-6-1
 
 
 #### Chapitre VII : Marque internationale et marque communautaire<a id=377></a>
@@ -53631,14 +53853,19 @@ _Codifié par_:
 
 ###### Article R717-11
 
-Les actions et demandes en matière de marques communautaires prévues par l'article L. 717-4 sont portées devant les tribunaux
-de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
+Les actions et demandes en matière de marques communautaires prévues par l'article L. 717-4 sont portées devant les
+tribunaux judiciaires mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -54258,15 +54485,20 @@ _Cite_:
 
 ###### Article D722-6
 
-Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière
+Le siège et le ressort des   tribunaux judiciaires ayant compétence exclusive pour connaître des actions en matière
 d'indications géographiques en application de l'article L. 722-8 du code de la propriété intellectuelle sont fixés
 conformément au tableau VI annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2015-427 du 15 avril 2015 - art. 7
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -54293,20 +54525,25 @@ _Cite_:
 
 ###### Article R722-2
 
-La saisie, descriptive ou réelle, prévue à l'article L. 722-4 est ordonnée par le président du tribunal de grande instance
-compétent pour connaître du fond.
+La saisie, descriptive ou réelle, prévue à l'article L. 722-4 est ordonnée par le président du   tribunal judiciaire
+compétent pour connaître du fond. 
 
 Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
-l'étendue de l'atteinte à une indication géographique.
+l'étendue de l'atteinte à une indication géographique. 
 
 Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
 provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -54348,14 +54585,19 @@ _Cite_:
 
 ###### Article R722-5
 
-Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
-preuve des actes portant prétendument atteinte à une indication géographique.
+Le président du   tribunal judiciaire peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve
+des actes portant prétendument atteinte à une indication géographique.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ##### Section 2 : La retenue<a id=387></a>
@@ -54631,33 +54873,38 @@ _Cite_:
 Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer, les mots suivants
 énumérés ci-dessous sont respectivement remplacés par les mots suivants :
 
-- "tribunal de grande instance" par "tribunal de première instance" ;
+- " tribunal de grande instance " par " tribunal de première instance " ;
 
-- "juge d'instance" par "juge du tribunal de première instance" ;
+- "   juge du tribunal judiciaire " par " juge du tribunal de première instance " ;
 
-- "région" par "territoire" et, en ce qui concerne Mayotte, par "collectivité départementale" ;
+- " région " par " territoire " et, en ce qui concerne Mayotte, par " collectivité départementale " ;
 
-- "cour d'appel" par "tribunal supérieur d'appel" et "commissaire de police" par "officier de police judiciaire" en ce qui
-concerne Mayotte ;
+- " cour d'appel " par " tribunal supérieur d'appel " et " commissaire de police " par " officier de police judiciaire " en
+ce qui concerne Mayotte ;
 
-- "tribunal de commerce" par "tribunal de première instance statuant en matière commerciale" en ce qui concerne Mayotte et
-"tribunal mixte de commerce" en ce qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie française et de
-Wallis-et-Futuna ;
+- " tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " en ce qui concerne Mayotte
+et " tribunal mixte de commerce " en ce qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie française et
+de Wallis-et-Futuna ;
 
-- "conseil de prud'hommes" par "tribunal du travail".
+- " conseil de prud'hommes " par " tribunal du travail ". 
 
 Pour l'application du présent code aux collectivités d'outre-mer, toute référence au code des douanes est remplacée par la
 référence aux codes des douanes applicables à ces collectivités, ayant le même objet.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-953 du 31 octobre 2018 - art. 18
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R811-1 (VT)
-  - Code de la propriété intellectuelle - art. R811-2 (V)
+  - Code de la propriété intellectuelle - art. R811-2 (M)
 
 
