@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-01-01 00:00:01 +0100
+Version Consolidée au 2020-01-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -331,7 +331,7 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#78)
             - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#327)
             - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#328)
             - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#329)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#330)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#330)
             - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#331)
           - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#332)
         - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#333)
@@ -15646,16 +15646,24 @@ Les titres de propriété industrielle protégeant les inventions sont :
 
 1° Les brevets d'invention, délivrés pour une durée de vingt ans à compter du jour du dépôt de la demande ; 
 
-2° Les certificats d'utilité, délivrés pour une durée de six ans à compter du jour du dépôt de la demande ; 
+2° Les certificats d'utilité, délivrés pour une durée de dix ans à compter du jour du dépôt de la demande ; 
 
 3° Les certificats complémentaires de protection rattachés à un brevet dans les conditions prévues à l'article L. 611-3,
 prenant effet au terme légal du brevet auquel ils se rattachent pour une durée ne pouvant excéder sept ans à compter de ce
 terme et dix-sept ans à compter de la délivrance de l'autorisation de mise sur le marché mentionnée à ce même article. 
 
 Les dispositions du présent livre concernant les brevets sont applicables aux certificats d'utilité à l'exception de celles
-prévues aux articles L. 612-14, L. 612-15 et au premier alinéa de l'article L. 612-17. Elles le sont également aux
+prévues à l'article L. 612-14 et au premier alinéa des articles L. 612-15 et L. 612-17. Elles le sont également aux
 certificats complémentaires de protection à l'exception de celles prévues aux articles L. 611-12, L. 612-1 à L. 612-10, L.
 612-12 à L. 612-15, L. 612-17, L. 612-20, L. 613-1 et L. 613-25.
+
+**Nota:**
+
+Conformément au II de l’article 118 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à la
+date de publication du texte réglementaire prévu au second alinéa de l'article L. 612-15, et au plus tard à l'expiration du
+douzième mois suivant la publication de la présente loi.
+
+Le décret n°2020-15 a été publié le 10 janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -15666,11 +15674,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
@@ -15688,16 +15692,22 @@ _Cité par_:
   - Code de la santé publique - art. L5141-2 (V)
   - Code de la santé publique - art. L601-6 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 118 (V)
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L611-12 (V)
-  - Code de la propriété intellectuelle - art. L612-1 (V)
-  - Code de la propriété intellectuelle - art. L612-12 (V)
-  - Code de la propriété intellectuelle - art. L612-14 (V)
+  - Code de la propriété intellectuelle - art. L611-12
+  - Code de la propriété intellectuelle - art. L611-3 (V)
+  - Code de la propriété intellectuelle - art. L612-1
+  - Code de la propriété intellectuelle - art. L612-12 (VD)
+  - Code de la propriété intellectuelle - art. L612-14
+  - Code de la propriété intellectuelle - art. L612-15 (VT)
   - Code de la propriété intellectuelle - art. L612-17 (V)
-  - Code de la propriété intellectuelle - art. L612-20 (V)
-  - Code de la propriété intellectuelle - art. L613-1 (V)
-  - Code de la propriété intellectuelle - art. L613-25 (V)
+  - Code de la propriété intellectuelle - art. L612-20
+  - Code de la propriété intellectuelle - art. L613-1
+  - Code de la propriété intellectuelle - art. L613-25
 
 
 ###### Article L611-3
@@ -45383,26 +45393,20 @@ _Créé par_:
 
 ###### Article R612-26
 
-Des délégués du ministre chargé de la défense nationale, spécialement habilités à cet effet et dont les noms et qualités ont
-été portés à la connaissance du ministre chargé de la propriété industrielle par le ministre chargé de la défense nationale
-prennent connaissance dans les locaux de l'Institut national de la propriété industrielle des demandes de brevet déposées.
-
-Celles-ci leur sont présentées dans le délai de quinze jours à compter de la date de leur réception à l'Institut national de
-la propriété industrielle.
+Des délégués du ministre de la défense, spécialement habilités à cet effet et dont les noms et qualités ont été portés à la
+connaissance du ministre chargé de la propriété industrielle par le ministre de la défense prennent connaissance dans les
+locaux de l'Institut national de la propriété industrielle des demandes de brevet déposées. Celles-ci leur sont présentées
+dans le délai de quinze jours à compter de la date de leur réception à l'Institut national de la propriété industrielle.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
 
 _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 18 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cité par_:
 
@@ -45415,30 +45419,20 @@ _Cité par_:
 La demande d'autorisation de divulguer et d'exploiter librement l'invention objet d'une demande de brevet, avant le terme du
 délai de cinq mois prévu à l'article L. 612-9, est formulée auprès de l'Institut national de la propriété industrielle ; elle
 peut l'être dès le dépôt de la demande de brevet. L'autorisation est notifiée au demandeur par le ministre chargé de la
-propriété industrielle. 
+propriété industrielle.
 
 En l'absence d'une telle autorisation et à tout moment, une demande d'autorisation particulière en vue d'accomplir des actes
-déterminés d'exploitation peut être adressée directement par le demandeur de brevet au ministre chargé de la défense
-nationale. Celui-ci, s'il accorde l'autorisation sollicitée, précise les conditions auxquelles ces actes d'exploitation sont
-soumis. 
+déterminés d'exploitation peut être adressée directement par le demandeur de brevet au ministre de la défense. Celui-ci, s'il
+accorde l'autorisation sollicitée, précise les conditions auxquelles ces actes d'exploitation sont soumis.
 
 Si l'autorisation particulière porte sur la cession de la demande de brevet ou sur la concession d'une licence
-d'exploitation, le ministre chargé de la défense nationale notifie copie de sa décision au ministre chargé de la propriété
-industrielle.
+d'exploitation, le ministre de la défense notifie copie de sa décision au ministre chargé de la propriété industrielle.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
 
 _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 19 (Ab)
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 _Cité par_:
 
@@ -45446,53 +45440,52 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-28 (V)
   - Code de la propriété intellectuelle - art. R612-44 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-9 (V)
-
-
-###### Article R612-28
-
-La réquisition adressée au ministre chargé de la propriété industrielle par le ministre chargé de la défense nationale aux
-fins de prorogation des interdictions de divulgation et de libre exploitation d'une invention objet de demande de brevet doit
-parvenir à l'Institut national de la propriété industrielle au plus tard quinze jours avant le terme du délai de cinq mois
-rappelé à l'article R. 612-27. 
-
-Toute réquisition aux fins de renouvellement d'une prorogation doit parvenir dans les mêmes conditions au plus tard quinze
-jours avant l'expiration de la période d'un an en cours. 
-
-La prorogation des interdictions de divulgation et de libre exploitation est prononcée par arrêté du ministre chargé de la
-propriété industrielle et notifiée au déposant avant le terme de la période d'interdiction en cours. 
-
-L'arrêté peut contenir des dispositions particulières autorisant, sous certaines conditions, le dépôt à l'étranger des
-demandes de protection de l'invention. Une demande à cet effet doit avoir été adressée par le titulaire de la demande de
-brevet au ministre chargé de la défense nationale, qui fait part de sa décision au ministre chargé de la propriété
-industrielle. 
-
-Des autorisations particulières en vue d'accomplir des actes déterminés d'exploitation peuvent être accordées dans les
-conditions prévues aux deuxième et troisième alinéas de l'article R. 612-27. 
-
-Le ministre chargé de la défense nationale peut faire connaître à tout moment au ministre chargé de la propriété industrielle
-la levée des interdictions prorogées en application de l'article L. 612-10. Cette mesure fait l'objet d'un arrêté du ministre
-chargé de la propriété industrielle notifié au titulaire de la demande de brevet.
-
-**Liens relatifs à cet article**
+  - Code de la propriété intellectuelle - art. L612-9
 
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
+
+###### Article R612-28
+
+La réquisition adressée au ministre chargé de la propriété industrielle par le ministre de la défense aux fins de prorogation
+des interdictions de divulgation et de libre exploitation d'une invention objet de demande de brevet doit parvenir à
+l'Institut national de la propriété industrielle au plus tard quinze jours avant le terme du délai de cinq mois rappelé à
+l'article R. 612-27.
+
+Toute réquisition aux fins de renouvellement d'une prorogation doit parvenir dans les mêmes conditions au plus tard quinze
+jours avant l'expiration de la période d'un an en cours.
+
+La prorogation des interdictions de divulgation et de libre exploitation est prononcée par arrêté du ministre chargé de la
+propriété industrielle et notifiée au déposant avant le terme de la période d'interdiction en cours.
+
+L'arrêté peut contenir des dispositions particulières autorisant, sous certaines conditions, le dépôt à l'étranger des
+demandes de protection de l'invention. Une demande à cet effet doit avoir été adressée par le titulaire de la demande de
+brevet au ministre de la défense, qui fait part de sa décision au ministre chargé de la propriété industrielle.
+
+Des autorisations particulières en vue d'accomplir des actes déterminés d'exploitation peuvent être accordées dans les
+conditions prévues aux deuxième et troisième alinéas de l'article R. 612-27.
+
+Le ministre de la défense peut faire connaître à tout moment au ministre chargé de la propriété industrielle la levée des
+interdictions prorogées en application de l'article L. 612-10. Cette mesure fait l'objet d'un arrêté du ministre chargé de la
+propriété industrielle notifié au titulaire de la demande de brevet.
+
+**Liens relatifs à cet article**
+
 _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 20 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cite_:
 
@@ -45503,19 +45496,21 @@ _Cite_:
 ###### Article R612-29
 
 La requête en indemnité tendant à la réparation du préjudice causé par la prorogation des interdictions de divulgation et de
-libre exploitation est adressée par le propriétaire de la demande de brevet au ministre chargé de la défense nationale par
-lettre recommandée avec demande d'avis de réception. La requête précise, en les chiffrant, les divers chefs de préjudice
-invoqués. 
+libre exploitation est adressée par le propriétaire de la demande de brevet au     ministre de la défense par lettre
+recommandée avec demande d'avis de réception. La requête précise, en les chiffrant, les divers chefs de préjudice invoqués. 
 
-Le   tribunal judiciaire ne peut être saisi en vue de la fixation de l'indemnité avant l'expiration d'un délai de quatre mois
-à compter de la date de réception de la requête, sauf au cas où une décision expresse est intervenue au cours dudit délai.
-
-**Nota:**
-
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
+Le tribunal judiciaire ne peut être saisi en vue de la fixation de l'indemnité avant l'expiration d'un délai de quatre mois à
+compter de la date de réception de la requête, sauf au cas où une décision expresse est intervenue au cours dudit délai.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-822 du 19 septembre 1979 - art. 21 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cité par_:
 
@@ -45524,14 +45519,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
-
-_Anciens textes_:
-
-  - Décret n°79-822 du 19 septembre 1979 - art. 21 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R612-30
@@ -45567,10 +45554,16 @@ _Cite_:
 Si les interdictions de divulgation et de libre exploitation prennent fin plus d'une année après la date du dépôt, la demande
 ne peut être rendue publique dans les conditions prévues à l'article R. 612-39 qu'après l'expiration d'un délai de six mois à
 compter du terme de l'application des mesures d'interdiction, sauf si dans ce délai le demandeur a présenté la requête prévue
-à l'article R. 612-39. 
+à l'article R. 612-39.
 
 Le demandeur dispose d'un délai de six mois à compter du terme des mesures d'interdiction pour requérir l'établissement du
-rapport de recherche ou la transformation de sa demande de brevet en demande de certificat d'utilité.
+rapport de recherche ou la transformation de sa demande de brevet en demande de certificat d'utilité ou la transformation de
+sa demande de certificat d'utilité en demande de brevet.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 6 du décret n° 2020-15 du 8 juillet 2020, ces dispositions sont applicables
+aux demandes de certificat d'utilité déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -45578,16 +45571,17 @@ _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 23 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2020-15 du 8 janvier 2020 - art. 2
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R612-39 (V)
+  - Code de la propriété intellectuelle - art. R612-39
 
 _Cité par_:
 
+  - Code de la propriété intellectuelle - art. R612-53 (V)
   - Code de la propriété intellectuelle - art. R614-25 (V)
   - Code de la propriété intellectuelle - art. R614-4 (V)
 
@@ -46094,13 +46088,18 @@ La demande de brevet est rejetée si :
 1° Elle n'a pas été complétée dans les délais prévus aux articles R. 612-8 (cinquième alinéa), R. 612-11 (sixième alinéa), R.
 612-21 et R. 612-35 (sixième alinéa) ; 
 
-2° Les redevances de dépôt et de rapport de recherche visées à l'article R. 612-5 n'ont pas été acquittées dans le délai
-prescrit. 
+2° Les redevances de dépôt et de rapport de recherche mentionnées aux articles R. 612-5 et R. 612-54 n'ont pas été acquittées
+dans le délai prescrit. 
 
 La décision de rejet est notifiée au demandeur qui dispose d'un délai de deux mois à compter de la date de réception de la
 notification pour présenter des observations ou payer les redevances exigibles visées au 2° du présent article en acquittant
 la redevance correspondante majorée du supplément prescrit. La décision de rejet est définitive si le demandeur n'a, dans le
 délai prescrit, ni contesté l'irrégularité ou le défaut de paiement ni acquitté la redevance majorée d'un supplément.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 6 du décret n° 2020-15 du 8 juillet 2020, ces dispositions sont applicables
+aux demandes de certificat d'utilité déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -46111,7 +46110,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-1472 du 30 décembre 2008 - art. 9
+  - Décret n°2020-15 du 8 janvier 2020 - art. 2
 
 _Cite_:
 
@@ -46119,6 +46118,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-21
   - Code de la propriété intellectuelle - art. R612-35
   - Code de la propriété intellectuelle - art. R612-5
+  - Code de la propriété intellectuelle - art. R612-54
   - Code de la propriété intellectuelle - art. R612-8
 
 _Cité par_:
@@ -46356,6 +46356,80 @@ _Codifié par_:
 
 
 ##### Sous-section 5 : Etablissement du rapport de recherche<a id=330></a>
+
+###### Article R612-53
+
+Sous réserve des dispositions de l'article R. 612-31, la requête en transformation de la demande de certificat d'utilité en
+demande de brevet est formulée par écrit à tout moment pendant le délai de dix-huit mois à compter du dépôt de la demande de
+certificat d'utilité ou de la date de priorité si une priorité a été revendiquée et, en tout état de cause, avant le début
+des préparatifs techniques, prévus à l'article R. 612-39, entrepris en vue de la publication de la demande de certificat
+d'utilité.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 6 du décret n° 2020-15 du 8 juillet 2020, ces dispositions sont applicables
+aux demandes de certificat d'utilité déposées à compter du lendemain de la publication dudit décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-822 du 19 septembre 1979 - art. 40 (M)
+  - Décret n°79-822 du 19 septembre 1979 - art. 40 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 2
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R612-31 (V)
+  - Code de la propriété intellectuelle - art. R612-39
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R616-3 (M)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+
+###### Article R612-54
+
+Lorsque la demande de brevet est issue de la transformation d'une demande de certificat d'utilité conformément aux
+dispositions du deuxième alinéa de l'article L. 612-15, la redevance de rapport de recherche doit être acquittée dans un
+délai d'un mois à compter de la date de réception de la requête en transformation.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 6 du décret n° 2020-15 du 8 juillet 2020, ces dispositions sont applicables
+aux demandes de certificat d'utilité déposées à compter du lendemain de la publication dudit décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Anciens textes_:
+
+  - Décret n°79-822 du 19 septembre 1979 - art. 41 (M)
+  - Décret n°79-822 du 19 septembre 1979 - art. 41 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 2
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L612-15
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R612-45 (V)
+  - Code de la propriété intellectuelle - art. R612-55 (V)
+
 
 ###### Article R612-55
 
@@ -47942,9 +48016,9 @@ _Anciens textes_:
 
 ###### Article R613-34
 
-La demande adressée par le ministre chargé de la défense nationale au ministre chargé de la propriété industrielle en vue
-d'obtenir, en application de l'article L. 613-19, une licence d'office pour les besoins de la défense nationale, comporte
-toutes précisions utiles sur les conditions nécessaires à la satisfaction de ces besoins et se rapportant en particulier : 
+La demande adressée par le     ministre de la défense au ministre chargé de la propriété industrielle en vue d'obtenir, en
+application de l'article L. 613-19, une licence d'office pour les besoins de la défense nationale, comporte toutes précisions
+utiles sur les conditions nécessaires à la satisfaction de ces besoins et se rapportant en particulier : 
 
 1° Au caractère total ou partiel de la licence en ce qui concerne les applications de l'invention, objet de la demande de
 brevet ou du brevet ; 
@@ -47956,13 +48030,13 @@ les perfectionnements ou modifications apportés par l'un d'eux à l'invention.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-19 (V)
+  - Code de la propriété intellectuelle - art. L613-19
 
 _Codifié par_:
 
@@ -47977,9 +48051,9 @@ _Anciens textes_:
 
 L'arrêté du ministre chargé de la propriété industrielle accordant la licence en fixe les conditions compte tenu des éléments
 de la demande ci-dessus précisés. Il est immédiatement notifié par le ministre chargé de la propriété industrielle au
-ministre chargé de la défense nationale et au propriétaire de la demande de brevet ou du brevet. Il est inscrit d'office au
-Registre national des brevets. S'il s'agit d'une demande de brevet, il n'est procédé à l'inscription qu'après que ladite
-demande a été rendue publique.
+ministre de la défense et au propriétaire de la demande de brevet ou du brevet. Il est inscrit d'office au Registre national
+des brevets. S'il s'agit d'une demande de brevet, il n'est procédé à l'inscription qu'après que ladite demande a été rendue
+publique.
 
 **Liens relatifs à cet article**
 
@@ -47987,9 +48061,9 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Anciens textes_:
 
@@ -47999,23 +48073,18 @@ _Anciens textes_:
 ###### Article R613-36
 
 A la suite des notifications prévues à l'article précédent, le propriétaire de la demande de brevet ou du brevet fait
-connaître au ministre chargé de la défense nationale, par lettre recommandée avec demande d'avis de réception, ses
-prétentions quant à la rémunération de la licence accordée à l'Etat. 
+connaître au ministre de la défense, par lettre recommandée avec demande d'avis de réception, ses prétentions quant à la
+rémunération de la licence accordée à l'Etat.
 
-Le   tribunal judiciaire ne peut être saisi en vue de la fixation du montant de la rémunération, en application de l'article
-L. 613-19 (quatrième alinéa), avant l'expiration d'un délai de quatre mois à compter de la date de réception de la lettre
+Le tribunal judiciaire ne peut être saisi en vue de la fixation du montant de la rémunération, en application de l'article L.
+613-19 (quatrième alinéa), avant l'expiration d'un délai de quatre mois à compter de la date de réception de la lettre
 recommandée ci-dessus mentionnée.
-
-**Nota:**
-
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cite_:
 
@@ -48050,26 +48119,26 @@ présentent un caractère secret, les décisions de la juridiction saisie ne con
 lesdites applications et sont soumises aux dispositions de l'alinéa 2 ci-dessus. 
 
 Si une expertise est ordonnée dans les cas visés aux alinéas 1 et 3 du présent article, elle ne peut être effectuée que par
-des personnes agréées par le ministre chargé de la défense nationale et, si besoin est, devant ses représentants.
+des personnes agréées par le     ministre de la défense et, si besoin est, devant ses représentants.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
-
-_Créé par_:
-
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-9 (V)
+  - Code de la propriété intellectuelle - art. L612-9
 
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. R613-38 (V)
   - Code de la propriété intellectuelle - art. R613-41 (V)
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
+
+_Modifié par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Anciens textes_:
 
@@ -48189,20 +48258,20 @@ de nature à en entraîner la divulgation.
 Les débats ont lieu et les décisions sont rendues en séance non publique. Seuls les parties ou leurs mandataires peuvent
 recevoir communication de la décision intervenue. 
 
-Si une expertise est ordonnée, elle ne peut être effectuée que par des personnes agréées par le ministre chargé de la défense
-nationale et, si besoin est, devant ses représentants.
+Si une expertise est ordonnée, elle ne peut être effectuée que par des personnes agréées par le     ministre de la défense
+et, si besoin est, devant ses représentants.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-10 (V)
-  - Code de la propriété intellectuelle - art. L613-19 (V)
-  - Code de la propriété intellectuelle - art. L613-20 (V)
+  - Code de la propriété intellectuelle - art. L612-10
+  - Code de la propriété intellectuelle - art. L613-19
+  - Code de la propriété intellectuelle - art. L613-20
 
 _Cité par_:
 
@@ -50104,7 +50173,7 @@ proposées par les organisations d'employeurs.
 
 Si l'invention intéresse la défense nationale ou est issue d'un contrat d'étude ou de fabrication comportant une
 classification de sécurité de défense, les assesseurs doivent avoir fait l'objet d'une habilitation préalable par le ministre
-chargé de la défense. Il en est de même des experts commis ou des techniciens consultés.
+de la défense. Il en est de même des experts commis ou des techniciens consultés.
 
 **Liens relatifs à cet article**
 
@@ -50113,10 +50182,9 @@ _Anciens textes_:
   - Décret n°79-797 du 4 septembre 1979 - art. 12 (Ab)
   - Code de la propriété intellectuelle - art. R615-4 (M)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
-  - TRANSFERE: Décret n°2018-429 du 31 mai 2018 - art. 4
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Nouveaux textes_:
 
@@ -50828,8 +50896,13 @@ _Créé par_:
 ###### Article R616-3
 
 Les dispositions des chapitres Ier, II, III, V, VI et VIII du présent titre sont applicables aux demandes de certificat
-d'utilité et aux certificats d'utilité, à l'exception des articles R. 612-53 à R. 612-69, du troisième alinéa de l'article R.
-612-71 et des articles R. 613-60 à R. 613-62.
+d'utilité et aux certificats d'utilité, à l'exception des articles R. 612-56-1 à R. 612-69, du troisième alinéa de l'article
+R. 612-71 et des articles R. 613-60 à R. 613-62.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 6 du décret n° 2020-15 du 8 juillet 2020, ces dispositions sont applicables
+aux demandes de certificat d'utilité déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -50840,13 +50913,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-1472 du 30 décembre 2008 - art. 17
+  - Décret n°2020-15 du 8 janvier 2020 - art. 2
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R612-53 (Ab)
-  - Code de la propriété intellectuelle - art. R612-71 (V)
-  - Code de la propriété intellectuelle - art. R613-60 (V)
+  - Code de la propriété intellectuelle - art. R612-56-1
+  - Code de la propriété intellectuelle - art. R612-71
+  - Code de la propriété intellectuelle - art. R613-60
 
 
 #### Chapitre VII : Le certificat complémentaire de protection<a id=355></a>
@@ -52648,19 +52721,17 @@ _Créé par_:
 
 ###### Article R623-43
 
-Des délégués du ministre chargé de la défense nationale, spécialement habilités à cet effet et dont les noms et qualités ont
-été portés à la connaissance du ministre chargé de l'agriculture par le ministre chargé de la défense nationale, prennent
-connaissance, dans les locaux de l'instance nationale des obtentions végétales, des demandes de certificat d'obtention
-végétale déposées. 
+Des délégués du     ministre de la défense, spécialement habilités à cet effet et dont les noms et qualités ont été portés à
+la connaissance du ministre chargé de l'agriculture par le     ministre de la défense, prennent connaissance, dans les locaux
+de l'instance nationale des obtentions végétales, des demandes de certificat d'obtention végétale déposées. 
 
 Celles-ci sont présentées, dans le délai de quinze jours à compter de la date de leur réception, par le responsable de
 l'instance nationale des obtentions végétales. 
 
-Lorsque la demande est formulée par les délégués du ministre chargé de la défense nationale, le responsable des missions
-relevant de l'instance nationale des obtentions végétales doit, s'il ne l'a déjà fait, inviter l'obtenteur ou son ayant cause
-à fournir dans les plus courts délais compatibles avec le mode de reproduction ou de multiplication végétative de la variété,
-le matériel visé au 3° de l'article R. 623-25 et le communiquer dès sa réception aux délégués du ministre chargé de la
-défense nationale.
+Lorsque la demande est formulée par les délégués du     ministre de la défense, le responsable des missions relevant de
+l'instance nationale des obtentions végétales doit, s'il ne l'a déjà fait, inviter l'obtenteur ou son ayant cause à fournir
+dans les plus courts délais compatibles avec le mode de reproduction ou de multiplication végétative de la variété, le
+matériel visé au 3° de l'article R. 623-25 et le communiquer dès sa réception aux délégués du     ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -52670,11 +52741,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2014-731 du 27 juin 2014 - art. 8
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R623-25 (V)
+  - Code de la propriété intellectuelle - art. R623-25
 
 _Codifié par_:
 
@@ -52723,16 +52794,15 @@ _Cité par_:
 La demande d'autorisation de divulguer et d'exploiter librement une obtention appartenant à l'une des espèces visées à
 l'article ci-dessus avant le terme du délai prévu à l'article L. 623-9 doit être formulée auprès du responsable des missions
 relevant de l'instance nationale des obtentions végétales ; elle peut l'être dès le dépôt de la demande de certificat.
-L'autorisation est notifiée au déposant par le ministre chargé de l'agriculture sur avis du ministre chargé de la défense
-nationale. 
+L'autorisation est notifiée au déposant par le ministre chargé de l'agriculture sur avis du     ministre de la défense. 
 
 En l'absence d'une telle autorisation et à tout moment, une demande d'autorisation particulière en vue d'accomplir des actes
-déterminés d'exploitation peut être adressée directement par le titulaire de la demande de certificat au ministre chargé de
-la défense nationale. Celui-ci, s'il accorde l'autorisation sollicitée, précise les conditions auxquelles ces actes
-d'exploitation sont soumis. 
+déterminés d'exploitation peut être adressée directement par le titulaire de la demande de certificat au     ministre de la
+défense. Celui-ci, s'il accorde l'autorisation sollicitée, précise les conditions auxquelles ces actes d'exploitation sont
+soumis. 
 
 Si l'autorisation particulière porte sur la cession de la demande de certificat ou sur la concession d'une licence
-d'exploitation, le ministre chargé de la défense nationale notifie copie de sa décision au ministre chargé de l'agriculture.
+d'exploitation, le     ministre de la défense notifie copie de sa décision au ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -52740,18 +52810,18 @@ _Anciens textes_:
 
   - Décret n°71-764 1971-09-09 art. 52
 
-_Modifié par_:
-
-  - Décret n°2014-731 du 27 juin 2014 - art. 8
-
 _Cité par_:
 
   - Décret n°2014-1285 du 23 octobre 2014 - art. (VT)
-  - Code de la propriété intellectuelle - art. R623-46 (M)
+  - Code de la propriété intellectuelle - art. R623-46 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L623-9 (V)
+  - Code de la propriété intellectuelle - art. L623-9
 
 _Codifié par_:
 
@@ -52760,10 +52830,10 @@ _Codifié par_:
 
 ###### Article R623-46
 
-La réquisition adressée au ministre chargé de l'agriculture par le ministre chargé de la défense nationale aux fins de
-prorogation des interdictions de divulgation et de libre exploitation d'une obtention, objet de la demande de certificat,
-doit parvenir au responsable des missions relevant de l'instance nationale des obtentions végétales au plus tard quinze jours
-avant le terme du délai de cinq mois prévu à l'article L. 623-9. 
+La réquisition adressée au ministre chargé de l'agriculture par le     ministre de la défense aux fins de prorogation des
+interdictions de divulgation et de libre exploitation d'une obtention, objet de la demande de certificat, doit parvenir au
+responsable des missions relevant de l'instance nationale des obtentions végétales au plus tard quinze jours avant le terme
+du délai de cinq mois prévu à l'article L. 623-9. 
 
 Toute réquisition aux fins de renouvellement d'une prorogation doit parvenir dans les mêmes conditions au plus tard quinze
 jours avant l'expiration de la période d'un an en cours. 
@@ -52774,9 +52844,9 @@ l'agriculture et notifiée au déposant avant le terme de la période d'interdic
 Des autorisations particulières en vue d'accomplir des actes déterminés d'exploitation peuvent être accordées dans les
 conditions prévues aux deuxième et troisième alinéas de l'article R. 623-45. 
 
-Le ministre chargé de la défense nationale peut faire connaître à tout moment au ministre de l'agriculture la levée des
-interdictions prorogées en application de l'article L. 623-10. Cette mesure fait l'objet d'un arrêté du ministre chargé de
-l'agriculture notifié au titulaire de la demande de certificat.
+Le     ministre de la défense peut faire connaître à tout moment au ministre de l'agriculture la levée des interdictions
+prorogées en application de l'article L. 623-10. Cette mesure fait l'objet d'un arrêté du ministre chargé de l'agriculture
+notifié au titulaire de la demande de certificat.
 
 **Liens relatifs à cet article**
 
@@ -52786,13 +52856,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2014-731 du 27 juin 2014 - art. 8
+  - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L623-10
   - Code de la propriété intellectuelle - art. L623-9
-  - Code de la propriété intellectuelle - art. R623-45 (M)
+  - Code de la propriété intellectuelle - art. R623-45 (V)
 
 _Codifié par_:
 
@@ -57314,6 +57384,10 @@ du 11 décembre 2018.
 
 Les articles R. 623-6 et R. 623-58 sont applicables dans leur rédaction issue du décret n° 2019-1316 du 9 décembre 2019 ;
 
+Les articles R. 612-3-1, R. 612-3-2, R. 612-5, R. 612-21, R. 612-24, R. 612-26, R. 612-28, R. 612-31, R. 612-37-1, R. 612-39,
+R. 612-39-1, R. 612-45, R. 612-53, R. 612-54, R. 612-55, R. 616-3, R. 618-2 sont applicables dans leur rédaction issue du
+décret n° 2020-15 du 8 janvier 2020.
+
 7° Les dispositions du titre Ier du livre VII à l'exception des articles R. 712-2, R. 712-3, R. 712-13, R. 712-14, R. 712-21,
 R. 714-4, R. 714-4-1, R. 714-6, R. 716-1 et R. 716-2 seulement en tant qu'ils concernent les conseils en propriété
 industrielle, dans les conditions suivantes :
@@ -57726,9 +57800,9 @@ Les articles R. 722-2 et R. 722-5 sont applicables dans leur rédaction issue du
 
 **Nota:**
 
-Aux termes du II de l'article 12 du décret n° 2019-1316 du 9 décembre 2019, l'article R. 811-1-1, dans sa rédaction résultant
-du 2° du I du présent article, est abrogé à la date de l'entrée en vigueur du décret n° 2018-429 du 31 mai 2018 relatif au
-brevet européen à effet unitaire et à la juridiction unifiée du brevet.
+Conformément au II de l'article 3 du décret n° 2020-15 du 8 janvier 2020, l'article R. 811-1-1, dans sa rédaction résultant
+du I du présent article, est abrogé à la date de l'entrée en vigueur du décret n° 2018-429 du 31 mai 2018 relatif au brevet
+européen à effet unitaire et à la juridiction unifiée du brevet.
 
 **Liens relatifs à cet article**
 
@@ -57752,14 +57826,14 @@ _Cite_:
   - Décret n°2018-1126 du 11 décembre 2018
   - Décret n°2019-1316 du 9 décembre 2019
 
-_Modifié par_:
-
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 12 (V)
-
 _Cité par_:
 
   - Décret n°2020-15 du 8 janvier 2020 (V)
   - Décret n°2020-225 du 6 mars 2020 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 3 (V)
 
 _Nouveaux textes_:
 
