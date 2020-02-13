@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-01-11
+Version Consolidée au 2020-02-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -15653,17 +15653,16 @@ prenant effet au terme légal du brevet auquel ils se rattachent pour une durée
 terme et dix-sept ans à compter de la délivrance de l'autorisation de mise sur le marché mentionnée à ce même article. 
 
 Les dispositions du présent livre concernant les brevets sont applicables aux certificats d'utilité à l'exception de celles
-prévues à l'article L. 612-14 et au premier alinéa des articles L. 612-15 et L. 612-17. Elles le sont également aux
-certificats complémentaires de protection à l'exception de celles prévues aux articles L. 611-12, L. 612-1 à L. 612-10, L.
-612-12 à L. 612-15, L. 612-17, L. 612-20, L. 613-1 et L. 613-25.
+prévues à l'article L. 612-14, au premier alinéa des articles L. 612-15 et L. 612-17 et aux articles L. 613-23 à L. 613-23-6.
+Elles le sont également aux certificats complémentaires de protection à l'exception de celles prévues aux articles L. 611-12,
+L. 612-1 à L. 612-10, L. 612-12 à L. 612-15, L. 612-17, L. 612-20, L. 613-1 et L. 613-25.
 
 **Nota:**
 
-Conformément au II de l’article 118 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à la
-date de publication du texte réglementaire prévu au second alinéa de l'article L. 612-15, et au plus tard à l'expiration du
-douzième mois suivant la publication de la présente loi.
-
-Le décret n°2020-15 a été publié le 10 janvier 2020.
+Conformément aux dispositions prévues à l'article 5 de l'ordonnance n°2020-116 du 12 février 2020, prévoit, à l'exception de
+son article 4, que les dispositions de la présente ordonnance entrent en vigueur le 1er avril 2020. Elles sont applicables
+aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -15671,10 +15670,6 @@ _Anciens textes_:
 
   - Loi n°68-1 du 2 janvier 1968 - art. 3 (M)
   - Ordonnance n°2020-116 du 12 février 2020 - art. 2
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
@@ -15694,20 +15689,22 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 118 (V)
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L611-12
-  - Code de la propriété intellectuelle - art. L611-3 (V)
+  - Code de la propriété intellectuelle - art. L611-3
   - Code de la propriété intellectuelle - art. L612-1
-  - Code de la propriété intellectuelle - art. L612-12 (VD)
+  - Code de la propriété intellectuelle - art. L612-12
   - Code de la propriété intellectuelle - art. L612-14
-  - Code de la propriété intellectuelle - art. L612-15 (VT)
+  - Code de la propriété intellectuelle - art. L612-15
   - Code de la propriété intellectuelle - art. L612-17 (V)
   - Code de la propriété intellectuelle - art. L612-20
   - Code de la propriété intellectuelle - art. L613-1
-  - Code de la propriété intellectuelle - art. L613-25
+  - Code de la propriété intellectuelle - art. L613-23 (VD)
+  - Code de la propriété intellectuelle - art. L613-23-6 (VD)
+  - Code de la propriété intellectuelle - art. L613-25 (VD)
 
 
 ###### Article L611-3
@@ -37221,19 +37218,19 @@ _Cite_:
 
 Les informations publiques de l'Institut national de la propriété industrielle relatives aux titres de propriété industrielle
 et au registre national du commerce et des sociétés peuvent être mises à la disposition du public sur demande, par voie
-électronique ou sur support informatique, à des fins de réutilisation. 
+électronique ou sur support informatique, à des fins de réutilisation.
 
 La réutilisation de tout ou partie de ces informations publiques est soumise à l'acceptation par le demandeur d'une licence
 incluant l'engagement à ne pas faire un usage des données à caractère personnel contraire aux dispositions du livre III du
 code des relations entre le public et l'administration. Pour la réutilisation des informations du registre national du
 commerce et des sociétés, la licence inclut l'engagement de respecter les restrictions relatives aux critères de recherche
-prévues en application de l'article R. 123-151 du code de commerce. 
+prévues en application de l'article R. 123-151 du code de commerce.
 
 Les modalités de diffusion et de mise à la disposition du public des informations du registre national du commerce et des
 sociétés respectent les dispositions relatives à la communication des décisions de justice et des documents comptables
-prévues aux articles R. 123-154 à R. 123-154-1 du code de commerce et les dispositions concernant la communication du
-document relatif au bénéficiaire effectif prévues aux 1° à 4° de l'article L. 561-46 et aux articles R. 561-57 à R. 561-59 du
-code monétaire et financier. 
+prévues aux articles R. 123-154 à R. 123-154-1 du code de commerce et les dispositions concernant la déclaration des
+informations relatives au bénéficiaire effectif prévues aux 1° à 4° de l'article L. 561-46 et aux articles R. 561-57 et R.
+561-58 du code monétaire et financier.
 
 La description des informations mises à la disposition du public ainsi que les modèles de licence sont accessibles sur le
 site internet de l'Institut national de la propriété industrielle.
@@ -37242,7 +37239,7 @@ site internet de l'Institut national de la propriété industrielle.
 
 _Modifié par_:
 
-  - Décret n°2017-1094 du 12 juin 2017 - art. 3
+  - Décret n°2020-119 du 12 février 2020 - art. 5
 
 _Cite_:
 
@@ -56991,8 +56988,7 @@ Dans leur rédaction résultant de</th>
 Article D. 411-1-3 </td>
       <td align="center">
 
-Décret n° 2017-1094 du 12 juin 2017
-</td>
+Décret n° 2020-119 du 12 février 2020 </td>
     </tr>
     <tr>
       <td align="center">
@@ -57043,7 +57039,7 @@ Décret n° 2015-671 du 15 juin 2015
 D. 712-30</td>
       <td align="center">
 
-Décret n° 2019-1316 du 9 décembre 2019 
+Décret n° 2019-1316 du 9 décembre 2019
 
 </td>
     </tr>
@@ -57059,11 +57055,11 @@ _Cite_:
   - Décret n°2017-1094 du 12 juin 2017
   - Décret n°2019-1316 du 9 décembre 2019
 
-_Créé par_:
-
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 12 (V)
-
 _Cité par_:
+
+  - Décret n°2020-119 du 12 février 2020 - art. 10
+
+_Modifié par_:
 
   - Décret n°2020-119 du 12 février 2020 - art. 10
 
