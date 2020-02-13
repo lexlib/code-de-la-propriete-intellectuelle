@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-01-11
+Version Consolidée au 2020-02-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -37246,19 +37246,19 @@ _Cite_:
 
 Les informations publiques de l'Institut national de la propriété industrielle relatives aux titres de propriété industrielle
 et au registre national du commerce et des sociétés peuvent être mises à la disposition du public sur demande, par voie
-électronique ou sur support informatique, à des fins de réutilisation. 
+électronique ou sur support informatique, à des fins de réutilisation.
 
 La réutilisation de tout ou partie de ces informations publiques est soumise à l'acceptation par le demandeur d'une licence
 incluant l'engagement à ne pas faire un usage des données à caractère personnel contraire aux dispositions du livre III du
 code des relations entre le public et l'administration. Pour la réutilisation des informations du registre national du
 commerce et des sociétés, la licence inclut l'engagement de respecter les restrictions relatives aux critères de recherche
-prévues en application de l'article R. 123-151 du code de commerce. 
+prévues en application de l'article R. 123-151 du code de commerce.
 
 Les modalités de diffusion et de mise à la disposition du public des informations du registre national du commerce et des
 sociétés respectent les dispositions relatives à la communication des décisions de justice et des documents comptables
-prévues aux articles R. 123-154 à R. 123-154-1 du code de commerce et les dispositions concernant la communication du
-document relatif au bénéficiaire effectif prévues aux 1° à 4° de l'article L. 561-46 et aux articles R. 561-57 à R. 561-59 du
-code monétaire et financier. 
+prévues aux articles R. 123-154 à R. 123-154-1 du code de commerce et les dispositions concernant la déclaration des
+informations relatives au bénéficiaire effectif prévues aux 1° à 4° de l'article L. 561-46 et aux articles R. 561-57 et R.
+561-58 du code monétaire et financier.
 
 La description des informations mises à la disposition du public ainsi que les modèles de licence sont accessibles sur le
 site internet de l'Institut national de la propriété industrielle.
@@ -37267,7 +37267,7 @@ site internet de l'Institut national de la propriété industrielle.
 
 _Modifié par_:
 
-  - Décret n°2017-1094 du 12 juin 2017 - art. 3
+  - Décret n°2020-119 du 12 février 2020 - art. 5
 
 _Cite_:
 
@@ -57008,8 +57008,7 @@ Dans leur rédaction résultant de</th>
 Article D. 411-1-3 </td>
       <td align="center">
 
-Décret n° 2017-1094 du 12 juin 2017
-</td>
+Décret n° 2020-119 du 12 février 2020 </td>
     </tr>
     <tr>
       <td align="center">
@@ -57060,7 +57059,7 @@ Décret n° 2015-671 du 15 juin 2015
 D. 712-30</td>
       <td align="center">
 
-Décret n° 2019-1316 du 9 décembre 2019 
+Décret n° 2019-1316 du 9 décembre 2019
 
 </td>
     </tr>
@@ -57076,11 +57075,11 @@ _Cite_:
   - Décret n°2017-1094 du 12 juin 2017
   - Décret n°2019-1316 du 9 décembre 2019
 
-_Créé par_:
-
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 12 (V)
-
 _Cité par_:
+
+  - Décret n°2020-119 du 12 février 2020 - art. 10
+
+_Modifié par_:
 
   - Décret n°2020-119 du 12 février 2020 - art. 10
 
