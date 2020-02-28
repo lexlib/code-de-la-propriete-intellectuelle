@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-02-14
+Version Consolidée au 2020-02-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -254,11 +254,11 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#78)
       - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#250)
         - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#251)
           - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#252)
-          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à R331-95)](#253)
-            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à D331-34)](#254)
-              - [Paragraphe 1 : Le collège de la Haute Autorité (art. D331-5 à R331-4)](#255)
+          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. R331-2 à R331-95)](#253)
+            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. R331-2 à D331-34)](#254)
+              - [Paragraphe 1 : Le collège de la Haute Autorité (art. R331-2 à R331-4)](#255)
               - [Paragraphe 2 : La commission de protection des droits (art. D331-8 à R331-7)](#256)
-              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. D331-13 à R331-14)](#257)
+              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. R331-9 à R331-14)](#257)
               - [Paragraphe 4 : Dispositions relatives au personnel (art. R331-15 à R331-19)](#258)
               - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#259)
               - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#260)
@@ -34111,29 +34111,6 @@ _Cite_:
 
 ##### Paragraphe 1 : Le collège de la Haute Autorité<a id=255></a>
 
-###### Article D331-5
-
-Les membres du collège de la Haute Autorité perçoivent une indemnité forfaitaire pour chaque séance plénière du collège, dans
-la limite d'un plafond annuel. 
-
-Le montant de ces indemnités ainsi que le plafond annuel sont fixés par un arrêté conjoint des ministres chargés de la
-culture, du budget et de la fonction publique.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1773 du 29 décembre 2009 - art. 2
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L331-18
-
-
 ###### Article R331-2
 
 I.-Les membres du collège de la Haute Autorité sont convoqués par son président qui fixe l'ordre du jour. La convocation est
@@ -34298,33 +34275,6 @@ _Modifié par_:
 
 
 ##### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité<a id=257></a>
-
-###### Article D331-13
-
-Le président reçoit une rémunération de base égale au traitement afférent au premier chevron du troisième groupe des emplois
-de l'État classés hors échelle, ainsi qu'une indemnité de fonction dont le montant est fixé par arrêté conjoint des ministres
-chargés de la culture, du budget et de la fonction publique.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-405 du 29 mai 2018 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L331-13
-  - Code de la propriété intellectuelle - art. L331-8
-  - Code de la consommation - art. L411-1
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R331-14 (V)
-
 
 ###### Article R331-9
 
@@ -43797,10 +43747,6 @@ _Créé par_:
 
 ###### Article Annexe art. R611-14-1
 
-**
-
-**
-
 **Education nationale, enseignement supérieur et recherche. **
 
 Corps de fonctionnaires :
@@ -43963,66 +43909,64 @@ application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée
 la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
 doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
 
-**Equipement, transports et logement. **
+**Environnement, transports et logement. **
 
 Corps de fonctionnaires :
 
-- ingénieurs des ponts, des eaux et des forêts régis par le décret n° 59-358 du 20 février 1959 modifié ;
+- ingénieurs des ponts, des eaux et des forêts régis par le décret n° 2009-1106 du 10 septembre 2009 portant statut
+particulier du corps des ingénieurs des ponts, des eaux et des forêts ;
 
-- chargés de recherche et directeurs de recherche régis par le décret n° 94-943 du 28 octobre 1994 ;
+- chargés de recherche et directeurs de recherche du développement durable régis par le décret n° 83-1260 du 30 décembre 1983
+fixant les dispositions statutaires communes aux corps de fonctionnaires des établissements publics scientifiques et
+technologiques et le décret n° 2014-1324 du 4 novembre 2014 portant statuts particuliers du corps des chargés de recherche du
+développement durable et du corps des directeurs de recherche du développement durable ;
 
-- ingénieurs des travaux publics de l'Etat régis par le décret n° 71-345 du 5 mai 1971 modifié ;
+- ingénieurs des travaux publics de l'Etat régis par le décret n° 2005-631 du 30 mai 2005 portant statut particulier du corps
+des ingénieurs des travaux publics de l'Etat ;
 
-- ingénieurs géographes régis par le décret n° 65-793 du 16 septembre 1965, modifié par le décret n° 90-160 du 16 février
-1990 ;
+- ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 relatif au
+statut particulier des ingénieurs des travaux géographiques et cartographiques de l'Etat ;
 
-- ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 modifié ;
+- ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 relatif au statut particulier des
+ingénieurs des travaux de la météorologie ;
 
-- ingénieurs de l'aviation civile régis par le décret n° 71-234 du 30 mars 1971 modifié ;
+- ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-917 du 8 novembre 1971 relatif au
+statut particulier du corps des ingénieurs des études et de l'exploitation de l'aviation civile ;
 
-- ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-907 du 8 novembre 1971 modifié ;
+- ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 portant statut du corps
+des ingénieurs du contrôle de la navigation aérienne ;
 
-- ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 modifié ;
+- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991 portant
+statut du corps des ingénieurs électroniciens des systèmes de la sécurité aérienne ;
 
-- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991, modifié par
-le décret n° 94-278 du 11 avril 1994 ;
+- techniciens supérieurs du développement durable régis par le décret n° 2012-1064 du 18 septembre 2012 portant statut
+particulier du corps des techniciens supérieurs du développement durable. 
 
-- ingénieurs de la météorologie régis par le décret n° 63-1376 du 24 décembre 1963 modifié ;
+Agents non titulaires : 
 
-- ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 modifié. 
+Personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
 
-Agents non titulaires :
+- règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des
+centres d'études techniques de l'équipement mentionné à l'article 127 de la loi n° 2005-1720 du 30 décembre 2005 de finances
+rectificative pour 2005 ;
 
-- personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
+- décision du 18 mars 1992 instituant le règlement intérieur national des agents du niveau de la catégorie A du ministère de
+l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le
+climat ;
 
-- décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration,
-du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
-
-- règlement du 14 mai 1973 régissant les personnels non titulaires du               Université Gustave Eiffel et des centre
-d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
-
-- règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études
-techniques des routes et autoroutes ;
-
-- arrêté du 10 juillet 1968 relatif aux conditions de recrutement et de rémunération des personnels contractuels techniques
-et administratifs du ministère de l'équipement et du logement chargés d'études de haut niveau au service des affaires
-économiques et internationales et au service d'études techniques des routes et autoroutes, modifié par l'arrêté du 27 mars
-1973 relatif au même objet ;
-
-- décret n° 46-1507 du 18 juin 1946 fixant le statut des auxiliaires recrutés sur contrat par le ministère des travaux
-publics et des transports pour le service des ponts et chaussées, modifié par les décrets n° 68-313 du 1er avril 1968 et n°
-75-1355 du 18 décembre 1975 relatifs au même objet ;
-
-- décret n° 48-1018 du 16 juin 1948 modifié fixant le statut des agents sur contrat du ministère des travaux publics, des
-transports et du tourisme ;
-
-- règlement intérieur du 4 juin 1970 relatif aux personnels non titulaires employés par la direction régionale de
-l'équipement de l'Ile-de-France.
+- arrêté du 7 septembre 2006 portant règlement relatif aux personnels non titulaires employés au service d'études techniques
+des routes et autoroutes, régis par le décret n° 86-83 du 17 janvier 1986 ;
 
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
-application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
-la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
-doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
+application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la
+fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat
+au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
+
+Autres personnels :
+
+- ouvriers des parcs et ateliers des ponts et chaussées et des bases aériennes régis par le décret n° 65-382 du 21 mai 1965
+relatif aux ouvriers des parcs et ateliers des ponts et chaussées et des bases aériennes admis au bénéfice de la loi du 21
+mars 1928, relevant des classifications techniciens. 
 
 **Défense. **
 
@@ -44100,6 +44044,7 @@ _Cite_:
   - Décret n°71-234 du 30 mars 1971
   - Décret n°71-345 du 5 mai 1971
   - Décret n°71-907 du 10 novembre 1971
+  - Décret n°71-917 du 8 novembre 1971
   - Décret n°71-999 du 7 décembre 1971
   - Décret n°73-264 du 6 mars 1973
   - Décret n°73-311 du 14 mars 1973
@@ -44149,14 +44094,17 @@ _Cite_:
   - Décret n°2000-677 du 18 juillet 2000
   - Décret n°2003-1006 du 21 octobre 2003
   - Décret n°2004-534 du 14 juin 2004
+  - Décret n°2005-631 du 30 mai 2005
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 127
   - Décret n°2007-468 du 28 mars 2007
+  - Décret n°2009-1106 du 10 septembre 2009
+  - Décret n°2012-1064 du 18 septembre 2012
   - Code de l'éducation - art. L123-5
   - Code de l'éducation - art. L612-7
 
 _Modifié par_:
 
-  - Décret n°2010-1702 du 30 décembre 2010 - art. 31 (VT)
-  - Décret n°2019-1360 du 13 décembre 2019 - art. 19
+  - Décret n°2020-167 du 26 février 2020 - art. 1
 
 
 ###### Article R611-11
