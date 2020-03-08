@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-02-29
+Version Consolidée au 2020-03-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -335,75 +335,77 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#78)
             - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#331)
           - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#332)
         - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#333)
-          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#334)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-43-1)](#334)
             - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#335)
             - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#336)
             - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#337)
             - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#338)
             - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#339)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#340)
-          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#341)
-          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#342)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#343)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#344)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#345)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#346)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#347)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#348)
-        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#349)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#350)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#351)
-          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#352)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#353)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#354)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#355)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#356)
-          - [Section unique : Procédure (art. R618-1 à R618-6)](#357)
-      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#358)
-        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#359)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#360)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#361)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#362)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#363)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#364)
-            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#365)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#366)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#367)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#368)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#369)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#370)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#371)
-          - [Section 3 : La retenue (art. R623-60)](#372)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#373)
-        - [Chapitre unique (art. D631-1 à D631-2)](#374)
-    - [Livre VII : Marques de produits ou de services et autres signes distinctifs (art. R711-1 à R722-7)](#375)
-      - [Titre Ier : Marques de produits ou de services (art. R711-1 à R718-7)](#376)
-        - [Chapitre Ier : Eléments constitutifs de la marque (art. R711-1)](#377)
-        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28-2)](#378)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#379)
-        - [Chapitre V : Marques de garantie et marques collectives (art. R715-1 à R715-2)](#380)
-          - [Section 1 : Marques de garantie (art. R715-1)](#381)
-          - [Section 2 : Marques collectives (art. R715-2)](#382)
-        - [Chapitre VI : Contentieux (art. R716-1 à R716-22 )](#383)
-          - [Section 2 : Mesures provisoires et conservatoires (art. R716-1 à R716-15)](#384)
-          - [Section 3 :  Mesures probatoires (art. R716-2 à R716-19)](#385)
-          - [Section 4 : Retenue en douane (art. R716-6 à R716-20)](#386)
-          - [Section 5 : Dispositions diverses (art. R716-21 à R716-22 )](#387)
-        - [Chapitre VII : Marque internationale et marque de l'Union européenne (art. R*717-1-1 à R717-11)](#388)
-          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#389)
-          - [Section 2 : Marque de l'Union européenne (art. R*717-10-1 à R717-11)](#390)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-7)](#391)
-          - [Section unique (art. R718-1 à R718-5)](#392)
-          - [Section 2 : Dispositions transitoires (art. R718-6 à R718-7)](#393)
-      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#394)
-        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#395)
-          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#396)
-        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#397)
-          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#398)
-          - [Section 2 : La retenue (art. R722-7)](#399)
-    - [Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. D811-1-2 à R811-4)](#400)
-      - [Titre unique (art. D811-1-2 à R811-4)](#401)
-        - [Chapitre unique (art. D811-1-2 à R811-4)](#402)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-43-1)](#340)
+          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#341)
+            - [Sous-section 2 : Renonciation ou limitation (art. R*613-45-2 à R613-45-1)](#342)
+            - [Sous-section 3 : Maintien en vigueur ou déchéance du titre (art. R*613-49-1 à R613-51)](#343)
+          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#344)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#345)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#346)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#347)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#348)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#349)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#350)
+        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#351)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#352)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#353)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#354)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#355)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#356)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#357)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#358)
+          - [Section unique : Procédure (art. R618-1 à R618-6)](#359)
+      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#360)
+        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#361)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#362)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#363)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#364)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#365)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#366)
+            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#367)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#368)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#369)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#370)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#371)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#372)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#373)
+          - [Section 3 : La retenue (art. R623-60)](#374)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#375)
+        - [Chapitre unique (art. D631-1 à D631-2)](#376)
+    - [Livre VII : Marques de produits ou de services et autres signes distinctifs (art. R711-1 à R722-7)](#377)
+      - [Titre Ier : Marques de produits ou de services (art. R711-1 à R718-7)](#378)
+        - [Chapitre Ier : Eléments constitutifs de la marque (art. R711-1)](#379)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28-2)](#380)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#381)
+        - [Chapitre V : Marques de garantie et marques collectives (art. R715-1 à R715-2)](#382)
+          - [Section 1 : Marques de garantie (art. R715-1)](#383)
+          - [Section 2 : Marques collectives (art. R715-2)](#384)
+        - [Chapitre VI : Contentieux (art. R716-1 à R716-22 )](#385)
+          - [Section 2 : Mesures provisoires et conservatoires (art. R716-1 à R716-15)](#386)
+          - [Section 3 :  Mesures probatoires (art. R716-2 à R716-19)](#387)
+          - [Section 4 : Retenue en douane (art. R716-6 à R716-20)](#388)
+          - [Section 5 : Dispositions diverses (art. R716-21 à R716-22 )](#389)
+        - [Chapitre VII : Marque internationale et marque de l'Union européenne (art. R*717-1-1 à R717-11)](#390)
+          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#391)
+          - [Section 2 : Marque de l'Union européenne (art. R*717-10-1 à R717-11)](#392)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-7)](#393)
+          - [Section unique (art. R718-1 à R718-5)](#394)
+          - [Section 2 : Dispositions transitoires (art. R718-6 à R718-7)](#395)
+      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#396)
+        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#397)
+          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#398)
+        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#399)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#400)
+          - [Section 2 : La retenue (art. R722-7)](#401)
+    - [Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. D811-1-2 à R811-4)](#402)
+      - [Titre unique (art. D811-1-2 à R811-4)](#403)
+        - [Chapitre unique (art. D811-1-2 à R811-4)](#404)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -48261,62 +48263,27 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 40 (Ab)
 
 
-###### Article R613-44
+###### Article R613-43-1
 
 Les dispositions prévues aux articles R. 613-4 à R. 613-43 et R. 613-51 s'appliquent aux certificats d'addition.
 
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2020-225 du 6 mars 2020 - art. 3
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R613-4
-  - Code de la propriété intellectuelle - art. R613-51 (V)
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R613-43-1 (V)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
 
 _Anciens textes_:
 
-  - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
+  - Code de la propriété intellectuelle - art. R613-44 (T)
 
 
 ##### Section 2 : Transmission et perte des droits<a id=341></a>
-
-###### Article R*613-45-2
-
-A défaut de décision expresse dans le délai mentionné à l'article R. 613-45-1, la demande est réputée rejetée.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-511 du 7 mai 2015 - art. 1
-
-
-###### Article R*613-49-1
-
-A défaut de décision expresse dans le délai mentionné au deuxième alinéa de l'article R. 613-49, la demande est réputée
-rejetée.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-511 du 7 mai 2015 - art. 1
-
 
 ###### Article R613-45
 
@@ -48373,6 +48340,19 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-6 (V)
 
 
+##### Sous-section 2 : Renonciation ou limitation<a id=342></a>
+
+###### Article R*613-45-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 613-45-1, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
 ###### Article R613-45-1
 
 Il est statué sur la requête en renonciation ou en limitation prévue à l'article R. 613-45 dans un délai de douze mois. Ce
@@ -48381,9 +48361,23 @@ l'objection.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2015-1436 du 6 novembre 2015 - art. 9
+  - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+##### Sous-section 3 : Maintien en vigueur ou déchéance du titre<a id=343></a>
+
+###### Article R*613-49-1
+
+A défaut de décision expresse dans le délai mentionné au deuxième alinéa de l'article R. 613-49, la demande est réputée
+rejetée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
 
 
 ###### Article R613-46
@@ -48399,13 +48393,13 @@ _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 70 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-19 (V)
+  - Code de la propriété intellectuelle - art. L612-19
 
 _Cité par_:
 
@@ -48443,19 +48437,15 @@ _Anciens textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-_Modifié par_:
-
-  - Décret n°2004-199 du 25 février 2004 - art. 45 () JORF 3 mars 2004
+  - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-19 (V)
+  - Code de la propriété intellectuelle - art. L612-19
 
 _Cité par_:
 
-  - Code de la propriété intellectuelle - art. R613-48 (M)
+  - Code de la propriété intellectuelle - art. R613-48 (V)
 
 _Codifié par_:
 
@@ -48478,9 +48468,9 @@ _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 71 (Ab)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
 
 _Cite_:
 
@@ -48508,9 +48498,9 @@ _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 72 (Ab)
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2015-511 du 7 mai 2015 - art. 1
+  - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
 
 _Cite_:
 
@@ -48537,9 +48527,9 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 73 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 73 (Ab)
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2008-1472 du 30 décembre 2008 - art. 15
+  - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
 
 _Cite_:
 
@@ -48553,28 +48543,28 @@ prévue à l'alinéa premier dudit article.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L613-21 (V)
-
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 47 () JORF 3 mars 2004
+  - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L613-21
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R613-44 (T)
 
 _Anciens textes_:
 
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=342></a>
+##### Section 4 : Recours en restauration<a id=344></a>
 
 ###### Article R613-52
 
@@ -48639,7 +48629,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 9
 
 
-##### Section 5 : Registre national des brevets<a id=343></a>
+##### Section 5 : Registre national des brevets<a id=345></a>
 
 ###### Article R613-53
 
@@ -48923,7 +48913,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=344></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=346></a>
 
 ###### Article R613-60
 
@@ -49024,7 +49014,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=345></a>
+##### Section 7 : Réduction des redevances<a id=347></a>
 
 ###### Article R613-63
 
@@ -49075,9 +49065,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
-#### Chapitre IV : Application de conventions internationales<a id=346></a>
+#### Chapitre IV : Application de conventions internationales<a id=348></a>
 
-##### Section 1 : Brevets européens<a id=347></a>
+##### Section 1 : Brevets européens<a id=349></a>
 
 ###### Article R614-1
 
@@ -49498,7 +49488,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=348></a>
+##### Section 2 : Demandes internationales<a id=350></a>
 
 ###### Article R614-21
 
@@ -49830,7 +49820,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre IV bis : La retenue<a id=349></a>
+#### Chapitre IV bis : La retenue<a id=351></a>
 
 ###### Article R614-36
 
@@ -49873,9 +49863,9 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 3
 
 
-#### Chapitre V : Actions en justice<a id=350></a>
+#### Chapitre V : Actions en justice<a id=352></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=351></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=353></a>
 
 ###### Article R615-1
 
@@ -49911,7 +49901,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=352></a>
+##### Section 2 : Mesures probatoires<a id=354></a>
 
 ###### Article R615-2
 
@@ -50068,7 +50058,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (VD)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=353></a>
+##### Section 3 : Commission paritaire de conciliation<a id=355></a>
 
 ###### Article R615-6
 
@@ -50778,7 +50768,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (VD)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=354></a>
+#### Chapitre VI : Le certificat d'utilité<a id=356></a>
 
 ###### Article R616-1
 
@@ -50867,7 +50857,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=355></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=357></a>
 
 ###### Article R*617-2-2
 
@@ -50952,9 +50942,9 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 10
 
 
-#### Chapitre VIII : Dispositions communes<a id=356></a>
+#### Chapitre VIII : Dispositions communes<a id=358></a>
 
-##### Section unique : Procédure<a id=357></a>
+##### Section unique : Procédure<a id=359></a>
 
 ###### Article R618-1
 
@@ -51140,9 +51130,9 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Protection des connaissances techniques<a id=358></a>
+### Titre II : Protection des connaissances techniques<a id=360></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=359></a>
+#### Chapitre II : Produits semi-conducteurs<a id=361></a>
 
 ###### Article R*622-3-2
 
@@ -51394,11 +51384,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-#### Chapitre III : Obtentions végétales<a id=360></a>
+#### Chapitre III : Obtentions végétales<a id=362></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=361></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=363></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=362></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=364></a>
 
 ###### Article R623-1
 
@@ -51844,7 +51834,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=363></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=365></a>
 
 ###### Article R623-16
 
@@ -52080,7 +52070,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=364></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=366></a>
 
 ###### Article R623-25
 
@@ -52220,7 +52210,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances<a id=365></a>
+##### Sous-section 4 : Redevances<a id=367></a>
 
 ###### Article D623-30-1
 
@@ -52408,7 +52398,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=366></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=368></a>
 
 ###### Article R623-36
 
@@ -52465,7 +52455,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=367></a>
+##### Sous-section 6 : Registres nationaux<a id=369></a>
 
 ###### Article R623-38
 
@@ -52662,7 +52652,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=368></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=370></a>
 
 ###### Article R623-43
 
@@ -52841,7 +52831,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=369></a>
+##### Sous-section 8 : Dispositions diverses<a id=371></a>
 
 ###### Article R623-48
 
@@ -53064,7 +53054,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=370></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=372></a>
 
 ###### Article D623-58-1
 
@@ -53135,7 +53125,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-15
 
 
-##### Section 2 bis : Semences de ferme<a id=371></a>
+##### Section 2 bis : Semences de ferme<a id=373></a>
 
 ###### Article R623-59
 
@@ -53208,7 +53198,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : La retenue<a id=372></a>
+##### Section 3 : La retenue<a id=374></a>
 
 ###### Article R623-60
 
@@ -53226,9 +53216,9 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=373></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=375></a>
 
-#### Chapitre unique<a id=374></a>
+#### Chapitre unique<a id=376></a>
 
 ###### Article D631-1
 
@@ -53509,11 +53499,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de produits ou de services et autres signes distinctifs<a id=375></a>
+## Livre VII : Marques de produits ou de services et autres signes distinctifs<a id=377></a>
 
-### Titre Ier : Marques de produits ou de services<a id=376></a>
+### Titre Ier : Marques de produits ou de services<a id=378></a>
 
-#### Chapitre Ier : Eléments constitutifs de la marque<a id=377></a>
+#### Chapitre Ier : Eléments constitutifs de la marque<a id=379></a>
 
 ###### Article R711-1
 
@@ -53538,7 +53528,7 @@ _Créé par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 3
 
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=378></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=380></a>
 
 ###### Article D712-29
 
@@ -54886,7 +54876,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R712-28-1 (V)
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=379></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=381></a>
 
 ###### Article R714-1
 
@@ -55318,9 +55308,9 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques de garantie et marques collectives<a id=380></a>
+#### Chapitre V : Marques de garantie et marques collectives<a id=382></a>
 
-##### Section 1 : Marques de garantie<a id=381></a>
+##### Section 1 : Marques de garantie<a id=383></a>
 
 ###### Article R715-1
 
@@ -55371,7 +55361,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R718-7 (V)
 
 
-##### Section 2 : Marques collectives<a id=382></a>
+##### Section 2 : Marques collectives<a id=384></a>
 
 ###### Article R715-2
 
@@ -55408,9 +55398,9 @@ _Modifié par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 7
 
 
-#### Chapitre VI : Contentieux<a id=383></a>
+#### Chapitre VI : Contentieux<a id=385></a>
 
-##### Section 2 : Mesures provisoires et conservatoires<a id=384></a>
+##### Section 2 : Mesures provisoires et conservatoires<a id=386></a>
 
 ###### Article R716-1
 
@@ -55465,7 +55455,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R716-1 (T)
 
 
-##### Section 3 :  Mesures probatoires<a id=385></a>
+##### Section 3 :  Mesures probatoires<a id=387></a>
 
 ###### Article R716-2
 
@@ -55648,7 +55638,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R716-5 (T)
 
 
-##### Section 4 : Retenue en douane<a id=386></a>
+##### Section 4 : Retenue en douane<a id=388></a>
 
 ###### Article R716-6
 
@@ -55697,7 +55687,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R716-6 (T)
 
 
-##### Section 5 : Dispositions diverses<a id=387></a>
+##### Section 5 : Dispositions diverses<a id=389></a>
 
 ###### Article R716-21
 
@@ -55734,9 +55724,9 @@ _Créé par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 8
 
 
-#### Chapitre VII : Marque internationale et marque de l'Union européenne<a id=388></a>
+#### Chapitre VII : Marque internationale et marque de l'Union européenne<a id=390></a>
 
-##### Section 1 : Marque internationale<a id=389></a>
+##### Section 1 : Marque internationale<a id=391></a>
 
 ###### Article R*717-1-1
 
@@ -56008,7 +55998,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque de l'Union européenne<a id=390></a>
+##### Section 2 : Marque de l'Union européenne<a id=392></a>
 
 ###### Article R*717-10-1
 
@@ -56112,9 +56102,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
 
-#### Chapitre VIII : Dispositions communes<a id=391></a>
+#### Chapitre VIII : Dispositions communes<a id=393></a>
 
-##### Section unique<a id=392></a>
+##### Section unique<a id=394></a>
 
 ###### Article R718-1
 
@@ -56259,7 +56249,7 @@ _Modifié par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 10
 
 
-##### Section 2 : Dispositions transitoires<a id=393></a>
+##### Section 2 : Dispositions transitoires<a id=395></a>
 
 ###### Article R718-6
 
@@ -56305,11 +56295,11 @@ _Créé par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 10
 
 
-### Titre II : Indications géographiques<a id=394></a>
+### Titre II : Indications géographiques<a id=396></a>
 
-#### Chapitre Ier : Généralités<a id=395></a>
+#### Chapitre Ier : Généralités<a id=397></a>
 
-##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=396></a>
+##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=398></a>
 
 ###### Article R*721-6-1
 
@@ -56764,9 +56754,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R718-2
 
 
-#### Chapitre II : Contentieux<a id=397></a>
+#### Chapitre II : Contentieux<a id=399></a>
 
-##### Section 1 : Actions civiles<a id=398></a>
+##### Section 1 : Actions civiles<a id=400></a>
 
 ###### Article D722-6
 
@@ -56885,7 +56875,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Section 2 : La retenue<a id=399></a>
+##### Section 2 : La retenue<a id=401></a>
 
 ###### Article R722-7
 
@@ -56907,11 +56897,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=400></a>
+## Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=402></a>
 
-### Titre unique<a id=401></a>
+### Titre unique<a id=403></a>
 
-#### Chapitre unique<a id=402></a>
+#### Chapitre unique<a id=404></a>
 
 ###### Article D811-1-2
 
@@ -57154,7 +57144,7 @@ Dans leur rédaction résultant de</th>
 Article R. 411-1 </td>
       <td align="center">
 
-Décret n° 2019-1316 du 9 décembre 2019 </td>
+Décret n° 2020-225 du 6 mars 2020</td>
     </tr>
     <tr>
       <td align="center">
@@ -57242,7 +57232,7 @@ Décret n° 95-385 du 10 avril 1995 </td>
 Article R. 411-17 </td>
       <td align="center">
 
-Décret n° 2019-1316 du 9 décembre 2019 </td>
+Décret n° 2020-225 du 6 mars 2020</td>
     </tr>
     <tr>
       <td align="center">
@@ -57308,29 +57298,1015 @@ Décret n° 2014-731 du 27 juin 2014 </td>
 
 Les articles R. 521-2 et R. 521-5 sont applicables dans leur rédaction issue du décret n° 2018-1126 du 11 décembre 2018 ;
 
-6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-46, R.
-613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-44, R.
+613-44-1, R. 613-46, R. 613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle, dans
+les conditions suivantes :
 
-Toutefois, l'article R. 613-63 est ainsi rédigé :
+a) Les dispositions du titre Ier mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans
+la colonne de droite du même tableau :
 
-“ Art. R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la  loi
-n° 2005-842 du 26 juillet 2005 , est présentée par écrit au directeur général de l'Institut national de la propriété
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+Dispositions Applicables</th>
+      <th colspan="2">
+
+DANS LEUR RÉDACTION RÉSULTANT DE</th>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 611-1 à R. 611-11</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 611-12</td>
+      <td align="justify">
+
+Décret n° 96-857 du 2 octobre 1996 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 611-13 et R. 611-14</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 611-14-1</td>
+      <td align="justify">
+
+Décret n° 2009-645 du 9 juin 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 611-15 à R. 611-18</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 611-19</td>
+      <td align="justify">
+
+Décret n° 2019-966 du 18 septembre 2019 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 611-20</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-1</td>
+      <td align="justify">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-2</td>
+      <td align="justify">
+
+Décret n° 2020-225 du 6 mars 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-3</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-3-1 et R. 612-3-2</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-4</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-5</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-6</td>
+      <td align="justify">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-7</td>
+      <td align="justify">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-8 et R. 612-9</td>
+      <td align="justify">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-10</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-11</td>
+      <td align="justify">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-12 à R. 612-14</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-15</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-16 et R. 612-17</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-17-1</td>
+      <td align="justify">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-18 à R. 612-20</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-21</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-22</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-24</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-25</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-26 à R. 612-29</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-30</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-31</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-32 à R. 612-34</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-35 et R. 612-36</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-37</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-37-1</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-38</td>
+      <td align="justify">
+
+Décret n° 2007-731 du 7 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-39 et R. 612-39-1</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-40</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-41</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-42 à R. 612-44</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-45</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-46 à R. 612-49</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-50</td>
+      <td align="justify">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-51 et R. 612-52</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-53 à R. 612-55</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-56-1 et R. 612-57</td>
+      <td align="justify">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-58 à R. 612-65</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-66</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-67 à R. 612-70</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-70-1 et R. 612-70-2</td>
+      <td align="justify">
+
+Décret n° 2015-1436 du 6 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-71</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-72</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 612-73 et R. 612-73-1</td>
+      <td align="justify">
+
+Décret n° 2020-225 du 6 mars 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. * 612-73-2</td>
+      <td align="justify">
+
+Décret n° 2015-1436 du 6 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-73-3</td>
+      <td align="justify">
+
+Décret n° 2020-225 du 6 mars 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-74</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 612-75</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 613-4 à R. 613-9</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-10</td>
+      <td align="justify">
+
+Décret n° 2012-597 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 613-11 à R. 613-25</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 613-25-1 à R. 613-25-3</td>
+      <td align="justify">
+
+Décret n° 2008-625 du 27 juin 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-25-4</td>
+      <td align="justify">
+
+Décret n° 2012-597 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 613-26 à R. 613-33</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 613-34 à R. 613-37</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-38 à R. 613-41</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-42</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-43</td>
+      <td align="justify">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-43-1 à R. 613-45</td>
+      <td align="justify">
+
+Décret n° 2020-225 du 6 mars 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-45-1</td>
+      <td align="justify">
+
+Décret n° 2015-1436 du 6 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-45-2</td>
+      <td align="justify">
+
+Décret n° 2015-511 du 7 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-45-3</td>
+      <td align="justify">
+
+Décret n° 2020-225 du 6 mars 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-46</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-47</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-48</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 613-49 et R. 613-49-1</td>
+      <td align="justify">
+
+Décret n° 2015-511 du 7 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-50</td>
+      <td align="justify">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-51</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 613-52 à R. 613-52-2</td>
+      <td align="justify">
+
+Décret n° 2015-1436 du 6 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-53</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-54</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-55</td>
+      <td align="justify">
+
+Décret n° 2007-731 du 7 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-56</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-57</td>
+      <td align="justify">
+
+Décret n° 2007-731 du 7 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-58</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 613-58-1 et R. 613-58-2</td>
+      <td align="justify">
+
+Décret n° 2015-1436 du 6 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 613-59 à R. 613-62</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 613-63</td>
+      <td align="justify">
+
+Décret n° 2020-225 du 6 mars 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 614-1</td>
+      <td align="justify">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 614-4</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 614-5</td>
+      <td align="justify">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 614-6 et R. 614-7</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 614-11 à R. 614-13</td>
+      <td align="justify">
+
+Décret n° 2008-625 du 27 juin 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 614-14 à R. 614-17</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 614-18</td>
+      <td align="justify">
+
+Décret n° 2008-625 du 27 juin 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 614-19 et R. 614-20</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 614-21</td>
+      <td align="justify">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 614-23</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 614-24</td>
+      <td align="justify">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 614-25 et R. 614-26</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 614-27 et R. 614-29</td>
+      <td align="justify">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 614-31 à R. 614-35</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 614-36 et R. 614-37</td>
+      <td align="justify">
+
+Décret n° 2015-427 du 15 avril 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 615-1</td>
+      <td align="justify">
+
+Décret n° 2014-1550 du 19 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 615-2</td>
+      <td align="justify">
+
+Décret n° 2019-966 du 18 septembre 2019 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 615-2-1 et R. 615-3</td>
+      <td align="justify">
+
+Décret n° 2008-624 du 27 juin 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 615-4</td>
+      <td align="justify">
+
+Décret n° 2018-1126 du 11 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 615-5</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 615-6</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 615-7</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 615-8 à R. 615-29</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 615-30</td>
+      <td align="justify">
+
+Décret n° 96-857 du 2 octobre 1996 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 615-31</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 616-1</td>
+      <td align="justify">
+
+Décret n° 2007-280 du 1er mars 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 616-2</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 616-3</td>
+      <td align="justify">
+
+Décret n° 2020-15 du 8 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 617-1</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 617-2</td>
+      <td align="justify">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 618-1</td>
+      <td align="justify">
+
+Décret n° 2004-199 du 25 février 2004 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 618-2</td>
+      <td align="justify">
+
+Décret n° 2020-225 du 6 mars 2020 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 618-3</td>
+      <td align="justify">
+
+Décret n° 2008-1472 du 30 décembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Article R. 618-4</td>
+      <td align="justify">
+
+Décret n° 95-385 du 10 avril 1995 </td>
+    </tr>
+    <tr>
+      <td align="justify" colspan="2">
+
+Articles R. 618-5 et R. 618-6</td>
+      <td align="justify">
+
+Décret n° 2014-650 du 20 juin 2014 </td>
+    </tr>
+  </tbody>
+</table>
+
+Toutefois, l' rticle R. 613-63 est ainsi rédigé :
+
+“  At. R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi
+n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
 industrielle.
 
 “ Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La
 décision est notifiée au requérant.
 
 “ Si la demande est accueillie, le bénéfice de la réduction est acquis au requérant sous réserve qu'il produise chaque année
-un avis de non-imposition ou une justification équivalente. ”
+un avis de non-imposition ou une justification équivalente. ” ;
 
-Les articles R. 615-2, R. 615-4, R. 623-51 et R. 623-53-1 sont applicables dans leur rédaction issue du décret n° 2018-1126
-du 11 décembre 2018.
+b) Les dispositions du titre II ;
 
-Les articles R. 623-6 et R. 623-58 sont applicables dans leur rédaction issue du décret n° 2019-1316 du 9 décembre 2019 ;
+Les articles R. 623-51 et R. 623-53-1 sont applicables dans leur rédaction résultant du décret n° 2019-966 du 18 septembre
+2019.
 
-Les articles R. 612-3-1, R. 612-3-2, R. 612-5, R. 612-21, R. 612-24, R. 612-26, R. 612-28, R. 612-31, R. 612-37-1, R. 612-39,
-R. 612-39-1, R. 612-45, R. 612-53, R. 612-54, R. 612-55, R. 616-3, R. 618-2 sont applicables dans leur rédaction issue du
-décret n° 2020-15 du 8 janvier 2020.
+Les articles R. 623-6 et R. 623-58 sont applicables dans leur rédaction résultant du décret n° 2019-1316 du 9 décembre 2019.
+
+Les articles R. 623-43, R. 623-45 et R. 623-46 sont applicables dans leur rédaction résultant du décret n° 2020-15 du 8
+janvier 2020.
 
 7° Les dispositions du titre Ier du livre VII à l'exception des articles R. 712-2, R. 712-3, R. 712-13, R. 712-14, R. 712-21,
 R. 714-4, R. 714-4-1, R. 714-6, R. 716-1 et R. 716-2 seulement en tant qu'ils concernent les conseils en propriété
@@ -57748,6 +58724,10 @@ Conformément au II de l'article 3 du décret n° 2020-15 du 8 janvier 2020, l'a
 du I du présent article, est abrogé à la date de l'entrée en vigueur du décret n° 2018-429 du 31 mai 2018 relatif au brevet
 européen à effet unitaire et à la juridiction unifiée du brevet.
 
+Conformément au II de l’article 5 du décret n° 2020-225 du 6 mars 2020, l'article R. 811-1-1, dans sa rédaction résultant du
+I du présent article, est abrogé à la date de l'entrée en vigueur du décret n° 2018-429 du 9 mai 2018 relatif au brevet
+européen à effet unitaire et à la juridiction unifiée du brevet.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -57777,7 +58757,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2020-15 du 8 janvier 2020 - art. 3 (V)
+  - Décret n°2020-225 du 6 mars 2020 - art. 5 (V)
 
 _Nouveaux textes_:
 
