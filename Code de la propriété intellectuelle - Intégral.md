@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-01-01 00:00:01 +0100
+Version Consolidée au 2020-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -166,240 +166,242 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#78)
           - [Chapitre V : Marques de garantie et marques collectives (art. L715-1 à L715-10)](#162)
             - [Section 1 : Marques de garantie (art. L715-1 à L715-5)](#163)
             - [Section 2 :  Marques collectives (art. L715-6 à L715-10)](#164)
-          - [Chapitre VI : Contentieux (art. L716-1 à L716-4-11)](#165)
-            - [Section 1 : Contentieux de la nullité et de la déchéance de la marque (art. L716-2 à L716-3-1)](#166)
-              - [Sous-section 2 :  Nullité de la marque (art. L716-2 à L716-2-8)](#167)
-              - [Sous-section 3 :  Déchéance de la marque (art. L716-3-1)](#168)
-            - [Section 2 : Contentieux de la contrefaçon (art. L716-4 à L716-4-11)](#169)
-          - [Chapitre VI bis :  Retenue en douane et actions pénales (art. L716-8 à L716-13)](#170)
-            - [Section 1 : Retenue en douane (art. L716-8 à L716-8-8)](#171)
-            - [Section 2 : Actions pénales (art. L716-8-9 à L716-13)](#172)
-          - [Chapitre VII : Marque de l'Union européenne (art. L717-1 à L717-7)](#173)
-        - [Titre II : Indications géographiques (art. L721-1 à L722-17)](#174)
-          - [Chapitre Ier : Généralités (art. L721-1 à L721-10)](#175)
-            - [Section 1 : Appellations d'origine (art. L721-1)](#176)
-            - [Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux (art. L721-2 à L721-10)](#177)
-          - [Chapitre II : Contentieux (art. L722-1 à L722-17)](#178)
-            - [Section 1 : Actions civiles (art. L722-1 à L722-8)](#179)
-            - [Section 2 : La retenue (art. L722-9 à L722-17)](#180)
-        - [Titre III : Indications relatives aux services publics (art. L731-1 à L731-4)](#181)
-          - [Chapitre unique (art. L731-1 à L731-4)](#182)
-    - [Troisième partie : Dispositions relatives à l'outre-mer (art. L811-1 à L811-6)](#183)
-      - [Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon (art. L811-1 à L811-6)](#184)
-        - [Titre unique (art. L811-1 à L811-6)](#185)
-          - [Chapitre unique (art. L811-1 à L811-6)](#186)
-  - [Partie réglementaire (art. R111-1 à R811-3)](#187)
-    - [Livre Ier : Le droit d'auteur (art. R111-1 à R135-4)](#188)
-      - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#189)
-        - [Chapitre Ier : Nature du droit d'auteur (art. R111-1 à R111-2)](#190)
-      - [Titre II : Droits des auteurs (art. R122-1 à R122-22)](#191)
-        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-22)](#192)
-          - [Section 1 : Dispositions générales (art. R122-1)](#193)
-          - [Section 2 : Droit de suite (art. R122-2 à R122-12)](#194)
-          - [Section 3 : Exception en faveur de personnes atteintes d'un handicap (art. R122-13 à R122-22)](#195)
-            - [Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative (art. R122-13 à R122-15)](#196)
-            - [Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception (art. R122-16 à R122-18)](#197)
-            - [Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France (art. R122-19 à R122-22)](#198)
-      - [Titre III : Exploitation des droits (art. R132-8 à R135-4)](#199)
-        - [Chapitre II : Dispositions particulières à certains contrats (art. R132-8 à D132-29)](#200)
-          - [Section 5 : Nantissement du droit d'exploitation des logiciels (art. R132-8 à R132-17)](#201)
-          - [Section 6 : Droit d'exploitation des œuvres des journalistes (art. R132-18 à R132-27)](#202)
-          - [Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige (art. D132-28 à D132-29)](#203)
-        - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. R133-1 à R133-2)](#204)
-        - [Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-11)](#205)
-          - [Section 1 : Registre des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-4)](#206)
-          - [Section 2 : Procédure (art. R134-11)](#207)
-        - [Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines (art. R135-1 à R135-4)](#208)
-    - [Livre II : Les droits voisins du droit d'auteur (art. R211-1 à R214-18)](#209)
-      - [Titre unique (art. R211-1 à R214-18)](#210)
-        - [Chapitre Ier : Dispositions générales (art. R211-1)](#211)
-        - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-8)](#212)
-        - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-18)](#213)
-          - [Section 1 : Commission prévue à l'article L. 214-4 (art. R214-1 à R214-7)](#214)
-          - [Section 2 : Médiateur de la musique (art. R214-8 à R214-18)](#215)
-    - [Livre III : Dispositions générales (art. D311-8 à R343-2)](#216)
-      - [Titre Ier : Rémunération pour copie privée (art. D311-8 à R311-12)](#217)
-        - [Chapitre unique (art. D311-8 à R311-12)](#218)
-          - [Section 1 : Commission prévue à l'article L. 311-5 (art. D311-8 à R311-7)](#219)
-          - [Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée (art. R311-9 à R311-12)](#220)
-      - [Titre II : Gestion des droits d'auteur et des droits voisins par un organisme (art. R321-1 à R329-12)](#221)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-2)](#222)
-          - [Section 1 : Organismes de gestion collective (art. R321-1)](#223)
-          - [Section 2 :  Organismes de gestion indépendants (art. R321-2)](#224)
-        - [Chapitre Ier ter : Organisations des organismes de gestion collective (art. R321-3 à R321-4)](#225)
-          - [Section 2 :  Décisions collectives des membres (art. R321-3 à R321-4)](#226)
-        - [Chapitre Ier quater : Gestion des droits (art. R321-5 à R321-7)](#227)
-          - [Section 2 :  Gestion des revenus issus de l'exploitation des droits (art. R321-5 à R321-7)](#228)
-        - [Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales (art. R321-8 à R321-13)](#229)
-        - [Chapitre Ier sexies : Transparence et procédures de contrôle (art. R321-14 à R321-23)](#230)
-          - [Section 1 : Transparence et obligations d'information (art. R321-14 à R321-21)](#231)
-          - [Section 3 :  Contrôle par le ministère chargé de la culture (art. R321-22 à R321-23)](#232)
-        - [Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins (art. R321-24 à R321-47)](#233)
-          - [Section 2 :  Règles de fonctionnement (art. R321-24 à R321-25)](#234)
-          - [Section 3 :  Procédure (art. R321-26 à R321-45)](#235)
-            - [Sous-section 1 : Règles générales de procédure (art. R321-26 à R321-27)](#236)
-            - [Sous-section 2 :  Procédure de contrôle des comptes et de la gestion (art. R321-28 à R321-30)](#237)
-            - [Sous-section 3 :  Procédure de sanction (art. R321-31 à R321-34)](#238)
-            - [Sous-section 4 :  Procédure de médiation (art. R321-35 à R321-45)](#239)
-          - [Section 4 :  Voies de recours (art. R321-46 à R321-47)](#240)
-        - [Chapitre Ier octies : Dispositions diverses (art. R321-48)](#241)
-        - [Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#242)
-        - [Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#243)
-        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#244)
-        - [Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R325-1 à R325-7)](#245)
-        - [Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle (art. R326-1 à R326-7)](#246)
-        - [Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes (art. R327-1 à R327-6)](#247)
-        - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence (art. R329-1 à R329-6)](#248)
-        - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée (art. R329-7 à R329-12)](#249)
-      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#250)
-        - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#251)
-          - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#252)
-          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à R331-95)](#253)
-            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à D331-34)](#254)
-              - [Paragraphe 1 : Le collège de la Haute Autorité (art. D331-5 à R331-4)](#255)
-              - [Paragraphe 2 : La commission de protection des droits (art. D331-8 à R331-7)](#256)
-              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. D331-13 à R331-14)](#257)
-              - [Paragraphe 4 : Dispositions relatives au personnel (art. R331-15 à R331-19)](#258)
-              - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#259)
-              - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#260)
-            - [Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. R331-35 à R331-46)](#261)
-            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. D331-54-1 à R331-54)](#262)
-            - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés (art. R331-55 à R331-84)](#263)
-              - [Paragraphe 1 : Règles générales de procédure (art. R331-56 à R331-64)](#264)
-              - [Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-65 à R331-71)](#265)
-              - [Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées (art. R331-72 à R331-73)](#266)
-              - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#267)
-              - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#268)
-            - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#269)
-        - [Chapitre II : Saisie-contrefaçon (art. R332-1 à R332-4)](#270)
-        - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#271)
-        - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#272)
-      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#273)
-      - [Chapitre III : Procédures et sanctions (art. R343-1 à R343-2)](#274)
-    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#275)
-      - [Titre Ier : Institutions (art. D411-1-3 à R412-21)](#276)
-        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#277)
-          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#278)
-          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#279)
-          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. D411-19-1 à R411-26)](#280)
-        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#281)
-          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#282)
-          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#283)
-      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#284)
-        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#285)
-        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#286)
-          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#287)
-          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#288)
-          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#289)
-          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#290)
-            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40-1)](#291)
-            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#292)
-            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#293)
-            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#294)
-            - [Sous-section 5 : Sociétés pluri-professionnelles d'exercice (art. R422-51-15 à R422-51-19)](#295)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#296)
-          - [Section 4 bis : Contrôle de l'exercice de la profession (art. R422-55-2 à R422-55-5)](#297)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#298)
-        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#299)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#300)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#301)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#302)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#303)
-        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#304)
-        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#305)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#306)
-          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#307)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#308)
-      - [Titre II : Contentieux (art. R521-1 à R523-1)](#309)
-        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#310)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#311)
-          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#312)
-          - [Section 3 : Dispositions communes (art. D521-6)](#313)
-        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#314)
-        - [Chapitre III : Retenue en douane (art. R523-1)](#315)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#316)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#317)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#318)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#319)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#320)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#321)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#322)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#323)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#324)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-1)](#325)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#326)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#327)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#328)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#329)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#330)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#331)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#332)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#333)
-          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#334)
-            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#335)
-            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#336)
-            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#337)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#338)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#339)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#340)
-          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#341)
-          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#342)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#343)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#344)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#345)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#346)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#347)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#348)
-        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#349)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#350)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#351)
-          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#352)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#353)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#354)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#355)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#356)
-          - [Section unique : Procédure (art. R618-1 à R618-6)](#357)
-      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#358)
-        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#359)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#360)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#361)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#362)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#363)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#364)
-            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#365)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#366)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#367)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#368)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#369)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#370)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#371)
-          - [Section 3 : La retenue (art. R623-60)](#372)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#373)
-        - [Chapitre unique (art. D631-1 à D631-2)](#374)
-    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#375)
-      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#376)
-        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#377)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#378)
-        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#379)
-        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#380)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#381)
-          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#382)
-          - [Section 3 : Retenue en douane (art. R716-6)](#383)
-          - [Section 4 : Dispositions communes (art. D716-12)](#384)
-        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#385)
-          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#386)
-          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#387)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#388)
-          - [Section unique (art. R718-1 à R718-5)](#389)
-      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#390)
-        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#391)
-          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#392)
-        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#393)
-          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#394)
-          - [Section 2 : La retenue (art. R722-7)](#395)
-    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#396)
-      - [Titre unique (art. R811-1 à R811-3)](#397)
-        - [Chapitre unique (art. R811-1 à R811-3)](#398)
+          - [Chapitre VI : Contentieux (art. L716-3 à L716-6)](#165)
+            - [Section 1 : Contentieux de la nullité et de la déchéance de la marque (art. L716-1 à L716-3-1)](#166)
+              - [Sous-section 1 : Dispositions communes à la procédure administrative en nullité et en déchéance (art. L716-1 à L716-1-1)](#167)
+              - [Sous-section 2 :  Nullité de la marque (art. L716-2 à L716-2-8)](#168)
+              - [Sous-section 3 :  Déchéance de la marque (art. L716-3-1)](#169)
+            - [Section 2 : Contentieux de la contrefaçon (art. L716-4 à L716-4-11)](#170)
+            - [Section 3 : Règles de compétence (art. L716-5 à L716-6)](#171)
+          - [Chapitre VI bis :  Retenue en douane et actions pénales (art. L716-8 à L716-13)](#172)
+            - [Section 1 : Retenue en douane (art. L716-8 à L716-8-8)](#173)
+            - [Section 2 : Actions pénales (art. L716-8-9 à L716-13)](#174)
+          - [Chapitre VII : Marque de l'Union européenne (art. L717-1 à L717-7)](#175)
+        - [Titre II : Indications géographiques (art. L721-1 à L722-17)](#176)
+          - [Chapitre Ier : Généralités (art. L721-1 à L721-10)](#177)
+            - [Section 1 : Appellations d'origine (art. L721-1)](#178)
+            - [Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux (art. L721-2 à L721-10)](#179)
+          - [Chapitre II : Contentieux (art. L722-1 à L722-17)](#180)
+            - [Section 1 : Actions civiles (art. L722-1 à L722-8)](#181)
+            - [Section 2 : La retenue (art. L722-9 à L722-17)](#182)
+        - [Titre III : Indications relatives aux services publics (art. L731-1 à L731-4)](#183)
+          - [Chapitre unique (art. L731-1 à L731-4)](#184)
+    - [Troisième partie : Dispositions relatives à l'outre-mer (art. L811-1 à L811-6)](#185)
+      - [Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon (art. L811-1 à L811-6)](#186)
+        - [Titre unique (art. L811-1 à L811-6)](#187)
+          - [Chapitre unique (art. L811-1 à L811-6)](#188)
+  - [Partie réglementaire (art. R111-1 à R811-3)](#189)
+    - [Livre Ier : Le droit d'auteur (art. R111-1 à R135-4)](#190)
+      - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#191)
+        - [Chapitre Ier : Nature du droit d'auteur (art. R111-1 à R111-2)](#192)
+      - [Titre II : Droits des auteurs (art. R122-1 à R122-22)](#193)
+        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-22)](#194)
+          - [Section 1 : Dispositions générales (art. R122-1)](#195)
+          - [Section 2 : Droit de suite (art. R122-2 à R122-12)](#196)
+          - [Section 3 : Exception en faveur de personnes atteintes d'un handicap (art. R122-13 à R122-22)](#197)
+            - [Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative (art. R122-13 à R122-15)](#198)
+            - [Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception (art. R122-16 à R122-18)](#199)
+            - [Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France (art. R122-19 à R122-22)](#200)
+      - [Titre III : Exploitation des droits (art. R132-8 à R135-4)](#201)
+        - [Chapitre II : Dispositions particulières à certains contrats (art. R132-8 à D132-29)](#202)
+          - [Section 5 : Nantissement du droit d'exploitation des logiciels (art. R132-8 à R132-17)](#203)
+          - [Section 6 : Droit d'exploitation des œuvres des journalistes (art. R132-18 à R132-27)](#204)
+          - [Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige (art. D132-28 à D132-29)](#205)
+        - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. R133-1 à R133-2)](#206)
+        - [Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-11)](#207)
+          - [Section 1 : Registre des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-4)](#208)
+          - [Section 2 : Procédure (art. R134-11)](#209)
+        - [Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines (art. R135-1 à R135-4)](#210)
+    - [Livre II : Les droits voisins du droit d'auteur (art. R211-1 à R214-18)](#211)
+      - [Titre unique (art. R211-1 à R214-18)](#212)
+        - [Chapitre Ier : Dispositions générales (art. R211-1)](#213)
+        - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-8)](#214)
+        - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-18)](#215)
+          - [Section 1 : Commission prévue à l'article L. 214-4 (art. R214-1 à R214-7)](#216)
+          - [Section 2 : Médiateur de la musique (art. R214-8 à R214-18)](#217)
+    - [Livre III : Dispositions générales (art. D311-8 à R343-2)](#218)
+      - [Titre Ier : Rémunération pour copie privée (art. D311-8 à R311-12)](#219)
+        - [Chapitre unique (art. D311-8 à R311-12)](#220)
+          - [Section 1 : Commission prévue à l'article L. 311-5 (art. D311-8 à R311-7)](#221)
+          - [Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée (art. R311-9 à R311-12)](#222)
+      - [Titre II : Gestion des droits d'auteur et des droits voisins par un organisme (art. R321-1 à R329-12)](#223)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-2)](#224)
+          - [Section 1 : Organismes de gestion collective (art. R321-1)](#225)
+          - [Section 2 :  Organismes de gestion indépendants (art. R321-2)](#226)
+        - [Chapitre Ier ter : Organisations des organismes de gestion collective (art. R321-3 à R321-4)](#227)
+          - [Section 2 :  Décisions collectives des membres (art. R321-3 à R321-4)](#228)
+        - [Chapitre Ier quater : Gestion des droits (art. R321-5 à R321-7)](#229)
+          - [Section 2 :  Gestion des revenus issus de l'exploitation des droits (art. R321-5 à R321-7)](#230)
+        - [Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales (art. R321-8 à R321-13)](#231)
+        - [Chapitre Ier sexies : Transparence et procédures de contrôle (art. R321-14 à R321-23)](#232)
+          - [Section 1 : Transparence et obligations d'information (art. R321-14 à R321-21)](#233)
+          - [Section 3 :  Contrôle par le ministère chargé de la culture (art. R321-22 à R321-23)](#234)
+        - [Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins (art. R321-24 à R321-47)](#235)
+          - [Section 2 :  Règles de fonctionnement (art. R321-24 à R321-25)](#236)
+          - [Section 3 :  Procédure (art. R321-26 à R321-45)](#237)
+            - [Sous-section 1 : Règles générales de procédure (art. R321-26 à R321-27)](#238)
+            - [Sous-section 2 :  Procédure de contrôle des comptes et de la gestion (art. R321-28 à R321-30)](#239)
+            - [Sous-section 3 :  Procédure de sanction (art. R321-31 à R321-34)](#240)
+            - [Sous-section 4 :  Procédure de médiation (art. R321-35 à R321-45)](#241)
+          - [Section 4 :  Voies de recours (art. R321-46 à R321-47)](#242)
+        - [Chapitre Ier octies : Dispositions diverses (art. R321-48)](#243)
+        - [Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#244)
+        - [Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#245)
+        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#246)
+        - [Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R325-1 à R325-7)](#247)
+        - [Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle (art. R326-1 à R326-7)](#248)
+        - [Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes (art. R327-1 à R327-6)](#249)
+        - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence (art. R329-1 à R329-6)](#250)
+        - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée (art. R329-7 à R329-12)](#251)
+      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#252)
+        - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#253)
+          - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#254)
+          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à R331-95)](#255)
+            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. D331-5 à D331-34)](#256)
+              - [Paragraphe 1 : Le collège de la Haute Autorité (art. D331-5 à R331-4)](#257)
+              - [Paragraphe 2 : La commission de protection des droits (art. D331-8 à R331-7)](#258)
+              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. D331-13 à R331-14)](#259)
+              - [Paragraphe 4 : Dispositions relatives au personnel (art. R331-15 à R331-19)](#260)
+              - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#261)
+              - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#262)
+            - [Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. R331-35 à R331-46)](#263)
+            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. D331-54-1 à R331-54)](#264)
+            - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés (art. R331-55 à R331-84)](#265)
+              - [Paragraphe 1 : Règles générales de procédure (art. R331-56 à R331-64)](#266)
+              - [Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-65 à R331-71)](#267)
+              - [Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées (art. R331-72 à R331-73)](#268)
+              - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#269)
+              - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#270)
+            - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#271)
+        - [Chapitre II : Saisie-contrefaçon (art. R332-1 à R332-4)](#272)
+        - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#273)
+        - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#274)
+      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#275)
+      - [Chapitre III : Procédures et sanctions (art. R343-1 à R343-2)](#276)
+    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#277)
+      - [Titre Ier : Institutions (art. D411-1-3 à R412-21)](#278)
+        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#279)
+          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#280)
+          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#281)
+          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle (art. D411-19-1 à R411-26)](#282)
+        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#283)
+          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#284)
+          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#285)
+      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#286)
+        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#287)
+        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#288)
+          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#289)
+          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#290)
+          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#291)
+          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#292)
+            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40-1)](#293)
+            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#294)
+            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#295)
+            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#296)
+            - [Sous-section 5 : Sociétés pluri-professionnelles d'exercice (art. R422-51-15 à R422-51-19)](#297)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#298)
+          - [Section 4 bis : Contrôle de l'exercice de la profession (art. R422-55-2 à R422-55-5)](#299)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#300)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#301)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#302)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#303)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#304)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#305)
+        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#306)
+        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#307)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#308)
+          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#309)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#310)
+      - [Titre II : Contentieux (art. R521-1 à R523-1)](#311)
+        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#312)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#313)
+          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#314)
+          - [Section 3 : Dispositions communes (art. D521-6)](#315)
+        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#316)
+        - [Chapitre III : Retenue en douane (art. R523-1)](#317)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#318)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#319)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#320)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#321)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#322)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#323)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#324)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#325)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#326)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-1)](#327)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#328)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#329)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#330)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#331)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-55 à R612-69)](#332)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#333)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#334)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#335)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-44)](#336)
+            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#337)
+            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#338)
+            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#339)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#340)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#341)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-44)](#342)
+          - [Section 2 : Transmission et perte des droits (art. R*613-45-2 à R613-51)](#343)
+          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#344)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#345)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#346)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#347)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#348)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#349)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#350)
+        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#351)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#352)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#353)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#354)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#355)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#356)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#357)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#358)
+          - [Section unique : Procédure (art. R618-1 à R618-6)](#359)
+      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#360)
+        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#361)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#362)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#363)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#364)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#365)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#366)
+            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#367)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#368)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#369)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#370)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#371)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#372)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#373)
+          - [Section 3 : La retenue (art. R623-60)](#374)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#375)
+        - [Chapitre unique (art. D631-1 à D631-2)](#376)
+    - [Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs (art. D712-29 à R722-7)](#377)
+      - [Titre Ier : Marques de fabrique, de commerce ou de service (art. D712-29 à R718-5)](#378)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28)](#379)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#380)
+        - [Chapitre V : Marques collectives (art. R715-1 à R715-2)](#381)
+        - [Chapitre VI : Contentieux (art. R716-1 à D716-12)](#382)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R716-1)](#383)
+          - [Section 2 :  Mesures probatoires (art. R716-2 à R716-5)](#384)
+          - [Section 3 : Retenue en douane (art. R716-6)](#385)
+          - [Section 4 : Dispositions communes (art. D716-12)](#386)
+        - [Chapitre VII : Marque internationale et marque communautaire (art. R*717-1-1 à R717-11)](#387)
+          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#388)
+          - [Section 2 : Marque communautaire (art. R*717-10-1 à R717-11)](#389)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-5)](#390)
+          - [Section unique (art. R718-1 à R718-5)](#391)
+      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#392)
+        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#393)
+          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#394)
+        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#395)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#396)
+          - [Section 2 : La retenue (art. R722-7)](#397)
+    - [Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. R811-1 à R811-3)](#398)
+      - [Titre unique (art. R811-1 à R811-3)](#399)
+        - [Chapitre unique (art. R811-1 à R811-3)](#400)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -12873,13 +12875,14 @@ entreprises, ainsi que d'engager toute action de sensibilisation et de formation
 2° D'appliquer les lois et règlements en matière de propriété industrielle et de registre du commerce et des sociétés ; à cet
 effet, l'Institut pourvoit, notamment, à la réception des dépôts de demandes des titres de propriété industrielle ou annexes
 à la propriété industrielle, à leur examen et à leur délivrance ou enregistrement et à la surveillance de leur maintien ; il
+connaît des demandes en nullité et en déchéance de marques mentionnées aux 1° et 2° du I de l'article L. 716-5 ; il
 centralise le registre du commerce et des sociétés, notamment sur la base de données informatiques transmises par les
 greffiers de tribunal de commerce, et le Bulletin officiel des annonces civiles et commerciales ; il assure la diffusion des
 informations techniques, commerciales et financières contenues dans les titres de propriété industrielle ; il assure la
 diffusion et la mise à la disposition gratuite du public, à des fins de réutilisation, des informations techniques,
 commerciales et financières qui sont contenues dans le registre national du commerce et des sociétés et dans les instruments
 centralisés de publicité légale, selon des modalités fixées par décret ; il statue sur les demandes d'homologation ou de
-modification des cahiers des charges des indications géographiques définies à l'article L. 721-2 ;
+modification des cahiers des charges des indications géographiques définies à l'article L. 721-2 ; 
 
 3° De prendre toute initiative en vue d'une adaptation permanente du droit national et international aux besoins des
 innovateurs et des entreprises ; à ce titre, il propose au ministre chargé de la propriété industrielle toute réforme qu'il
@@ -12888,10 +12891,14 @@ France dans les organisations internationales compétentes.
 
 **Nota:**
 
-Aux termes du IV de l'article 60 de la loi n° 2015-990 du 6 août 2015, ces dispositions entrent en vigueur à la même date que
-le premier arrêté fixant les tarifs des prestations des greffiers des tribunaux de commerce en application de l'article 50 de
-la présente loi, et au plus tard à l'expiration du douzième mois suivant la promulgation de la même loi. L'arrêté du 26
-février 2016 est entré en vigueur le 1er mars 2016.
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 411-1 dans leur rédaction résultant de la
+présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
+l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
+déchéance d'une marque.
 
 **Liens relatifs à cet article**
 
@@ -12906,15 +12913,17 @@ _Cité par_:
   - Loi n°2013-1278 du 29 décembre 2013 - art. 50 (V)
   - Loi n°2015-990 du 6 août 2015 - art. 60 (V)
   - Code de commerce - art. L123-6 (V)
+  - Code de la propriété intellectuelle - art. L411-4 (VD)
   - Code monétaire et financier - art. L561-47 (VD)
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 60 (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L721-2 (V)
+  - Code de la propriété intellectuelle - art. L716-5 (VD)
+  - Code de la propriété intellectuelle - art. L721-2
 
 
 ###### Article L411-2
@@ -12974,10 +12983,27 @@ de la délivrance, du rejet ou du maintien des titres de propriété industriell
 rejet ou de la modification du cahier des charges des indications géographiques définies à l'article L. 721-2 ou du retrait
 de cette homologation. 
 
-Dans l'exercice de cette compétence, il n'est pas soumis à l'autorité de tutelle. Les cours d'appel désignées par voie
-réglementaire connaissent directement des recours formés contre ses décisions. Il y est statué, le ministère public et le
-directeur de l'Institut national de la propriété industrielle entendus. Le pourvoi en cassation est ouvert tant au demandeur
-qu'au directeur de l'Institut national de la propriété industrielle.
+Il statue sur les demandes en nullité ou en déchéance de marques mentionnées au 2° de l'article L. 411-1. Les recours exercés
+contre ces décisions sont suspensifs 
+
+Dans l'exercice de ces compétences, il n'est pas soumis à l'autorité de tutelle. Les cours d'appel désignées par voie
+réglementaire connaissent directement des recours formés contre ses décisions. 
+
+Le pourvoi en cassation contre les décisions des cours d'appel statuant sur ces recours est ouvert aux parties et au
+directeur général de l'Institut national de la propriété industrielle. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 411-4 dans leur rédaction résultant de la
+présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
+l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
+déchéance d'une marque.
 
 **Liens relatifs à cet article**
 
@@ -12991,7 +13017,7 @@ _Cité par_:
 
   - Décret n°78-1010 du 10 octobre 1978 - art. 11 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*212-1 (Ab)
-  - Code de la propriété intellectuelle - art. L411-5 (V)
+  - Code de la propriété intellectuelle - art. L411-5 (VD)
   - Code de la propriété intellectuelle - art. L612-20 (V)
   - Code de la propriété intellectuelle - art. L613-27 (V)
   - Code de la propriété intellectuelle - art. L622-7 (V)
@@ -13004,21 +13030,35 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L721-2 (V)
+  - Code de la propriété intellectuelle - art. L411-1 (VD)
+  - Code de la propriété intellectuelle - art. L721-2
 
 
 ###### Article L411-5
 
-Les décisions de rejet mentionnées au premier alinéa de l'article L. 411-4 sont motivées. 
+Les décisions de rejet mentionnées au premier alinéa de l'article L. 411-4, les décisions statuant sur une opposition formée
+à l'encontre d'une demande d'enregistrement de marque ainsi que les décisions statuant sur une demande de relevé de déchéance
+en matière de marques ou de dessins et modèles sont motivées.
 
-Il en est de même des décisions acceptant une opposition présentée en vertu de l'article L. 712-4 ou une demande de relevé de
-déchéance en matière de marques de fabrique, de commerce ou de service. 
+Il en est de même des décisions statuant sur une demande en nullité ou en déchéance de marques.
 
-Elles sont notifiées au demandeur dans les formes et délais prévus par voie réglementaire.
+Ces décisions sont notifiées au demandeur et, le cas échéant, aux autres parties, dans les formes et délais prévus par décret
+en Conseil d'Etat.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 411-5 dans leur rédaction résultant de la
+présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
+l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
+déchéance d'une marque.
 
 **Liens relatifs à cet article**
 
@@ -13029,16 +13069,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L411-4 (V)
-  - Code de la propriété intellectuelle - art. L712-4 (V)
+  - Code de la propriété intellectuelle - art. L411-4 (VD)
+  - Code de la propriété intellectuelle - art. L712-4 (VD)
 
 _Cité par_:
 
@@ -24424,15 +24464,20 @@ _Modifié par_:
 
 ###### Article L714-3
 
-Est déclaré nul par décision de justice l'enregistrement d'une marque qui n'est pas conforme aux dispositions des articles L.
-711-1 à L. 711-4. 
+L'enregistrement d'une marque est déclaré nul par décision de justice ou par décision du directeur général de l'Institut
+national de la propriété industrielle, en application de l'article L. 411-4, si la marque ne répond pas aux conditions
+énoncées aux articles L. 711-2, L. 711-3, L. 715-4 et L. 715-9.
 
-Le ministère public peut agir d'office en nullité en vertu des articles L. 711-1, L. 711-2 et L. 711-3. 
+**Nota:**
 
-Seul le titulaire d'un droit antérieur peut agir en nullité sur le fondement de l'article L. 711-4. Toutefois, son action
-n'est pas recevable si la marque a été déposée de bonne foi et s'il en a toléré l'usage pendant cinq ans. 
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
-La décision d'annulation a un effet absolu.
+Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 714-3 dans sa rédaction résultant de la
+présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
+l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
+déchéance d'une marque.
 
 **Liens relatifs à cet article**
 
@@ -24443,23 +24488,33 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 6
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L711-1 (V)
-  - Code de la propriété intellectuelle - art. L711-4 (V)
+  - Code de la propriété intellectuelle - art. L711-1
+  - Code de la propriété intellectuelle - art. L711-4
 
 
 ###### Article L714-4
 
-L'action en nullité ouverte au propriétaire d'une marque notoirement connue au sens de l'article 6 bis de la convention de
-Paris pour la protection de la propriété industrielle se prescrit par cinq ans à compter de la date d'enregistrement, à moins
-que ce dernier n'ait été demandé de mauvaise foi.
+Est déclaré déchu de ses droits par décision de justice ou par décision du directeur général de l'Institut national de la
+propriété industrielle le titulaire d'une marque en application des articles L. 714-5, L. 714-6, L. 715-5 et L. 715-10.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
+Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 714-4 dans sa rédaction résultant de la
+présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
+l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
+déchéance d'une marque.
 
 **Liens relatifs à cet article**
 
@@ -24470,11 +24525,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 6
 
 
 ###### Article L714-5
@@ -24897,31 +24952,6 @@ _Créé par_:
 
 ##### Chapitre VI : Contentieux<a id=165></a>
 
-###### Article L716-1
-
-L'atteinte portée au droit du propriétaire de la marque constitue une contrefaçon engageant la responsabilité civile de son
-auteur. Constitue une atteinte aux droits de la marque la violation des interdictions prévues aux articles L. 713-2, L. 713-3
-et L. 713-4.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 14
-
-_Codifié par_:
-
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L713-2 (V)
-
-
 ###### Article L716-3
 
 Les actions civiles et les demandes relatives aux marques, y compris lorsqu'elles portent également sur une question connexe
@@ -24949,86 +24979,37 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L716-4 (V)
 
 
-###### Article L716-5
+##### Section 1 : Contentieux de la nullité et de la déchéance de la marque<a id=166></a>
 
-L'action civile en contrefaçon est engagée par le propriétaire de la marque. Toutefois, le bénéficiaire d'un droit exclusif
-d'exploitation peut agir en contrefaçon, sauf stipulation contraire du contrat si, après mise en demeure, le titulaire
-n'exerce pas ce droit.
+##### Sous-section 1 : Dispositions communes à la procédure administrative en nullité et en déchéance<a id=167></a>
 
-Toute partie à un contrat de licence est recevable à intervenir dans l'instance en contrefaçon engagée par une autre partie
-afin d'obtenir la réparation du préjudice qui lui est propre.
+###### Article L716-1
 
-L'action en contrefaçon se prescrit par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaitre
-le dernier fait lui permettant de l'exercer.
+Les demandes en nullité ou en déchéance de marque formées devant l'Institut national de la propriété industrielle sont
+présentées dans les formes et conditions définies par décret en Conseil d'Etat.
 
-Est irrecevable toute action en contrefaçon d'une marque postérieure enregistrée dont l'usage a été toléré pendant cinq ans,
-à moins que son dépôt n'ait été effectué de mauvaise foi. Toutefois, l'irrecevabilité est limitée aux seuls produits et
-services pour lesquels l'usage a été toléré.
+Le directeur général de l'Institut national de la propriété industrielle statue sur la demande en nullité ou en déchéance au
+terme d'une procédure contradictoire comprenant une phase d'instruction, dans les conditions définies par décret en Conseil
+d'Etat.
 
-**Liens relatifs à cet article**
+La décision du directeur général de l'Institut a les effets d'un jugement au sens du 6° de l'article L. 111-3 du code des
+procédures civiles d'exécution.
 
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 19
-  - Loi n°91-7 du 4 janvier 1991 - art. 19 (Ab)
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Modifié par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L811-1 (VT)
-
-
-###### Article L716-6
-
-Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir
-ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les
-services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite
-d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête
-lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard
-serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut
-ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable
-qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
-
-La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties
-destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des
-produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation
-dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des
-dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu
-contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer
-les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires,
-financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
-
-Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement
-contestable.
-
-Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
-par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est
-ultérieurement jugée non fondée ou les mesures annulées.
-
-Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
-le demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou pénale, soit déposer une
-plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa
-demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
+La demande en nullité ou en déchéance est réputée rejetée si le directeur général de l'Institut n'a pas statué dans le délai,
+fixé par décret en Conseil d'Etat, qui court à compter de la date de fin de cette phase d'instruction.
 
 **Nota:**
 
 Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
 ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
-décembre 2019.
+décembre 2019. Par dérogation aux dispositions précédentes, les dispositions de l'article L. 716-1 entrent en vigueur à
+compter du 1er avril 2020.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°91-7 1991-01-04 art. 20
-  - Loi n°91-7 du 4 janvier 1991 - art. 20 (Ab)
+  - Loi n°91-7 1991-01-04 art. 14
 
 _Codifié par_:
 
@@ -25036,16 +25017,34 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 11
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
 
-_Cité par_:
+_Cite_:
 
-  - Code de la propriété intellectuelle - art. R716-1 (V)
+  - Code de la propriété intellectuelle - art. L713-2
 
 
-##### Section 1 : Contentieux de la nullité et de la déchéance de la marque<a id=166></a>
+###### Article L716-1-1
 
-##### Sous-section 2 :  Nullité de la marque<a id=167></a>
+Sur demande de la partie gagnante, le directeur général de l'Institut national de la propriété industrielle met à la charge
+de la partie perdante tout ou partie des frais exposés par l'autre partie dans la limite d'un barème fixé par arrêté du
+ministre chargé de la propriété industrielle.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019. Par dérogation aux dispositions précédentes, les dispositions de l'article L. 716-1-1 entrent en vigueur à
+compter du 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+
+##### Sous-section 2 :  Nullité de la marque<a id=168></a>
 
 ###### Article L716-2
 
@@ -25305,7 +25304,7 @@ _Créé par_:
   - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
 
 
-##### Sous-section 3 :  Déchéance de la marque<a id=168></a>
+##### Sous-section 3 :  Déchéance de la marque<a id=169></a>
 
 ###### Article L716-3-1
 
@@ -25325,7 +25324,7 @@ _Créé par_:
   - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
 
 
-##### Section 2 : Contentieux de la contrefaçon<a id=169></a>
+##### Section 2 : Contentieux de la contrefaçon<a id=170></a>
 
 ###### Article L716-4
 
@@ -25698,9 +25697,101 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. L716-15 (T)
 
 
-##### Chapitre VI bis :  Retenue en douane et actions pénales<a id=170></a>
+##### Section 3 : Règles de compétence<a id=171></a>
 
-##### Section 1 : Retenue en douane<a id=171></a>
+###### Article L716-5
+
+I.-Ne peuvent être formées que devant l'Institut national de la propriété industrielle :
+
+1° Les demandes en nullité exclusivement fondées sur un ou plusieurs des motifs énumérés à l'article L. 711-2, aux 1° à 5°,
+9° et 10° du I de l'article L. 711-3, au III du même article ainsi qu'aux articles L. 715-4 et L. 715-9 ;
+
+2° Les demandes en déchéance fondées sur les articles L. 714-5, L. 714-6, L. 715-5 et L. 715-10.
+
+II.-Les autres actions civiles et les demandes relatives aux marques autres que celles mentionnées au I, y compris
+lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des
+tribunaux de grande instance, déterminés par voie réglementaire.
+
+Les tribunaux mentionnés à l'alinéa précédent sont en outre exclusivement compétents dans les cas suivants :
+
+1° Lorsque les demandes mentionnées aux 1° et 2° du I sont formées à titre principal ou reconventionnel par les parties de
+façon connexe à toute autre demande relevant de la compétence du tribunal et notamment à l'occasion d'une action introduite
+sur le fondement des articles L. 716-4, L. 716-4-6, L. 716-4-7 et L. 716-4-9 ou à l'occasion d'une action en concurrence
+déloyale ;
+
+2° Lorsque les demandes mentionnées aux 1° et 2° du I sont formées alors que soit des mesures probatoires, soit des mesures
+provisoires ou conservatoires ordonnées afin de faire cesser une atteinte à un droit de marque sont en cours d'exécution
+avant l'engagement d'une action au fond.
+
+III.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019. Par dérogation aux dispositions précédentes, les dispositions de l'article L. 716-5 entrent en vigueur à
+compter du 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 19
+  - Loi n°91-7 du 4 janvier 1991 - art. 19 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L411-1 (VD)
+  - Code de la propriété intellectuelle - art. L811-1 (VT)
+
+
+###### Article L716-6
+
+Les dispositions de l'article L. 716-5 ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux
+articles 2059 et 2060 du code civil.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019. Par dérogation aux dispositions précédentes, les dispositions de l'article L. 716-6 entrent en vigueur à
+compter du 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 20
+  - Loi n°91-7 du 4 janvier 1991 - art. 20 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R716-1 (V)
+
+
+##### Chapitre VI bis :  Retenue en douane et actions pénales<a id=172></a>
+
+##### Section 1 : Retenue en douane<a id=173></a>
 
 ###### Article L716-8
 
@@ -26107,7 +26198,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L716-8 (VD)
 
 
-##### Section 2 : Actions pénales<a id=172></a>
+##### Section 2 : Actions pénales<a id=174></a>
 
 ###### Article L716-8-9
 
@@ -26419,7 +26510,7 @@ _Cité par_:
   - Code du sport. - art. L141-7 (V)
 
 
-##### Chapitre VII : Marque de l'Union européenne<a id=173></a>
+##### Chapitre VII : Marque de l'Union européenne<a id=175></a>
 
 ###### Article L717-1
 
@@ -26616,11 +26707,11 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-4 (V)
 
 
-#### Titre II : Indications géographiques<a id=174></a>
+#### Titre II : Indications géographiques<a id=176></a>
 
-##### Chapitre Ier : Généralités<a id=175></a>
+##### Chapitre Ier : Généralités<a id=177></a>
 
-##### Section 1 : Appellations d'origine<a id=176></a>
+##### Section 1 : Appellations d'origine<a id=178></a>
 
 ###### Article L721-1
 
@@ -26649,7 +26740,7 @@ _Anciens textes_:
   - Loi n°1919-05-06 art. A
 
 
-##### Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux<a id=177></a>
+##### Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux<a id=179></a>
 
 ###### Article L721-2
 
@@ -26997,9 +27088,9 @@ _Créé par_:
   - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
 
 
-##### Chapitre II : Contentieux<a id=178></a>
+##### Chapitre II : Contentieux<a id=180></a>
 
-##### Section 1 : Actions civiles<a id=179></a>
+##### Section 1 : Actions civiles<a id=181></a>
 
 ###### Article L722-1
 
@@ -27260,7 +27351,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. D722-6 (VD)
 
 
-##### Section 2 : La retenue<a id=180></a>
+##### Section 2 : La retenue<a id=182></a>
 
 ###### Article L722-9
 
@@ -27597,9 +27688,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L722-9
 
 
-#### Titre III : Indications relatives aux services publics<a id=181></a>
+#### Titre III : Indications relatives aux services publics<a id=183></a>
 
-##### Chapitre unique<a id=182></a>
+##### Chapitre unique<a id=184></a>
 
 ###### Article L731-1
 
@@ -27680,13 +27771,13 @@ _Cite_:
   - Code de la consommation - art. L141-1
 
 
-## Troisième partie : Dispositions relatives à l'outre-mer<a id=183></a>
+## Troisième partie : Dispositions relatives à l'outre-mer<a id=185></a>
 
-### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon<a id=184></a>
+### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon<a id=186></a>
 
-#### Titre unique<a id=185></a>
+#### Titre unique<a id=187></a>
 
-##### Chapitre unique<a id=186></a>
+##### Chapitre unique<a id=188></a>
 
 ###### Article L811-1
 
@@ -28041,13 +28132,13 @@ _Créé par_:
   - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 11
 
 
-# Partie réglementaire<a id=187></a>
+# Partie réglementaire<a id=189></a>
 
-## Livre Ier : Le droit d'auteur<a id=188></a>
+## Livre Ier : Le droit d'auteur<a id=190></a>
 
-### Titre Ier : Objet du droit d'auteur<a id=189></a>
+### Titre Ier : Objet du droit d'auteur<a id=191></a>
 
-#### Chapitre Ier : Nature du droit d'auteur<a id=190></a>
+#### Chapitre Ier : Nature du droit d'auteur<a id=192></a>
 
 ###### Article R111-1
 
@@ -28112,11 +28203,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-### Titre II : Droits des auteurs<a id=191></a>
+### Titre II : Droits des auteurs<a id=193></a>
 
-#### Chapitre II : Droits patrimoniaux<a id=192></a>
+#### Chapitre II : Droits patrimoniaux<a id=194></a>
 
-##### Section 1 : Dispositions générales<a id=193></a>
+##### Section 1 : Dispositions générales<a id=195></a>
 
 ###### Article R122-1
 
@@ -28152,7 +28243,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R122-6 (M)
 
 
-##### Section 2 : Droit de suite<a id=194></a>
+##### Section 2 : Droit de suite<a id=196></a>
 
 ###### Article R122-2
 
@@ -28559,9 +28650,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-9
 
 
-##### Section 3 : Exception en faveur de personnes atteintes d'un handicap<a id=195></a>
+##### Section 3 : Exception en faveur de personnes atteintes d'un handicap<a id=197></a>
 
-##### Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative<a id=196></a>
+##### Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative<a id=198></a>
 
 ###### Article R122-13
 
@@ -28685,7 +28776,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R122-18 (M)
 
 
-##### Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception<a id=197></a>
+##### Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception<a id=199></a>
 
 ###### Article R122-16
 
@@ -28793,7 +28884,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L122-5-1
 
 
-##### Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France<a id=198></a>
+##### Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France<a id=200></a>
 
 ###### Article R122-19
 
@@ -28875,11 +28966,11 @@ _Cite_:
   - Code de l'éducation - art. D314-128
 
 
-### Titre III : Exploitation des droits<a id=199></a>
+### Titre III : Exploitation des droits<a id=201></a>
 
-#### Chapitre II : Dispositions particulières à certains contrats<a id=200></a>
+#### Chapitre II : Dispositions particulières à certains contrats<a id=202></a>
 
-##### Section 5 : Nantissement du droit d'exploitation des logiciels<a id=201></a>
+##### Section 5 : Nantissement du droit d'exploitation des logiciels<a id=203></a>
 
 ###### Article R132-8
 
@@ -29232,7 +29323,7 @@ _Créé par_:
   - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
 
 
-##### Section 6 : Droit d'exploitation des œuvres des journalistes<a id=202></a>
+##### Section 6 : Droit d'exploitation des œuvres des journalistes<a id=204></a>
 
 ###### Article R132-18
 
@@ -29387,7 +29478,7 @@ _Créé par_:
   - Décret n°2010-994 du 26 août 2010 - art. 1
 
 
-##### Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige<a id=203></a>
+##### Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige<a id=205></a>
 
 ###### Article D132-28
 
@@ -29433,7 +29524,7 @@ _Créé par_:
   - Décret n°2017-927 du 9 mai 2017 - art. 1
 
 
-#### Chapitre III : Rémunération au titre du prêt en bibliothèque<a id=204></a>
+#### Chapitre III : Rémunération au titre du prêt en bibliothèque<a id=206></a>
 
 ###### Article R133-1
 
@@ -29528,9 +29619,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle<a id=205></a>
+#### Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle<a id=207></a>
 
-##### Section 1 : Registre des livres indisponibles du xxe siècle<a id=206></a>
+##### Section 1 : Registre des livres indisponibles du xxe siècle<a id=208></a>
 
 ###### Article Annexe à l'article R134-1
 
@@ -29667,7 +29758,7 @@ _Créé par_:
   - Décret n°2013-182 du 27 février 2013 - art. 1
 
 
-##### Section 2 : Procédure<a id=207></a>
+##### Section 2 : Procédure<a id=209></a>
 
 ###### Article R134-11
 
@@ -29693,7 +29784,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R134-1
 
 
-#### Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines<a id=208></a>
+#### Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines<a id=210></a>
 
 ###### Article R135-1
 
@@ -29840,11 +29931,11 @@ _Créé par_:
   - Décret n°2015-506 du 6 mai 2015 - art. 1
 
 
-## Livre II : Les droits voisins du droit d'auteur<a id=209></a>
+## Livre II : Les droits voisins du droit d'auteur<a id=211></a>
 
-### Titre unique<a id=210></a>
+### Titre unique<a id=212></a>
 
-#### Chapitre Ier : Dispositions générales<a id=211></a>
+#### Chapitre Ier : Dispositions générales<a id=213></a>
 
 ###### Article R211-1
 
@@ -29865,7 +29956,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-17
 
 
-#### Chapitre II : Droits des artistes-interprètes<a id=212></a>
+#### Chapitre II : Droits des artistes-interprètes<a id=214></a>
 
 ###### Article R212-1
 
@@ -30069,9 +30160,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L212-3-1
 
 
-#### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=213></a>
+#### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=215></a>
 
-##### Section 1 : Commission prévue à l'article L. 214-4<a id=214></a>
+##### Section 1 : Commission prévue à l'article L. 214-4<a id=216></a>
 
 ###### Article R214-1
 
@@ -30230,7 +30321,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
-##### Section 2 : Médiateur de la musique<a id=215></a>
+##### Section 2 : Médiateur de la musique<a id=217></a>
 
 ###### Article R214-8
 
@@ -30477,13 +30568,13 @@ _Créé par_:
   - Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
-## Livre III : Dispositions générales<a id=216></a>
+## Livre III : Dispositions générales<a id=218></a>
 
-### Titre Ier : Rémunération pour copie privée<a id=217></a>
+### Titre Ier : Rémunération pour copie privée<a id=219></a>
 
-#### Chapitre unique<a id=218></a>
+#### Chapitre unique<a id=220></a>
 
-##### Section 1 : Commission prévue à l'article L. 311-5<a id=219></a>
+##### Section 1 : Commission prévue à l'article L. 311-5<a id=221></a>
 
 ###### Article D311-8
 
@@ -30679,7 +30770,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 
-##### Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée<a id=220></a>
+##### Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée<a id=222></a>
 
 ###### Article R311-9
 
@@ -30779,11 +30870,11 @@ _Cite_:
   - Code de la consommation - art. R141-4
 
 
-### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme<a id=221></a>
+### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme<a id=223></a>
 
-#### Chapitre Ier : Dispositions générales<a id=222></a>
+#### Chapitre Ier : Dispositions générales<a id=224></a>
 
-##### Section 1 : Organismes de gestion collective<a id=223></a>
+##### Section 1 : Organismes de gestion collective<a id=225></a>
 
 ###### Article R321-1
 
@@ -30814,7 +30905,7 @@ _Modifié par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Section 2 :  Organismes de gestion indépendants<a id=224></a>
+##### Section 2 :  Organismes de gestion indépendants<a id=226></a>
 
 ###### Article R321-2
 
@@ -30852,9 +30943,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R321-6-4 (Ab)
 
 
-#### Chapitre Ier ter : Organisations des organismes de gestion collective<a id=225></a>
+#### Chapitre Ier ter : Organisations des organismes de gestion collective<a id=227></a>
 
-##### Section 2 :  Décisions collectives des membres<a id=226></a>
+##### Section 2 :  Décisions collectives des membres<a id=228></a>
 
 ###### Article R321-3
 
@@ -30926,9 +31017,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre Ier quater : Gestion des droits<a id=227></a>
+#### Chapitre Ier quater : Gestion des droits<a id=229></a>
 
-##### Section 2 :  Gestion des revenus issus de l'exploitation des droits<a id=228></a>
+##### Section 2 :  Gestion des revenus issus de l'exploitation des droits<a id=230></a>
 
 ###### Article R321-5
 
@@ -31028,7 +31119,7 @@ _Modifié par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales<a id=229></a>
+#### Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales<a id=231></a>
 
 ###### Article R321-8
 
@@ -31267,9 +31358,9 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre Ier sexies : Transparence et procédures de contrôle<a id=230></a>
+#### Chapitre Ier sexies : Transparence et procédures de contrôle<a id=232></a>
 
-##### Section 1 : Transparence et obligations d'information<a id=231></a>
+##### Section 1 : Transparence et obligations d'information<a id=233></a>
 
 ###### Article R321-14
 
@@ -31572,7 +31663,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R321-18 (V)
 
 
-##### Section 3 :  Contrôle par le ministère chargé de la culture<a id=232></a>
+##### Section 3 :  Contrôle par le ministère chargé de la culture<a id=234></a>
 
 ###### Article R321-22
 
@@ -31622,9 +31713,9 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins<a id=233></a>
+#### Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins<a id=235></a>
 
-##### Section 2 :  Règles de fonctionnement<a id=234></a>
+##### Section 2 :  Règles de fonctionnement<a id=236></a>
 
 ###### Article R321-24
 
@@ -31667,9 +31758,9 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Section 3 :  Procédure<a id=235></a>
+##### Section 3 :  Procédure<a id=237></a>
 
-##### Sous-section 1 : Règles générales de procédure<a id=236></a>
+##### Sous-section 1 : Règles générales de procédure<a id=238></a>
 
 ###### Article R321-26
 
@@ -31732,7 +31823,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 2 :  Procédure de contrôle des comptes et de la gestion<a id=237></a>
+##### Sous-section 2 :  Procédure de contrôle des comptes et de la gestion<a id=239></a>
 
 ###### Article R321-28
 
@@ -31790,7 +31881,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 3 :  Procédure de sanction<a id=238></a>
+##### Sous-section 3 :  Procédure de sanction<a id=240></a>
 
 ###### Article R321-31
 
@@ -31887,7 +31978,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R321-32 (V)
 
 
-##### Sous-section 4 :  Procédure de médiation<a id=239></a>
+##### Sous-section 4 :  Procédure de médiation<a id=241></a>
 
 ###### Article R321-35
 
@@ -32067,7 +32158,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Section 4 :  Voies de recours<a id=240></a>
+##### Section 4 :  Voies de recours<a id=242></a>
 
 ###### Article R321-46
 
@@ -32131,7 +32222,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre Ier octies : Dispositions diverses<a id=241></a>
+#### Chapitre Ier octies : Dispositions diverses<a id=243></a>
 
 ###### Article R321-48
 
@@ -32145,7 +32236,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie<a id=242></a>
+#### Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie<a id=244></a>
 
 ###### Article R322-1
 
@@ -32270,7 +32361,7 @@ _Modifié par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 4
 
 
-#### Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=243></a>
+#### Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=245></a>
 
 ###### Article R323-1
 
@@ -32412,7 +32503,7 @@ _Codifié par_:
   - Décret n°95-406 1955-04-14
 
 
-#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=244></a>
+#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=246></a>
 
 ###### Article R324-1
 
@@ -32727,7 +32818,7 @@ _Créé par_:
   - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
 
 
-#### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=245></a>
+#### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=247></a>
 
 ###### Article R325-1
 
@@ -32903,7 +32994,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R326-7 (T)
 
 
-#### Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle<a id=246></a>
+#### Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle<a id=248></a>
 
 ###### Article R326-1
 
@@ -33136,7 +33227,7 @@ _Codifié par_:
   - Décret n°95-406 1955-04-14
 
 
-#### Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes<a id=247></a>
+#### Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes<a id=249></a>
 
 ###### Article R327-1
 
@@ -33282,7 +33373,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R328-6 (T)
 
 
-#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence<a id=248></a>
+#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence<a id=250></a>
 
 ###### Article R329-1
 
@@ -33401,7 +33492,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R329-1 (V)
 
 
-#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée<a id=249></a>
+#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée<a id=251></a>
 
 ###### Article R329-7
 
@@ -33515,11 +33606,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R329-7
 
 
-### Titre III : Procédures et sanctions<a id=250></a>
+### Titre III : Procédures et sanctions<a id=252></a>
 
-#### Chapitre Ier : Dispositions générales<a id=251></a>
+#### Chapitre Ier : Dispositions générales<a id=253></a>
 
-##### Section 1 : Dispositions communes<a id=252></a>
+##### Section 1 : Dispositions communes<a id=254></a>
 
 ###### Article D331-1-1
 
@@ -33616,11 +33707,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-2
 
 
-##### Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=253></a>
+##### Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=255></a>
 
-##### Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=254></a>
+##### Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=256></a>
 
-##### Paragraphe 1 : Le collège de la Haute Autorité<a id=255></a>
+##### Paragraphe 1 : Le collège de la Haute Autorité<a id=257></a>
 
 ###### Article D331-5
 
@@ -33758,7 +33849,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-36 (V)
 
 
-##### Paragraphe 2 : La commission de protection des droits<a id=256></a>
+##### Paragraphe 2 : La commission de protection des droits<a id=258></a>
 
 ###### Article D331-8
 
@@ -33804,7 +33895,7 @@ _Modifié par_:
   - Décret n°2009-1773 du 29 décembre 2009 - art. 2
 
 
-##### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité<a id=257></a>
+##### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité<a id=259></a>
 
 ###### Article D331-13
 
@@ -33937,7 +34028,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-19 (V)
 
 
-##### Paragraphe 4 : Dispositions relatives au personnel<a id=258></a>
+##### Paragraphe 4 : Dispositions relatives au personnel<a id=260></a>
 
 ###### Article R331-15
 
@@ -34071,7 +34162,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-28 (V)
 
 
-##### Paragraphe 5 : Dispositions financières et comptables<a id=259></a>
+##### Paragraphe 5 : Dispositions financières et comptables<a id=261></a>
 
 ###### Article D331-28
 
@@ -34483,7 +34574,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-63 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=260></a>
+##### Paragraphe 6 : Dispositions diverses<a id=262></a>
 
 ###### Article D331-33
 
@@ -34534,7 +34625,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-18 (V)
 
 
-##### Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=261></a>
+##### Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=263></a>
 
 ###### Article R331-35
 
@@ -34882,7 +34973,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-42 (V)
 
 
-##### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=262></a>
+##### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=264></a>
 
 ###### Article D331-54-1
 
@@ -35084,7 +35175,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-47 (V)
 
 
-##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés<a id=263></a>
+##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés<a id=265></a>
 
 ###### Article R331-55
 
@@ -35109,7 +35200,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-34 (V)
 
 
-##### Paragraphe 1 : Règles générales de procédure<a id=264></a>
+##### Paragraphe 1 : Règles générales de procédure<a id=266></a>
 
 ###### Article R331-56
 
@@ -35378,7 +35469,7 @@ _Créé par_:
   - Décret n°2010-1366 du 10 novembre 2010 - art. 2
 
 
-##### Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=265></a>
+##### Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=267></a>
 
 ###### Article R331-65
 
@@ -35640,7 +35731,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-70 (V)
 
 
-##### Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées<a id=266></a>
+##### Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées<a id=268></a>
 
 ###### Article R331-72
 
@@ -35710,7 +35801,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-75 (V)
 
 
-##### Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins<a id=267></a>
+##### Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins<a id=269></a>
 
 ###### Article R331-74
 
@@ -35727,7 +35818,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-36 (V)
 
 
-##### Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité<a id=268></a>
+##### Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité<a id=270></a>
 
 ###### Article R331-75
 
@@ -35964,7 +36055,7 @@ _Créé par_:
   - Décret n°2010-1366 du 10 novembre 2010 - art. 2
 
 
-##### Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne<a id=269></a>
+##### Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne<a id=271></a>
 
 ###### Article R331-85
 
@@ -36183,7 +36274,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-26
 
 
-#### Chapitre II : Saisie-contrefaçon<a id=270></a>
+#### Chapitre II : Saisie-contrefaçon<a id=272></a>
 
 ###### Article R332-1
 
@@ -36254,7 +36345,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L332-4
 
 
-#### Chapitre V : Dispositions pénales<a id=271></a>
+#### Chapitre V : Dispositions pénales<a id=273></a>
 
 ###### Article R335-2
 
@@ -36379,7 +36470,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-25
 
 
-#### Chapitre V bis : La retenue<a id=272></a>
+#### Chapitre V bis : La retenue<a id=274></a>
 
 ###### Article R335-6
 
@@ -36696,7 +36787,7 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 1
 
 
-### Titre IV : Droits des producteurs de bases de données<a id=273></a>
+### Titre IV : Droits des producteurs de bases de données<a id=275></a>
 
 ###### Article R341-1
 
@@ -36714,7 +36805,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-13
 
 
-### Chapitre III : Procédures et sanctions<a id=274></a>
+### Chapitre III : Procédures et sanctions<a id=276></a>
 
 ###### Article R343-1
 
@@ -36750,13 +36841,13 @@ _Cite_:
   - Code de commerce - art. R153-1
 
 
-## Livre IV : Organisation administrative et professionnelle<a id=275></a>
+## Livre IV : Organisation administrative et professionnelle<a id=277></a>
 
-### Titre Ier : Institutions<a id=276></a>
+### Titre Ier : Institutions<a id=278></a>
 
-#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=277></a>
+#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=279></a>
 
-##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=278></a>
+##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=280></a>
 
 ###### Article D411-1-3
 
@@ -37313,7 +37404,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=279></a>
+##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=281></a>
 
 ###### Article R411-17
 
@@ -37495,7 +37586,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle<a id=280></a>
+##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle<a id=282></a>
 
 ###### Article D411-19-1
 
@@ -37733,9 +37824,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : L'instance nationale des obtentions végétales<a id=281></a>
+#### Chapitre II : L'instance nationale des obtentions végétales<a id=283></a>
 
-##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=282></a>
+##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=284></a>
 
 ###### Article D412-7
 
@@ -37873,7 +37964,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R412-13 (T)
 
 
-##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=283></a>
+##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=285></a>
 
 ###### Article R412-15
 
@@ -38007,9 +38098,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Qualification en propriété industrielle<a id=284></a>
+### Titre II : Qualification en propriété industrielle<a id=286></a>
 
-#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=285></a>
+#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=287></a>
 
 ###### Article R421-1
 
@@ -38635,9 +38726,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=286></a>
+#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=288></a>
 
-##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=287></a>
+##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=289></a>
 
 ###### Article R422-1
 
@@ -38945,7 +39036,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L423-2
 
 
-##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=288></a>
+##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=290></a>
 
 ###### Article R422-7-1
 
@@ -39013,7 +39104,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=289></a>
+##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=291></a>
 
 ###### Article R422-8
 
@@ -39118,9 +39209,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Exercice sous forme de société<a id=290></a>
+##### Section 3 : Exercice sous forme de société<a id=292></a>
 
-##### Sous-section 1 : Sociétés civiles professionnelles<a id=291></a>
+##### Sous-section 1 : Sociétés civiles professionnelles<a id=293></a>
 
 ###### Article R422-12
 
@@ -40021,7 +40112,7 @@ _Créé par_:
   - Décret n°2017-795 du 5 mai 2017 - art. 2
 
 
-##### Sous-section 2 : Sociétés d'exercice libéral<a id=292></a>
+##### Sous-section 2 : Sociétés d'exercice libéral<a id=294></a>
 
 ###### Article R422-41
 
@@ -40209,7 +40300,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Sociétés en participation<a id=293></a>
+##### Sous-section 3 : Sociétés en participation<a id=295></a>
 
 ###### Article R422-50
 
@@ -40258,7 +40349,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=294></a>
+##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=296></a>
 
 ###### Article R422-51-1
 
@@ -40545,7 +40636,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
 
 
-##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice<a id=295></a>
+##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice<a id=297></a>
 
 ###### Article R422-51-15
 
@@ -40637,7 +40728,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L422-8
 
 
-##### Section 4 : Obligations professionnelles<a id=296></a>
+##### Section 4 : Obligations professionnelles<a id=298></a>
 
 ###### Article R422-52
 
@@ -40830,7 +40921,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L422-10-1
 
 
-##### Section 4 bis : Contrôle de l'exercice de la profession<a id=297></a>
+##### Section 4 bis : Contrôle de l'exercice de la profession<a id=299></a>
 
 ###### Article R422-55-2
 
@@ -40910,7 +41001,7 @@ _Créé par_:
   - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
 
 
-##### Section 5 : Régime disciplinaire<a id=298></a>
+##### Section 5 : Régime disciplinaire<a id=300></a>
 
 ###### Article R422-56
 
@@ -41257,7 +41348,7 @@ _Créé par_:
   - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-#### Chapitre III : Dispositions diverses<a id=299></a>
+#### Chapitre III : Dispositions diverses<a id=301></a>
 
 ###### Article R423-1
 
@@ -41337,13 +41428,13 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre V : Les dessins et modèles<a id=300></a>
+## Livre V : Les dessins et modèles<a id=302></a>
 
-### Titre Ier : Acquisition des droits<a id=301></a>
+### Titre Ier : Acquisition des droits<a id=303></a>
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=302></a>
+#### Chapitre Ier : Droits et oeuvres protégés<a id=304></a>
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=303></a>
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=305></a>
 
 ###### Article R511-1
 
@@ -41506,7 +41597,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=304></a>
+#### Chapitre II : Formalités de dépôt<a id=306></a>
 
 ###### Article R*512-9-3
 
@@ -42407,7 +42498,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=305></a>
+#### Chapitre III : Durée de la protection<a id=307></a>
 
 ###### Article R*513-1-2
 
@@ -42584,9 +42675,9 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 28 () JORF 3 mars 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=306></a>
+#### Chapitre IV : Dispositions communes<a id=308></a>
 
-##### Section 1 : Procédure<a id=307></a>
+##### Section 1 : Procédure<a id=309></a>
 
 ###### Article R514-1
 
@@ -42762,7 +42853,7 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-##### Section 2 : Dispositions transitoires<a id=308></a>
+##### Section 2 : Dispositions transitoires<a id=310></a>
 
 ###### Article R514-6
 
@@ -42808,11 +42899,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=309></a>
+### Titre II : Contentieux<a id=311></a>
 
-#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=310></a>
+#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=312></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=311></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=313></a>
 
 ###### Article R521-1
 
@@ -42835,7 +42926,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-6
 
 
-##### Section 2 : Mesures probatoires<a id=312></a>
+##### Section 2 : Mesures probatoires<a id=314></a>
 
 ###### Article R521-2
 
@@ -42915,7 +43006,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Section 3 : Dispositions communes<a id=313></a>
+##### Section 3 : Dispositions communes<a id=315></a>
 
 ###### Article D521-6
 
@@ -42940,7 +43031,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1
 
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=314></a>
+#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=316></a>
 
 ###### Article R522-1
 
@@ -42969,7 +43060,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-2 (V)
 
 
-#### Chapitre III : Retenue en douane<a id=315></a>
+#### Chapitre III : Retenue en douane<a id=317></a>
 
 ###### Article R523-1
 
@@ -42997,15 +43088,15 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-14
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=316></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=318></a>
 
-### Titre Ier : Brevets d'invention<a id=317></a>
+### Titre Ier : Brevets d'invention<a id=319></a>
 
-#### Chapitre Ier : Champ d'application<a id=318></a>
+#### Chapitre Ier : Champ d'application<a id=320></a>
 
-##### Section 2 : Droit au titre<a id=319></a>
+##### Section 2 : Droit au titre<a id=321></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=320></a>
+##### Sous-section 1 : Inventions de salariés<a id=322></a>
 
 ###### Article R611-1
 
@@ -43315,7 +43406,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=321></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=323></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -43866,7 +43957,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R611-12 (V)
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=322></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=324></a>
 
 ###### Article R611-15
 
@@ -44045,9 +44136,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=323></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=325></a>
 
-##### Section 1 : Dépôt des demandes<a id=324></a>
+##### Section 1 : Dépôt des demandes<a id=326></a>
 
 ###### Article R612-1
 
@@ -44901,9 +44992,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=325></a>
+##### Section 2 : L'instruction des demandes<a id=327></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=326></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=328></a>
 
 ###### Article R612-26
 
@@ -45149,7 +45240,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=327></a>
+##### Sous-section 2 : Division de la demande<a id=329></a>
 
 ###### Article R612-33
 
@@ -45261,7 +45352,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-45 (V)
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=328></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=330></a>
 
 ###### Article R612-36
 
@@ -45606,7 +45697,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=329></a>
+##### Sous-section 4 : Rejet de la demande<a id=331></a>
 
 ###### Article R612-45
 
@@ -45875,7 +45966,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=330></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=332></a>
 
 ###### Article R612-55
 
@@ -46285,7 +46376,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=331></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=333></a>
 
 ###### Article R*612-73-2
 
@@ -46467,7 +46558,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 8
 
 
-##### Section 3 : Diffusion légale des inventions<a id=332></a>
+##### Section 3 : Diffusion légale des inventions<a id=334></a>
 
 ###### Article R612-74
 
@@ -46521,11 +46612,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=333></a>
+#### Chapitre III : Droits attachés aux brevets<a id=335></a>
 
-##### Section 1 : Droits d'exploitation<a id=334></a>
+##### Section 1 : Droits d'exploitation<a id=336></a>
 
-##### Sous-section 1 : Licences obligatoires<a id=335></a>
+##### Sous-section 1 : Licences obligatoires<a id=337></a>
 
 ###### Article R613-4
 
@@ -46676,7 +46767,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=336></a>
+##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=338></a>
 
 ###### Article R613-10
 
@@ -47138,7 +47229,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=337></a>
+##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=339></a>
 
 ###### Article R613-25-1
 
@@ -47218,7 +47309,7 @@ _Modifié par_:
   - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=338></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=340></a>
 
 ###### Article R613-26
 
@@ -47452,7 +47543,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=339></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=341></a>
 
 ###### Article R613-34
 
@@ -47731,7 +47822,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=340></a>
+##### Sous-section 6 : Dispositions diverses<a id=342></a>
 
 ###### Article R613-43
 
@@ -47785,7 +47876,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 41 (Ab)
 
 
-##### Section 2 : Transmission et perte des droits<a id=341></a>
+##### Section 2 : Transmission et perte des droits<a id=343></a>
 
 ###### Article R*613-45-2
 
@@ -48067,7 +48158,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=342></a>
+##### Section 4 : Recours en restauration<a id=344></a>
 
 ###### Article R613-52
 
@@ -48131,7 +48222,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 9
 
 
-##### Section 5 : Registre national des brevets<a id=343></a>
+##### Section 5 : Registre national des brevets<a id=345></a>
 
 ###### Article R613-53
 
@@ -48415,7 +48506,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=344></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=346></a>
 
 ###### Article R613-60
 
@@ -48516,7 +48607,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=345></a>
+##### Section 7 : Réduction des redevances<a id=347></a>
 
 ###### Article R613-63
 
@@ -48567,9 +48658,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
-#### Chapitre IV : Application de conventions internationales<a id=346></a>
+#### Chapitre IV : Application de conventions internationales<a id=348></a>
 
-##### Section 1 : Brevets européens<a id=347></a>
+##### Section 1 : Brevets européens<a id=349></a>
 
 ###### Article R614-1
 
@@ -48990,7 +49081,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=348></a>
+##### Section 2 : Demandes internationales<a id=350></a>
 
 ###### Article R614-21
 
@@ -49322,7 +49413,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre IV bis : La retenue<a id=349></a>
+#### Chapitre IV bis : La retenue<a id=351></a>
 
 ###### Article R614-36
 
@@ -49365,9 +49456,9 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 3
 
 
-#### Chapitre V : Actions en justice<a id=350></a>
+#### Chapitre V : Actions en justice<a id=352></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=351></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=353></a>
 
 ###### Article R615-1
 
@@ -49403,7 +49494,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=352></a>
+##### Section 2 : Mesures probatoires<a id=354></a>
 
 ###### Article R615-2
 
@@ -49560,7 +49651,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (VD)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=353></a>
+##### Section 3 : Commission paritaire de conciliation<a id=355></a>
 
 ###### Article R615-6
 
@@ -50271,7 +50362,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (VD)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=354></a>
+#### Chapitre VI : Le certificat d'utilité<a id=356></a>
 
 ###### Article R616-1
 
@@ -50353,7 +50444,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60 (V)
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=355></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=357></a>
 
 ###### Article R*617-2-2
 
@@ -50438,9 +50529,9 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 10
 
 
-#### Chapitre VIII : Dispositions communes<a id=356></a>
+#### Chapitre VIII : Dispositions communes<a id=358></a>
 
-##### Section unique : Procédure<a id=357></a>
+##### Section unique : Procédure<a id=359></a>
 
 ###### Article R618-1
 
@@ -50624,9 +50715,9 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Protection des connaissances techniques<a id=358></a>
+### Titre II : Protection des connaissances techniques<a id=360></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=359></a>
+#### Chapitre II : Produits semi-conducteurs<a id=361></a>
 
 ###### Article R*622-3-2
 
@@ -50878,11 +50969,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-#### Chapitre III : Obtentions végétales<a id=360></a>
+#### Chapitre III : Obtentions végétales<a id=362></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=361></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=363></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=362></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=364></a>
 
 ###### Article R623-1
 
@@ -51320,7 +51411,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=363></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=365></a>
 
 ###### Article R623-16
 
@@ -51556,7 +51647,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=364></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=366></a>
 
 ###### Article R623-25
 
@@ -51692,7 +51783,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances<a id=365></a>
+##### Sous-section 4 : Redevances<a id=367></a>
 
 ###### Article D623-30-1
 
@@ -51880,7 +51971,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=366></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=368></a>
 
 ###### Article R623-36
 
@@ -51937,7 +52028,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=367></a>
+##### Sous-section 6 : Registres nationaux<a id=369></a>
 
 ###### Article R623-38
 
@@ -52134,7 +52225,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=368></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=370></a>
 
 ###### Article R623-43
 
@@ -52308,7 +52399,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=369></a>
+##### Sous-section 8 : Dispositions diverses<a id=371></a>
 
 ###### Article R623-48
 
@@ -52531,7 +52622,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=370></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=372></a>
 
 ###### Article D623-58-1
 
@@ -52602,7 +52693,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 bis : Semences de ferme<a id=371></a>
+##### Section 2 bis : Semences de ferme<a id=373></a>
 
 ###### Article R623-59
 
@@ -52675,7 +52766,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : La retenue<a id=372></a>
+##### Section 3 : La retenue<a id=374></a>
 
 ###### Article R623-60
 
@@ -52693,9 +52784,9 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=373></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=375></a>
 
-#### Chapitre unique<a id=374></a>
+#### Chapitre unique<a id=376></a>
 
 ###### Article D631-1
 
@@ -52976,11 +53067,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=375></a>
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs<a id=377></a>
 
-### Titre Ier : Marques de fabrique, de commerce ou de service<a id=376></a>
+### Titre Ier : Marques de fabrique, de commerce ou de service<a id=378></a>
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=377></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=379></a>
 
 ###### Article D712-29
 
@@ -54115,7 +54206,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=378></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=380></a>
 
 ###### Article R714-1
 
@@ -54514,7 +54605,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques collectives<a id=379></a>
+#### Chapitre V : Marques collectives<a id=381></a>
 
 ###### Article R715-1
 
@@ -54559,9 +54650,9 @@ _Créé par_:
   - Décret n°2007-280 du 1 mars 2007 - art. 28 () JORF 3 mars 2007
 
 
-#### Chapitre VI : Contentieux<a id=380></a>
+#### Chapitre VI : Contentieux<a id=382></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=381></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=383></a>
 
 ###### Article R716-1
 
@@ -54588,7 +54679,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-##### Section 2 :  Mesures probatoires<a id=382></a>
+##### Section 2 :  Mesures probatoires<a id=384></a>
 
 ###### Article R716-2
 
@@ -54665,7 +54756,7 @@ _Modifié par_:
   - Décret n°2018-1126 du 11 décembre 2018 - art. 2
 
 
-##### Section 3 : Retenue en douane<a id=383></a>
+##### Section 3 : Retenue en douane<a id=385></a>
 
 ###### Article R716-6
 
@@ -54693,7 +54784,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L716-8
 
 
-##### Section 4 : Dispositions communes<a id=384></a>
+##### Section 4 : Dispositions communes<a id=386></a>
 
 ###### Article D716-12
 
@@ -54718,9 +54809,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1
 
 
-#### Chapitre VII : Marque internationale et marque communautaire<a id=385></a>
+#### Chapitre VII : Marque internationale et marque communautaire<a id=387></a>
 
-##### Section 1 : Marque internationale<a id=386></a>
+##### Section 1 : Marque internationale<a id=388></a>
 
 ###### Article R*717-1-1
 
@@ -54987,7 +55078,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque communautaire<a id=387></a>
+##### Section 2 : Marque communautaire<a id=389></a>
 
 ###### Article R*717-10-1
 
@@ -55090,9 +55181,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
 
-#### Chapitre VIII : Dispositions communes<a id=388></a>
+#### Chapitre VIII : Dispositions communes<a id=390></a>
 
-##### Section unique<a id=389></a>
+##### Section unique<a id=391></a>
 
 ###### Article R718-1
 
@@ -55233,11 +55324,11 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Indications géographiques<a id=390></a>
+### Titre II : Indications géographiques<a id=392></a>
 
-#### Chapitre Ier : Généralités<a id=391></a>
+#### Chapitre Ier : Généralités<a id=393></a>
 
-##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=392></a>
+##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=394></a>
 
 ###### Article R*721-6-1
 
@@ -55692,9 +55783,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R718-2
 
 
-#### Chapitre II : Contentieux<a id=393></a>
+#### Chapitre II : Contentieux<a id=395></a>
 
-##### Section 1 : Actions civiles<a id=394></a>
+##### Section 1 : Actions civiles<a id=396></a>
 
 ###### Article D722-6
 
@@ -55813,7 +55904,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Section 2 : La retenue<a id=395></a>
+##### Section 2 : La retenue<a id=397></a>
 
 ###### Article R722-7
 
@@ -55835,11 +55926,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=396></a>
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=398></a>
 
-### Titre unique<a id=397></a>
+### Titre unique<a id=399></a>
 
-#### Chapitre unique<a id=398></a>
+#### Chapitre unique<a id=400></a>
 
 ###### Article R811-1
 
