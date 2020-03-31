@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-03-09
+Version Consolidée au 2020-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -166,246 +166,253 @@ et la protection des droits sur internet (art. L331-12 à L331-37)](#78)
           - [Chapitre V : Marques de garantie et marques collectives (art. L715-1 à L715-10)](#162)
             - [Section 1 : Marques de garantie (art. L715-1 à L715-5)](#163)
             - [Section 2 :  Marques collectives (art. L715-6 à L715-10)](#164)
-          - [Chapitre VI : Contentieux (art. L716-1 à L716-4-11)](#165)
-            - [Section 1 : Contentieux de la nullité et de la déchéance de la marque (art. L716-2 à L716-3-1)](#166)
-              - [Sous-section 2 :  Nullité de la marque (art. L716-2 à L716-2-8)](#167)
-              - [Sous-section 3 :  Déchéance de la marque (art. L716-3 à L716-3-1)](#168)
-            - [Section 2 : Contentieux de la contrefaçon (art. L716-4 à L716-4-11)](#169)
-          - [Chapitre VI bis :  Retenue en douane et actions pénales (art. L716-8 à L716-13)](#170)
-            - [Section 1 : Retenue en douane (art. L716-8 à L716-8-8)](#171)
-            - [Section 2 : Actions pénales (art. L716-8-9 à L716-13)](#172)
-          - [Chapitre VII : Marque de l'Union européenne (art. L717-1 à L717-7)](#173)
-        - [Titre II : Indications géographiques (art. L721-1 à L722-17)](#174)
-          - [Chapitre Ier : Généralités (art. L721-1 à L721-10)](#175)
-            - [Section 1 : Appellations d'origine (art. L721-1)](#176)
-            - [Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux (art. L721-2 à L721-10)](#177)
-          - [Chapitre II : Contentieux (art. L722-1 à L722-17)](#178)
-            - [Section 1 : Actions civiles (art. L722-1 à L722-8)](#179)
-            - [Section 2 : La retenue (art. L722-9 à L722-17)](#180)
-        - [Titre III : Indications relatives aux services publics (art. L731-1 à L731-4)](#181)
-          - [Chapitre unique (art. L731-1 à L731-4)](#182)
-    - [Troisième partie : Dispositions relatives à l'outre-mer (art. L811-1 à L811-6)](#183)
-      - [Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon (art. L811-1 à L811-6)](#184)
-        - [Titre unique (art. L811-1 à L811-6)](#185)
-          - [Chapitre unique (art. L811-1 à L811-6)](#186)
-  - [Partie réglementaire (art. R111-1 à R811-4)](#187)
-    - [Livre Ier : Le droit d'auteur (art. R111-1 à R135-4)](#188)
-      - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#189)
-        - [Chapitre Ier : Nature du droit d'auteur (art. R111-1 à R111-2)](#190)
-      - [Titre II : Droits des auteurs (art. R122-1 à R122-22)](#191)
-        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-22)](#192)
-          - [Section 1 : Dispositions générales (art. R122-1)](#193)
-          - [Section 2 : Droit de suite (art. R122-2 à R122-12)](#194)
-          - [Section 3 : Exception en faveur de personnes atteintes d'un handicap (art. R122-13 à R122-22)](#195)
-            - [Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative (art. R122-13 à R122-15)](#196)
-            - [Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception (art. R122-16 à R122-18)](#197)
-            - [Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France (art. R122-19 à R122-22)](#198)
-      - [Titre III : Exploitation des droits (art. R132-8 à R135-4)](#199)
-        - [Chapitre II : Dispositions particulières à certains contrats (art. R132-8 à D132-29)](#200)
-          - [Section 5 : Nantissement du droit d'exploitation des logiciels (art. R132-8 à R132-17)](#201)
-          - [Section 6 : Droit d'exploitation des œuvres des journalistes (art. R132-18 à R132-27)](#202)
-          - [Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige (art. D132-28 à D132-29)](#203)
-        - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. R133-1 à R133-2)](#204)
-        - [Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-11)](#205)
-          - [Section 1 : Registre des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-4)](#206)
-          - [Section 2 : Procédure (art. R134-11)](#207)
-        - [Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines (art. R135-1 à R135-4)](#208)
-    - [Livre II : Les droits voisins du droit d'auteur (art. R211-1 à R214-18)](#209)
-      - [Titre unique (art. R211-1 à R214-18)](#210)
-        - [Chapitre Ier : Dispositions générales (art. R211-1)](#211)
-        - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-8)](#212)
-        - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-18)](#213)
-          - [Section 1 : Commission prévue à l'article L. 214-4 (art. R214-1 à R214-7)](#214)
-          - [Section 2 : Médiateur de la musique (art. R214-8 à R214-18)](#215)
-    - [Livre III : Dispositions générales (art. D311-8 à R343-1)](#216)
-      - [Titre Ier : Rémunération pour copie privée (art. D311-8 à R311-12)](#217)
-        - [Chapitre unique (art. D311-8 à R311-12)](#218)
-          - [Section 1 : Commission prévue à l'article L. 311-5 (art. D311-8 à R311-7)](#219)
-          - [Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée (art. R311-9 à R311-12)](#220)
-      - [Titre II : Gestion des droits d'auteur et des droits voisins par un organisme (art. R321-1 à R329-12)](#221)
-        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-2)](#222)
-          - [Section 1 : Organismes de gestion collective (art. R321-1)](#223)
-          - [Section 2 :  Organismes de gestion indépendants (art. R321-2)](#224)
-        - [Chapitre Ier ter : Organisations des organismes de gestion collective (art. R321-3 à R321-4)](#225)
-          - [Section 2 :  Décisions collectives des membres (art. R321-3 à R321-4)](#226)
-        - [Chapitre Ier quater : Gestion des droits (art. R321-5 à R321-7)](#227)
-          - [Section 2 :  Gestion des revenus issus de l'exploitation des droits (art. R321-5 à R321-7)](#228)
-        - [Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales (art. R321-8 à R321-13)](#229)
-        - [Chapitre Ier sexies : Transparence et procédures de contrôle (art. R321-14 à R321-23)](#230)
-          - [Section 1 : Transparence et obligations d'information (art. R321-14 à R321-21)](#231)
-          - [Section 3 :  Contrôle par le ministère chargé de la culture (art. R321-22 à R321-23)](#232)
-        - [Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins (art. R321-24 à R321-47)](#233)
-          - [Section 2 :  Règles de fonctionnement (art. R321-24 à R321-25)](#234)
-          - [Section 3 :  Procédure (art. R321-26 à R321-45)](#235)
-            - [Sous-section 1 : Règles générales de procédure (art. R321-26 à R321-27)](#236)
-            - [Sous-section 2 :  Procédure de contrôle des comptes et de la gestion (art. R321-28 à R321-30)](#237)
-            - [Sous-section 3 :  Procédure de sanction (art. R321-31 à R321-34)](#238)
-            - [Sous-section 4 :  Procédure de médiation (art. R321-35 à R321-45)](#239)
-          - [Section 4 :  Voies de recours (art. R321-46 à R321-47)](#240)
-        - [Chapitre Ier octies : Dispositions diverses (art. R321-48)](#241)
-        - [Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#242)
-        - [Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#243)
-        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#244)
-        - [Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R325-1 à R325-7)](#245)
-        - [Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle (art. R326-1 à R326-7)](#246)
-        - [Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes (art. R327-1 à R327-6)](#247)
-        - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence (art. R329-1 à R329-6)](#248)
-        - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée (art. R329-7 à R329-12)](#249)
-      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#250)
-        - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#251)
-          - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#252)
-          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. R331-2 à R331-95)](#253)
-            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. R331-2 à D331-34)](#254)
-              - [Paragraphe 1 : Le collège de la Haute Autorité (art. R331-2 à R331-4)](#255)
-              - [Paragraphe 2 : La commission de protection des droits (art. D331-8 à R331-7)](#256)
-              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. R331-9 à R331-14)](#257)
-              - [Paragraphe 4 : Dispositions relatives au personnel (art. R331-15 à R331-19)](#258)
-              - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#259)
-              - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#260)
-            - [Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. R331-35 à R331-46)](#261)
-            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. D331-54-1 à R331-54)](#262)
-            - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés (art. R331-55 à R331-84)](#263)
-              - [Paragraphe 1 : Règles générales de procédure (art. R331-56 à R331-64)](#264)
-              - [Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-65 à R331-71)](#265)
-              - [Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées (art. R331-72 à R331-73)](#266)
-              - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#267)
-              - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#268)
-            - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#269)
-        - [Chapitre II : Saisie-contrefaçon (art. R332-2 à R332-4)](#270)
-        - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#271)
-        - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#272)
-      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#273)
-      - [Chapitre III : Procédures et sanctions (art. R343-1)](#274)
-    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#275)
-      - [Titre Ier : Institutions (art. D411-1-3 à R412-21)](#276)
-        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-26)](#277)
-          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#278)
-          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#279)
-          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle (art. D411-19-1 à R411-26)](#280)
-        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#281)
-          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#282)
-          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#283)
-      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#284)
-        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#285)
-        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#286)
-          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#287)
-          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#288)
-          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#289)
-          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#290)
-            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40-1)](#291)
-            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#292)
-            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#293)
-            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#294)
-            - [Sous-section 5 : Sociétés pluri-professionnelles d'exercice (art. R422-51-15 à R422-51-19)](#295)
-          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#296)
-          - [Section 4 bis : Contrôle de l'exercice de la profession (art. R422-55-2 à R422-55-5)](#297)
-          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#298)
-        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#299)
-    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#300)
-      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#301)
-        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#302)
-          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#303)
-        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#304)
-        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#305)
-        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#306)
-          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#307)
-          - [Section 2 : Dispositions transitoires (art. R514-6)](#308)
-      - [Titre II : Contentieux (art. R521-1 à R523-1)](#309)
-        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#310)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#311)
-          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#312)
-          - [Section 3 : Dispositions communes (art. D521-6)](#313)
-        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#314)
-        - [Chapitre III : Retenue en douane (art. R523-1)](#315)
-    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#316)
-      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#317)
-        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#318)
-          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#319)
-            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#320)
-            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#321)
-            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#322)
-        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#323)
-          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#324)
-          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-1)](#325)
-            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#326)
-            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#327)
-            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#328)
-            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#329)
-            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#330)
-            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-1)](#331)
-          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#332)
-        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#333)
-          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-43-1)](#334)
-            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#335)
-            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#336)
-            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#337)
-            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#338)
-            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#339)
-            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-43-1)](#340)
-          - [Section 2 : Transmission et perte des droits (art. R613-45 à R613-51)](#341)
-            - [Sous-section 2 : Renonciation ou limitation (art. R*613-45-2 à R613-45-1)](#342)
-            - [Sous-section 3 : Maintien en vigueur ou déchéance du titre (art. R*613-49-1 à R613-51)](#343)
-          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#344)
-          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#345)
-          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#346)
-          - [Section 7 : Réduction des redevances (art. R613-63)](#347)
-        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#348)
-          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#349)
-          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#350)
-        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#351)
-        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#352)
-          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#353)
-          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#354)
-          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#355)
-        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#356)
-        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#357)
-        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#358)
-          - [Section unique : Procédure (art. R618-1 à R618-6)](#359)
-      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#360)
-        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#361)
-        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#362)
-          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#363)
-            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#364)
-            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#365)
-            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#366)
-            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#367)
-            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#368)
-            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#369)
-            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#370)
-            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#371)
-          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#372)
-          - [Section 2 bis : Semences de ferme (art. R623-59)](#373)
-          - [Section 3 : La retenue (art. R623-60)](#374)
-      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#375)
-        - [Chapitre unique (art. D631-1 à D631-2)](#376)
-    - [Livre VII : Marques de produits ou de services et autres signes distinctifs (art. R711-1 à R722-7)](#377)
-      - [Titre Ier : Marques de produits ou de services (art. R711-1 à R718-7)](#378)
-        - [Chapitre Ier : Eléments constitutifs de la marque (art. R711-1)](#379)
-        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28-2)](#380)
-        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#381)
-        - [Chapitre V : Marques de garantie et marques collectives (art. R715-1 à R715-2)](#382)
-          - [Section 1 : Marques de garantie (art. R715-1)](#383)
-          - [Section 2 : Marques collectives (art. R715-2)](#384)
-        - [Chapitre VI : Contentieux (art. R716-1 à R716-22 )](#385)
-          - [Section 2 : Mesures provisoires et conservatoires (art. R716-1 à R716-15)](#386)
-          - [Section 3 :  Mesures probatoires (art. R716-2 à R716-19)](#387)
-          - [Section 4 : Retenue en douane (art. R716-6 à R716-20)](#388)
-          - [Section 5 : Dispositions diverses (art. R716-21 à R716-22 )](#389)
-        - [Chapitre VII : Marque internationale et marque de l'Union européenne (art. R*717-1-1 à R717-11)](#390)
-          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#391)
-          - [Section 2 : Marque de l'Union européenne (art. R*717-10-1 à R717-11)](#392)
-        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-7)](#393)
-          - [Section unique (art. R718-1 à R718-5)](#394)
-          - [Section 2 : Dispositions transitoires (art. R718-6 à R718-7)](#395)
-      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#396)
-        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#397)
-          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#398)
-        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#399)
-          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#400)
-          - [Section 2 : La retenue (art. R722-7)](#401)
-    - [Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. D811-1-2 à R811-4)](#402)
-      - [Titre unique (art. D811-1-2 à R811-4)](#403)
-        - [Chapitre unique (art. D811-1-2 à R811-4)](#404)
+          - [Chapitre VI : Contentieux (art. L716-1 à L716-6)](#165)
+            - [Section 1 : Contentieux de la nullité et de la déchéance de la marque (art. L716-1 à L716-3-1)](#166)
+              - [Sous-section 1 : Dispositions communes à la procédure administrative en nullité et en déchéance (art. L716-1 à L716-1-1)](#167)
+              - [Sous-section 2 :  Nullité de la marque (art. L716-2 à L716-2-8)](#168)
+              - [Sous-section 3 :  Déchéance de la marque (art. L716-3 à L716-3-1)](#169)
+            - [Section 2 : Contentieux de la contrefaçon (art. L716-4 à L716-4-11)](#170)
+            - [Section 3 : Règles de compétence (art. L716-5 à L716-6)](#171)
+          - [Chapitre VI bis :  Retenue en douane et actions pénales (art. L716-8 à L716-13)](#172)
+            - [Section 1 : Retenue en douane (art. L716-8 à L716-8-8)](#173)
+            - [Section 2 : Actions pénales (art. L716-8-9 à L716-13)](#174)
+          - [Chapitre VII : Marque de l'Union européenne (art. L717-1 à L717-7)](#175)
+        - [Titre II : Indications géographiques (art. L721-1 à L722-17)](#176)
+          - [Chapitre Ier : Généralités (art. L721-1 à L721-10)](#177)
+            - [Section 1 : Appellations d'origine (art. L721-1)](#178)
+            - [Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux (art. L721-2 à L721-10)](#179)
+          - [Chapitre II : Contentieux (art. L722-1 à L722-17)](#180)
+            - [Section 1 : Actions civiles (art. L722-1 à L722-8)](#181)
+            - [Section 2 : La retenue (art. L722-9 à L722-17)](#182)
+        - [Titre III : Indications relatives aux services publics (art. L731-1 à L731-4)](#183)
+          - [Chapitre unique (art. L731-1 à L731-4)](#184)
+    - [Troisième partie : Dispositions relatives à l'outre-mer (art. L811-1 à L811-6)](#185)
+      - [Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon (art. L811-1 à L811-6)](#186)
+        - [Titre unique (art. L811-1 à L811-6)](#187)
+          - [Chapitre unique (art. L811-1 à L811-6)](#188)
+  - [Partie réglementaire (art. R111-1 à R811-4)](#189)
+    - [Livre Ier : Le droit d'auteur (art. R111-1 à R135-4)](#190)
+      - [Titre Ier : Objet du droit d'auteur (art. R111-1 à R111-2)](#191)
+        - [Chapitre Ier : Nature du droit d'auteur (art. R111-1 à R111-2)](#192)
+      - [Titre II : Droits des auteurs (art. R122-1 à R122-22)](#193)
+        - [Chapitre II : Droits patrimoniaux (art. R122-1 à R122-22)](#194)
+          - [Section 1 : Dispositions générales (art. R122-1)](#195)
+          - [Section 2 : Droit de suite (art. R122-2 à R122-12)](#196)
+          - [Section 3 : Exception en faveur de personnes atteintes d'un handicap (art. R122-13 à R122-22)](#197)
+            - [Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative (art. R122-13 à R122-15)](#198)
+            - [Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception (art. R122-16 à R122-18)](#199)
+            - [Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France (art. R122-19 à R122-22)](#200)
+      - [Titre III : Exploitation des droits (art. R132-8 à R135-4)](#201)
+        - [Chapitre II : Dispositions particulières à certains contrats (art. R132-8 à D132-29)](#202)
+          - [Section 5 : Nantissement du droit d'exploitation des logiciels (art. R132-8 à R132-17)](#203)
+          - [Section 6 : Droit d'exploitation des œuvres des journalistes (art. R132-18 à R132-27)](#204)
+          - [Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige (art. D132-28 à D132-29)](#205)
+        - [Chapitre III : Rémunération au titre du prêt en bibliothèque (art. R133-1 à R133-2)](#206)
+        - [Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-11)](#207)
+          - [Section 1 : Registre des livres indisponibles du xxe siècle (art. Annexe à l'article R134-1 à R134-4)](#208)
+          - [Section 2 : Procédure (art. R134-11)](#209)
+        - [Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines (art. R135-1 à R135-4)](#210)
+    - [Livre II : Les droits voisins du droit d'auteur (art. R211-1 à R214-18)](#211)
+      - [Titre unique (art. R211-1 à R214-18)](#212)
+        - [Chapitre Ier : Dispositions générales (art. R211-1)](#213)
+        - [Chapitre II : Droits des artistes-interprètes (art. R212-1 à R212-8)](#214)
+        - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes (art. R214-1 à R214-18)](#215)
+          - [Section 1 : Commission prévue à l'article L. 214-4 (art. R214-1 à R214-7)](#216)
+          - [Section 2 : Médiateur de la musique (art. R214-8 à R214-18)](#217)
+    - [Livre III : Dispositions générales (art. D311-8 à R343-1)](#218)
+      - [Titre Ier : Rémunération pour copie privée (art. D311-8 à R311-12)](#219)
+        - [Chapitre unique (art. D311-8 à R311-12)](#220)
+          - [Section 1 : Commission prévue à l'article L. 311-5 (art. D311-8 à R311-7)](#221)
+          - [Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée (art. R311-9 à R311-12)](#222)
+      - [Titre II : Gestion des droits d'auteur et des droits voisins par un organisme (art. R321-1 à R329-12)](#223)
+        - [Chapitre Ier : Dispositions générales (art. R321-1 à R321-2)](#224)
+          - [Section 1 : Organismes de gestion collective (art. R321-1)](#225)
+          - [Section 2 :  Organismes de gestion indépendants (art. R321-2)](#226)
+        - [Chapitre Ier ter : Organisations des organismes de gestion collective (art. R321-3 à R321-4)](#227)
+          - [Section 2 :  Décisions collectives des membres (art. R321-3 à R321-4)](#228)
+        - [Chapitre Ier quater : Gestion des droits (art. R321-5 à R321-7)](#229)
+          - [Section 2 :  Gestion des revenus issus de l'exploitation des droits (art. R321-5 à R321-7)](#230)
+        - [Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales (art. R321-8 à R321-13)](#231)
+        - [Chapitre Ier sexies : Transparence et procédures de contrôle (art. R321-14 à R321-23)](#232)
+          - [Section 1 : Transparence et obligations d'information (art. R321-14 à R321-21)](#233)
+          - [Section 3 :  Contrôle par le ministère chargé de la culture (art. R321-22 à R321-23)](#234)
+        - [Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins (art. R321-24 à R321-47)](#235)
+          - [Section 2 :  Règles de fonctionnement (art. R321-24 à R321-25)](#236)
+          - [Section 3 :  Procédure (art. R321-26 à R321-45)](#237)
+            - [Sous-section 1 : Règles générales de procédure (art. R321-26 à R321-27)](#238)
+            - [Sous-section 2 :  Procédure de contrôle des comptes et de la gestion (art. R321-28 à R321-30)](#239)
+            - [Sous-section 3 :  Procédure de sanction (art. R321-31 à R321-34)](#240)
+            - [Sous-section 4 :  Procédure de médiation (art. R321-35 à R321-45)](#241)
+          - [Section 4 :  Voies de recours (art. R321-46 à R321-47)](#242)
+        - [Chapitre Ier octies : Dispositions diverses (art. R321-48)](#243)
+        - [Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie (art. R322-1 à R322-4)](#244)
+        - [Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne (art. R323-1 à R323-5)](#245)
+        - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne (art. R324-1 à R324-12)](#246)
+        - [Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque (art. R325-1 à R325-7)](#247)
+        - [Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle (art. R326-1 à R326-7)](#248)
+        - [Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes (art. R327-1 à R327-6)](#249)
+        - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence (art. R329-1 à R329-6)](#250)
+        - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée (art. R329-7 à R329-12)](#251)
+      - [Titre III : Procédures et sanctions (art. D331-1-1 à R335-18)](#252)
+        - [Chapitre Ier : Dispositions générales (art. D331-1-1 à R331-95)](#253)
+          - [Section 1 : Dispositions communes (art. D331-1-1 à R331-1)](#254)
+          - [Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. R331-2 à R331-95)](#255)
+            - [Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (art. R331-2 à D331-34)](#256)
+              - [Paragraphe 1 : Le collège de la Haute Autorité (art. R331-2 à R331-4)](#257)
+              - [Paragraphe 2 : La commission de protection des droits (art. D331-8 à R331-7)](#258)
+              - [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité (art. R331-9 à R331-14)](#259)
+              - [Paragraphe 4 : Dispositions relatives au personnel (art. R331-15 à R331-19)](#260)
+              - [Paragraphe 5 : Dispositions financières et comptables (art. D331-28 à R331-32-2)](#261)
+              - [Paragraphe 6 : Dispositions diverses (art. D331-33 à D331-34)](#262)
+            - [Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin (art. R331-35 à R331-46)](#263)
+            - [Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques (art. D331-54-1 à R331-54)](#264)
+            - [Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés (art. R331-55 à R331-84)](#265)
+              - [Paragraphe 1 : Règles générales de procédure (art. R331-56 à R331-64)](#266)
+              - [Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques (art. R331-65 à R331-71)](#267)
+              - [Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées (art. R331-72 à R331-73)](#268)
+              - [Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins (art. R331-74)](#269)
+              - [Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité (art. R331-75 à R331-84)](#270)
+            - [Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne (art. R331-85 à R331-95)](#271)
+        - [Chapitre II : Saisie-contrefaçon (art. R332-2 à R332-4)](#272)
+        - [Chapitre V : Dispositions pénales (art. R335-2 à R335-5)](#273)
+        - [Chapitre V bis : La retenue (art. R335-6 à R335-18)](#274)
+      - [Titre IV : Droits des producteurs de bases de données (art. R341-1)](#275)
+      - [Chapitre III : Procédures et sanctions (art. R343-1)](#276)
+    - [Livre IV : Organisation administrative et professionnelle (art. D411-1-3 à R423-2)](#277)
+      - [Titre Ier : Institutions (art. D411-1-3 à R412-21)](#278)
+        - [Chapitre Ier : L'Institut national de la propriété industrielle (art. D411-1-3 à R411-43)](#279)
+          - [Section 1 : Organisation de l'Institut national de la propriété industrielle (art. D411-1-3 à R411-16)](#280)
+          - [Section 2 : Redevances perçues par l'Institut national de la propriété industrielle (art. R411-17 à R411-18)](#281)
+          - [Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle (art. D411-19-2 à R411-43)](#282)
+        - [Chapitre II : L'instance nationale des obtentions végétales (art. D412-7 à R412-21)](#283)
+          - [Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales (art. D412-7 à D412-13)](#284)
+          - [Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales (art. R412-15 à R412-21)](#285)
+      - [Titre II : Qualification en propriété industrielle (art. R421-1 à R423-2)](#286)
+        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle (art. R421-1 à R421-12)](#287)
+        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle (art. R422-1 à R422-66)](#288)
+          - [Section 1 : Inscription sur la liste des conseils en propriété industrielle (art. R422-1 à R422-7)](#289)
+          - [Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen (art. R422-7-1 à R422-7-2)](#290)
+          - [Section 2 : La Compagnie nationale des conseils en propriété industrielle (art. R422-8 à R422-11)](#291)
+          - [Section 3 : Exercice sous forme de société (art. R422-12 à R422-51-19)](#292)
+            - [Sous-section 1 : Sociétés civiles professionnelles (art. R422-12 à R422-40-1)](#293)
+            - [Sous-section 2 : Sociétés d'exercice libéral (art. R422-41 à R422-49)](#294)
+            - [Sous-section 3 : Sociétés en participation (art. R422-50 à R422-51)](#295)
+            - [Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle (art. R422-51-1 à R422-51-14)](#296)
+            - [Sous-section 5 : Sociétés pluri-professionnelles d'exercice (art. R422-51-15 à R422-51-19)](#297)
+          - [Section 4 : Obligations professionnelles (art. R422-52 à R422-55-1)](#298)
+          - [Section 4 bis : Contrôle de l'exercice de la profession (art. R422-55-2 à R422-55-5)](#299)
+          - [Section 5 : Régime disciplinaire (art. R422-56 à R422-66)](#300)
+        - [Chapitre III : Dispositions diverses (art. R423-1 à R423-2)](#301)
+    - [Livre V : Les dessins et modèles (art. R511-1 à R523-1)](#302)
+      - [Titre Ier : Acquisition des droits (art. R511-1 à R514-6)](#303)
+        - [Chapitre Ier : Droits et oeuvres protégés (art. R511-1 à R511-6)](#304)
+          - [Section unique : Mesures réglementaires spéciales à certaines industries (art. R511-1 à R511-6)](#305)
+        - [Chapitre II : Formalités de dépôt (art. R*512-9-3 à R512-19)](#306)
+        - [Chapitre III : Durée de la protection (art. R*513-1-2 à R513-3)](#307)
+        - [Chapitre IV : Dispositions communes (art. R514-1 à R514-6)](#308)
+          - [Section 1 : Procédure (art. R514-1 à R514-5-1)](#309)
+          - [Section 2 : Dispositions transitoires (art. R514-6)](#310)
+      - [Titre II : Contentieux (art. R521-1 à R523-1)](#311)
+        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux (art. R521-1 à D521-6)](#312)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R521-1)](#313)
+          - [Section 2 : Mesures probatoires (art. R521-2 à R521-5)](#314)
+          - [Section 3 : Dispositions communes (art. D521-6)](#315)
+        - [Chapitre II : Contentieux des dessins et modèles communautaires (art. R522-1)](#316)
+        - [Chapitre III : Retenue en douane (art. R523-1)](#317)
+    - [Livre VI : Protection des inventions et des connaissances techniques (art. R611-1 à D631-2)](#318)
+      - [Titre Ier : Brevets d'invention (art. R611-1 à R618-6)](#319)
+        - [Chapitre Ier : Champ d'application (art. R611-1 à R611-20)](#320)
+          - [Section 2 : Droit au titre (art. R611-1 à R611-20)](#321)
+            - [Sous-section 1 : Inventions de salariés (art. R611-1 à R611-10)](#322)
+            - [Sous-section 2 : Les inventions des fonctionnaires et des agents publics. (art. Annexe art. R611-14-1 à R611-14-1)](#323)
+            - [Sous-section 3 : Désignation de l'inventeur et revendication de propriété. (art. R611-15 à R611-20)](#324)
+        - [Chapitre II : Dépôt et instruction des demandes (art. R612-1 à R612-75)](#325)
+          - [Section 1 : Dépôt des demandes (art. R612-1 à R612-25)](#326)
+          - [Section 2 : L'instruction des demandes (art. R612-26 à R612-73-3)](#327)
+            - [Sous-section 1 : Demandes intéressant la défense nationale (art. R612-26 à R612-32)](#328)
+            - [Sous-section 2 : Division de la demande (art. R612-33 à R612-35)](#329)
+            - [Sous-section 3 : Rectification, retrait et publication de la demande (art. R612-36 à R612-44)](#330)
+            - [Sous-section 4 : Rejet de la demande (art. R612-45 à R612-52)](#331)
+            - [Sous-section 5 : Etablissement du rapport de recherche (art. R612-53 à R612-69)](#332)
+            - [Sous-section 6 : Délivrance et publication du brevet (art. R*612-73-2 à R612-73-3)](#333)
+          - [Section 3 : Diffusion légale des inventions (art. R612-74 à R612-75)](#334)
+        - [Chapitre III : Droits attachés aux brevets (art. R613-4 à R613-63)](#335)
+          - [Section 1 : Droits d'exploitation (art. R613-4 à R613-43-1)](#336)
+            - [Sous-section 1 : Licences obligatoires (art. R613-4 à R613-9)](#337)
+            - [Sous-section 2 : Licences d'office dans l'intérêt de la santé publique (art. R613-10 à R613-25)](#338)
+            - [Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique (art. R613-25-1 à R613-25-4)](#339)
+            - [Sous-section 4 : Licences d'office dans l'intérêt du développement économique (art. R613-26 à R613-33)](#340)
+            - [Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale (art. R613-34 à R613-42)](#341)
+            - [Sous-section 6 : Dispositions diverses (art. R613-43 à R613-43-1)](#342)
+          - [Section 2 : Transmission et perte des droits (art. R613-44 à R613-51)](#343)
+            - [Sous-section 1 : Opposition (art. R613-44 à R613-44-12)](#344)
+            - [Sous-section 2 : Renonciation ou limitation (art. R*613-45-2 à R613-45-3)](#345)
+            - [Sous-section 3 : Maintien en vigueur ou déchéance du titre (art. R*613-49-1 à R613-51)](#346)
+          - [Section 4 : Recours en restauration (art. R613-52 à R613-52-2)](#347)
+          - [Section 5 : Registre national des brevets (art. R613-53 à R613-59)](#348)
+          - [Section 6 : Etablissement de l'avis documentaire (art. R613-60 à R613-62)](#349)
+          - [Section 7 : Réduction des redevances (art. R613-63)](#350)
+        - [Chapitre IV : Application de conventions internationales (art. R614-1 à R614-35)](#351)
+          - [Section 1 : Brevets européens (art. R614-1 à R614-20)](#352)
+          - [Section 2 : Demandes internationales (art. R614-21 à R614-35)](#353)
+        - [Chapitre IV bis : La retenue (art. R614-36 à R614-37)](#354)
+        - [Chapitre V : Actions en justice (art. R615-1 à R615-31)](#355)
+          - [Section 1 : Mesures provisoires et conservatoires (art. R615-1)](#356)
+          - [Section 2 : Mesures probatoires (art. R615-2 à R615-5)](#357)
+          - [Section 3 : Commission paritaire de conciliation (art. R615-6 à R615-31)](#358)
+        - [Chapitre VI : Le certificat d'utilité (art. R616-1 à R616-3)](#359)
+        - [Chapitre VII : Le certificat complémentaire de protection (art. R*617-2-2 à R617-2-1)](#360)
+        - [Chapitre VIII : Dispositions communes (art. R618-1 à R618-6)](#361)
+          - [Section unique : Procédure (art. R618-1 à R618-6)](#362)
+      - [Titre II : Protection des connaissances techniques (art. R*622-3-2 à R623-60)](#363)
+        - [Chapitre II : Produits semi-conducteurs (art. R*622-3-2 à R622-9)](#364)
+        - [Chapitre III : Obtentions végétales (art. R623-1 à R623-60)](#365)
+          - [Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale (art. R623-1 à R623-54)](#366)
+            - [Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale. (art. R623-1 à R623-15)](#367)
+            - [Sous-section 2 : Instruction des demandes de certificat d'obtention végétale. (art. R623-16 à R623-24)](#368)
+            - [Sous-section 3 : Délivrance des certificats d'obtention végétale (art. R623-25 à R623-30)](#369)
+            - [Sous-section 4 : Redevances (art. D623-30-1 à R623-35)](#370)
+            - [Sous-section 5 : Renonciation - Déchéance (art. R623-36 à R623-37)](#371)
+            - [Sous-section 6 : Registres nationaux (art. R623-38 à R623-42)](#372)
+            - [Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale (art. R623-43 à R623-47)](#373)
+            - [Sous-section 8 : Dispositions diverses (art. R623-48 à R623-54)](#374)
+          - [Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur (art. D623-58-1 à R623-58)](#375)
+          - [Section 2 bis : Semences de ferme (art. R623-59)](#376)
+          - [Section 3 : La retenue (art. R623-60)](#377)
+      - [Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques (art. D631-1 à D631-2)](#378)
+        - [Chapitre unique (art. D631-1 à D631-2)](#379)
+    - [Livre VII : Marques de produits ou de services et autres signes distinctifs (art. R711-1 à R722-7)](#380)
+      - [Titre Ier : Marques de produits ou de services (art. R711-1 à R718-7)](#381)
+        - [Chapitre Ier : Eléments constitutifs de la marque (art. R711-1)](#382)
+        - [Chapitre II : Acquisition du droit sur la marque (art. D712-29 à R712-28-2)](#383)
+        - [Chapitre IV : Transmission et perte du droit sur la marque (art. R714-1 à R714-9)](#384)
+        - [Chapitre V : Marques de garantie et marques collectives (art. R715-1 à R715-2)](#385)
+          - [Section 1 : Marques de garantie (art. R715-1)](#386)
+          - [Section 2 : Marques collectives (art. R715-2)](#387)
+        - [Chapitre VI : Contentieux (art. R716-1 à R716-22 )](#388)
+          - [Section 1 : Contentieux de la nullité et de la déchéance de la marque (art. R716-1 à R716-14)](#389)
+            - [Sous-section 1 : Demande en nullité ou en déchéance de la marque (art. R716-1 à R716-2)](#390)
+            - [Sous-section 2 : Procédure administrative en nullité ou en déchéance de la marque (art. R716-3 à R716-12)](#391)
+            - [Sous-section 3 : Articulation entre les procédures judiciaires et administratives (art. R716-13 à R716-14)](#392)
+          - [Section 2 : Mesures provisoires et conservatoires (art. R716-15)](#393)
+          - [Section 3 :  Mesures probatoires (art. R716-16 à R716-19)](#394)
+          - [Section 4 : Retenue en douane (art. R716-20)](#395)
+          - [Section 5 : Dispositions diverses (art. R716-21 à R716-22 )](#396)
+        - [Chapitre VII : Marque internationale et marque de l'Union européenne (art. R*717-1-1 à R717-11)](#397)
+          - [Section 1 : Marque internationale (art. R*717-1-1 à R717-8)](#398)
+          - [Section 2 : Marque de l'Union européenne (art. R*717-10-1 à R717-11)](#399)
+        - [Chapitre VIII : Dispositions communes (art. R718-1 à R718-7)](#400)
+          - [Section unique (art. R718-1 à R718-5)](#401)
+          - [Section 2 : Dispositions transitoires (art. R718-6 à R718-7)](#402)
+      - [Titre II : Indications géographiques (art. R*721-6-1 à R722-7)](#403)
+        - [Chapitre Ier : Généralités (art. R*721-6-1 à R721-12)](#404)
+          - [Section unique : Indications géographiques protégeant les produits industriels et artisanaux (art. R*721-6-1 à R721-12)](#405)
+        - [Chapitre II : Contentieux (art. D722-6 à R722-7)](#406)
+          - [Section 1 : Actions civiles (art. D722-6 à R722-5)](#407)
+          - [Section 2 : La retenue (art. R722-7)](#408)
+    - [Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises (art. D811-1-2 à R811-4)](#409)
+      - [Titre unique (art. D811-1-2 à R811-4)](#410)
+        - [Chapitre unique (art. D811-1-2 à R811-4)](#411)
 # Partie législative<a id=1></a>
 
 ## Première partie : La propriété littéraire et artistique<a id=2></a>
@@ -12903,24 +12910,25 @@ _Modifié par_:
 ###### Article L411-1
 
 L'Institut national de la propriété industrielle est un établissement public doté de la personnalité civile et de l'autonomie
-financière, placé auprès du ministre chargé de la propriété industrielle. 
+financière, placé auprès du ministre chargé de la propriété industrielle.
 
-Cet établissement a pour mission : 
+Cet établissement a pour mission :
 
 1° De centraliser et diffuser toute information nécessaire pour la protection des innovations et pour l'enregistrement des
-entreprises, ainsi que d'engager toute action de sensibilisation et de formation dans ces domaines ; 
+entreprises, ainsi que d'engager toute action de sensibilisation et de formation dans ces domaines ;
 
 2° D'appliquer les lois et règlements en matière de propriété industrielle et de registre du commerce et des sociétés ; à cet
 effet, l'Institut pourvoit, notamment, à la réception des dépôts de demandes des titres de propriété industrielle ou annexes
 à la propriété industrielle, à leur examen et à leur délivrance ou enregistrement et à la surveillance de leur maintien ; il
-connaît des demandes en nullité et en déchéance de marques mentionnées aux 1° et 2° du I de l'article L. 716-5 ; il
-centralise le registre du commerce et des sociétés, notamment sur la base de données informatiques transmises par les
-greffiers de tribunal de commerce, et le Bulletin officiel des annonces civiles et commerciales ; il assure la diffusion des
-informations techniques, commerciales et financières contenues dans les titres de propriété industrielle ; il assure la
-diffusion et la mise à la disposition gratuite du public, à des fins de réutilisation, des informations techniques,
-commerciales et financières qui sont contenues dans le registre national du commerce et des sociétés et dans les instruments
-centralisés de publicité légale, selon des modalités fixées par décret ; il statue sur les demandes d'homologation ou de
-modification des cahiers des charges des indications géographiques définies à l'article L. 721-2 ; 
+connaît des demandes en nullité et en déchéance de marques mentionnées aux 1° et 2° du I de l'article L. 716-5, ainsi que des
+oppositions formées à l'encontre des brevets d'invention ; il centralise le registre du commerce et des sociétés, notamment
+sur la base de données informatiques transmises par les greffiers de tribunal de commerce, et le Bulletin officiel des
+annonces civiles et commerciales ; il assure la diffusion des informations techniques, commerciales et financières contenues
+dans les titres de propriété industrielle ; il assure la diffusion et la mise à la disposition gratuite du public, à des fins
+de réutilisation, des informations techniques, commerciales et financières qui sont contenues dans le registre national du
+commerce et des sociétés et dans les instruments centralisés de publicité légale, selon des modalités fixées par décret ; il
+statue sur les demandes d'homologation ou de modification des cahiers des charges des indications géographiques définies à
+l'article L. 721-2 ; 
 
 3° De prendre toute initiative en vue d'une adaptation permanente du droit national et international aux besoins des
 innovateurs et des entreprises ; à ce titre, il propose au ministre chargé de la propriété industrielle toute réforme qu'il
@@ -12929,14 +12937,10 @@ France dans les organisations internationales compétentes.
 
 **Nota:**
 
-Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
-ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
-décembre 2019.
-
-Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 411-1 dans leur rédaction résultant de la
-présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
-l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
-déchéance d'une marque.
+Conformément aux dispositions prévues à l'article 5 de l'ordonnance n°2020-116 du 12 février 2020, prévoit, à l'exception de
+son article 4, que les dispositions de la présente ordonnance entrent en vigueur le 1er avril 2020. Elles sont applicables
+aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -12956,11 +12960,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 1
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L716-5 (VD)
+  - Code de la propriété intellectuelle - art. L716-5
   - Code de la propriété intellectuelle - art. L721-2
 
 
@@ -13016,40 +13020,36 @@ _Créé par_:
 
 ###### Article L411-4
 
-Le directeur de l'Institut national de la propriété industrielle prend les décisions prévues par le présent code à l'occasion
-de la délivrance, du rejet ou du maintien des titres de propriété industrielle, ainsi qu'à l'occasion de l'homologation, du
-rejet ou de la modification du cahier des charges des indications géographiques définies à l'article L. 721-2 ou du retrait
-de cette homologation. 
+Le directeur général de l'Institut national de la propriété industrielle prend les décisions prévues par le présent code à
+l'occasion de la délivrance, du rejet ou du maintien des titres de propriété industrielle, ainsi qu'à l'occasion de
+l'homologation, du rejet ou de la modification du cahier des charges des indications géographiques définies à l'article L.
+721-2 ou du retrait de cette homologation.
 
-Il statue sur les demandes en nullité ou en déchéance de marques mentionnées au 2° de l'article L. 411-1. Les recours exercés
-contre ces décisions sont suspensifs 
+Il statue sur les demandes en nullité ou en déchéance de marques et sur les oppositions formées à l'encontre des brevets
+d'invention, mentionnées au 2° de l'article L. 411-1. Les recours exercés contre ces décisions sont suspensifs
 
 Dans l'exercice de ces compétences, il n'est pas soumis à l'autorité de tutelle. Les cours d'appel désignées par voie
-réglementaire connaissent directement des recours formés contre ses décisions. 
+réglementaire connaissent directement des recours formés contre ses décisions.
 
 Le pourvoi en cassation contre les décisions des cours d'appel statuant sur ces recours est ouvert aux parties et au
-directeur général de l'Institut national de la propriété industrielle. 
+directeur général de l'Institut national de la propriété industrielle.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Nota:**
 
-Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
-ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
-décembre 2019.
-
-Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 411-4 dans leur rédaction résultant de la
-présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
-l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
-déchéance d'une marque.
+Conformément aux dispositions prévues à l'article 5 de l'ordonnance n°2020-116 du 12 février 2020, prévoit, à l'exception de
+son article 4, que les dispositions de la présente ordonnance entrent en vigueur le 1er avril 2020. Elles sont applicables
+aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°51-444 du 19 avril 1951 - art. 3 (Ab)
+  - Loi n°68-1 du 2 janvier 1968 - art. 67 (Ab)
   - Loi n°91-7 1991-01-04 art. 33-1
-  - Ordonnance n°2020-116 du 12 février 2020 - art. 1
 
 _Cité par_:
 
@@ -13062,17 +13062,13 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L712-14 (V)
   - Code de la propriété intellectuelle - art. R614-34 (V)
 
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
 _Modifié par_:
 
-  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 1
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L411-1 (VT)
+  - Code de la propriété intellectuelle - art. L411-1
   - Code de la propriété intellectuelle - art. L721-2
 
 
@@ -13082,21 +13078,18 @@ Les décisions de rejet mentionnées au premier alinéa de l'article L. 411-4, l
 à l'encontre d'une demande d'enregistrement de marque ainsi que les décisions statuant sur une demande de relevé de déchéance
 en matière de marques ou de dessins et modèles sont motivées.
 
-Il en est de même des décisions statuant sur une demande en nullité ou en déchéance de marques.
+Il en est de même des décisions statuant sur une demande en nullité ou en déchéance de marques ou sur une opposition à
+l'encontre d'un brevet d'invention.
 
 Ces décisions sont notifiées au demandeur et, le cas échéant, aux autres parties, dans les formes et délais prévus par décret
 en Conseil d'Etat.
 
 **Nota:**
 
-Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
-ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
-décembre 2019.
-
-Toutefois, par dérogation à l'alinéa précédent, les dispositions de l'article L. 411-5 dans leur rédaction résultant de la
-présente ordonnance, entrent en vigueur à compter du 1er avril 2020 lorsqu'elles sont relatives à la mise en place devant
-l'Institut national de la propriété industrielle d'une procédure administrative permettant de demander la nullité ou la
-déchéance d'une marque.
+Conformément aux dispositions prévues à l'article 5 de l'ordonnance n°2020-116 du 12 février 2020, prévoit, à l'exception de
+son article 4, que les dispositions de la présente ordonnance entrent en vigueur le 1er avril 2020. Elles sont applicables
+aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -13105,18 +13098,14 @@ _Anciens textes_:
   - Loi n°68-1 du 2 janvier 1968 - art. 67 (Ab)
   - Loi n°91-7 1991-01-04 art. 33-2
 
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
 _Modifié par_:
 
-  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 1
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L411-4 (VT)
-  - Code de la propriété intellectuelle - art. L712-4 (VD)
+  - Code de la propriété intellectuelle - art. L411-4
+  - Code de la propriété intellectuelle - art. L712-4
 
 _Cité par_:
 
@@ -15658,28 +15647,27 @@ _Cite_:
 
 ###### Article L611-2
 
-Les titres de propriété industrielle protégeant les inventions sont : 
+Les titres de propriété industrielle protégeant les inventions sont :
 
-1° Les brevets d'invention, délivrés pour une durée de vingt ans à compter du jour du dépôt de la demande ; 
+1° Les brevets d'invention, délivrés pour une durée de vingt ans à compter du jour du dépôt de la demande ;
 
-2° Les certificats d'utilité, délivrés pour une durée de dix ans à compter du jour du dépôt de la demande ; 
+2° Les certificats d'utilité, délivrés pour une durée de dix ans à compter du jour du dépôt de la demande ;
 
 3° Les certificats complémentaires de protection rattachés à un brevet dans les conditions prévues à l'article L. 611-3,
 prenant effet au terme légal du brevet auquel ils se rattachent pour une durée ne pouvant excéder sept ans à compter de ce
-terme et dix-sept ans à compter de la délivrance de l'autorisation de mise sur le marché mentionnée à ce même article. 
+terme et dix-sept ans à compter de la délivrance de l'autorisation de mise sur le marché mentionnée à ce même article.
 
 Les dispositions du présent livre concernant les brevets sont applicables aux certificats d'utilité à l'exception de celles
-prévues à l'article L. 612-14 et au premier alinéa des articles L. 612-15 et L. 612-17. Elles le sont également aux
-certificats complémentaires de protection à l'exception de celles prévues aux articles L. 611-12, L. 612-1 à L. 612-10, L.
-612-12 à L. 612-15, L. 612-17, L. 612-20, L. 613-1 et L. 613-25.
+prévues à l'article L. 612-14, au premier alinéa des articles L. 612-15 et L. 612-17 et aux articles L. 613-23 à L. 613-23-6.
+Elles le sont également aux certificats complémentaires de protection à l'exception de celles prévues aux articles L. 611-12,
+L. 612-1 à L. 612-10, L. 612-12 à L. 612-15, L. 612-17, L. 612-20, L. 613-1 , L. 613-23 à L. 613-23-6 et L. 613-25.
 
 **Nota:**
 
-Conformément au II de l’article 118 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à la
-date de publication du texte réglementaire prévu au second alinéa de l'article L. 612-15, et au plus tard à l'expiration du
-douzième mois suivant la publication de la présente loi.
-
-Le décret n°2020-15 a été publié le 10 janvier 2020.
+Conformément aux dispositions prévues à l'article 5 de l'ordonnance n°2020-116 du 12 février 2020, prévoit, à l'exception de
+son article 4, que les dispositions de la présente ordonnance entrent en vigueur le 1er avril 2020. Elles sont applicables
+aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -15687,10 +15675,6 @@ _Anciens textes_:
 
   - Loi n°68-1 du 2 janvier 1968 - art. 3 (M)
   - Ordonnance n°2020-116 du 12 février 2020 - art. 2
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
@@ -15710,20 +15694,22 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 118 (V)
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L611-12
-  - Code de la propriété intellectuelle - art. L611-3 (V)
+  - Code de la propriété intellectuelle - art. L611-3
   - Code de la propriété intellectuelle - art. L612-1
-  - Code de la propriété intellectuelle - art. L612-12 (V)
+  - Code de la propriété intellectuelle - art. L612-12
   - Code de la propriété intellectuelle - art. L612-14
-  - Code de la propriété intellectuelle - art. L612-15 (VT)
+  - Code de la propriété intellectuelle - art. L612-15
   - Code de la propriété intellectuelle - art. L612-17 (V)
   - Code de la propriété intellectuelle - art. L612-20
   - Code de la propriété intellectuelle - art. L613-1
-  - Code de la propriété intellectuelle - art. L613-25
+  - Code de la propriété intellectuelle - art. L613-23 (VD)
+  - Code de la propriété intellectuelle - art. L613-23-6 (VD)
+  - Code de la propriété intellectuelle - art. L613-25 (VD)
 
 
 ###### Article L611-3
@@ -16911,20 +16897,22 @@ _Modifié par_:
 Le demandeur qui n'a pas respecté un délai à l'égard de l'Institut national de la propriété industrielle peut présenter un
 recours en vue d'être restauré dans ses droits s'il justifie d'une excuse légitime et si l'inobservation de ce délai a pour
 conséquence directe le rejet de la demande de brevet ou d'une requête, la déchéance de la demande de brevet ou du brevet ou
-la perte de tout autre droit. 
+la perte de tout autre droit.
 
-Le recours doit être présenté au directeur de l'Institut national de la propriété industrielle dans un délai de deux mois à
-compter de la cessation de l'empêchement. L'acte non accompli doit l'être dans ce délai. Le recours n'est recevable que dans
-un délai d'un an à compter de l'expiration du délai non observé. 
+Le recours doit être présenté au directeur général de l'Institut national de la propriété industrielle dans un délai de deux
+mois à compter de la cessation de l'empêchement. L'acte non accompli doit l'être dans ce délai. Le recours n'est recevable
+que dans un délai d'un an à compter de l'expiration du délai non observé.
 
 Lorsque le recours se rapporte au défaut de paiement d'une redevance de maintien en vigueur, le délai non observé s'entend du
-délai de grâce prévu au second alinéa de l'article L. 612-19 et la restauration n'est accordée par le directeur de l'Institut
-national de la propriété industrielle qu'à la condition que les redevances de maintien en vigueur échues au jour de la
-restauration aient été acquittées dans le délai prescrit par voie réglementaire. 
+délai de grâce prévu au second alinéa de l'article L. 612-19 et la restauration n'est accordée par le directeur général de
+l'Institut national de la propriété industrielle qu'à la condition que les redevances de maintien en vigueur échues au jour
+de la restauration aient été acquittées dans le délai prescrit par voie réglementaire.
 
 Les dispositions du présent article ne sont applicables ni aux délais prévus aux deuxième et troisième alinéas, à l'article
 L. 612-16-1 et aux délais de présentation et de correction d'une déclaration de priorité prescrits par voie réglementaire, ni
-au délai de priorité institué par l'article 4 de la convention de Paris pour la protection de la propriété industrielle.
+au délai de priorité institué par l'article 4 de la convention de Paris pour la protection de la propriété industrielle , ni
+au délai prévu à l'article L. 613-23 pour former une opposition ou aux délais impartis dans le cadre de la phase
+d'instruction mentionnée au premier alinéa de l'article L. 613-23-2.
 
 **Liens relatifs à cet article**
 
@@ -16940,7 +16928,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
 
 _Cite_:
 
@@ -18341,30 +18329,192 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-19 (V)
 
 
+###### Article L613-23
+
+Dans les conditions et délais prévus par décret en Conseil d'Etat, tout brevet délivré en application de l'article L. 612-17
+peut faire l'objet d'une opposition par toute personne, à l'exception de son titulaire, auprès du directeur général de
+l'Institut national de la propriété industrielle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L611-2 (V)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L612-18
+  - Code de la propriété intellectuelle - art. L613-22
+
+
+###### Article L613-23-1
+
+L'opposition ne peut être fondée que sur un ou plusieurs des motifs suivants :
+
+1° L'objet du brevet n'est pas brevetable aux termes des articles L. 611-10, L. 611-11 et L. 611-13 à L. 611-19 ;
+
+2° Le brevet n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter ;
+
+3° L'objet du brevet s'étend au-delà du contenu de la demande telle qu'elle a été déposée ou, lorsque le brevet a été délivré
+sur la base d'une demande divisionnaire, l'objet s'étend au-delà du contenu de la demande initiale telle qu'elle a été
+déposée.
+
+L'opposition peut porter sur tout ou partie du brevet délivré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
+
+
+###### Article L613-23-2
+
+Le directeur général de l'Institut national de la propriété industrielle statue sur l'opposition au terme d'une procédure
+contradictoire comprenant une phase d'instruction, dans les conditions définies par décret en Conseil d'Etat.
+
+La décision du directeur général de l'Institut a les effets d'un jugement au sens du 6° de l'article L. 111-3 du code des
+procédures civiles d'exécution.
+
+L'opposition est réputée rejetée si le directeur général de l'Institut n'a pas statué dans le délai, fixé par décret en
+Conseil d'Etat, qui court à compter de la date de fin de la phase d'instruction mentionnée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
+
+
+###### Article L613-23-3
+
+I.-Au cours de la procédure d'opposition, le titulaire du brevet contesté peut modifier les revendications de ce brevet sous
+réserve que :
+
+1° Les modifications apportées répondent à un des motifs d'opposition mentionnés à l'article L. 613-23-1 soulevé par
+l'opposant ;
+
+2° Les modifications apportées n'étendent pas l'objet du brevet au-delà du contenu de la demande telle qu'elle a été déposée
+ou, lorsque le brevet a été délivré sur la base d'une demande divisionnaire, n'étendent pas son objet au-delà du contenu de
+la demande initiale telle qu'elle a été déposée ;
+
+3° Les modifications apportées n'étendent pas la protection conférée par le brevet ;
+
+4° Les revendications modifiées soient conformes aux dispositions des articles L. 611-10, L. 611-11, L. 611-13 à L. 611-19,
+L. 612-5 et L. 612-6 et que leur rédaction réponde aux conditions de forme définies par décret en Conseil d'Etat.
+
+II.-Au cours de la procédure d'opposition, le titulaire du brevet contesté peut également en modifier la description et, le
+cas échéant, les dessins sous réserve que :
+
+1° Ces modifications visent à répondre au motif d'opposition mentionné au 2° de l'article L. 613-23-1 soulevé par
+l'opposant ;
+
+2° Les modifications apportées n'étendent pas l'objet du brevet au-delà du contenu de la demande telle qu'elle a été déposée
+ou, lorsque le brevet a été délivré sur la base d'une demande divisionnaire, n'étendent pas son objet au-delà du contenu de
+la demande initiale telle qu'elle a été déposée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
+
+
+###### Article L613-23-4
+
+Lorsque le directeur général de l'Institut national de la propriété industrielle fait droit à l'opposition pour l'un des
+motifs mentionnés à l'article L. 613-23-1 soulevé par l'opposant, le brevet peut être :
+
+1° Révoqué en tout ou partie ;
+
+2° Maintenu sous une forme modifiée compte tenu des modifications apportées par le titulaire en cours de procédure en
+application de l'article L. 613-23-3.
+
+Lorsque le directeur général de l'Institut rejette l'opposition, le brevet est maintenu tel que délivré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
+
+
+###### Article L613-23-5
+
+Chacune des parties à la procédure d'opposition supporte les frais qu'elle a exposés, à moins que le directeur général de
+l'Institut national de la propriété industrielle ne décide d'une répartition différente de ces frais, dans la mesure où
+l'équité l'exige, et dans la limite d'un barème fixé par arrêté du ministre chargé de la propriété industrielle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
+
+
+###### Article L613-23-6
+
+La décision de révocation a un effet absolu. Les effets des décisions statuant sur l'opposition rétroagissent à la date de
+dépôt de la demande de brevet.
+
+Lorsqu'une décision statuant sur l'opposition révoque partiellement le brevet, elle renvoie devant l'Institut national de la
+propriété industrielle le titulaire afin que ce dernier demande la modification du brevet pour se conformer à cette décision.
+Cette demande n'est toutefois recevable que si la décision statuant sur l'opposition n'est plus susceptible de recours.
+
+Le directeur général de l'Institut a le pouvoir de rejeter cette demande de modification du brevet pour défaut de conformité
+à la décision de révocation partielle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L611-2 (V)
+
+
 ###### Article L613-24
 
 Le propriétaire du brevet peut à tout moment soit renoncer à la totalité du brevet ou à une ou plusieurs revendications, soit
-limiter la portée du brevet en modifiant une ou plusieurs revendications. 
+limiter la portée du brevet en modifiant une ou plusieurs revendications.
 
 La requête en renonciation ou en limitation est présentée auprès de l'Institut national de la propriété industrielle dans des
-conditions fixées par voie réglementaire. 
+conditions fixées par voie réglementaire.
 
 Le directeur de l'Institut national de la propriété industrielle examine la conformité de la requête avec les dispositions
-réglementaires mentionnées à l'alinéa précédent. 
+réglementaires mentionnées à l'alinéa précédent.
 
-Les effets de la renonciation ou de la limitation rétroagissent à la date du dépôt de la demande de brevet. 
+Toutefois, la requête en limitation d'un brevet présentée alors qu'une opposition a été préalablement engagée est irrecevable
+tant que la décision statuant sur cette opposition est susceptible de recours, à moins que la limitation ne soit requise à la
+suite d'une demande en nullité du brevet présentée à titre principal ou reconventionnel devant une juridiction.
 
-Les deuxième et troisième alinéas s'appliquent aux limitations effectuées en application des articles L. 613-25 et L. 614-12.
+De même, si une procédure de limitation d'un brevet est en cours à la date à laquelle une opposition est formée à l'encontre
+de ce brevet, l'Institut national de la propriété industrielle clôt la procédure de limitation, à moins que la limitation ne
+soit requise à la suite d'une demande en nullité du brevet présentée à titre principal ou reconventionnel devant une
+juridiction.
+
+Les effets de la renonciation ou de la limitation rétroagissent à la date du dépôt de la demande de brevet.
+
+Les dispositions du présent article s'appliquent aux limitations effectuées en application des articles L. 613-25 et L.
+614-12 .
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°68-1 du 2 janvier 1968 - art. 47 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2008-776 du 4 août 2008 - art. 132
 
 _Cité par_:
 
@@ -18374,6 +18524,10 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L623-25 (V)
   - Code de la propriété intellectuelle - art. L811-1-1 (MMN)
 
+_Modifié par_:
+
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
+
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L613-25
@@ -18382,23 +18536,23 @@ _Cite_:
 
 ###### Article L613-25
 
-Le brevet est déclaré nul par décision de justice : 
+Le brevet est déclaré nul par décision de justice :
 
 a) Si son objet n'est pas brevetable aux termes des articles L. 611-10, L. 611-11 et L. 611-13 à L. 611-19 ;
 
-b) S'il n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter ; 
+b) S'il n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter ;
 
 c) Si son objet s'étend au-delà du contenu de la demande telle qu'elle a été déposée ou, lorsque le brevet a été délivré sur
 la base d'une demande divisionnaire, si son objet s'étend au-delà du contenu de la demande initiale telle qu'elle a été
-déposée ; 
+déposée ;
 
-d) Si, après limitation, l'étendue de la protection conférée par le brevet a été accrue. 
+d) Si, après limitation ou opposition, l'étendue de la protection conférée par le brevet a été accrue.
 
 Si les motifs de nullité n'affectent le brevet qu'en partie, la nullité est prononcée sous la forme d'une limitation
-correspondante des revendications. 
+correspondante des revendications.
 
 Dans le cadre d'une action en nullité du brevet, son titulaire est habilité à limiter le brevet en modifiant les
-revendications ; le brevet ainsi limité constitue l'objet de l'action en nullité engagée. 
+revendications ; le brevet ainsi limité constitue l'objet de l'action en nullité engagée.
 
 La partie qui, lors d'une même instance, procède à plusieurs limitations de son brevet, de manière dilatoire ou abusive, peut
 être condamnée à une amende civile d'un montant maximum de 3 000 euros, sans préjudice de dommages et intérêts qui seraient
@@ -18412,7 +18566,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 132
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 2
 
 _Cite_:
 
@@ -18420,7 +18574,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la propriété intellectuelle - art. L611-2 (VT)
+  - Code de la propriété intellectuelle - art. L611-2 (VD)
   - Code de la propriété intellectuelle - art. L613-24 (VD)
   - Code de la propriété intellectuelle - art. L811-1-1 (MMN)
 
@@ -24974,11 +25128,31 @@ _Créé par_:
 
 ##### Chapitre VI : Contentieux<a id=165></a>
 
+##### Section 1 : Contentieux de la nullité et de la déchéance de la marque<a id=166></a>
+
+##### Sous-section 1 : Dispositions communes à la procédure administrative en nullité et en déchéance<a id=167></a>
+
 ###### Article L716-1
 
-L'atteinte portée au droit du propriétaire de la marque constitue une contrefaçon engageant la responsabilité civile de son
-auteur. Constitue une atteinte aux droits de la marque la violation des interdictions prévues aux articles L. 713-2, L. 713-3
-et L. 713-4.
+Les demandes en nullité ou en déchéance de marque formées devant l'Institut national de la propriété industrielle sont
+présentées dans les formes et conditions définies par décret en Conseil d'Etat.
+
+Le directeur général de l'Institut national de la propriété industrielle statue sur la demande en nullité ou en déchéance au
+terme d'une procédure contradictoire comprenant une phase d'instruction, dans les conditions définies par décret en Conseil
+d'Etat.
+
+La décision du directeur général de l'Institut a les effets d'un jugement au sens du 6° de l'article L. 111-3 du code des
+procédures civiles d'exécution.
+
+La demande en nullité ou en déchéance est réputée rejetée si le directeur général de l'Institut n'a pas statué dans le délai,
+fixé par décret en Conseil d'Etat, qui court à compter de la date de fin de cette phase d'instruction.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019. Par dérogation aux dispositions précédentes, les dispositions de l'article L. 716-1 entrent en vigueur à
+compter du 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -24988,11 +25162,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
 
 _Cité par_:
 
@@ -25001,113 +25175,30 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L713-2 (V)
+  - Code de la propriété intellectuelle - art. L713-2
 
 
-###### Article L716-5
+###### Article L716-1-1
 
-L'action civile en contrefaçon est engagée par le propriétaire de la marque. Toutefois, le bénéficiaire d'un droit exclusif
-d'exploitation peut agir en contrefaçon, sauf stipulation contraire du contrat si, après mise en demeure, le titulaire
-n'exerce pas ce droit.
-
-Toute partie à un contrat de licence est recevable à intervenir dans l'instance en contrefaçon engagée par une autre partie
-afin d'obtenir la réparation du préjudice qui lui est propre.
-
-L'action en contrefaçon se prescrit par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaitre
-le dernier fait lui permettant de l'exercer.
-
-Est irrecevable toute action en contrefaçon d'une marque postérieure enregistrée dont l'usage a été toléré pendant cinq ans,
-à moins que son dépôt n'ait été effectué de mauvaise foi. Toutefois, l'irrecevabilité est limitée aux seuls produits et
-services pour lesquels l'usage a été toléré.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-7 1991-01-04 art. 19
-  - Loi n°91-7 du 4 janvier 1991 - art. 19 (Ab)
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Modifié par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 124 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. L411-1 (VD)
-  - Code de la propriété intellectuelle - art. L811-1 (VT)
-  - Code de la propriété intellectuelle - art. R716-21 (VD)
-
-
-###### Article L716-6
-
-Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir
-ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les
-services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite
-d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête
-lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard
-serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut
-ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable
-qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
-
-La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties
-destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des
-produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation
-dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des
-dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu
-contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer
-les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires,
-financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
-
-Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement
-contestable.
-
-Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
-par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est
-ultérieurement jugée non fondée ou les mesures annulées.
-
-Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
-le demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou pénale, soit déposer une
-plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa
-demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
+Sur demande de la partie gagnante, le directeur général de l'Institut national de la propriété industrielle met à la charge
+de la partie perdante tout ou partie des frais exposés par l'autre partie dans la limite d'un barème fixé par arrêté du
+ministre chargé de la propriété industrielle.
 
 **Nota:**
 
 Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
 ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
-décembre 2019. Le décret n° 2019-1316 du 9 décembre 2019 pris pour l'application de l'ordonnance n° 2019-1169 a été publié le
-10 décembre 2019.
+décembre 2019. Par dérogation aux dispositions précédentes, les dispositions de l'article L. 716-1-1 entrent en vigueur à
+compter du 1er avril 2020.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Loi n°91-7 1991-01-04 art. 20
-  - Loi n°91-7 du 4 janvier 1991 - art. 20 (Ab)
-
-_Codifié par_:
-
-  - Loi n°92-597 du 1 juillet 1992
-
-_Modifié par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 11
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. L716-4-6 (V)
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R716-1 (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
 
 
-##### Section 1 : Contentieux de la nullité et de la déchéance de la marque<a id=166></a>
-
-##### Sous-section 2 :  Nullité de la marque<a id=167></a>
+##### Sous-section 2 :  Nullité de la marque<a id=168></a>
 
 ###### Article L716-2
 
@@ -25370,7 +25461,7 @@ _Créé par_:
   - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
 
 
-##### Sous-section 3 :  Déchéance de la marque<a id=168></a>
+##### Sous-section 3 :  Déchéance de la marque<a id=169></a>
 
 ###### Article L716-3
 
@@ -25439,7 +25530,7 @@ _Créé par_:
   - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
 
 
-##### Section 2 : Contentieux de la contrefaçon<a id=169></a>
+##### Section 2 : Contentieux de la contrefaçon<a id=170></a>
 
 ###### Article L716-4
 
@@ -25825,9 +25916,106 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. L716-15 (T)
 
 
-##### Chapitre VI bis :  Retenue en douane et actions pénales<a id=170></a>
+##### Section 3 : Règles de compétence<a id=171></a>
 
-##### Section 1 : Retenue en douane<a id=171></a>
+###### Article L716-5
+
+I.-Ne peuvent être formées que devant l'Institut national de la propriété industrielle :
+
+1° Les demandes en nullité exclusivement fondées sur un ou plusieurs des motifs énumérés à l'article L. 711-2, aux 1° à 5°,
+9° et 10° du I de l'article L. 711-3, au III du même article ainsi qu'aux articles L. 715-4 et L. 715-9 ;
+
+2° Les demandes en déchéance fondées sur les articles L. 714-5, L. 714-6, L. 715-5 et L. 715-10.
+
+II.-Les autres actions civiles et les demandes relatives aux marques autres que celles mentionnées au I, y compris
+lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des
+tribunaux de grande instance, déterminés par voie réglementaire.
+
+Les tribunaux mentionnés à l'alinéa précédent sont en outre exclusivement compétents dans les cas suivants :
+
+1° Lorsque les demandes mentionnées aux 1° et 2° du I sont formées à titre principal ou reconventionnel par les parties de
+façon connexe à toute autre demande relevant de la compétence du tribunal et notamment à l'occasion d'une action introduite
+sur le fondement des articles L. 716-4, L. 716-4-6, L. 716-4-7 et L. 716-4-9 ou à l'occasion d'une action en concurrence
+déloyale ;
+
+2° Lorsque les demandes mentionnées aux 1° et 2° du I sont formées alors que soit des mesures probatoires, soit des mesures
+provisoires ou conservatoires ordonnées afin de faire cesser une atteinte à un droit de marque sont en cours d'exécution
+avant l'engagement d'une action au fond.
+
+III.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019. Par dérogation aux dispositions précédentes, les dispositions de l'article L. 716-5 entrent en vigueur à
+compter du 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 19
+  - Loi n°91-7 du 4 janvier 1991 - art. 19 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. L411-1 (VD)
+  - Code de la propriété intellectuelle - art. L811-1 (VT)
+  - Code de la propriété intellectuelle - art. R716-21 (VD)
+
+
+###### Article L716-6
+
+Les dispositions de l'article L. 716-5 ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux
+articles 2059 et 2060 du code civil.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019. Par dérogation aux dispositions précédentes, les dispositions de l'article L. 716-6 entrent en vigueur à
+compter du 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°91-7 1991-01-04 art. 20
+  - Loi n°91-7 du 4 janvier 1991 - art. 20 (Ab)
+
+_Codifié par_:
+
+  - Loi n°92-597 du 1 juillet 1992
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. L716-4-6 (V)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R716-1 (V)
+
+
+##### Chapitre VI bis :  Retenue en douane et actions pénales<a id=172></a>
+
+##### Section 1 : Retenue en douane<a id=173></a>
 
 ###### Article L716-8
 
@@ -26234,7 +26422,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L716-8 (VD)
 
 
-##### Section 2 : Actions pénales<a id=172></a>
+##### Section 2 : Actions pénales<a id=174></a>
 
 ###### Article L716-8-9
 
@@ -26546,7 +26734,7 @@ _Cité par_:
   - Code du sport. - art. L141-7 (V)
 
 
-##### Chapitre VII : Marque de l'Union européenne<a id=173></a>
+##### Chapitre VII : Marque de l'Union européenne<a id=175></a>
 
 ###### Article L717-1
 
@@ -26743,11 +26931,11 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L811-4 (V)
 
 
-#### Titre II : Indications géographiques<a id=174></a>
+#### Titre II : Indications géographiques<a id=176></a>
 
-##### Chapitre Ier : Généralités<a id=175></a>
+##### Chapitre Ier : Généralités<a id=177></a>
 
-##### Section 1 : Appellations d'origine<a id=176></a>
+##### Section 1 : Appellations d'origine<a id=178></a>
 
 ###### Article L721-1
 
@@ -26776,7 +26964,7 @@ _Anciens textes_:
   - Loi n°1919-05-06 art. A
 
 
-##### Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux<a id=177></a>
+##### Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux<a id=179></a>
 
 ###### Article L721-2
 
@@ -27124,9 +27312,9 @@ _Créé par_:
   - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
 
 
-##### Chapitre II : Contentieux<a id=178></a>
+##### Chapitre II : Contentieux<a id=180></a>
 
-##### Section 1 : Actions civiles<a id=179></a>
+##### Section 1 : Actions civiles<a id=181></a>
 
 ###### Article L722-1
 
@@ -27387,7 +27575,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. D722-6 (VD)
 
 
-##### Section 2 : La retenue<a id=180></a>
+##### Section 2 : La retenue<a id=182></a>
 
 ###### Article L722-9
 
@@ -27724,9 +27912,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L722-9
 
 
-#### Titre III : Indications relatives aux services publics<a id=181></a>
+#### Titre III : Indications relatives aux services publics<a id=183></a>
 
-##### Chapitre unique<a id=182></a>
+##### Chapitre unique<a id=184></a>
 
 ###### Article L731-1
 
@@ -27807,13 +27995,13 @@ _Cite_:
   - Code de la consommation - art. L141-1
 
 
-## Troisième partie : Dispositions relatives à l'outre-mer<a id=183></a>
+## Troisième partie : Dispositions relatives à l'outre-mer<a id=185></a>
 
-### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon<a id=184></a>
+### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon<a id=186></a>
 
-#### Titre unique<a id=185></a>
+#### Titre unique<a id=187></a>
 
-##### Chapitre unique<a id=186></a>
+##### Chapitre unique<a id=188></a>
 
 ###### Article L811-1
 
@@ -27887,10 +28075,10 @@ la colonne de droite du même tableau :
 <table border="1">
   <tbody>
     <tr>
-      <th align="center">
+      <th>
 
 DISPOSITIONS APPLICABLES</th>
-      <th align="center">
+      <th>
 
 DANS LEUR RÉDACTION RÉSULTANT DE</th>
     </tr>
@@ -27900,7 +28088,7 @@ DANS LEUR RÉDACTION RÉSULTANT DE</th>
 Article L. 411-1</td>
       <td align="justify">
 
-Ordonnance n° 2019-1169 du 13 novembre 2019</td>
+Ordonnance n° 2020-116 du 12 février 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -27908,8 +28096,7 @@ Ordonnance n° 2019-1169 du 13 novembre 2019</td>
 Articles L. 411-2 et L. 411-3</td>
       <td align="justify">
 
-Loi n° 92-597 du 1er juillet 1992
-</td>
+Loi n° 92-597 du 1er juillet 1992</td>
     </tr>
     <tr>
       <td align="left">
@@ -27917,7 +28104,7 @@ Loi n° 92-597 du 1er juillet 1992
 Articles L. 411-4 et L. 411-5</td>
       <td align="justify">
 
-Ordonnance n° 2019-1169 du 13 novembre 2019</td>
+Ordonnance n° 2020-116 du 12 février 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -27936,14 +28123,777 @@ Loi n° 2011-1843 du 8 décembre 2011
 Les articles L. 515-2, L. 521-3 et L. 521-3-2 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai
 2019 relative à la croissance et la transformation des entreprises.
 
-4° Les dispositions du livre VI ;
+4° Les dispositions du livre VI dans les conditions suivantes :
 
-Les articles L. 611-2, L. 612-12, L. 612-14, L. 612-15, L. 615-8, L. 615-8-1, L. 622-7, L. 623-29 et L. 623-29-1 sont
-applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation
-des entreprises.
+a) Les dispositions du titre Ier mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans
+la colonne de droite du même tableau :
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION RÉSULTANT DE</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-1</td>
+      <td align="justify">
+
+Loi n° 2008-518 du 3 juin 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-2</td>
+      <td align="justify">
+
+Ordonnance n° 2020-116 du 12 février 2020</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 611-3 à L. 611-6</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-7</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-8</td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-9</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 611-10 et L. 611-11</td>
+      <td align="justify">
+
+Loi n° 2008-776 du 4 août 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-12</td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 611-13 à L. 611-15</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-16</td>
+      <td align="justify">
+
+Loi n° 2008-776 du 4 août 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 611-17 et L. 611-18</td>
+      <td align="justify">
+
+Loi n° 2004-800 du 6 août 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 611-19</td>
+      <td align="justify">
+
+Loi n° 2016-1087 du 8 août 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-1</td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-2</td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 612-3 et L. 612-4</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-5</td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-6</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-7</td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 612-8 et L. 612-9</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-10</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-11</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-12</td>
+      <td align="justify">
+
+Loi n° 2019-486 du 22 mai 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-13</td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 612-14 et L. 612-15</td>
+      <td align="justify">
+
+Loi n° 2019-486 du 22 mai 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-16</td>
+      <td align="justify">
+
+Ordonnance n° 2020-116 du 12 février 2020</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 612-16-1 et L. 612-17</td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-18</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-19</td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 612-20</td>
+      <td align="justify">
+
+Loi n° 2005-842 du 26 juillet 2005</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 612-21 à L. 612-23</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-1</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-2</td>
+      <td align="justify">
+
+Loi n° 2008-776 du 4 août 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-2-1</td>
+      <td align="justify">
+
+Loi n° 2004-800 du 6 août 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-2-2</td>
+      <td align="justify">
+
+Loi n° 2014-770 du 13 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-2-3</td>
+      <td align="justify">
+
+Loi n° 2016-1087 du 8 août 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-2-4</td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-3</td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-4</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-5</td>
+      <td align="justify">
+
+Loi n° 2011-2012 du 29 décembre 2011</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-5-1 à L. 613-5-3</td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-6</td>
+      <td align="justify">
+
+Loi n° 93-1420 du 31 décembre 1993</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-7</td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-8</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-9</td>
+      <td align="justify">
+
+Loi n° 2008-776 du 4 août 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-11 et L. 613-13</td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-14</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-15</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-16</td>
+      <td align="justify">
+
+Loi n° 2004-1338 du 8 décembre 2004</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-17</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-17-1 et L. 613-17-2</td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-18 et L. 613-19</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-19-1</td>
+      <td align="justify">
+
+Loi n° 96-1106 du 18 décembre 1996</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-20</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-21</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-22</td>
+      <td align="justify">
+
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-23 à L. 613-25</td>
+      <td align="justify">
+
+Ordonnance n° 2020-116 du 12 février 2020</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-26</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-27</td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-28</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 613-29</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 613-30 à L. 613-32</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-1 à L. 614-6</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 614-7</td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-8 et L. 614-9</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 614-10</td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-11 et L. 614-13</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-14 et L. 614-15</td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-16 à L. 614-20</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 614-21</td>
+      <td align="justify">
+
+Loi n° 94-102 du 5 février 1994</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-22 à L. 614-31</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 614-32 à L. 614-39</td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 615-1 et L. 615-2</td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-3</td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-4</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-5</td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-5-1</td>
+      <td align="justify">
+
+Loi n° 2018-670 du 30 juillet 2018</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 615-5-1-1 et L. 615-5-2</td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-6</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-7</td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-7-1</td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 615-8 et L. 615-8-1</td>
+      <td align="justify">
+
+Loi n° 2019-486 du 22 mai 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-10</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-12</td>
+      <td align="justify">
+
+Loi n° 2009-526 du 12 mai 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-13</td>
+      <td align="justify">
+
+Ordonnance n° 2000-916 du 19 septembre 2000</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-14</td>
+      <td align="justify">
+
+Loi n° 2016-731 du 3 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-14-1</td>
+      <td align="justify">
+
+Loi n° 2010-853 du 23 juillet 2010</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-14-2</td>
+      <td align="justify">
+
+Loi n° 2007-1544 du 29 octobre 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-14-3</td>
+      <td align="justify">
+
+Loi n° 2009-526 du 12 mai 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Articles L. 615-15 et L. 615-16</td>
+      <td align="justify">
+
+Ordonnance n° 2000-916 du 19 septembre 2000</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-17</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-20</td>
+      <td align="justify">
+
+Loi n° 2014-315 du 11 mars 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-21</td>
+      <td align="justify">
+
+Ordonnance n° 2019-964 du 18 septembre 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Article L. 615-22</td>
+      <td align="justify">
+
+Loi n° 92-597 du 1er juillet 1992</td>
+    </tr>
+  </tbody>
+</table>
+
+;
+
+b) Le titre II ;
+
+Les articles L. 622-7, L. 623-29 et L. 623-29-1 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22
+mai 2019 relative à la croissance et la transformation des entreprises.
 
 L'article L. 623-15 est applicable dans sa rédaction résultant de l'ordonnance n° 2019-1169 du 13 novembre 2019 relative aux
-marques de produits ou de services.
+marques de produits ou de services. 
 
 5° Les dispositions du livre VII dans les conditions suivantes :
 
@@ -27953,10 +28903,10 @@ la colonne de droite du même tableau :
 <table border="1">
   <tbody>
     <tr>
-      <th align="center">
+      <th>
 
 DISPOSITIONS APPLICABLES</th>
-      <th align="center">
+      <th>
 
 DANS LEUR RÉDACTION RÉSULTANT DE</th>
     </tr>
@@ -27974,7 +28924,8 @@ Ordonnance n° 2019-1169 du 13 novembre 2019</td>
 Article L. 712-1</td>
       <td align="left">
 
-Loi n° 92-597 du 1er juillet 1992</td>
+Loi n° 92-597 du 1er juillet 1992
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -28007,7 +28958,8 @@ Ordonnance n° 2019-1169 du 13 novembre 2019</td>
 Article L. 712-6</td>
       <td align="left">
 
-Loi n° 2014-315 du 11 mars 2014</td>
+Loi n° 2014-315 du 11 mars 2014
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -28039,7 +28991,8 @@ Ordonnance n° 2019-1169 du 13 novembre 2019</td>
 Article L. 712-10</td>
       <td align="left">
 
-Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+Ordonnance n° 2008-1301 du 11 décembre 2008
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -28088,8 +29041,7 @@ Ordonnance n° 2019-1169 du 13 novembre 2019</td>
 Article L. 714-8</td>
       <td align="left">
 
-Ordonnance n° 2008-1301 du 11 décembre 2008
-</td>
+Ordonnance n° 2008-1301 du 11 décembre 2008</td>
     </tr>
     <tr>
       <td align="left">
@@ -28129,8 +29081,7 @@ Ordonnance n° 2019-1169 du 13 novembre 2019</td>
 Articles L. 716-8-4 à L. 716-8-9</td>
       <td align="left">
 
-Loi n° 2014-315 du 11 mars 2014
-</td>
+Loi n° 2014-315 du 11 mars 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -28200,39 +29151,36 @@ ou avec son consentement, sauf lorsque des motifs légitimes justifient que le t
 ultérieure des produits, notamment lorsque l'état des produits est modifié ou altéré après leur mise dans le commerce.
 
 III.-Constitue une contrefaçon engageant la responsabilité civile de son auteur la violation des interdictions prévues au I
-et II. 
+et II.
 
 b) Les dispositions du titre II.
 
 **Nota:**
 
-Conformément au II de l'article 11 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 811-1-1, dans sa rédaction
-résultant du I de l'article 11, est abrogé à la date de l'entrée en vigueur de l'ordonnance n° 2018-341 du 9 mai 2018
-relative au brevet européen à effet unitaire et à la juridiction unifiée du brevet.
-
-Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
-ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
-décembre 2019.
+Conformément aux dispositions prévues à l'article 5 de l'ordonnance n°2020-116 du 12 février 2020, prévoit, à l'exception de
+son article 4, que les dispositions de la présente ordonnance entrent en vigueur le 1er avril 2020. Elles sont applicables
+aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°92-597 du 1 juillet 1992 (V)
-  - Loi n°94-102 du 5 février 1994 (V)
-  - Loi n°96-1106 du 18 décembre 1996 (V)
-  - Loi n°2007-1544 du 29 octobre 2007 (V)
-  - Ordonnance n°2008-1301 du 11 décembre 2008 (V)
-  - Loi n°2009-526 du 12 mai 2009 (V)
-  - Loi n°2011-1843  du 8 décembre 2011 (V)
-  - Loi n°2014-315  du 11 mars 2014 (V)
-  - Loi n°2014-344  du 17 mars 2014 (V)
-  - Loi n°2019-486 du 22 mai 2019 (V)
-  - Ordonnance n°2019-1169 du 13 novembre 2019 (VD)
+  - Loi n°92-597 du 1 juillet 1992
+  - Loi n°94-102 du 5 février 1994
+  - Loi n°96-1106 du 18 décembre 1996
+  - Loi n°2007-1544 du 29 octobre 2007
+  - Ordonnance n°2008-1301 du 11 décembre 2008
+  - Loi n°2009-526 du 12 mai 2009
+  - Loi n°2011-1843 du 8 décembre 2011
+  - Loi n°2014-315 du 11 mars 2014
+  - Loi n°2014-344 du 17 mars 2014
+  - Loi n°2019-486 du 22 mai 2019
+  - Ordonnance n°2019-1169 du 13 novembre 2019
 
 _Modifié par_:
 
-  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 11
+  - Ordonnance n°2020-116 du 12 février 2020 - art. 3
 
 
 ###### Article L811-2
@@ -28535,13 +29483,13 @@ _Créé par_:
   - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 11
 
 
-# Partie réglementaire<a id=187></a>
+# Partie réglementaire<a id=189></a>
 
-## Livre Ier : Le droit d'auteur<a id=188></a>
+## Livre Ier : Le droit d'auteur<a id=190></a>
 
-### Titre Ier : Objet du droit d'auteur<a id=189></a>
+### Titre Ier : Objet du droit d'auteur<a id=191></a>
 
-#### Chapitre Ier : Nature du droit d'auteur<a id=190></a>
+#### Chapitre Ier : Nature du droit d'auteur<a id=192></a>
 
 ###### Article R111-1
 
@@ -28606,11 +29554,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-### Titre II : Droits des auteurs<a id=191></a>
+### Titre II : Droits des auteurs<a id=193></a>
 
-#### Chapitre II : Droits patrimoniaux<a id=192></a>
+#### Chapitre II : Droits patrimoniaux<a id=194></a>
 
-##### Section 1 : Dispositions générales<a id=193></a>
+##### Section 1 : Dispositions générales<a id=195></a>
 
 ###### Article R122-1
 
@@ -28646,7 +29594,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R122-6 (M)
 
 
-##### Section 2 : Droit de suite<a id=194></a>
+##### Section 2 : Droit de suite<a id=196></a>
 
 ###### Article R122-2
 
@@ -29060,9 +30008,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-9
 
 
-##### Section 3 : Exception en faveur de personnes atteintes d'un handicap<a id=195></a>
+##### Section 3 : Exception en faveur de personnes atteintes d'un handicap<a id=197></a>
 
-##### Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative<a id=196></a>
+##### Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative<a id=198></a>
 
 ###### Article R122-13
 
@@ -29186,7 +30134,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R122-18 (M)
 
 
-##### Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception<a id=197></a>
+##### Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception<a id=199></a>
 
 ###### Article R122-16
 
@@ -29294,7 +30242,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L122-5-1
 
 
-##### Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France<a id=198></a>
+##### Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France<a id=200></a>
 
 ###### Article R122-19
 
@@ -29376,11 +30324,11 @@ _Cite_:
   - Code de l'éducation - art. D314-128
 
 
-### Titre III : Exploitation des droits<a id=199></a>
+### Titre III : Exploitation des droits<a id=201></a>
 
-#### Chapitre II : Dispositions particulières à certains contrats<a id=200></a>
+#### Chapitre II : Dispositions particulières à certains contrats<a id=202></a>
 
-##### Section 5 : Nantissement du droit d'exploitation des logiciels<a id=201></a>
+##### Section 5 : Nantissement du droit d'exploitation des logiciels<a id=203></a>
 
 ###### Article R132-8
 
@@ -29733,7 +30681,7 @@ _Créé par_:
   - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
 
 
-##### Section 6 : Droit d'exploitation des œuvres des journalistes<a id=202></a>
+##### Section 6 : Droit d'exploitation des œuvres des journalistes<a id=204></a>
 
 ###### Article R132-18
 
@@ -29888,7 +30836,7 @@ _Créé par_:
   - Décret n°2010-994 du 26 août 2010 - art. 1
 
 
-##### Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige<a id=203></a>
+##### Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige<a id=205></a>
 
 ###### Article D132-28
 
@@ -29934,7 +30882,7 @@ _Créé par_:
   - Décret n°2017-927 du 9 mai 2017 - art. 1
 
 
-#### Chapitre III : Rémunération au titre du prêt en bibliothèque<a id=204></a>
+#### Chapitre III : Rémunération au titre du prêt en bibliothèque<a id=206></a>
 
 ###### Article R133-1
 
@@ -30029,9 +30977,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle<a id=205></a>
+#### Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle<a id=207></a>
 
-##### Section 1 : Registre des livres indisponibles du xxe siècle<a id=206></a>
+##### Section 1 : Registre des livres indisponibles du xxe siècle<a id=208></a>
 
 ###### Article Annexe à l'article R134-1
 
@@ -30168,7 +31116,7 @@ _Créé par_:
   - Décret n°2013-182 du 27 février 2013 - art. 1
 
 
-##### Section 2 : Procédure<a id=207></a>
+##### Section 2 : Procédure<a id=209></a>
 
 ###### Article R134-11
 
@@ -30194,7 +31142,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R134-1
 
 
-#### Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines<a id=208></a>
+#### Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines<a id=210></a>
 
 ###### Article R135-1
 
@@ -30345,11 +31293,11 @@ _Créé par_:
   - Décret n°2015-506 du 6 mai 2015 - art. 1
 
 
-## Livre II : Les droits voisins du droit d'auteur<a id=209></a>
+## Livre II : Les droits voisins du droit d'auteur<a id=211></a>
 
-### Titre unique<a id=210></a>
+### Titre unique<a id=212></a>
 
-#### Chapitre Ier : Dispositions générales<a id=211></a>
+#### Chapitre Ier : Dispositions générales<a id=213></a>
 
 ###### Article R211-1
 
@@ -30370,7 +31318,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-17
 
 
-#### Chapitre II : Droits des artistes-interprètes<a id=212></a>
+#### Chapitre II : Droits des artistes-interprètes<a id=214></a>
 
 ###### Article R212-1
 
@@ -30574,9 +31522,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L212-3-1
 
 
-#### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=213></a>
+#### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes<a id=215></a>
 
-##### Section 1 : Commission prévue à l'article L. 214-4<a id=214></a>
+##### Section 1 : Commission prévue à l'article L. 214-4<a id=216></a>
 
 ###### Article R214-1
 
@@ -30735,7 +31683,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
-##### Section 2 : Médiateur de la musique<a id=215></a>
+##### Section 2 : Médiateur de la musique<a id=217></a>
 
 ###### Article R214-8
 
@@ -30982,13 +31930,13 @@ _Créé par_:
   - Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
-## Livre III : Dispositions générales<a id=216></a>
+## Livre III : Dispositions générales<a id=218></a>
 
-### Titre Ier : Rémunération pour copie privée<a id=217></a>
+### Titre Ier : Rémunération pour copie privée<a id=219></a>
 
-#### Chapitre unique<a id=218></a>
+#### Chapitre unique<a id=220></a>
 
-##### Section 1 : Commission prévue à l'article L. 311-5<a id=219></a>
+##### Section 1 : Commission prévue à l'article L. 311-5<a id=221></a>
 
 ###### Article D311-8
 
@@ -31180,7 +32128,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 
-##### Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée<a id=220></a>
+##### Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée<a id=222></a>
 
 ###### Article R311-9
 
@@ -31280,11 +32228,11 @@ _Cite_:
   - Code de la consommation - art. R141-4
 
 
-### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme<a id=221></a>
+### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme<a id=223></a>
 
-#### Chapitre Ier : Dispositions générales<a id=222></a>
+#### Chapitre Ier : Dispositions générales<a id=224></a>
 
-##### Section 1 : Organismes de gestion collective<a id=223></a>
+##### Section 1 : Organismes de gestion collective<a id=225></a>
 
 ###### Article R321-1
 
@@ -31315,7 +32263,7 @@ _Modifié par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Section 2 :  Organismes de gestion indépendants<a id=224></a>
+##### Section 2 :  Organismes de gestion indépendants<a id=226></a>
 
 ###### Article R321-2
 
@@ -31353,9 +32301,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R321-6-4 (Ab)
 
 
-#### Chapitre Ier ter : Organisations des organismes de gestion collective<a id=225></a>
+#### Chapitre Ier ter : Organisations des organismes de gestion collective<a id=227></a>
 
-##### Section 2 :  Décisions collectives des membres<a id=226></a>
+##### Section 2 :  Décisions collectives des membres<a id=228></a>
 
 ###### Article R321-3
 
@@ -31427,9 +32375,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-#### Chapitre Ier quater : Gestion des droits<a id=227></a>
+#### Chapitre Ier quater : Gestion des droits<a id=229></a>
 
-##### Section 2 :  Gestion des revenus issus de l'exploitation des droits<a id=228></a>
+##### Section 2 :  Gestion des revenus issus de l'exploitation des droits<a id=230></a>
 
 ###### Article R321-5
 
@@ -31529,7 +32477,7 @@ _Modifié par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales<a id=229></a>
+#### Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales<a id=231></a>
 
 ###### Article R321-8
 
@@ -31768,9 +32716,9 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre Ier sexies : Transparence et procédures de contrôle<a id=230></a>
+#### Chapitre Ier sexies : Transparence et procédures de contrôle<a id=232></a>
 
-##### Section 1 : Transparence et obligations d'information<a id=231></a>
+##### Section 1 : Transparence et obligations d'information<a id=233></a>
 
 ###### Article R321-14
 
@@ -32073,7 +33021,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R321-18 (V)
 
 
-##### Section 3 :  Contrôle par le ministère chargé de la culture<a id=232></a>
+##### Section 3 :  Contrôle par le ministère chargé de la culture<a id=234></a>
 
 ###### Article R321-22
 
@@ -32123,9 +33071,9 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins<a id=233></a>
+#### Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins<a id=235></a>
 
-##### Section 2 :  Règles de fonctionnement<a id=234></a>
+##### Section 2 :  Règles de fonctionnement<a id=236></a>
 
 ###### Article R321-24
 
@@ -32168,9 +33116,9 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Section 3 :  Procédure<a id=235></a>
+##### Section 3 :  Procédure<a id=237></a>
 
-##### Sous-section 1 : Règles générales de procédure<a id=236></a>
+##### Sous-section 1 : Règles générales de procédure<a id=238></a>
 
 ###### Article R321-26
 
@@ -32233,7 +33181,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 2 :  Procédure de contrôle des comptes et de la gestion<a id=237></a>
+##### Sous-section 2 :  Procédure de contrôle des comptes et de la gestion<a id=239></a>
 
 ###### Article R321-28
 
@@ -32291,7 +33239,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Sous-section 3 :  Procédure de sanction<a id=238></a>
+##### Sous-section 3 :  Procédure de sanction<a id=240></a>
 
 ###### Article R321-31
 
@@ -32388,7 +33336,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R321-32 (V)
 
 
-##### Sous-section 4 :  Procédure de médiation<a id=239></a>
+##### Sous-section 4 :  Procédure de médiation<a id=241></a>
 
 ###### Article R321-35
 
@@ -32568,7 +33516,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-##### Section 4 :  Voies de recours<a id=240></a>
+##### Section 4 :  Voies de recours<a id=242></a>
 
 ###### Article R321-46
 
@@ -32642,7 +33590,7 @@ _Cite_:
   - Code de procédure civile - art. 692-1
 
 
-#### Chapitre Ier octies : Dispositions diverses<a id=241></a>
+#### Chapitre Ier octies : Dispositions diverses<a id=243></a>
 
 ###### Article R321-48
 
@@ -32656,7 +33604,7 @@ _Créé par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
-#### Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie<a id=242></a>
+#### Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie<a id=244></a>
 
 ###### Article R322-1
 
@@ -32781,7 +33729,7 @@ _Modifié par_:
   - Décret n°2017-924 du 6 mai 2017 - art. 4
 
 
-#### Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=243></a>
+#### Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne<a id=245></a>
 
 ###### Article R323-1
 
@@ -32923,7 +33871,7 @@ _Codifié par_:
   - Décret n°95-406 1955-04-14
 
 
-#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=244></a>
+#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne<a id=246></a>
 
 ###### Article R324-1
 
@@ -33238,7 +34186,7 @@ _Créé par_:
   - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
 
 
-#### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=245></a>
+#### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque<a id=247></a>
 
 ###### Article R325-1
 
@@ -33414,7 +34362,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R326-7 (T)
 
 
-#### Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle<a id=246></a>
+#### Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle<a id=248></a>
 
 ###### Article R326-1
 
@@ -33647,7 +34595,7 @@ _Codifié par_:
   - Décret n°95-406 1955-04-14
 
 
-#### Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes<a id=247></a>
+#### Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes<a id=249></a>
 
 ###### Article R327-1
 
@@ -33793,7 +34741,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R328-6 (T)
 
 
-#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence<a id=248></a>
+#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence<a id=250></a>
 
 ###### Article R329-1
 
@@ -33912,7 +34860,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R329-1 (V)
 
 
-#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée<a id=249></a>
+#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée<a id=251></a>
 
 ###### Article R329-7
 
@@ -34026,11 +34974,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R329-7
 
 
-### Titre III : Procédures et sanctions<a id=250></a>
+### Titre III : Procédures et sanctions<a id=252></a>
 
-#### Chapitre Ier : Dispositions générales<a id=251></a>
+#### Chapitre Ier : Dispositions générales<a id=253></a>
 
-##### Section 1 : Dispositions communes<a id=252></a>
+##### Section 1 : Dispositions communes<a id=254></a>
 
 ###### Article D331-1-1
 
@@ -34127,11 +35075,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-2
 
 
-##### Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=253></a>
+##### Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=255></a>
 
-##### Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=254></a>
+##### Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet<a id=256></a>
 
-##### Paragraphe 1 : Le collège de la Haute Autorité<a id=255></a>
+##### Paragraphe 1 : Le collège de la Haute Autorité<a id=257></a>
 
 ###### Article R331-2
 
@@ -34250,7 +35198,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-36 (V)
 
 
-##### Paragraphe 2 : La commission de protection des droits<a id=256></a>
+##### Paragraphe 2 : La commission de protection des droits<a id=258></a>
 
 ###### Article D331-8
 
@@ -34296,7 +35244,7 @@ _Modifié par_:
   - Décret n°2009-1773 du 29 décembre 2009 - art. 2
 
 
-##### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité<a id=257></a>
+##### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité<a id=259></a>
 
 ###### Article R331-9
 
@@ -34406,7 +35354,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-19 (V)
 
 
-##### Paragraphe 4 : Dispositions relatives au personnel<a id=258></a>
+##### Paragraphe 4 : Dispositions relatives au personnel<a id=260></a>
 
 ###### Article R331-15
 
@@ -34541,7 +35489,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-28 (V)
 
 
-##### Paragraphe 5 : Dispositions financières et comptables<a id=259></a>
+##### Paragraphe 5 : Dispositions financières et comptables<a id=261></a>
 
 ###### Article D331-28
 
@@ -34953,7 +35901,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-63 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=260></a>
+##### Paragraphe 6 : Dispositions diverses<a id=262></a>
 
 ###### Article D331-33
 
@@ -35004,7 +35952,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-18 (V)
 
 
-##### Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=261></a>
+##### Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin<a id=263></a>
 
 ###### Article R331-35
 
@@ -35352,7 +36300,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-42 (V)
 
 
-##### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=262></a>
+##### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques<a id=264></a>
 
 ###### Article D331-54-1
 
@@ -35554,7 +36502,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-47 (V)
 
 
-##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés<a id=263></a>
+##### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés<a id=265></a>
 
 ###### Article R331-55
 
@@ -35579,7 +36527,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-34 (V)
 
 
-##### Paragraphe 1 : Règles générales de procédure<a id=264></a>
+##### Paragraphe 1 : Règles générales de procédure<a id=266></a>
 
 ###### Article R331-56
 
@@ -35848,7 +36796,7 @@ _Créé par_:
   - Décret n°2010-1366 du 10 novembre 2010 - art. 2
 
 
-##### Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=265></a>
+##### Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques<a id=267></a>
 
 ###### Article R331-65
 
@@ -36110,7 +37058,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R331-70 (V)
 
 
-##### Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées<a id=266></a>
+##### Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées<a id=268></a>
 
 ###### Article R331-72
 
@@ -36180,7 +37128,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R331-75 (V)
 
 
-##### Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins<a id=267></a>
+##### Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins<a id=269></a>
 
 ###### Article R331-74
 
@@ -36197,7 +37145,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-36 (V)
 
 
-##### Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité<a id=268></a>
+##### Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité<a id=270></a>
 
 ###### Article R331-75
 
@@ -36434,7 +37382,7 @@ _Créé par_:
   - Décret n°2010-1366 du 10 novembre 2010 - art. 2
 
 
-##### Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne<a id=269></a>
+##### Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne<a id=271></a>
 
 ###### Article R331-85
 
@@ -36653,7 +37601,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-26
 
 
-#### Chapitre II : Saisie-contrefaçon<a id=270></a>
+#### Chapitre II : Saisie-contrefaçon<a id=272></a>
 
 ###### Article R332-2
 
@@ -36707,7 +37655,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L332-4
 
 
-#### Chapitre V : Dispositions pénales<a id=271></a>
+#### Chapitre V : Dispositions pénales<a id=273></a>
 
 ###### Article R335-2
 
@@ -36832,7 +37780,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-25
 
 
-#### Chapitre V bis : La retenue<a id=272></a>
+#### Chapitre V bis : La retenue<a id=274></a>
 
 ###### Article R335-6
 
@@ -37149,7 +38097,7 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 1
 
 
-### Titre IV : Droits des producteurs de bases de données<a id=273></a>
+### Titre IV : Droits des producteurs de bases de données<a id=275></a>
 
 ###### Article R341-1
 
@@ -37167,7 +38115,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R122-13
 
 
-### Chapitre III : Procédures et sanctions<a id=274></a>
+### Chapitre III : Procédures et sanctions<a id=276></a>
 
 ###### Article R343-1
 
@@ -37186,13 +38134,13 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L343-2
 
 
-## Livre IV : Organisation administrative et professionnelle<a id=275></a>
+## Livre IV : Organisation administrative et professionnelle<a id=277></a>
 
-### Titre Ier : Institutions<a id=276></a>
+### Titre Ier : Institutions<a id=278></a>
 
-#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=277></a>
+#### Chapitre Ier : L'Institut national de la propriété industrielle<a id=279></a>
 
-##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=278></a>
+##### Section 1 : Organisation de l'Institut national de la propriété industrielle<a id=280></a>
 
 ###### Article D411-1-3
 
@@ -37233,50 +38181,65 @@ _Cite_:
 
 ###### Article R411-1
 
-L'Institut national de la propriété industrielle a notamment pour attributions : 
+L'Institut national de la propriété industrielle a notamment pour attributions :
 
-1° L'examen des demandes de brevets d'invention et la délivrance des brevets ainsi que de tous documents les concernant ; 
+1° L'examen des demandes de brevets d'invention, la délivrance de ces derniers et de tous documents les concernant ainsi que
+l'examen des oppositions ;
 
-2° L'enregistrement et la publication des marques de fabrique, de commerce ou de service ; 
+2° L'enregistrement et la publication des marques de produits ou de services ainsi que l'examen des demandes en nullité et en
+déchéance des marques mentionnées au 2° de l'article L. 411-1 ;
 
-3° La délivrance de certificats d'identité et de renseignements concernant les antériorités en matière de marques de
-fabrique, de commerce ou de service ; 
+3° La délivrance de certificats d'identité et de renseignements concernant les antériorités en matière de marques de produits
+ou de services ;
 
 4° L'organisation du dépôt, de la conservation et de la mise à disposition du public des cultures de micro-organismes
-utilisés par une invention pour laquelle un brevet est demandé ; 
+utilisés par une invention pour laquelle un brevet est demandé ;
 
 5° La centralisation et la conservation des dépôts de dessins et modèles et leur publication, ainsi que l'enregistrement et
-la conservation du dépôt des enveloppes doubles destinées à faciliter la preuve de la création des dessins et modèles ; 
+la conservation du dépôt des enveloppes doubles destinées à faciliter la preuve de la création des dessins et modèles ;
 
 6° La tenue des registres de brevets, des marques et des dessins et modèles, l'inscription de tous actes affectant la
-propriété des brevets d'invention, des marques de fabrique, de commerce ou de service et des dessins et modèles ; 
+propriété des brevets d'invention, des marques de produits ou de services et des dessins et modèles ;
 
 7° L'application des dispositions contenues dans les lois et règlements sur la protection temporaire de la propriété
-industrielle dans les expositions, sur les récompenses industrielles et sur les marques d'origine ; 
+industrielle dans les expositions, sur les récompenses industrielles et sur les marques d'origine ;
 
 8° L'application des accords internationaux et la mise en œuvre d'actions de coopération en matière de propriété
-industrielle, et notamment les relations administratives avec l'Organisation mondiale de la propriété intellectuelle et
-l'Organisation européenne des brevets ; 
+industrielle, et notamment les relations administratives avec l'Organisation mondiale de la propriété intellectuelle ,
+l'Organisation européenne des brevets, l'Office de l'Union européenne pour la propriété intellectuelle et les offices
+nationaux ou régionaux de propriété industrielle de l'Union européenne ;
 
-9° La tenue du Registre national du commerce et des sociétés ; 
+9° La tenue du Registre national du commerce et des sociétés ;
 
 10° La conservation du dépôt des actes constitutifs et modificatifs de sociétés déposés dans les greffes des tribunaux de
-commerce et des tribunaux civils en tenant lieu ; 
+commerce et des tribunaux civils en tenant lieu ;
 
 11° La centralisation des renseignements figurant dans les registres du commerce et des métiers et le Bulletin officiel
-desdits registres ; 
+desdits registres ;
 
 12° La centralisation, la conservation et la mise à la disposition du public de toute documentation technique et juridique
-concernant la propriété industrielle ; 
+concernant la propriété industrielle ;
 
-13° La gestion du Bulletin officiel de la propriété industrielle ; 
+13° La gestion du Bulletin officiel de la propriété industrielle ;
 
 14° L'examen des demandes d'homologation et des demandes de modification des cahiers des charges des indications
-géographiques définies à l'article L. 721-2, l'homologation et le retrait d'homologation de ces cahiers des charges. 
+géographiques définies à l'article L. 721-2, l'homologation et le retrait d'homologation de ces cahiers des charges.
 
 Pour l'exploitation de son fonds documentaire, l'institut peut constituer des banques de données, le cas échéant, en liaison
 avec d'autres fichiers ou registres. Il peut à cette fin constituer des sociétés filiales ou prendre des participations
 financières.
+
+**Nota:**
+
+Aux termes du 2° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, entrent en vigueur à compter du 1er avril
+2020, les modifications apportées à l'article R. 411-1 par l'article 1er du présent décret, lorsqu'elles sont relatives à la
+mise en œuvre devant l'Institut national de la propriété industrielle de la procédure administrative en nullité ou en
+déchéance d'une marque mentionnée à l'article L. 716-1 du code de la propriété intellectuelle.
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance n° 2020-116 du 12 février 2020. Elles entrent en vigueur le 1er avril 2020. Elles sont
+applicables aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété
+industrielle à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -37285,21 +38248,22 @@ _Anciens textes_:
   - Décret n°51-1469 du 22 décembre 1951 - art. 1 (Ab)
   - Décret n°2020-225 du 6 mars 2020 - art. 1
 
+_Codifié par_:
+
+  - Décret n°95-385 du 10 avril 1995 (V)
+
 _Cité par_:
 
   - Arrêté du 24 avril 2008 (V)
 
 _Modifié par_:
 
-  - Décret n°2015-595 du 2 juin 2015 - art. 2
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+  - Décret n°2020-225 du 6 mars 2020 - art. 1
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L721-2
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
 
 
 ###### Article R411-1-1
@@ -37756,13 +38720,13 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=279></a>
+##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle<a id=281></a>
 
 ###### Article R411-17
 
 L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont
 fixés par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre chargé du budget, à l'occasion des
-procédures et formalités suivantes : 
+procédures et formalités suivantes :
 
 1° Pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
 
@@ -37780,95 +38744,120 @@ procédures et formalités suivantes :
 
 - délivrance et impression du fascicule ;
 
+- opposition ;
+
 - maintien en vigueur ;
 
-- recours en restauration ; 
+- recours en restauration ;
 
-2° Pour les brevets européens : 
+2° Pour les brevets européens :
 
 - publication de traduction ou de traduction révisée des revendications d'une demande de brevet ou des revendications d'un
-brevet européen ; 
+brevet européen ;
 
-- établissement et transmission de copies de la demande de brevet européen aux Etats destinataires ; 
+- établissement et transmission de copies de la demande de brevet européen aux Etats destinataires ;
 
-3° Pour les demandes internationales (traité de coopération en matière de brevets, PCT) : 
+3° Pour les demandes internationales (traité de coopération en matière de brevets, PCT) :
 
-- transmission d'une demande internationale ; 
+- transmission d'une demande internationale ;
 
-- supplément pour paiement tardif ; 
+- supplément pour paiement tardif ;
 
-- préparation d'exemplaires complémentaires ; 
+- préparation d'exemplaires complémentaires ;
 
-4° Pour les marques de fabrique, de commerce ou de service : 
+4° Pour les marques de produits ou de services :
 
-- dépôt ; 
+- dépôt ;
 
-- classe de produit ou service ; 
+- classe de produit ou service ;
 
-- régularisation ou rectification d'erreur matérielle ; 
+- régularisation ou rectification d'erreur matérielle ;
 
-- opposition ; 
+- opposition ;
 
-- renouvellement ; 
+- renouvellement ;
 
-- demande d'inscription au Registre international des marques ; 
+- demande d'inscription au Registre international des marques ;
 
-- relevé de déchéance ; 
+- relevé de déchéance ;
 
-5° Pour les dessins et modèles : 
+- demande en nullité ou en déchéance ;
 
-- dépôt ; 
+- droit supplémentaire invoqué dans le cadre d'une opposition ou d'une demande en nullité, au-delà du premier droit invoqué ;
 
-- prorogation ; 
+- division de la demande d'enregistrement ou de l'enregistrement ;
 
-- régularisation, rectification, relevé de déchéance ; 
+5° Pour les dessins et modèles :
 
-- enregistrement et gardiennage d'enveloppe spéciale ; 
+- dépôt ;
+
+- prorogation ;
+
+- régularisation, rectification, relevé de déchéance ;
+
+- enregistrement et gardiennage d'enveloppe spéciale ;
 
 6° Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels,
-marques, dessins ou modèles.-Palmarès et récompenses : 
+marques, dessins ou modèles.-Palmarès et récompenses :
 
-- supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité ; 
+- supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité ;
 
-- renonciation ; 
+- renonciation ;
 
-- demande d'inscription sur le registre national ; 
+- demande d'inscription sur le registre national ;
 
-- enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission ; 
+- enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission ;
 
-7° Pour les droits voisins de la propriété industrielle : 
+7° Pour les droits voisins de la propriété industrielle :
 
 - topographies de produits semi-conducteurs : dépôt et conservation ; inscription d'un acte modifiant ou transmettant les
-droits ; 
+droits ;
 
-8° S'agissant du Registre national du commerce et des sociétés : 
+8° S'agissant du Registre national du commerce et des sociétés :
 
-- déclaration ; 
+- déclaration ;
 
-- dépôt d'un acte. 
+- dépôt d'un acte.
 
 L'institut perçoit des redevances, dont le montant et les modalités d'application sont fixés par arrêté conjoint du ministre
 chargé de la propriété industrielle, du ministre chargé de l'artisanat et du ministre chargé du budget, à l'occasion des
-procédures et formalités suivantes : 
+procédures et formalités suivantes :
 
-- demande d'homologation du cahier des charges des indications géographiques définies à l'article L. 721-2 ; 
+- demande d'homologation du cahier des charges des indications géographiques définies à l'article L. 721-2 ;
 
-- demande de modification du cahier des charges homologué. 
+- demande de modification du cahier des charges homologué.
 
 En cas d'irrecevabilité, les redevances suivantes sont remboursées :
 
 - pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection : dépôt ;
 
-- pour les marques de fabrique, de commerce ou de service : dépôt, classe de produit ou service, renouvellement ;
+- pour les marques de produits ou de services : dépôt, classe de produit ou service, renouvellement ;
 
 - pour les dessins et modèles : dépôt, prorogation ;
 
 - pour les indications géographiques définies à l'article L. 721-2 : demande d'homologation, demande de modification du
-cahier des charges homologué. 
+cahier des charges homologué.
 
-Est également remboursée la redevance de rapport de recherche d'un brevet d'invention lorsqu'il est mis fin à la procédure de
-délivrance du brevet ou en cas de prorogation des interdictions de divulgation et de libre exploitation, si la procédure
-d'établissement du rapport de recherche n'a pas été engagée.
+Sont également remboursées :
+
+- la redevance de rapport de recherche d'un brevet d'invention lorsqu'il est mis fin à la procédure de délivrance du brevet
+ou en cas de prorogation des interdictions de divulgation et de libre exploitation, si la procédure d'établissement du
+rapport de recherche n'a pas été engagée ;
+
+- la redevance de requête en limitation d'un brevet d'invention lorsqu'il est mis fin à la procédure de limitation dans les
+conditions prévues à l'article R. 613-45-3.
+
+**Nota:**
+
+Aux termes du 2° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, entrent en vigueur à compter du 1er avril
+2020, les modifications apportées à l'article R. 411-17 par l'article 1er du présent décret, lorsqu'elles sont relatives à la
+mise en œuvre devant l'Institut national de la propriété industrielle de la procédure administrative en nullité ou en
+déchéance d'une marque mentionnée à l'article L. 716-1 du code de la propriété intellectuelle.
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020. Elles entrent en vigueur le 1er avril 2020. Elles sont applicables
+aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -37910,7 +38899,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-595 du 2 juin 2015 - art. 2
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+  - Décret n°2020-225 du 6 mars 2020 - art. 1
 
 _Cite_:
 
@@ -37939,48 +38929,58 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle<a id=280></a>
+##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle<a id=282></a>
 
-###### Article D411-19-1
+###### Article D411-19-2
 
 Le siège et le ressort des cours d'appel ayant compétence pour connaître des actions mentionnées à l'article R. 411-19 sont
-fixés conformément au tableau XVI annexé à l'article D. 311-8 du code de l'organisation judiciaire. 
+fixés conformément au tableau XVI annexé à l'article D. 311-8 du code de l'organisation judiciaire.
 
 Lorsque la personne qui forme le recours demeure à l'étranger, la cour d'appel de Paris est compétente. Il doit être fait
-élection de domicile dans le ressort de cette cour. 
+élection de domicile dans le ressort de cette cour.
 
 Toutefois, la cour d'appel de Paris est seule compétente pour connaître directement des recours formés contre les décisions
-du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien de brevets
-d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-
-conducteurs.
+du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet, opposition ou maintien de
+brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits
+semi-conducteurs.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020. Elles entrent en vigueur le 1er avril 2020. Elles sont applicables
+aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2009-1204 du 9 octobre 2009 - art. 2
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2019-1316 du 9 décembre 2019 - art. 1
+  - Décret n°2020-225 du 6 mars 2020 - art. 1
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de la propriété intellectuelle - art. D411-19-2 (VD)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. R411-19
-  - Code de l'organisation judiciaire - art. D311-8 (VD)
+  - Décret n°2020-225 du 6 mars 2020 - art. 1
 
 
 ###### Article R411-19
 
-La cour d'appel territorialement compétente pour connaître directement des recours formés contre les décisions du directeur
-général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de
-propriété industrielle est celle du lieu où demeure la personne qui forme le recours. Il en est de même en matière
-d'homologation, de rejet et de retrait d'homologation du cahier des charges des indications géographiques définies à
-l'article L. 721-2, ainsi qu'en matière d'homologation et de rejet des modifications de ce cahier des charges.
+Les recours exercés à l'encontre des décisions mentionnées au premier alinéa de l'article L. 411-4 sont des recours en
+annulation.
+
+Les recours exercés à l'encontre des décisions mentionnées au deuxième alinéa du même article L. 411-4 sont des recours en
+réformation. Ils défèrent à la cour la connaissance de l'entier litige. La cour statue en fait et en droit.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -38002,19 +39002,40 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-595 du 2 juin 2015 - art. 2
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L721-2
 
 
+###### Article R411-19-1 
+
+La cour d'appel territorialement compétente pour connaître directement des recours formés contre les décisions du directeur
+général de l'Institut national de la propriété industrielle mentionnés à l'article R. 411-19 est celle du lieu où demeure la
+personne qui forme le recours.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
 ###### Article R411-20
 
-Le délai du recours formé devant la cour d'appel contre les décisions du directeur général de l'Institut national de la
-propriété industrielle est d'un mois. 
+Sous réserve des dispositions particulières de la présente section, les recours mentionnés à l'article R. 411-19 sont formés,
+instruits et jugés conformément aux dispositions du code de procédure civile.
 
-Ce délai est, s'il y a lieu, prorogé dans les conditions prévues à l'article 643 du code de procédure civile.
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -38025,32 +39046,18 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
-
-_Cite_:
-
-  - Code de procédure civile - art. 643 (V)
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
 
 
 ###### Article R411-21
 
-Le recours est formé par une déclaration écrite adressée ou remise en double exemplaire au greffe de la cour. A peine
-d'irrecevabilité prononcée d'office, la déclaration comporte les mentions suivantes :
+Les recours mentionnés à l'article R. 411-19 sont formés dans un délai d'un mois à compter de la notification des décisions
+en cause.
 
-1. a) Si le requérant est une personne physique : ses nom, prénoms, profession, domicile, nationalité, date et lieu de
-naissance ;
+**Nota:**
 
-b) Si le requérant est une personne morale : sa forme, sa dénomination, son siège social et l'organe qui la représente
-légalement ;
-
-2. La date et l'objet de la décision attaquée ;
-
-3. Le nom et l'adresse du propriétaire du titre ou du titulaire de la demande, si le requérant n'a pas l'une de ces qualités.
-
-Une copie de la décision attaquée est jointe à la déclaration.
-
-Si la déclaration ne contient pas l'exposé des moyens invoqués, le demandeur doit, à peine d'irrecevabilité, déposer cet
-exposé au greffe dans le mois qui suit la déclaration.
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -38063,19 +39070,21 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
 
 
 ###### Article R411-22
 
-Le greffe de la cour d'appel transmet au directeur général de l'Institut national de la propriété industrielle, par lettre
-recommandée avec demande d'avis de réception, une copie de la déclaration du recours ainsi que, le cas échéant, une copie de
-l'exposé ultérieur des moyens.
+Les parties sont tenues de constituer avocat.
 
-Dès réception de la copie de la déclaration, le directeur général de l'Institut national de la propriété industrielle
-transmet au greffe le dossier de la décision attaquée.
+La constitution de l'avocat emporte élection de domicile.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -38088,18 +39097,24 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
 
 
 ###### Article R411-23
 
-La cour d'appel statue après que le directeur général de l'Institut national de la propriété industrielle a été mis en mesure
-de présenter des observations écrites ou orales.
+L'Institut national de la propriété industrielle n'est pas partie à l'instance.
 
-Les observations écrites sont adressées par le directeur général de l'Institut national de la propriété industrielle en
-double exemplaire au greffe de la cour, qui en transmet une copie au requérant.
+La cour d'appel statue après avoir entendu le directeur général de l'Institut national de la propriété industrielle ou celui-
+ci appelé et l'avoir mis en mesure de présenter des observations écrites ou orales.
+
+Le ministère public peut prendre communication des affaires dans lesquelles il estime devoir intervenir.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -38112,19 +39127,31 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
 
 
 ###### Article R411-24
 
-Lorsque le recours est formé par une personne autre que le propriétaire du titre ou le titulaire de la demande, celui-ci est
-appelé en cause par le greffier en chef de la cour d'appel par lettre recommandée avec demande d'avis de réception.
+A peine d'irrecevabilité relevée d'office, les actes de procédure sont remis à la juridiction par voie électronique.
 
-Lorsque le recours contre une décision du directeur général de l'Institut national de la propriété industrielle statuant sur
-une opposition est formé par le titulaire de la demande d'enregistrement de marque faisant l'objet de l'opposition, le
-titulaire de la marque antérieure est appelé en cause dans les mêmes formes.
+Lorsque cela ne peut être le cas, pour une cause étrangère à celui qui les accomplit, ces actes sont remis sur support papier
+au greffe ou lui sont adressés par lettre recommandée avec demande d'avis de réception. L'acte de recours est alors remis ou
+adressé au greffe en autant d'exemplaires qu'il y a de parties destinataires, plus trois. La remise est constatée par la
+mention de sa date et le visa du greffier sur chaque exemplaire, dont l'un est immédiatement restitué.
+
+Lorsque l'acte de recours est adressé par voie postale, le greffe l'enregistre à la date figurant sur le cachet du bureau
+d'émission et adresse à l'expéditeur un récépissé par tout moyen.
+
+Les avis, avertissements ou convocations sont remis aux avocats des parties par voie électronique, sauf impossibilité pour
+cause étrangère à l'expéditeur. Les modalités des échanges par voie électronique sont fixées par l'arrêté du garde des sceaux
+mentionné à l'article 930-1 du code de procédure civile.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -38137,18 +39164,33 @@ _Codifié par_:
 
   - Décret n°95-385 1955-04-10
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 7 () JORF 3 mars 2004
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
 
 
 ###### Article R411-25
 
-Le déclarant peut, devant  la cour d'appel, se faire        assister ou représenter par un avocat.
+Les recours sont portés devant la cour d'appel par acte contenant, outre les mentions prescrites par le 3° de l'article 54 du
+code de procédure civile, et à peine de nullité :
+
+1° Le numéro unique d'identification de l'entreprise requérante ou tout document équivalent à l'extrait d'immatriculation au
+registre du commerce et des sociétés pour les opérateurs situés hors de France ;
+
+2° L'objet du recours ;
+
+3° Le nom et l'adresse du titulaire du titre si le requérant n'a pas cette qualité ;
+
+4° La constitution de l'avocat du requérant.
+
+Sauf en cas de décision implicite de rejet, une copie de la décision attaquée est jointe à cet acte à peine de nullité.
+
+L'acte est daté et signé par l'avocat constitué. Il est remis au greffe et vaut demande d'inscription au rôle.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -38159,17 +39201,37 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°95-385 1955-04-10
+  - Décret n°95-385 du 10 avril 1995 (V)
 
 _Modifié par_:
 
-  - Décret n°2012-634 du 3 mai 2012 - art. 19
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 31
 
 
 ###### Article R411-26
 
-L'arrêt de la cour d'appel est notifié par le greffe au requérant, au directeur général de l'Institut national de la
-propriété industrielle et, s'il y a lieu, à toute personne appelée en cause.
+Le greffier adresse sans délai à toutes les parties auxquelles la décision du directeur général de l'Institut national de la
+propriété industrielle a été notifiée, par lettre simple, un exemplaire de l'acte de recours avec l'indication de
+l'obligation de constituer avocat.
+
+En cas de retour au greffe de la lettre de notification ou lorsque le défendeur n'a pas constitué avocat dans un délai d'un
+mois à compter de l'envoi de la lettre de notification, le greffier en avise l'avocat du requérant afin que celui-ci procède
+par voie de signification de l'acte de recours.
+
+A peine de caducité de l'acte de recours relevée d'office, la signification doit être effectuée dans le mois de l'avis
+adressé par le greffe ; cependant, si, entre-temps, le défendeur a constitué avocat avant la signification de l'acte de
+recours, il est procédé par voie de notification à son avocat.
+
+A peine de nullité, l'acte de signification indique au défendeur que, faute pour lui de constituer avocat dans un délai de
+quinze jours à compter de cette signification, il s'expose à ce qu'un arrêt soit rendu contre lui au vu des seuls éléments
+fournis par son adversaire et que, faute de conclure dans le délai mentionné à l'article R. 411-30, il s'expose à ce que ses
+écritures soient déclarées d'office irrecevables.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -38180,16 +39242,386 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°95-385 1955-04-10
+  - Décret n°95-385 du 10 avril 1995 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-27
+
+Dès qu'il est constitué, l'avocat du défendeur en informe celui du demandeur ainsi que, par lettre recommandée avec demande
+d'avis de réception, le directeur général de l'Institut national de la propriété industrielle. Copie de l'acte de
+constitution est remise au greffe.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
 
 
-#### Chapitre II : L'instance nationale des obtentions végétales<a id=281></a>
+###### Article R411-28
 
-##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=282></a>
+Le greffier adresse au directeur général de l'Institut national de la propriété industrielle, par lettre simple, une copie de
+l'acte de recours.
+
+Dès qu'il est avisé du recours, le directeur général de l'Institut national de la propriété industrielle transmet au greffe
+de la cour le dossier de l'affaire qui comporte les observations écrites et les pièces transmises par les parties et tous les
+documents versés au dossier dans le cadre du litige.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-29
+
+A peine de caducité de l'acte de recours, relevée d'office, le demandeur dispose d'un délai de trois mois à compter de cet
+acte pour remettre ses conclusions au greffe.
+
+Sous la même sanction et dans le même délai, il adresse ses conclusions par lettre recommandée avec demande d'avis de
+réception au directeur général de l'Institut national de la propriété industrielle et en justifie auprès du greffe.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-30
+
+Le défendeur dispose, à peine d'irrecevabilité relevée d'office, d'un délai de trois mois à compter de la notification des
+conclusions du demandeur mentionnée à l'article R. 411-29 pour remettre ses conclusions au greffe et former, le cas échéant,
+un recours incident.
+
+Sous la même sanction et dans le même délai, il adresse ses conclusions par lettre recommandée avec demande d'avis de
+réception au directeur général de l'Institut national de la propriété industrielle et en justifie auprès du greffe.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-31
+
+Le recours incident est formé conformément aux dispositions prévues à l'article R. 411-25.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-32
+
+Le défendeur à un recours incident dispose, à peine d'irrecevabilité relevée d'office, d'un délai de trois mois à compter de
+la notification qui lui en est faite pour remettre ses conclusions au greffe.
+
+L'intervenant forcé à l'instance dispose, à peine d'irrecevabilité relevée d'office, d'un délai de trois mois à compter de la
+date à laquelle la demande d'intervention formée à son encontre lui a été notifiée pour remettre ses conclusions au greffe.
+L'intervenant volontaire dispose, sous la même sanction, du même délai à compter de son intervention volontaire.
+
+Sous la même sanction et dans le même délai, le défendeur à un recours incident, l'intervenant forcé et l'intervenant
+volontaire adressent leurs conclusions, par lettre recommandée avec demande d'avis de réception, au directeur général de
+l'Institut national de la propriété industrielle, et en justifient auprès du greffe.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-33
+
+Les conclusions sont notifiées et les pièces communiquées simultanément par l'avocat de chacune des parties à celui de
+l'autre partie ; en cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous les avocats constitués.
+Elles sont adressées au directeur général de l'Institut national de la propriété industrielle par lettre recommandée avec
+demande d'avis de réception.
+
+Copie des conclusions est remise au greffe avec la justification de leur notification.
+
+Les pièces communiquées et déposées au soutien de conclusions irrecevables sont elles-mêmes irrecevables.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-34
+
+Sous les sanctions prévues aux articles R. 411-29, R. 411-30 et R. 411-32, les conclusions sont notifiées aux avocats des
+parties et adressées au directeur général de l'Institut national de la propriété industrielle dans le même délai que celui de
+leur remise au greffe de la cour. Sous les mêmes sanctions, elles sont signifiées au plus tard dans le mois suivant
+l'expiration des délais prévus à ces articles aux parties qui n'ont pas constitué avocat ; cependant, si, entre-temps,
+celles-ci ont constitué avocat avant la signification des conclusions, il est procédé par voie de notification à leur avocat.
+
+La notification de conclusions faite à une partie dans le délai prévu aux articles R. 411-29, R. 411-30 et R. 411-32 ainsi
+qu'au premier alinéa constitue le point de départ du délai dont cette partie dispose pour remettre ses conclusions au greffe.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-35
+
+Le directeur général de l'Institut national de la propriété industrielle notifie aux parties à l'instance ses observations
+écrites par lettre recommandée avec demande d'avis de réception. Il en remet une copie au greffe.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-36
+
+En cas de force majeure, le président de la chambre peut écarter l'application des sanctions prévues aux articles R. 411-29,
+R. 411-30 et R. 411-32.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-37
+
+A peine d'irrecevabilité, relevée d'office, les parties doivent présenter, dès les conclusions mentionnées aux articles R.
+411-29, R. 411-30 et R. 411-32, l'ensemble de leurs prétentions sur le fond. L'irrecevabilité peut également être invoquée
+par la partie contre laquelle sont formées des prétentions ultérieures.
+
+Toutefois, lorsque la cour d'appel est saisie d'un recours formé en application du second alinéa de l'article R. 411-19,
+demeurent recevables les prétentions destinées à répliquer aux conclusions et pièces adverses ou à faire juger les questions
+nées, postérieurement aux premières conclusions, de l'intervention d'un tiers ou de la survenance ou de la révélation d'un
+fait.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-38
+
+Pour justifier devant la cour d'appel saisie d'un recours formé en application du second alinéa de l'article R. 411-19 des
+prétentions qu'elles avaient soumises au directeur général de l'Institut national de la propriété industrielle, les parties
+peuvent invoquer des moyens nouveaux, produire de nouvelles pièces ou proposer de nouvelles preuves.
+
+A peine d'irrecevabilité relevée d'office, les parties ne peuvent soumettre à la cour de nouvelles prétentions si ce n'est
+pour faire juger les questions nées de l'intervention d'un tiers ou de la survenance ou de la révélation d'un fait.
+
+Les prétentions ne sont pas nouvelles dès lors qu'elles tendent aux mêmes fins que celles soumises au directeur général de
+l'Institut national de la propriété industrielle, même si leur fondement juridique est différent.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-39
+
+Les conclusions contiennent, en en-tête, les indications prévues au deuxième alinéa de l'article 960 du code de procédure
+civile. Elles doivent formuler expressément les prétentions des parties et les moyens de fait et de droit sur lesquels
+chacune de ces prétentions est fondée avec indication pour chaque prétention des pièces invoquées et de leur numérotation. Un
+bordereau récapitulatif des pièces est annexé.
+
+Les conclusions comprennent distinctement un exposé des faits et de la procédure, une discussion des prétentions et des
+moyens ainsi qu'un dispositif récapitulant les prétentions. Lorsque, dans le cadre d'un recours formé en application du
+second alinéa de l'article R. 411-19, au cours de la discussion, des moyens nouveaux par rapport aux précédentes écritures
+sont invoqués au soutien des prétentions, ils sont présentés de manière formellement distincte.
+
+La cour ne statue que sur les prétentions énoncées au dispositif et n'examine les moyens au soutien de ces prétentions que
+s'ils sont invoqués dans la discussion.
+
+Les parties doivent reprendre, dans leurs dernières écritures, les prétentions et moyens précédemment présentés ou invoqués
+dans leurs conclusions antérieures. A défaut, elles sont réputées les avoir abandonnés et la cour ne statue que sur les
+dernières conclusions déposées.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-40
+
+Le premier président désigne la chambre à laquelle l'affaire est distribuée.
+
+Le greffe en avise les avocats constitués et le directeur général de l'Institut national de la propriété industrielle.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-41
+
+Sous réserve des dispositions des articles R. 411-29, R. 411-30 et R. 411-32, le président de la chambre à laquelle l'affaire
+est distribuée fixe les délais dans lesquels les parties à l'instance se communiquent leurs conclusions, les adressent au
+directeur général de l'Institut national de la propriété industrielle et en déposent copie au greffe de la cour.
+
+Il fixe la date des débats.
+
+Le greffe informe les avocats des parties de ces délais et les avise de la date des débats.
+
+Il avise le directeur général de l'Institut national de la propriété industrielle de la date des débats.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-42
+
+Les décisions de la cour d'appel sont notifiées par lettre recommandée avec demande d'avis de réception par le greffe de la
+cour aux parties à l'instance et au directeur général de l'Institut national de la propriété industrielle.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+###### Article R411-43
+
+Les délais prévus aux articles R. 411-21, R. 411-26 et R. 411-29 sont augmentés :
+
+1° D'un mois, lorsque la demande est portée :
+
+a) Soit devant une juridiction qui a son siège en France métropolitaine, pour les parties qui demeurent en Guadeloupe, en
+Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en
+Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie ou dans les Terres australes et antarctiques
+françaises ;
+
+b) Soit devant une juridiction qui a son siège en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-
+Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon ou dans les îles Wallis et Futuna, pour les parties qui ne demeurent
+pas dans cette collectivité ;
+
+2° De deux mois si le demandeur demeure à l'étranger.
+
+Les délais prescrits aux défendeurs et intervenants forcés par les articles R. 411-30 et R. 411-32 sont augmentés dans les
+mêmes conditions et selon les mêmes modalités.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+
+
+#### Chapitre II : L'instance nationale des obtentions végétales<a id=283></a>
+
+##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales<a id=284></a>
 
 ###### Article D412-7
 
@@ -38327,7 +39759,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R412-13 (T)
 
 
-##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=283></a>
+##### Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales<a id=285></a>
 
 ###### Article R412-15
 
@@ -38461,9 +39893,9 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Qualification en propriété industrielle<a id=284></a>
+### Titre II : Qualification en propriété industrielle<a id=286></a>
 
-#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=285></a>
+#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle<a id=287></a>
 
 ###### Article R421-1
 
@@ -39089,9 +40521,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=286></a>
+#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle<a id=288></a>
 
-##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=287></a>
+##### Section 1 : Inscription sur la liste des conseils en propriété industrielle<a id=289></a>
 
 ###### Article R422-1
 
@@ -39099,12 +40531,20 @@ Toute personne qualifiée en propriété industrielle inscrite sur la liste pré
 inscrite, avec la même mention de spécialisation, sur la liste des conseils en propriété industrielle prévue au troisième
 alinéa de l'article L. 422-1.
 
-La mention Brevets d'invention permet l'intervention dans les procédures prévues à l'article R. 612-2. La mention Marques,
-dessins et modèles permet l'intervention dans les procédures prévues aux articles R. 712-2, R. 712-13 et R. 716-2.
+La mention Brevets d'invention permet l'intervention dans les procédures prévues aux articles R. 612-2 et R. 613-44. La
+mention Marques, dessins et modèles permet l'intervention dans les procédures prévues aux articles R. 712-2, R. 712-13 et R.
+716-2.
 
 Toutefois, les personnes inscrites avec la mention Juriste dans le cadre de la procédure définie au I de l'article 36 du
 décret du 1er avril 1992 relatif à la qualification et à l'organisation professionnelle en matière de propriété industrielle
 pourront accomplir les actes définis aux articles R. 712-2, R. 712-13 et R. 716-2.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020. Elles entrent en vigueur le 1er avril 2020. Elles sont applicables
+aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à
+compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -39113,17 +40553,21 @@ _Anciens textes_:
   - Décret n°92-360 1992-04-01 art. 10
   - Décret n°92-360 du 1 avril 1992 - art. 10 (Ab)
 
+_Codifié par_:
+
+  - Décret n°95-385 du 10 avril 1995 (V)
+
 _Modifié par_:
 
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
+  - Décret n°2020-225 du 6 mars 2020 - art. 1
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L422-1
   - Code de la propriété intellectuelle - art. R421-1
-  - Code de la propriété intellectuelle - art. R612-2
-  - Code de la propriété intellectuelle - art. R712-13 (V)
-  - Code de la propriété intellectuelle - art. R712-2 (V)
+  - Code de la propriété intellectuelle - art. R612-2 (VD)
+  - Code de la propriété intellectuelle - art. R712-13
+  - Code de la propriété intellectuelle - art. R712-2
 
 _Cité par_:
 
@@ -39395,7 +40839,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L423-2
 
 
-##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=288></a>
+##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen<a id=290></a>
 
 ###### Article R422-7-1
 
@@ -39463,7 +40907,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=289></a>
+##### Section 2 : La Compagnie nationale des conseils en propriété industrielle<a id=291></a>
 
 ###### Article R422-8
 
@@ -39568,9 +41012,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 3 : Exercice sous forme de société<a id=290></a>
+##### Section 3 : Exercice sous forme de société<a id=292></a>
 
-##### Sous-section 1 : Sociétés civiles professionnelles<a id=291></a>
+##### Sous-section 1 : Sociétés civiles professionnelles<a id=293></a>
 
 ###### Article R422-12
 
@@ -40471,7 +41915,7 @@ _Créé par_:
   - Décret n°2017-795 du 5 mai 2017 - art. 2
 
 
-##### Sous-section 2 : Sociétés d'exercice libéral<a id=292></a>
+##### Sous-section 2 : Sociétés d'exercice libéral<a id=294></a>
 
 ###### Article R422-41
 
@@ -40659,7 +42103,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 3 : Sociétés en participation<a id=293></a>
+##### Sous-section 3 : Sociétés en participation<a id=295></a>
 
 ###### Article R422-50
 
@@ -40708,7 +42152,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=294></a>
+##### Sous-section 4 : Sociétés de participations financières de profession libérale de conseils en propriété industrielle<a id=296></a>
 
 ###### Article R422-51-1
 
@@ -40995,7 +42439,7 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
 
 
-##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice<a id=295></a>
+##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice<a id=297></a>
 
 ###### Article R422-51-15
 
@@ -41087,7 +42531,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L422-8
 
 
-##### Section 4 : Obligations professionnelles<a id=296></a>
+##### Section 4 : Obligations professionnelles<a id=298></a>
 
 ###### Article R422-52
 
@@ -41280,7 +42724,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L422-10-1
 
 
-##### Section 4 bis : Contrôle de l'exercice de la profession<a id=297></a>
+##### Section 4 bis : Contrôle de l'exercice de la profession<a id=299></a>
 
 ###### Article R422-55-2
 
@@ -41360,7 +42804,7 @@ _Créé par_:
   - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
 
 
-##### Section 5 : Régime disciplinaire<a id=298></a>
+##### Section 5 : Régime disciplinaire<a id=300></a>
 
 ###### Article R422-56
 
@@ -41707,7 +43151,7 @@ _Créé par_:
   - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
-#### Chapitre III : Dispositions diverses<a id=299></a>
+#### Chapitre III : Dispositions diverses<a id=301></a>
 
 ###### Article R423-1
 
@@ -41787,13 +43231,13 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-## Livre V : Les dessins et modèles<a id=300></a>
+## Livre V : Les dessins et modèles<a id=302></a>
 
-### Titre Ier : Acquisition des droits<a id=301></a>
+### Titre Ier : Acquisition des droits<a id=303></a>
 
-#### Chapitre Ier : Droits et oeuvres protégés<a id=302></a>
+#### Chapitre Ier : Droits et oeuvres protégés<a id=304></a>
 
-##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=303></a>
+##### Section unique : Mesures réglementaires spéciales à certaines industries<a id=305></a>
 
 ###### Article R511-1
 
@@ -41956,7 +43400,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Formalités de dépôt<a id=304></a>
+#### Chapitre II : Formalités de dépôt<a id=306></a>
 
 ###### Article R*512-9-3
 
@@ -42857,7 +44301,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Durée de la protection<a id=305></a>
+#### Chapitre III : Durée de la protection<a id=307></a>
 
 ###### Article R*513-1-2
 
@@ -43034,9 +44478,9 @@ _Modifié par_:
   - Décret n°2004-199 du 25 février 2004 - art. 28 () JORF 3 mars 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=306></a>
+#### Chapitre IV : Dispositions communes<a id=308></a>
 
-##### Section 1 : Procédure<a id=307></a>
+##### Section 1 : Procédure<a id=309></a>
 
 ###### Article R514-1
 
@@ -43212,7 +44656,7 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-##### Section 2 : Dispositions transitoires<a id=308></a>
+##### Section 2 : Dispositions transitoires<a id=310></a>
 
 ###### Article R514-6
 
@@ -43258,11 +44702,11 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-### Titre II : Contentieux<a id=309></a>
+### Titre II : Contentieux<a id=311></a>
 
-#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=310></a>
+#### Chapitre Ier : Contentieux des dessins ou modèles nationaux<a id=312></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=311></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=313></a>
 
 ###### Article R521-1
 
@@ -43285,7 +44729,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-6
 
 
-##### Section 2 : Mesures probatoires<a id=312></a>
+##### Section 2 : Mesures probatoires<a id=314></a>
 
 ###### Article R521-2
 
@@ -43365,7 +44809,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Section 3 : Dispositions communes<a id=313></a>
+##### Section 3 : Dispositions communes<a id=315></a>
 
 ###### Article D521-6
 
@@ -43390,7 +44834,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D211-6-1
 
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=314></a>
+#### Chapitre II : Contentieux des dessins et modèles communautaires<a id=316></a>
 
 ###### Article R522-1
 
@@ -43419,7 +44863,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-2 (V)
 
 
-#### Chapitre III : Retenue en douane<a id=315></a>
+#### Chapitre III : Retenue en douane<a id=317></a>
 
 ###### Article R523-1
 
@@ -43447,15 +44891,15 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L521-14
 
 
-## Livre VI : Protection des inventions et des connaissances techniques<a id=316></a>
+## Livre VI : Protection des inventions et des connaissances techniques<a id=318></a>
 
-### Titre Ier : Brevets d'invention<a id=317></a>
+### Titre Ier : Brevets d'invention<a id=319></a>
 
-#### Chapitre Ier : Champ d'application<a id=318></a>
+#### Chapitre Ier : Champ d'application<a id=320></a>
 
-##### Section 2 : Droit au titre<a id=319></a>
+##### Section 2 : Droit au titre<a id=321></a>
 
-##### Sous-section 1 : Inventions de salariés<a id=320></a>
+##### Sous-section 1 : Inventions de salariés<a id=322></a>
 
 ###### Article R611-1
 
@@ -43765,7 +45209,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=321></a>
+##### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.<a id=323></a>
 
 ###### Article Annexe art. R611-14-1
 
@@ -44314,7 +45758,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R611-12 (V)
 
 
-##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=322></a>
+##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.<a id=324></a>
 
 ###### Article R611-15
 
@@ -44493,9 +45937,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Dépôt et instruction des demandes<a id=323></a>
+#### Chapitre II : Dépôt et instruction des demandes<a id=325></a>
 
-##### Section 1 : Dépôt des demandes<a id=324></a>
+##### Section 1 : Dépôt des demandes<a id=326></a>
 
 ###### Article R612-1
 
@@ -44538,21 +45982,26 @@ _Codifié par_:
 ###### Article R612-2
 
 Le dépôt peut être fait par le demandeur personnellement ou par un mandataire ayant son domicile, son siège ou un
-établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique
-européen. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour le dépôt et
-pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du simple
-paiement des redevances, doit avoir la qualité de conseil en propriété industrielle. 
+établissement dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen.
+Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour le dépôt et pour
+l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du simple paiement
+des redevances, doit avoir la qualité de conseil en propriété industrielle.
 
-Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou
+Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de la l'Union européenne ou
 dans un Etat partie à l'accord sur l'Espace économique européen doivent constituer un mandataire satisfaisant aux conditions
 prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la notification qui leur est
 adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun doit être constitué. Si celui-ci n'est pas l'un
-des demandeurs, il doit satisfaire aux conditions prévues par le premier alinéa. 
+des demandeurs, il doit satisfaire aux conditions prévues par le premier alinéa.
 
 Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le mandataire doit joindre un pouvoir qui
-s'étend, sous réserve des dispositions des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes
-et à la réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20, R. 612-1 à R. 613-3, R. 613-45 à R.
-613-65, R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.
+s'étend, sous réserve des dispositions des articles R. 612-38, R. 613-44, R. 613-44-1 et R. 613-45 et, sauf stipulation
+contraire, à tous les actes et à la réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20, R. 612-1
+à R. 613-3, R. 613-44 à R. 613-65, R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
 
 **Liens relatifs à cet article**
 
@@ -44561,27 +46010,23 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 2 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 2 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Modifié par_:
 
-  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
+  - Décret n°2020-225 du 6 mars 2020 - art. 2
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L422-4 (V)
-  - Code de la propriété intellectuelle - art. R611-15 (V)
-  - Code de la propriété intellectuelle - art. R612-1 (V)
-  - Code de la propriété intellectuelle - art. R612-38 (V)
-  - Code de la propriété intellectuelle - art. R613-45 (V)
-  - Code de la propriété intellectuelle - art. R616-1 (V)
-  - Code de la propriété intellectuelle - art. R618-1 (V)
+  - Code de la propriété intellectuelle - art. L422-4
+  - Code de la propriété intellectuelle - art. R611-15
+  - Code de la propriété intellectuelle - art. R612-1
+  - Code de la propriété intellectuelle - art. R612-38
+  - Code de la propriété intellectuelle - art. R613-45 (VD)
+  - Code de la propriété intellectuelle - art. R616-1
+  - Code de la propriété intellectuelle - art. R618-1
 
 _Cité par_:
 
-  - Code de la propriété intellectuelle - art. R422-1 (V)
+  - Code de la propriété intellectuelle - art. R422-1 (VD)
   - Code de la propriété intellectuelle - art. R613-61 (V)
   - Code de la propriété intellectuelle - art. R614-21 (VD)
   - Code de la propriété intellectuelle - art. R614-22 (VT)
@@ -45362,9 +46807,9 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : L'instruction des demandes<a id=325></a>
+##### Section 2 : L'instruction des demandes<a id=327></a>
 
-##### Sous-section 1 : Demandes intéressant la défense nationale<a id=326></a>
+##### Sous-section 1 : Demandes intéressant la défense nationale<a id=328></a>
 
 ###### Article R612-26
 
@@ -45594,7 +47039,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 2 : Division de la demande<a id=327></a>
+##### Sous-section 2 : Division de la demande<a id=329></a>
 
 ###### Article R612-33
 
@@ -45707,7 +47152,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=328></a>
+##### Sous-section 3 : Rectification, retrait et publication de la demande<a id=330></a>
 
 ###### Article R612-36
 
@@ -46054,7 +47499,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
-##### Sous-section 4 : Rejet de la demande<a id=329></a>
+##### Sous-section 4 : Rejet de la demande<a id=331></a>
 
 ###### Article R612-45
 
@@ -46330,7 +47775,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Etablissement du rapport de recherche<a id=330></a>
+##### Sous-section 5 : Etablissement du rapport de recherche<a id=332></a>
 
 ###### Article R612-53
 
@@ -46819,7 +48264,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Délivrance et publication du brevet<a id=331></a>
+##### Sous-section 6 : Délivrance et publication du brevet<a id=333></a>
 
 ###### Article R*612-73-2
 
@@ -46954,18 +48399,28 @@ _Codifié par_:
 
 ###### Article R612-73
 
-La rédaction d'une revendication modifiée après annulation partielle, prévue à l'article L. 613-27, est présentée par écrit. 
+La demande de modification du brevet après révocation ou annulation partielles mentionnées respectivement aux articles L.
+613-23-6 et L. 613-27 est présentée par écrit.
 
-Si la revendication modifiée n'est pas conforme au dispositif du jugement, notification en est faite au propriétaire du
-brevet. La notification précise les changements à apporter à la revendication ainsi que le délai imparti à l'intéressé pour y
-procéder. 
+Lorsque la modification du brevet est conforme à la décision de révocation ou d'annulation partielles, l'Institut national de
+la propriété industrielle publie un nouveau fascicule de ce brevet.
 
-La revendication modifiée est rejetée si le propriétaire du brevet ne défère pas à la notification dans le délai prescrit, ou
-ne présente pas d'observations pour contester son bien-fondé. 
+Lorsque cette modification n'est pas conforme à la décision de révocation partielle ou au dispositif du jugement d'annulation
+partielle, notification en est faite au titulaire du brevet. Cette notification précise les changements à apporter à la
+demande de modification du brevet ainsi que le délai imparti au titulaire pour y procéder.
 
-Si les observations présentées ne sont pas retenues, notification en est faite au propriétaire du brevet. Si l'intéressé ne
-défère pas à la notification prévue au deuxième alinéa dans un nouveau délai qui lui est imparti, la revendication modifiée
-est rejetée.
+La demande de modification est rejetée dans les deux cas suivants :
+
+1° Si le titulaire du brevet ne défère pas à la notification mentionnée ci-dessus dans le délai imparti ou ne présente pas
+d'observations pour contester son bien-fondé dans le même délai ;
+
+2° Si les observations présentées ne sont pas retenues et que le titulaire ne défère pas à la notification mentionnée au
+troisième alinéa dans le nouveau délai qui lui est imparti par l'Institut.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
 
 **Liens relatifs à cet article**
 
@@ -46973,13 +48428,13 @@ _Anciens textes_:
 
   - Décret n°79-822 du 19 septembre 1979 - art. 74 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+  - Décret n°2020-225 du 6 mars 2020 - art. 2
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-27 (V)
+  - Code de la propriété intellectuelle - art. L613-27
 
 _Cité par_:
 
@@ -46992,17 +48447,41 @@ _Codifié par_:
 
 ###### Article R612-73-1
 
-Il est statué sur la demande de modification de revendication dans un délai de douze mois à compter de son dépôt. Ce délai
-est interrompu, le cas échéant, par la notification prévue à l'article R. 612-73, jusqu'à la régularisation de la demande.
+Il est statué sur la demande de modification du brevet dans un délai de douze mois à compter de son dépôt. Ce délai est
+interrompu, le cas échéant, par la notification prévue au troisième alinéa de l'article R. 612-73, jusqu'à la régularisation
+de la demande.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 2
+
+
+###### Article R612-73-3
+
+La décision du directeur général de l'Institut national de la propriété industrielle rejetant la demande de modification du
+brevet mentionnée à l'article R. 612-73 peut faire l'objet du recours en annulation mentionné au premier alinéa de l'article
+R. 411-19.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2015-1436 du 6 novembre 2015 - art. 8
+  - Décret n°2020-225 du 6 mars 2020 - art. 2
 
 
-##### Section 3 : Diffusion légale des inventions<a id=332></a>
+##### Section 3 : Diffusion légale des inventions<a id=334></a>
 
 ###### Article R612-74
 
@@ -47056,11 +48535,11 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre III : Droits attachés aux brevets<a id=333></a>
+#### Chapitre III : Droits attachés aux brevets<a id=335></a>
 
-##### Section 1 : Droits d'exploitation<a id=334></a>
+##### Section 1 : Droits d'exploitation<a id=336></a>
 
-##### Sous-section 1 : Licences obligatoires<a id=335></a>
+##### Sous-section 1 : Licences obligatoires<a id=337></a>
 
 ###### Article R613-4
 
@@ -47211,7 +48690,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
 
-##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=336></a>
+##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique<a id=338></a>
 
 ###### Article R613-10
 
@@ -47673,7 +49152,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
 
 
-##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=337></a>
+##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique<a id=339></a>
 
 ###### Article R613-25-1
 
@@ -47753,7 +49232,7 @@ _Modifié par_:
   - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
-##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=338></a>
+##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique<a id=340></a>
 
 ###### Article R613-26
 
@@ -47987,7 +49466,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 30 (Ab)
 
 
-##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=339></a>
+##### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale<a id=341></a>
 
 ###### Article R613-34
 
@@ -48261,7 +49740,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 39 (Ab)
 
 
-##### Sous-section 6 : Dispositions diverses<a id=340></a>
+##### Sous-section 6 : Dispositions diverses<a id=342></a>
 
 ###### Article R613-43
 
@@ -48311,64 +49790,354 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R613-44 (T)
 
 
-##### Section 2 : Transmission et perte des droits<a id=341></a>
+##### Section 2 : Transmission et perte des droits<a id=343></a>
 
-###### Article R613-45
+##### Sous-section 1 : Opposition<a id=344></a>
 
-La requête en renonciation ou en limitation est faite par une déclaration écrite. 
+###### Article R613-44
 
-La requête doit, pour être recevable : 
+L'opposition mentionnée à l'article L. 613-23 est formée dans le délai de neuf mois suivant la publication au Bulletin
+officiel de la propriété industrielle de la mention de la délivrance du brevet contesté.
 
-1° Emaner du titulaire du brevet inscrit, au jour de la requête, sur le Registre national des brevets, ou de son mandataire,
-lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la requête un pouvoir spécial
-de renonciation ou de limitation. 
+Elle peut être présentée par une personne physique ou morale agissant personnellement ou par l'intermédiaire d'un mandataire
+remplissant les conditions prévues à l'article R. 612-2.
 
-Si le brevet appartient à plusieurs personnes, la renonciation ou la limitation ne peut être effectuée que si elle est
-requise par l'ensemble de celles-ci ; 
+Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de l'Union européenne ou dans
+un Etat partie à l'accord sur l'Espace économique européen doivent constituer un mandataire.
 
-2° Etre accompagnée de la justification du paiement de la redevance prescrite ; 
+Lorsque l'opposition est formée conjointement par plusieurs personnes, un mandataire commun satisfaisant aux mêmes conditions
+doit être constitué.
 
-3° Ne viser qu'un seul brevet ; 
+Lorsque dans le cadre de la procédure d'opposition le titulaire du brevet présente des observations ou des propositions de
+modification de ce brevet, les conditions de représentation mentionnées à l'article R. 612-2 s'appliquent.
 
-4° Etre accompagnée, si des droits réels, de gage ou de licence ont été inscrits au Registre national des brevets, du
-consentement des titulaires de ces droits ; 
+**Nota:**
 
-5° Etre accompagnée, lorsque la limitation est requise, du texte complet des revendications modifiées et, le cas échéant, de
-la description et des dessins tels que modifiés. 
-
-Si, lorsque la limitation est demandée, les revendications modifiées ne constituent pas une limitation par rapport aux
-revendications antérieures du brevet ou si elles ne sont pas conformes aux dispositions de l'article L. 612-6, notification
-motivée en est faite au demandeur. Un délai lui est imparti pour régulariser sa requête ou présenter des observations. A
-défaut de régularisation ou d'observations permettant de lever l'objection, la requête est rejetée par décision du directeur
-général de l'Institut national de la propriété industrielle. 
-
-Les renonciations et limitations sont inscrites au Registre national des brevets. Un avis d'inscription est adressé à
-l'auteur de la renonciation ou de la limitation.
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°79-822 du 19 septembre 1979 - art. 69 (M)
-  - Décret n°79-822 du 19 septembre 1979 - art. 69 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2008-1471 du 30 décembre 2008 - art. 3
-
-_Cité par_:
-
-  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-  - Code de la propriété intellectuelle - art. R612-2 (V)
-  - Code de la propriété intellectuelle - art. R617-2 (V)
-  - Code de la propriété intellectuelle - art. R622-6 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L612-6 (V)
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
 
 
-##### Sous-section 2 : Renonciation ou limitation<a id=342></a>
+###### Article R613-44-1
+
+La demande d'opposition est présentée par écrit selon les conditions et modalités précisées par décision du directeur général
+de l'Institut national de la propriété industrielle.
+
+Elle comprend :
+
+1° L'identité de l'opposant ;
+
+2° Les références du brevet contre lequel est formée l'opposition ;
+
+3° Une déclaration précisant la portée de l'opposition, les motifs sur lesquels celle-ci se fonde ainsi que les faits
+invoqués et les pièces produites à l'appui de ces motifs ;
+
+4° La justification du paiement de la redevance due ;
+
+5° Le cas échéant, la désignation du mandataire et, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat,
+son pouvoir.
+
+Les pièces et informations mentionnées aux 1° à 5° doivent être fournies dans le délai mentionné à l'article R. 613-44. Le
+fondement et la portée de l'opposition ne peuvent être étendus après l'expiration de ce délai.
+
+L'opposition est inscrite au Registre national des brevets.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-2
+
+Est déclarée irrecevable toute opposition formée par le titulaire du brevet contesté.
+
+Est également irrecevable toute opposition qui n'est pas conforme aux dispositions des articles R. 613-44 ou R. 613-44-1.
+
+Lorsqu'une opposition est fondée sur plusieurs motifs, elle n'est recevable que si la déclaration l'accompagnant satisfait,
+au moins pour l'un de ces motifs, aux dispositions du 3° de l'article R. 613-44-1. Elle est réputée non fondée pour les
+motifs qui ne satisfont pas à cette condition.
+
+En cas d'irrecevabilité relevée d'office, le directeur général de l'Institut national de la propriété industrielle notifie
+les irrégularités à l'opposant. Un délai est alors imparti à ce dernier pour contester cette irrecevabilité ou, dans le cas
+du pouvoir du mandataire prévu au 5° de l'article R. 613-44-1, pour régulariser sa demande. A défaut d'observations fondées
+ou de régularisation, l'opposition est déclarée irrecevable.
+
+La décision d'irrecevabilité est inscrite au Registre national des brevets.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-3
+
+Lorsque plusieurs demandes d'opposition portent sur un même brevet, le directeur général de l'Institut national de la
+propriété industrielle en ordonne la jonction, sous réserve de leur recevabilité. Cette jonction est notifiée aux parties.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-4
+
+L'Institut national de la propriété industrielle fait observer et observe lui-même le principe de la contradiction. Il ne
+peut fonder sa décision sur des moyens, explications et documents invoqués ou produits par les parties sans que celles-ci
+aient été mises à même d'en débattre contradictoirement. Toute observation ou pièce dont il est saisi par l'une des parties
+est notifiée sans délai aux autres.
+
+Les parties sont tenues de formuler expressément leurs demandes et les moyens de fait et de droit fondant chacune de leurs
+prétentions. Tous les échanges entre l'Institut et les parties s'effectuent selon des modalités fixées par décision du
+directeur général de l'Institut national de la propriété industrielle.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-5
+
+Un agent de l'Institut national de la propriété industrielle ayant instruit une demande de brevet ne peut pas instruire
+l'opposition formée à l'encontre de ce brevet. Cet agent peut toutefois être entendu dans le cadre de la procédure
+d'opposition.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-6
+
+Sous réserve de l'irrecevabilité relevée d'office par l'Institut national de la propriété industrielle et des cas de
+suspension ou de clôture de la procédure mentionnés respectivement aux articles R. 613-44-10 et R. 613-44-12, l'instruction
+de l'opposition se déroule suivant les quatre phases suivantes :
+
+1° Une phase d'information et de recueil de l'avis du titulaire du brevet.
+
+Le directeur général de l'Institut notifie sans délai l'opposition au titulaire du brevet. Un délai est imparti à ce dernier
+pour présenter à l'Institut des observations en réponse ou proposer la modification du brevet et, le cas échéant, constituer
+un mandataire en application du cinquième alinéa de l'article R. 613-44 ;
+
+2° Une phase d'élaboration de l'avis d'instruction par l'Institut.
+
+Dans les trois mois au plus tard suivant l'expiration du délai mentionné au 1°, le directeur général de l'Institut notifie un
+avis d'instruction rédigé à partir des éléments fournis par les parties. Un délai est imparti à ces dernières pour présenter
+leurs observations ou, s'agissant du titulaire du brevet, proposer des modifications du brevet contesté. Cette notification
+est accompagnée, le cas échéant, des observations ou propositions de modification du brevet présentées par le titulaire du
+brevet en application du 1° ;
+
+3° Une phase écrite.
+
+A l'expiration du délai mentionné au 2°, dans le cas où au moins l'une des parties a produit des observations ou bien que le
+titulaire du brevet a présenté des propositions de modification du brevet en réponse à l'avis d'instruction, notification en
+est faite aux parties. Un délai est imparti à ces dernières pour présenter leurs observations en réponse ou, s'agissant du
+titulaire, pour proposer de nouvelles modifications du brevet. En cas de réponse par au moins l'une des parties, notification
+en est faite à ces dernières à l'expiration de ce délai ;
+
+4° Une phase orale.
+
+Dans le cadre de la présentation de ses observations écrites, chaque partie peut demander à présenter des observations
+orales. Le directeur général de l'Institut peut également inviter sans demande préalable les parties à présenter des
+observations orales s'il l'estime nécessaire pour les besoins de l'instruction. Les parties sont alors réunies à l'issue de
+la phase écrite de l'instruction afin de présenter leurs observations orales, selon des modalités fixées par décision du
+directeur général de l'Institut.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-7
+
+Le directeur général de l'Institut national de la propriété industrielle statue sur l'opposition au vu de l'ensemble des
+observations écrites et orales présentées par les parties ainsi que des dernières propositions de modification du brevet
+présentées par le titulaire du brevet. Le directeur général de l'Institut peut fonder sa décision sur des faits invoqués ou
+des pièces produites postérieurement à l'expiration des délais mentionnés aux articles R. 613-44, R. 613-44-1 et R. 613-44-6,
+sous réserve que les parties aient été à même d'en débattre contradictoirement.
+
+La décision statuant sur l'opposition est notifiée aux parties. Elle est inscrite au Registre national des brevets.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-8
+
+Le délai mentionné au dernier alinéa de l'article L. 613-23-2 est de quatre mois.
+
+La date de fin de la phase d'instruction mentionnée au même alinéa est notifiée sans délai aux parties par le directeur
+général de l'Institut national de la propriété industrielle. Cette date intervient dès lors qu'aucune partie n'a présenté
+d'observations à l'expiration des délais mentionnés aux 2° ou 3° de l'article R. 613-44-6 et, au plus tard, le jour de la
+présentation des observations orales.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-9
+
+L'Institut national de la propriété industrielle publie un nouveau fascicule de brevet lorsque la décision statuant sur
+l'opposition qui n'est plus susceptible de recours maintient le brevet sous une forme modifiée.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-10
+
+La phase d'instruction ou le délai fixé au premier alinéa de l'article R. 613-44-8 sont suspendus :
+
+1° Sur requête écrite de toute personne établissant qu'une action en revendication de propriété du brevet a été intentée, ou,
+qu'à la date à laquelle la demande d'opposition est présentée conformément à l'article R. 613-44-1, une demande en nullité de
+ce même brevet a été formée ;
+
+2° A l'initiative de l'Institut national de la propriété industrielle, dans l'attente d'informations ou d'éléments
+susceptibles d'avoir une incidence sur l'issue de l'opposition ou la situation des parties.
+
+La phase d'instruction peut également être suspendue sur demande conjointe de toutes les parties, pendant une durée de quatre
+mois renouvelable deux fois.
+
+La décision de suspension est notifiée aux parties.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-11
+
+Lorsque la procédure d'opposition est suspendue en application des dispositions du 1° de l'article R. 613-44-10, elle reprend
+à la demande de l'une des parties transmettant à l'Institut national de la propriété industrielle la décision statuant sur la
+revendication de propriété ou la nullité passée en force de chose jugée.
+
+Lorsque la procédure d'opposition est suspendue en application des dispositions du quatrième alinéa de l'article R.
+613-44-10, elle reprend sur demande de l'une des parties ou, le cas échéant, à l'expiration du délai prévu à ce même alinéa.
+
+Lors de la reprise de la procédure d'opposition, si la portée du brevet a été modifiée, l'opposant est invité à présenter
+dans un délai imparti par l'Institut une nouvelle déclaration en application du 3° de l'article R. 613-44-1.
+
+La reprise de la procédure est notifiée sans délai aux parties par l'Institut, avec indication d'une date de reprise.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-44-12
+
+La procédure d'opposition est clôturée :
+
+1° Lorsque tous les opposants ont retiré leur opposition ;
+
+2° Si le brevet est déclaré nul par une décision de justice passée en force de chose jugée ;
+
+3° Si le titulaire du brevet renonce aux revendications visées par l'opposition ;
+
+4° Lorsque les effets du brevet contre lequel l'opposition a été formée ont cessé, sauf si l'opposant justifie d'un intérêt
+légitime à l'obtention d'une décision d'opposition.
+
+La décision de clôture est notifiée sans délai aux parties par l'Institut national de la propriété industrielle.
+
+La clôture de la procédure d'opposition est inscrite au Registre national des brevets.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+##### Sous-section 2 : Renonciation ou limitation<a id=345></a>
 
 ###### Article R*613-45-2
 
@@ -48379,6 +50148,70 @@ A défaut de décision expresse dans le délai mentionné à l'article R. 613-45
 **Liens**:
 
   - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+###### Article R613-45
+
+La requête en renonciation ou en limitation est faite par une déclaration écrite. Sous réserve de sa recevabilité, elle peut
+être présentée par le titulaire du brevet à tout moment, même lorsque les effets du brevet ont cessé.
+
+La requête doit, pour être recevable :
+
+1° Emaner du titulaire du brevet inscrit, au jour de la requête, sur le Registre national des brevets, ou de son mandataire,
+lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la requête un pouvoir spécial
+de renonciation ou de limitation.
+
+Si le brevet appartient à plusieurs personnes, la renonciation ou la limitation ne peut être effectuée que si elle est
+requise par l'ensemble de celles-ci ;
+
+2° Etre accompagnée de la justification du paiement de la redevance prescrite ;
+
+3° Ne viser qu'un seul brevet ;
+
+4° Etre accompagnée, si des droits réels, de gage ou de licence ont été inscrits au Registre national des brevets, du
+consentement des titulaires de ces droits ;
+
+5° Etre accompagnée, lorsque la limitation est requise, du texte complet des revendications modifiées et, le cas échéant, de
+la description et des dessins tels que modifiés.
+
+6° Le cas échéant, être présentée, lorsque la limitation est requise, après la publication du nouveau fascicule de brevet
+attestant de la conformité à la décision de révocation ou d'annulation partielles en application de l'article R. 612-73.
+
+Lorsque la limitation est demandée, si les revendications modifiées ne constituent pas une limitation par rapport aux
+revendications antérieures du brevet ou si elles ne sont pas conformes aux dispositions de l'article L. 612-6, notification
+motivée en est faite au demandeur. Un délai lui est imparti pour régulariser sa requête ou présenter des observations. A
+défaut de régularisation ou d'observations permettant de lever l'objection, la requête est rejetée par décision du directeur
+général de l'Institut national de la propriété industrielle.
+
+Les renonciations et limitations sont inscrites au Registre national des brevets. Un avis d'inscription est adressé au
+demandeur de la renonciation ou de la limitation.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-822 du 19 septembre 1979 - art. 69 (M)
+  - Décret n°79-822 du 19 septembre 1979 - art. 69 (Ab)
+
+_Cité par_:
+
+  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+  - Code de la propriété intellectuelle - art. R612-2 (VD)
+  - Code de la propriété intellectuelle - art. R617-2 (V)
+  - Code de la propriété intellectuelle - art. R622-6 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L612-6
 
 
 ###### Article R613-45-1
@@ -48394,7 +50227,26 @@ l'objection.
   - DEPLACE: Décret n°2020-225 du 6 mars 2020 - art. 3
 
 
-##### Sous-section 3 : Maintien en vigueur ou déchéance du titre<a id=343></a>
+###### Article R613-45-3
+
+Lorsqu'une procédure de limitation est clôturée en application du cinquième alinéa de l'article L. 613-24, l'Institut
+rembourse la redevance de requête en limitation.
+
+La décision de clôture de la procédure de limitation est notifiée au titulaire du brevet.
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-225 du 6 mars 2020 - art. 3
+
+
+##### Sous-section 3 : Maintien en vigueur ou déchéance du titre<a id=346></a>
 
 ###### Article R*613-49-1
 
@@ -48592,7 +50444,7 @@ _Anciens textes_:
   - Décret n°69-975 du 18 octobre 1969 - art. 42 (Ab)
 
 
-##### Section 4 : Recours en restauration<a id=344></a>
+##### Section 4 : Recours en restauration<a id=347></a>
 
 ###### Article R613-52
 
@@ -48657,7 +50509,7 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 9
 
 
-##### Section 5 : Registre national des brevets<a id=345></a>
+##### Section 5 : Registre national des brevets<a id=348></a>
 
 ###### Article R613-53
 
@@ -48941,7 +50793,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 6 : Etablissement de l'avis documentaire<a id=346></a>
+##### Section 6 : Etablissement de l'avis documentaire<a id=349></a>
 
 ###### Article R613-60
 
@@ -49042,7 +50894,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 7 : Réduction des redevances<a id=347></a>
+##### Section 7 : Réduction des redevances<a id=350></a>
 
 ###### Article R613-63
 
@@ -49093,9 +50945,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
-#### Chapitre IV : Application de conventions internationales<a id=348></a>
+#### Chapitre IV : Application de conventions internationales<a id=351></a>
 
-##### Section 1 : Brevets européens<a id=349></a>
+##### Section 1 : Brevets européens<a id=352></a>
 
 ###### Article R614-1
 
@@ -49516,7 +51368,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Section 2 : Demandes internationales<a id=350></a>
+##### Section 2 : Demandes internationales<a id=353></a>
 
 ###### Article R614-21
 
@@ -49848,7 +51700,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R614-21 (V)
 
 
-#### Chapitre IV bis : La retenue<a id=351></a>
+#### Chapitre IV bis : La retenue<a id=354></a>
 
 ###### Article R614-36
 
@@ -49891,9 +51743,9 @@ _Créé par_:
   - Décret n°2015-427 du 15 avril 2015 - art. 3
 
 
-#### Chapitre V : Actions en justice<a id=352></a>
+#### Chapitre V : Actions en justice<a id=355></a>
 
-##### Section 1 : Mesures provisoires et conservatoires<a id=353></a>
+##### Section 1 : Mesures provisoires et conservatoires<a id=356></a>
 
 ###### Article R615-1
 
@@ -49929,7 +51781,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R622-6 (V)
 
 
-##### Section 2 : Mesures probatoires<a id=354></a>
+##### Section 2 : Mesures probatoires<a id=357></a>
 
 ###### Article R615-2
 
@@ -50086,7 +51938,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-8 (VD)
 
 
-##### Section 3 : Commission paritaire de conciliation<a id=355></a>
+##### Section 3 : Commission paritaire de conciliation<a id=358></a>
 
 ###### Article R615-6
 
@@ -50796,7 +52648,7 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. R615-34 (VD)
 
 
-#### Chapitre VI : Le certificat d'utilité<a id=356></a>
+#### Chapitre VI : Le certificat d'utilité<a id=359></a>
 
 ###### Article R616-1
 
@@ -50885,7 +52737,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-60
 
 
-#### Chapitre VII : Le certificat complémentaire de protection<a id=357></a>
+#### Chapitre VII : Le certificat complémentaire de protection<a id=360></a>
 
 ###### Article R*617-2-2
 
@@ -50970,9 +52822,9 @@ _Créé par_:
   - Décret n°2015-1436 du 6 novembre 2015 - art. 10
 
 
-#### Chapitre VIII : Dispositions communes<a id=358></a>
+#### Chapitre VIII : Dispositions communes<a id=361></a>
 
-##### Section unique : Procédure<a id=359></a>
+##### Section unique : Procédure<a id=362></a>
 
 ###### Article R618-1
 
@@ -51023,14 +52875,21 @@ _Codifié par_:
 
 Les notifications prévues à l'article L. 613-22 et aux articles R. 612-8, R. 612-9, R. 612-11, R. 612-46 à R. 612-49, R.
 612-56, 
-R. 612-73, R. 613-52 et R. 613-58 sont faites par lettre recommandée avec demande d'avis de réception. 
+R. 612-73, R. 613-44 à R. 613-45, R. 613-45-3, R. 613-52 et R. 613-58 sont faites par lettre recommandée avec demande d'avis
+de réception.
 
 L'envoi recommandé peut être remplacé par la remise de la lettre à son destinataire contre récépissé, dans les locaux de
-l'Institut national de la propriété industrielle, ou par un message sous forme électronique selon les modalités fixées par le
-directeur général de l'institut pour garantir notamment la sécurité de l'envoi. 
+l'Institut national de la propriété industrielle, ou par un message sous forme électronique selon les modalités fixées par
+décision du directeur général de l'institut pour garantir notamment la sécurité de l'envoi.
 
 Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de la
 propriété industrielle.
+
+**Nota:**
+
+Conformément au II de l’article 5 du décret n° 2020-225 du 6 mars 2020, 
+  <font color="black">ces dispositions entrent en vigueur dans les conditions définies à l'article 5 de l'ordonnance du 12
+février 2020</font>.
 
 **Liens relatifs à cet article**
 
@@ -51039,13 +52898,9 @@ _Anciens textes_:
   - Décret n°79-822 du 19 septembre 1979 - art. 121 (M)
   - Décret n°79-822 du 19 septembre 1979 - art. 121 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 60 () JORF 3 mars 2004
+  - Décret n°2020-225 du 6 mars 2020 - art. 4 (V)
 
 _Cite_:
 
@@ -51057,10 +52912,6 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R612-8 (V)
   - Code de la propriété intellectuelle - art. R613-52 (V)
   - Code de la propriété intellectuelle - art. R613-58 (V)
-
-_Codifié par_:
-
-  - Décret n°95-385 1955-04-10
 
 
 ###### Article R618-3
@@ -51158,9 +53009,9 @@ _Créé par_:
   - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
-### Titre II : Protection des connaissances techniques<a id=360></a>
+### Titre II : Protection des connaissances techniques<a id=363></a>
 
-#### Chapitre II : Produits semi-conducteurs<a id=361></a>
+#### Chapitre II : Produits semi-conducteurs<a id=364></a>
 
 ###### Article R*622-3-2
 
@@ -51412,11 +53263,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-#### Chapitre III : Obtentions végétales<a id=362></a>
+#### Chapitre III : Obtentions végétales<a id=365></a>
 
-##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=363></a>
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale<a id=366></a>
 
-##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=364></a>
+##### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.<a id=367></a>
 
 ###### Article R623-1
 
@@ -51862,7 +53713,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=365></a>
+##### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.<a id=368></a>
 
 ###### Article R623-16
 
@@ -52098,7 +53949,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=366></a>
+##### Sous-section 3 : Délivrance des certificats d'obtention végétale<a id=369></a>
 
 ###### Article R623-25
 
@@ -52238,7 +54089,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 4 : Redevances<a id=367></a>
+##### Sous-section 4 : Redevances<a id=370></a>
 
 ###### Article D623-30-1
 
@@ -52426,7 +54277,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 5 : Renonciation - Déchéance<a id=368></a>
+##### Sous-section 5 : Renonciation - Déchéance<a id=371></a>
 
 ###### Article R623-36
 
@@ -52483,7 +54334,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Sous-section 6 : Registres nationaux<a id=369></a>
+##### Sous-section 6 : Registres nationaux<a id=372></a>
 
 ###### Article R623-38
 
@@ -52680,7 +54531,7 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=370></a>
+##### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale<a id=373></a>
 
 ###### Article R623-43
 
@@ -52859,7 +54710,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R613-42 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=371></a>
+##### Sous-section 8 : Dispositions diverses<a id=374></a>
 
 ###### Article R623-48
 
@@ -53082,7 +54933,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=372></a>
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur<a id=375></a>
 
 ###### Article D623-58-1
 
@@ -53153,7 +55004,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L623-15
 
 
-##### Section 2 bis : Semences de ferme<a id=373></a>
+##### Section 2 bis : Semences de ferme<a id=376></a>
 
 ###### Article R623-59
 
@@ -53226,7 +55077,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 3 : La retenue<a id=374></a>
+##### Section 3 : La retenue<a id=377></a>
 
 ###### Article R623-60
 
@@ -53244,9 +55095,9 @@ _Cité par_:
   - Arrêté du 29 juin 2015 - art. 2 (V)
 
 
-### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=375></a>
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques<a id=378></a>
 
-#### Chapitre unique<a id=376></a>
+#### Chapitre unique<a id=379></a>
 
 ###### Article D631-1
 
@@ -53527,11 +55378,11 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
-## Livre VII : Marques de produits ou de services et autres signes distinctifs<a id=377></a>
+## Livre VII : Marques de produits ou de services et autres signes distinctifs<a id=380></a>
 
-### Titre Ier : Marques de produits ou de services<a id=378></a>
+### Titre Ier : Marques de produits ou de services<a id=381></a>
 
-#### Chapitre Ier : Eléments constitutifs de la marque<a id=379></a>
+#### Chapitre Ier : Eléments constitutifs de la marque<a id=382></a>
 
 ###### Article R711-1
 
@@ -53556,7 +55407,7 @@ _Créé par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 3
 
 
-#### Chapitre II : Acquisition du droit sur la marque<a id=380></a>
+#### Chapitre II : Acquisition du droit sur la marque<a id=383></a>
 
 ###### Article D712-29
 
@@ -54895,7 +56746,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R712-28-1 (V)
 
 
-#### Chapitre IV : Transmission et perte du droit sur la marque<a id=381></a>
+#### Chapitre IV : Transmission et perte du droit sur la marque<a id=384></a>
 
 ###### Article R714-1
 
@@ -55327,9 +57178,9 @@ _Créé par_:
   - Décret n°2004-199 du 25 février 2004 - art. 82 () JORF 3 mars 2004
 
 
-#### Chapitre V : Marques de garantie et marques collectives<a id=382></a>
+#### Chapitre V : Marques de garantie et marques collectives<a id=385></a>
 
-##### Section 1 : Marques de garantie<a id=383></a>
+##### Section 1 : Marques de garantie<a id=386></a>
 
 ###### Article R715-1
 
@@ -55380,7 +57231,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R718-7 (V)
 
 
-##### Section 2 : Marques collectives<a id=384></a>
+##### Section 2 : Marques collectives<a id=387></a>
 
 ###### Article R715-2
 
@@ -55417,15 +57268,42 @@ _Modifié par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 7
 
 
-#### Chapitre VI : Contentieux<a id=385></a>
+#### Chapitre VI : Contentieux<a id=388></a>
 
-##### Section 2 : Mesures provisoires et conservatoires<a id=386></a>
+##### Section 1 : Contentieux de la nullité et de la déchéance de la marque<a id=389></a>
+
+##### Sous-section 1 : Demande en nullité ou en déchéance de la marque<a id=390></a>
 
 ###### Article R716-1
 
-Le délai prévu au dernier alinéa de l'article L. 716-6 et imparti au demandeur pour se pourvoir au fond par la voie civile ou
-pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours
-civils si ce délai est plus long, à compter de la date de l'ordonnance.
+La demande en nullité ou en déchéance mentionnée à l'article L. 716-1 est présentée par écrit selon les conditions et
+modalités fixées par décision du directeur général de l'Institut national de la propriété industrielle. 
+
+Elle comprend : 
+
+1° L'identité du demandeur ; 
+
+2° Le cas échéant, les indications propres à établir l'existence, la nature, l'origine et la portée des droits antérieurs
+invoqués ; 
+
+3° Les références de la marque contestée, ainsi que l'indication des produits ou services visés par la demande en nullité ou
+en déchéance ; 
+
+4° L'exposé des moyens sur lesquels repose la demande en nullité ou en déchéance, à l'exception de la demande fondée sur
+l'article L. 714-5 ; 
+
+5° La justification du paiement de la redevance prescrite ; 
+
+6° Le cas échéant, sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le pouvoir du mandataire, ce
+pouvoir pouvant être adressé à l'Institut dans le délai d'un mois. 
+
+Après qu'elle a été formée, la demande en nullité ou en déchéance ne peut être étendue à d'autres motifs ou d'autres produits
+ou services que ceux invoqués ou visés dans la demande initiale.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
@@ -55434,28 +57312,416 @@ _Anciens textes_:
   - Décret n°92-100 1992-01-30 art. 47
   - Décret n°92-100 du 30 janvier 1992 - art. 47 (Ab)
 
-_Modifié par_:
-
-  - Décret n°2014-1550 du 19 décembre 2014 - art. 6
-
 _Cité par_:
 
   - Décret n°2019-1316 du 9 décembre 2019 - art. 16 (V)
   - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
   - Code de la propriété intellectuelle - art. R717-1 (VD)
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2019-1316 du 9 décembre 2019 - art. 8
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L716-6
+  - Code de la propriété intellectuelle - art. L714-5 (V)
 
 _Nouveaux textes_:
 
   - Code de la propriété intellectuelle - art. R716-15 (V)
 
+
+###### Article R716-2
+
+La demande en nullité ou en déchéance formée dans les conditions prévues à l'article L. 716-2, au deuxième alinéa de
+l'article L. 716-2-1 et l'article L. 716-3 peut être présentée par une personne physique ou morale agissant personnellement
+ou par l'intermédiaire d'un mandataire remplissant les conditions prévues à l'article R. 712-2. Ces modalités s'appliquent
+aux observations présentées en réponse à cette demande.
+
+En cas de demande conjointe formée par une pluralité de demandeurs, un mandataire commun satisfaisant aux mêmes conditions
+doit être constitué.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R716-16 (VT)
+
+
+##### Sous-section 2 : Procédure administrative en nullité ou en déchéance de la marque<a id=391></a>
+
+###### Article R716-3
+
+L'Institut national de la propriété industrielle fait observer et observe lui-même le principe de la contradiction. Il ne
+peut fonder sa décision sur des moyens, explications et documents invoqués ou produits par les parties sans que celles-ci
+aient été mises à même d'en débattre contradictoirement. Toute observation ou pièce dont il est saisi par l'une des parties
+est notifiée sans délai à l'autre.
+
+Les parties sont tenues de formuler expressément leurs demandes et les moyens de fait et de droit fondant chacune de leurs
+prétentions. Tous les échanges entre les parties et l'Institut s'effectuent selon les modalités prévues par décision du
+directeur général de l'Institut national de la propriété industrielle.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R716-17, v. 0.1 (V)
+
+
+###### Article R716-4
+
+Un agent de l'Institut national de la propriété industrielle ayant instruit la demande d'enregistrement d'une marque ou une
+opposition formée à l'encontre d'une demande d'enregistrement de marque ne peut pas instruire la demande en annulation ou en
+déchéance de cette même marque.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R716-18 (V)
+
+
+###### Article R716-5
+
+Est déclarée irrecevable toute demande en nullité ou en déchéance formée en violation de l'article L. 716-5 ou présentée par
+une personne qui n'a pas qualité ou qui ne satisfait pas aux conditions énoncées aux articles R. 716-1 et R. 716-2.
+Toutefois, cette irrecevabilité ne peut être opposée par l'Institut national de la propriété industrielle qu'après que le
+demandeur a été invité à compléter les mentions et pièces manquantes ou présenter des observations.
+
+Sont déclarées irrecevables les observations ou pièces produites postérieurement à la présentation de la demande par une
+personne qui n'a pas qualité ou qui ne satisfait pas aux conditions énoncées à l'article R. 716-2 ou aux modalités
+mentionnées au deuxième alinéa de l'article R. 716-3.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R712-12 (V)
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R716-19, v. 0.1 (V)
+
+
+###### Article R716-6
+
+Sous réserve de l'irrecevabilité relevée d'office par l'Institut et des cas de suspension ou de clôture de la procédure
+prévus respectivement aux articles R. 716-9 et R. 716-11, la demande en nullité ou en déchéance est instruite selon la
+procédure suivante :
+
+1° La demande est notifiée au titulaire de la marque contestée. Un délai de deux mois, est imparti à celui-ci pour présenter
+des observations écrites en réponse et, le cas échéant, produire toutes pièces qu'il estime utiles.
+
+Pour les demandes en déchéances fondées sur l'article L. 714-5, les pièces produites par le titulaire de la marque doivent
+établir que la marque contestée a fait l'objet d'un usage sérieux au cours des cinq années précédant la demande en
+déchéance ;
+
+2° En cas de réponse, un délai d'un mois est imparti au demandeur pour présenter des observations écrites en réplique et
+produire toutes pièces qu'il estime utiles ;
+
+3° En cas de réplique du demandeur, un nouveau délai d'un mois est imparti au titulaire de la marque contestée pour présenter
+de nouvelles observations ou produire de nouvelles pièces. Dans le cadre d'une demande en déchéance, fondée sur l'article L.
+714-5, le titulaire de la marque contestée dispose de ce délai même en l'absence d'observations en réplique du demandeur ;
+
+4° En cas de réponse, le demandeur dispose d'un nouveau délai d'un mois pour présenter ses dernières observations écrites ou
+produire de nouvelles pièces ;
+
+5° En cas de réplique par le demandeur, le titulaire de la marque contestée dispose d'un dernier délai d'un mois pour
+présenter ses dernières observations écrites ou produire de nouvelles pièces, sans pouvoir invoquer de nouveaux moyens ou
+produire de nouvelles preuves d'usage.
+
+Dans le cadre de la présentation de ses observations écrites, chaque partie peut demander à présenter des observations
+orales. Le directeur général de l'Institut peut également inviter sans demande préalable les parties à présenter des
+observations orales s'il l'estime nécessaire pour les besoins de l'instruction. Les parties sont alors réunies à l'issue de
+la phase écrite de l'instruction afin de présenter leurs observations orales, selon des modalités fixées par décision du
+directeur général de l'Institut national de la propriété industrielle.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 23 septembre 2008 - art. 1 (Ab)
+  - Arrêté du 23 septembre 2008 - art. 3 (Ab)
+  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+  - Arrêté du 29 juin 2015 (V)
+  - Arrêté du 29 juin 2015 - art. 1 (V)
+  - Arrêté du 29 juin 2015 - art. 2 (V)
+  - Arrêté du 11 décembre 2018 (V)
+  - Code de la propriété intellectuelle - art. R716-8 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-8
+
+_Nouveaux textes_:
+
+  - Code de la propriété intellectuelle - art. R716-20, v. 0.1 (V)
+
+
+###### Article R716-7
+
+Le directeur général de l'Institut statue sur la demande en nullité ou en déchéance au vu de l'ensemble des observations
+écrites et orales présentées, le cas échéant, par les parties.
+
+A tout moment de la procédure, par requête expresse :
+
+1° Le demandeur en nullité peut renoncer à un ou plusieurs des motifs invoqués ou circonscrire la portée de sa demande à
+certains des produits ou services invoqués ou visés ;
+
+2° Le demandeur en déchéance peut circonscrire la portée de sa demande à certains produits ou services visés.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+
+###### Article R716-8
+
+Le délai mentionné au dernier alinéa de l'article L. 716-1 est de trois mois. 
+
+La date de fin de la phase d'instruction mentionnée au même article est notifiée sans délai aux parties par le directeur
+général de l'Institut. Cette date intervient dès lors qu'une partie n'a pas présenté d'observations à l'expiration des délais
+mentionnés à l'article R. 716-6 et, au plus tard, le jour de la présentation des observations orales. Le directeur général de
+l'Institut notifie sans délai cette date aux parties.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L716-1 (VT)
+  - Code de la propriété intellectuelle - art. R716-6 (VD)
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R716-9 (V)
+
+
+###### Article R716-9
+
+La phase d'instruction et le délai mentionné au premier alinéa de l'article R. 716-8 peuvent être suspendus : 
+
+1° Lorsque la demande en nullité est fondée en tout ou partie sur une demande d'enregistrement de marque ou d'indication
+géographique ou sur une indication géographique dont le cahier des charges fait l'objet d'une modification ayant une
+incidence sur le fondement de la demande en nullité ; 
+
+2° En cas de demande en nullité, en déchéance, en revendication de propriété ou de cession au titre de l'article L. 712-6-1
+de la marque ou de l'une des marques sur laquelle est fondée, en tout ou partie, la demande en nullité ; 
+
+3° En cas d'action à l'encontre de la dénomination ou raison sociale, du nom de domaine, du nom commercial ou de l'enseigne,
+sur lequel est fondée, en tout ou partie, la demande en nullité ; 
+
+4° Sur demande conjointe des parties, pendant une durée de quatre mois renouvelable deux fois ; 
+
+5° A l'initiative de l'Institut, notamment dans l'attente d'informations et d'éléments susceptibles d'avoir une incidence sur
+l'issue du litige ou la situation des parties.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R716-8 (VD)
+  - Code de l'éducation - art. L712-6-1 (V)
+
+
+###### Article R716-10
+
+Lorsque la procédure administrative en nullité est suspendue en application des dispositions du 1° de l'article R. 716-9,
+elle reprend à la requête de l'une des parties ou, le cas échéant, à l'initiative de l'Institut dès lors que l'enregistrement
+de la marque, de l'indication géographique ou l'homologation ou la modification du cahier des charges de l'indication
+géographique a été constaté.
+
+Lorsque la procédure en nullité est suspendue en application des dispositions des 2° et 3° de l'article R. 716-9, elle
+reprend à la demande de l'une des parties transmettant à l'Institut la décision qui n'est plus susceptible de recours.
+
+La reprise de la procédure est notifiée sans délai aux parties par l'Institut, avec indication d'une date de reprise.
+
+Lorsque la procédure en nullité est fondée sur plusieurs droits antérieurs et que l'un d'entre eux relève du cas mentionné
+aux 6° de l'article R. 716-11, la procédure reprend sur le fondement des seuls droits restants.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+
+###### Article R716-11
+
+La procédure en nullité ou en déchéance est clôturée :
+
+1° Lorsque le demandeur a retiré sa demande ;
+
+2° Lorsque le demandeur a perdu sa qualité pour agir ;
+
+3° Lorsque la demande est sans objet par suite d'un accord entre les parties ;
+
+4° Lorsque les effets de la marque contre laquelle la demande a été formée ont cessé, sauf si le demandeur justifie d'un
+intérêt légitime à obtenir une décision sur le fond ;
+
+5° Lorsque les effets de tous les droits antérieurs invoqués ont cessé ;
+
+6° Lorsque, après suspension de la procédure en nullité dans les cas prévus aux 2° et 3° de l'article R. 716-9, le demandeur
+n'a pas répondu, dans le délai imparti par l'Institut, à la demande de ce dernier l'invitant à lui faire connaître l'issue
+des procédures engagées. Toutefois lorsque l'opposition est fondée sur plusieurs droits antérieurs, la clôture ne porte que
+sur les droits antérieurs réputés non fondés en application de la disposition qui précède, le directeur général de l'Institut
+national de la propriété industrielle statuant sur les droits antérieurs restants.
+
+La décision de clôture de la procédure est notifiée sans délai aux parties.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+
+###### Article R716-12
+
+La notification mentionnée au dernier alinéa de l'article L. 411-5 indique le délai de recours, les modalités selon
+lesquelles celui-ci peut être exercé ainsi que les noms, et adresses des parties à la procédure devant l'Institut national de
+la propriété industrielle.
+
+Les délais de recours ne sont pas opposables à l'auteur de celui-ci lorsque la lettre de notification ne comporte pas les
+indications prévues au premier alinéa.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+
+##### Sous-section 3 : Articulation entre les procédures judiciaires et administratives<a id=392></a>
+
+###### Article R716-13
+
+La demande en nullité ou déchéance d'une marque est irrecevable lorsqu'une décision relative à une demande ayant le même
+objet et la même cause a été rendue entre les mêmes parties ayant la même qualité par l'Institut national de la propriété
+industrielle ou par une juridiction et que cette décision n'est plus susceptible de recours.
+
+Sans préjudice des dispositions du deuxième alinéa de l'article R. 411-19, la demande en nullité ou déchéance d'une marque
+présentée devant une juridiction en méconnaissance du I de l'article L. 716-5 est irrecevable. La juridiction relève d'office
+cette fin de non-recevoir.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+
+###### Article R716-14
+
+Lorsqu'une juridiction est saisie d'une demande reconventionnelle en nullité ou en déchéance d'une marque, postérieurement à
+une demande formée entre les mêmes parties et pour les mêmes faits devant l'Institut national de la propriété industrielle,
+la juridiction peut surseoir à statuer jusqu'au jour où la décision sur la nullité ou la déchéance n'est plus susceptible de
+recours.
+
+Pendant la durée de la suspension de l'instance, toute mesure provisoire et conservatoire peut être ordonnée.
+
+**Nota:**
+
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en
+vigueur le 1er avril 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
+
+
+##### Section 2 : Mesures provisoires et conservatoires<a id=393></a>
 
 ###### Article R716-15
 
@@ -55474,113 +57740,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R716-1 (T)
 
 
-##### Section 3 :  Mesures probatoires<a id=387></a>
-
-###### Article R716-2
-
-La saisie, descriptive ou réelle, prévue à l'article L. 716-7 est ordonnée par le président du tribunal de grande instance
-compétent pour connaître du fond.
-
-Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
-l'étendue de la contrefaçon.
-
-Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre
-provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
-
-_Transféré par_:
-
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 8
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-7
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R716-16 (VT)
-
-
-###### Article R716-3
-
-Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées
-avant qu'il soit procédé à la saisie. 
-
-A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux
-détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution de
-garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie. 
-
-Toutefois, en matière de substitution de produits ou de services, l'huissier n'est tenu de donner copie de l'ordonnance et de
-l'acte constatant la constitution de garantie qu'après livraison des produits ou fourniture des services.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-1316 du 9 décembre 2019 - art. 8
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R716-17, v. 0.1 (V)
-
-
-###### Article R716-4
-
-Le délai prévu au dernier alinéa de l'article L. 716-7 et imparti au demandeur pour se pourvoir au fond est de vingt jours
-ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la
-description.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-624 du 27 juin 2008 - art. 16
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-1316 du 9 décembre 2019 - art. 8
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L716-7
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R716-18 (V)
-
-
-###### Article R716-5
-
-Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve des actes de
-contrefaçon allégués.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 2
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-1316 du 9 décembre 2019 - art. 8
-
-_Cité par_:
-
-  - Code de la propriété intellectuelle - art. R712-12 (V)
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R716-19, v. 0.1 (V)
-
+##### Section 3 :  Mesures probatoires<a id=394></a>
 
 ###### Article R716-16
 
@@ -55657,38 +57817,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R716-5 (T)
 
 
-##### Section 4 : Retenue en douane<a id=388></a>
-
-###### Article R716-6
-
-Le chapitre V bis du titre III du livre III est applicable à la retenue par l'administration des douanes des marchandises
-susceptibles de porter atteinte à une marque, telle que prévue au chapitre VI bis du titre Ier du livre VII.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 23 septembre 2008 - art. 1 (Ab)
-  - Arrêté du 23 septembre 2008 - art. 3 (Ab)
-  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-  - Arrêté du 29 juin 2015 (V)
-  - Arrêté du 29 juin 2015 - art. 1 (V)
-  - Arrêté du 29 juin 2015 - art. 2 (V)
-  - Arrêté du 11 décembre 2018 (V)
-  - Code de la propriété intellectuelle - art. R716-8 (V)
-
-_Modifié par_:
-
-  - Décret n°2015-427 du 15 avril 2015 - art. 6
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-1316 du 9 décembre 2019 - art. 8
-
-_Nouveaux textes_:
-
-  - Code de la propriété intellectuelle - art. R716-20, v. 0.1 (V)
-
+##### Section 4 : Retenue en douane<a id=395></a>
 
 ###### Article R716-20
 
@@ -55706,7 +57835,7 @@ _Anciens textes_:
   - Code de la propriété intellectuelle - art. R716-6 (T)
 
 
-##### Section 5 : Dispositions diverses<a id=389></a>
+##### Section 5 : Dispositions diverses<a id=396></a>
 
 ###### Article R716-21
 
@@ -55743,9 +57872,9 @@ _Créé par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 8
 
 
-#### Chapitre VII : Marque internationale et marque de l'Union européenne<a id=390></a>
+#### Chapitre VII : Marque internationale et marque de l'Union européenne<a id=397></a>
 
-##### Section 1 : Marque internationale<a id=391></a>
+##### Section 1 : Marque internationale<a id=398></a>
 
 ###### Article R*717-1-1
 
@@ -55761,10 +57890,17 @@ _Créé par_:
 
 ###### Article R717-1
 
-Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-18, R. 712-23 et R. 712-23-1, R. 714-2  et R. 714-4 à
-R. 714-8 sont applicables aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de
-Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, dans la limite et sous la réserve des dispositions prévues
-au présent chapitre.
+Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-19, R. 712-23 et R. 712-23-1, 
+R. 714-2 R. 714-4 à R. 714-8 et R. 716-1 à R. 716-14 sont applicables aux enregistrements internationaux de marque étendus à
+la France conformément à l'arrangement de Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, dans la limite
+et sous la réserve des dispositions prévues au présent chapitre.
+
+**Nota:**
+
+Aux termes du 2° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, entrent en vigueur à compter du 1er avril
+2020, les modifications apportées à l'article R. 717-1 par l'article 1er du présent décret, lorsqu'elles sont relatives à la
+mise en œuvre devant l'Institut national de la propriété industrielle de la procédure administrative en nullité ou en
+déchéance d'une marque mentionnée à l'article L. 716-1 du code de la propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
@@ -55788,15 +57924,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1436 du 6 novembre 2015 - art. 14
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 9
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. R712-13
+  - Code de la propriété intellectuelle - art. R712-23 (V)
   - Code de la propriété intellectuelle - art. R712-3
   - Code de la propriété intellectuelle - art. R712-9
-  - Code de la propriété intellectuelle - art. R714-2
-  - Code de la propriété intellectuelle - art. R714-4
+  - Code de la propriété intellectuelle - art. R714-2 (V)
+  - Code de la propriété intellectuelle - art. R716-1 (VD)
 
 
 ###### Article R717-2
@@ -56017,7 +58154,7 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
-##### Section 2 : Marque de l'Union européenne<a id=392></a>
+##### Section 2 : Marque de l'Union européenne<a id=399></a>
 
 ###### Article R*717-10-1
 
@@ -56122,9 +58259,9 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R811-1 (VT)
 
 
-#### Chapitre VIII : Dispositions communes<a id=393></a>
+#### Chapitre VIII : Dispositions communes<a id=400></a>
 
-##### Section unique<a id=394></a>
+##### Section unique<a id=401></a>
 
 ###### Article R718-1
 
@@ -56269,7 +58406,7 @@ _Modifié par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 10
 
 
-##### Section 2 : Dispositions transitoires<a id=395></a>
+##### Section 2 : Dispositions transitoires<a id=402></a>
 
 ###### Article R718-6
 
@@ -56315,11 +58452,11 @@ _Créé par_:
   - Décret n°2019-1316 du 9 décembre 2019 - art. 10
 
 
-### Titre II : Indications géographiques<a id=396></a>
+### Titre II : Indications géographiques<a id=403></a>
 
-#### Chapitre Ier : Généralités<a id=397></a>
+#### Chapitre Ier : Généralités<a id=404></a>
 
-##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=398></a>
+##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux<a id=405></a>
 
 ###### Article R*721-6-1
 
@@ -56774,9 +58911,9 @@ _Cite_:
   - Code de la propriété intellectuelle - art. R718-2
 
 
-#### Chapitre II : Contentieux<a id=399></a>
+#### Chapitre II : Contentieux<a id=406></a>
 
-##### Section 1 : Actions civiles<a id=400></a>
+##### Section 1 : Actions civiles<a id=407></a>
 
 ###### Article D722-6
 
@@ -56895,7 +59032,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Section 2 : La retenue<a id=401></a>
+##### Section 2 : La retenue<a id=408></a>
 
 ###### Article R722-7
 
@@ -56917,11 +59054,11 @@ _Cité par_:
   - Arrêté du 11 décembre 2018 (V)
 
 
-## Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=402></a>
+## Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon,  aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises<a id=409></a>
 
-### Titre unique<a id=403></a>
+### Titre unique<a id=410></a>
 
-#### Chapitre unique<a id=404></a>
+#### Chapitre unique<a id=411></a>
 
 ###### Article D811-1-2
 
@@ -56946,7 +59083,7 @@ Dans leur rédaction résultant de</th>
 Article D. 411-1-3 </td>
       <td align="center">
 
-Décret n° 2020-119 du 12 février 2020 </td>
+Décret n° 2020-119 du 12 février 2020</td>
     </tr>
     <tr>
       <td align="center">
@@ -56954,8 +59091,7 @@ Décret n° 2020-119 du 12 février 2020 </td>
 Article D. 411-19-2 </td>
       <td align="center">
 
-Décret n° 2019-1316 du 9 décembre 2019
-</td>
+Décret n° 2020-225 du 6 mars 2020</td>
     </tr>
     <tr>
       <td align="center">
@@ -56997,12 +59133,15 @@ Décret n° 2015-671 du 15 juin 2015
 D. 712-30</td>
       <td align="center">
 
-Décret n° 2019-1316 du 9 décembre 2019
-
-</td>
+Décret n° 2019-1316 du 9 décembre 2019</td>
     </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020.
 
 **Liens relatifs à cet article**
 
@@ -57019,7 +59158,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2020-119 du 12 février 2020 - art. 10
+  - Décret n°2020-225 du 6 mars 2020 - art. 5 (V)
 
 
 ###### Article R811-1
@@ -58845,8 +60984,8 @@ R. 135-4 ;
 5° Les dispositions du livre V à l'exception de l'article R. 522-1 ainsi que des articles R. 512-2, R. 512-3, R. 512-13, R.
 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
 
-6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-46, R.
-613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle.
+6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-44, R.
+613-44-1, R. 613-46, R. 613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle.
 
 Toutefois, pour son application dans les Terres australes et antarctiques françaises, l'article R. 613-63 est ainsi rédigé :
 
@@ -58864,15 +61003,22 @@ un avis de non-imposition ou une justification équivalente. ” ;
 R. 712-14, R. 712-21, R. 714-4, R. 714-4-1, R. 714-6, R. 716-1 et R. 716-2 seulement en tant qu'ils concernent les conseils
 en propriété industrielle.
 
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions
+définies à l'article 5 de l'ordonnance du 12 février 2020. Elles entrent en vigueur le 1er avril 2020 et sont applicables aux
+brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à compter
+de cette date.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2005-842 du 26 juillet 2005 (V)
+  - Loi n°2005-842 du 26 juillet 2005
 
 _Modifié par_:
 
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 11
+  - Décret n°2020-225 du 6 mars 2020 - art. 5 (V)
 
 _Cité par_:
 
