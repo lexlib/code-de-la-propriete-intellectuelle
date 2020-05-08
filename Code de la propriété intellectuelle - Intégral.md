@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-04-01
+Version Consolidée au 2020-05-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -45232,7 +45232,7 @@ nucléaire, préparateurs de physique nucléaire et prototypistes de physique nu
 décembre 1985 modifié.
 
 - Chargés de mission de la recherche du Centre national de la recherche scientifique, régis par le décret n° 85-1461 du 30
-décembre 1985 ; 
+décembre 1985 ;
 
 Agents non titulaires :
 
@@ -45279,7 +45279,7 @@ doctorat.
 - agents recrutés dans les services d'activités industrielles et commerciales des établissements publics d'enseignement
 supérieur en application de l'article L. 123-5 du code de l'éducation pour effectuer des travaux de recherche dans le cadre
 de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel
-doctorat. 
+doctorat.
 
 **Enseignement supérieur, recherche et affaires sociales :**
 
@@ -45290,10 +45290,10 @@ février 1984 modifié.
 hospitaliers et universitaires, régis par le décret n° 90-92 du 24 janvier 1990 modifié.
 
 - professeurs du premier et du deuxième grade de chirurgien dentaire-odontologiste des services de consultations et de
-traitement dentaire, régis par le décret n° 65-803 du 22 septembre 1965 modifié. 
+traitement dentaire, régis par le décret n° 65-803 du 22 septembre 1965 modifié.
 
 personnels enseignants des universités, titulaires et non titulaires de médecine générale, régis par le décret n° 2008-744 du
-28 juillet 2008. 
+28 juillet 2008.
 
 **Agriculture, pêche et alimentation. **
 
@@ -45319,7 +45319,7 @@ régis par le décret n° 92-171 du 21 février 1992.
 
 - ingénieurs, assistants ingénieurs et techniciens régis par le décret n° 95-370 du 6 avril 1995.
 
-- techniciens des services du ministère chargé de l'agriculture régis par le décret n° 96-501 du 7 juin 1996. 
+- techniciens des services du ministère chargé de l'agriculture régis par le décret n° 96-501 du 7 juin 1996.
 
 Agents non titulaires :
 
@@ -45332,7 +45332,7 @@ ministre chargé de l'agriculture, régis par le décret n° 91-374 du 16 avril 
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
 la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
-doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
+doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 **Industrie : **
 
@@ -45351,7 +45351,7 @@ supérieures des techniques industrielles et des mines et régis par le décret 
 - Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
 
 - Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Mines-Télécom en vertu du 1° de l'article 36 du décret n°
-96-1177 du 27 décembre 1996. 
+96-1177 du 27 décembre 1996.
 
 Agents non titulaires
 
@@ -45373,7 +45373,7 @@ modifié.
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
 la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
-doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
+doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 **Environnement, transports et logement. **
 
@@ -45406,9 +45406,9 @@ des ingénieurs du contrôle de la navigation aérienne ;
 statut du corps des ingénieurs électroniciens des systèmes de la sécurité aérienne ;
 
 - techniciens supérieurs du développement durable régis par le décret n° 2012-1064 du 18 septembre 2012 portant statut
-particulier du corps des techniciens supérieurs du développement durable. 
+particulier du corps des techniciens supérieurs du développement durable.
 
-Agents non titulaires : 
+Agents non titulaires :
 
 Personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
 
@@ -45426,13 +45426,13 @@ des routes et autoroutes, régis par le décret n° 86-83 du 17 janvier 1986 ;
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la
 fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat
-au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
+au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 Autres personnels :
 
 - ouvriers des parcs et ateliers des ponts et chaussées et des bases aériennes régis par le décret n° 65-382 du 21 mai 1965
 relatif aux ouvriers des parcs et ateliers des ponts et chaussées et des bases aériennes admis au bénéfice de la loi du 21
-mars 1928, relevant des classifications techniciens. 
+mars 1928, relevant des classifications techniciens.
 
 **Défense. **
 
@@ -45446,13 +45446,12 @@ Corps de fonctionnaires civils et militaires :
 
 - ingénieurs des études et techniques régis par le décret n° 79-1135 du 27 décembre 1979 modifié ;
 
-- ingénieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-750 du 18 octobre 1989
-modifié ;
+- ingénieurs civils de la défense régis par le décret n° 89-750 du 18 octobre 1989 modifié ;
 
 - techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-749 du 18 octobre
 1989 modifié ;
 
-- techniciens du ministère de la défense régis par le décret n° 98-203 du 20 mars 1998 modifié. 
+- techniciens du ministère de la défense régis par le décret n° 98-203 du 20 mars 1998 modifié.
 
 Agents non titulaires :
 
@@ -45483,94 +45482,9 @@ doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obten
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°46-1507 du 18 juin 1946
-  - Décret n°48-1018 du 16 juin 1948
-  - Décret n°49-1378 du 3 octobre 1949
-  - Décret n°59-358 du 20 février 1959
-  - Décret n°59-1405 du 9 décembre 1959
-  - Décret n°62-1439 du 26 novembre 1962
-  - Décret n°63-1376 du 24 décembre 1963
-  - Décret n°64-420 du 12 mai 1964
-  - Décret n°64-642 du 29 juin 1964
-  - Décret n°65-184 du 5 mars 1965
-  - Décret n°65-427 du 4 juin 1965
-  - Décret n°65-426 du 4 juin 1965
-  - Décret n°65-688 du 10 août 1965
-  - Décret n°65-690 du 10 août 1965
-  - Décret n°65-803 du 22 septembre 1965
-  - Décret n°67-715 du 16 août 1967
-  - Décret n°67-962 du 23 octobre 1967
-  - Décret n°68-313 du 1 avril 1968
-  - Arrêté du 10 juillet 1968
-  - Décret n°69-894 du 26 septembre 1969
-  - Décret n°70-128 du 14 février 1970
-  - Décret n°70-663 du 10 juillet 1970
-  - Décret n°71-234 du 30 mars 1971
-  - Décret n°71-345 du 5 mai 1971
-  - Décret n°71-907 du 10 novembre 1971
-  - Décret n°71-917 du 8 novembre 1971
-  - Décret n°71-999 du 7 décembre 1971
-  - Décret n°73-264 du 6 mars 1973
-  - Décret n°73-311 du 14 mars 1973
-  - Décret n°73-312 du 14 mars 1973
-  - Décret n°75-62 du 28 janvier 1975
-  - Décret n°75-1355 du 18 décembre 1975
-  - Décret n°76-802 du 19 août 1976
-  - Décret n°79-1135 du 27 décembre 1979
-  - Décret n°80-31 du 17 janvier 1980
-  - Décret n°80-479 du 27 juin 1980
-  - Loi n°82-610 du 15 juillet 1982 - art. 23
-  - Décret n°82-1067 du 15 décembre 1982
-  - Décret n°83-1260 du 30 décembre 1983
-  - Loi n°84-16 du 11 janvier 1984
-  - Loi n°84-52 du 26 janvier 1984
-  - Décret n°84-135 du 24 février 1984
-  - Décret n°84-431 du 6 juin 1984
-  - Décret n°85-402 du 3 avril 1985
-  - Loi n°85-1223 du 22 novembre 1985
-  - Décret n°85-1461 du 30 décembre 1985
-  - Décret n°85-1462 du 30 décembre 1985
-  - Décret n°85-1534 du 31 décembre 1985
-  - Décret n°86-83 du 17 janvier 1986
-  - Décret n°88-507 du 29 avril 1988
-  - Décret n°88-541 du 4 mai 1988
-  - Décret n°88-654 du 7 mai 1988
-  - Décret n°89-749 du 18 octobre 1989
-  - Décret n°89-750 du 18 octobre 1989
-  - Décret n°89-794 du 30 octobre 1989
-  - Décret n°90-92 du 24 janvier 1990
-  - Décret n°90-160 du 16 février 1990
-  - Décret n°90-998 du 8 novembre 1990
-  - Décret n°91-56 du 16 janvier 1991
-  - Décret n°91-374 du 16 avril 1991
-  - Décret n°92-171 du 21 février 1992
-  - Décret n°92-339 du 30 mars 1992
-  - Décret n°92-1229 du 19 novembre 1992
-  - Décret n°94-278 du 11 avril 1994
-  - Décret n°94-943 du 28 octobre 1994
-  - Décret n°95-370 du 6 avril 1995
-  - Décret n°95-621 du 6 mai 1995
-  - Décret n°96-273 du 26 mars 1996
-  - Décret n°96-501 du 7 juin 1996
-  - Décret n°96-1177 du 27 décembre 1996 - art. 36
-  - Décret n°98-203 du 20 mars 1998
-  - Décret n°2000-497 du 5 juin 2000
-  - Décret n°2000-677 du 18 juillet 2000
-  - Décret n°2003-1006 du 21 octobre 2003
-  - Décret n°2004-534 du 14 juin 2004
-  - Décret n°2005-631 du 30 mai 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 127
-  - Décret n°2007-468 du 28 mars 2007
-  - Décret n°2009-1106 du 10 septembre 2009
-  - Décret n°2012-1064 du 18 septembre 2012
-  - Code de l'éducation - art. L123-5
-  - Code de l'éducation - art. L612-7
-
 _Modifié par_:
 
-  - Décret n°2020-167 du 26 février 2020 - art. 1
+  - Décret n°2020-531 du 6 mai 2020 - art. 11
 
 
 ###### Article R611-11
