@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-04-01
+Version Consolidée au 2020-05-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -16683,15 +16683,13 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 3° Qui porte sur une demande divisionnaire dont l'objet s'étend au-delà du contenu de la description de la demande
 initiale ; 
 
-4° Qui a pour objet une invention manifestement non brevetable en application des articles L. 611-16 à L. 611-19 ; 
+4° Qui a pour objet une invention non brevetable en application des articles L. 611-16 à L. 611-19 ; 
 
-5° Dont l'objet ne peut manifestement être considéré comme une invention au sens de l'article L. 611-10, deuxième
-paragraphe ; 
+5° Dont l'objet ne peut être considéré comme une invention au sens du 2 de l'article L. 611-10 ; 
 
 6° Dont la description ou les revendications ne permettent pas d'appliquer les dispositions de l'article L. 612-14 ; 
 
-7° Qui n'a pas été modifiée, après mise en demeure, alors que l'absence de nouveauté résultait manifestement du rapport de
-recherche ; 
+7° Dont l'objet n'est pas brevetable au sens du 1 de l'article L. 611-10 ; 
 
 8° Dont les revendications ne se fondent pas sur la description ; 
 
@@ -16704,6 +16702,11 @@ rejetées.
 En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17, L. 611-18, L. 611-19 (4° du I) ou
 L. 612-1, il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
 
+**Nota:**
+
+Conformément au II de l’article 122 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur un an après la
+promulgation de la présente loi. Il est applicable aux demandes de brevet déposées à compter de cette date.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -16713,22 +16716,22 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 132
+  - Loi n°2019-486 du 22 mai 2019 - art. 122 (V)
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L611-10
   - Code de la propriété intellectuelle - art. L611-16
-  - Code de la propriété intellectuelle - art. L612-1 (V)
-  - Code de la propriété intellectuelle - art. L612-14 (V)
-  - Code de la propriété intellectuelle - art. L612-17 (V)
-  - Code de la propriété intellectuelle - art. L612-18 (V)
-  - Code de la propriété intellectuelle - art. L612-19 (V)
+  - Code de la propriété intellectuelle - art. L612-1
+  - Code de la propriété intellectuelle - art. L612-14
+  - Code de la propriété intellectuelle - art. L612-17
+  - Code de la propriété intellectuelle - art. L612-18
+  - Code de la propriété intellectuelle - art. L612-19
   - Code de la propriété intellectuelle - art. L612-4
 
 _Cité par_:
 
-  - Code de la propriété intellectuelle - art. L611-2 (V)
+  - Code de la propriété intellectuelle - art. L611-2 (VD)
   - Code de la propriété intellectuelle - art. L612-11 (V)
   - Code de la propriété intellectuelle - art. L811-1 (VT)
   - Code de la propriété intellectuelle - art. L811-1-1 (VD)
