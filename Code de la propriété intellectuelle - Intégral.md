@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-05-22
+Version Consolidée au 2020-05-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -16822,11 +16822,18 @@ _Cite_:
 
 ###### Article L612-14
 
-Sous réserve des dispositions prévues à l'article L. 612-15 et si elle a reçu une date de dépôt, la demande de brevet donne
-lieu à l'établissement d'un rapport de recherche sur les éléments de l'état de la technique qui peuvent être pris en
-considération pour apprécier, au sens des articles L. 611-11 et L. 611-14, la brevetabilité de l'invention. 
+Sous réserve des dispositions prévues au premier alinéa de l'article L. 612-15 et si elle a reçu une date de dépôt, la
+demande de brevet donne lieu à l'établissement d'un rapport de recherche sur les éléments de l'état de la technique qui
+peuvent être pris en considération pour apprécier, au sens des articles L. 611-11 et L. 611-14, la brevetabilité de
+l'invention. 
 
 Ce rapport est établi dans des conditions fixées par décret.
+
+**Nota:**
+
+Conformément au II de l’article 118 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à la
+date de publication du texte réglementaire prévu au second alinéa de l'article L. 612-15, et au plus tard à l'expiration du
+douzième mois suivant la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -16837,17 +16844,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2019-486 du 22 mai 2019 - art. 118 (V)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L611-11 (V)
-  - Code de la propriété intellectuelle - art. L611-14 (V)
-  - Code de la propriété intellectuelle - art. L612-15 (V)
+  - Code de la propriété intellectuelle - art. L611-11
+  - Code de la propriété intellectuelle - art. L611-14
+  - Code de la propriété intellectuelle - art. L612-15 (VT)
 
 _Cité par_:
 
@@ -16866,6 +16873,15 @@ _Cité par_:
 
 Le demandeur peut transformer sa demande de brevet en demande de certificat d'utilité dans des conditions fixées par voie
 réglementaire.
+
+Le demandeur peut transformer sa demande de certificat d'utilité en demande de brevet, dans un délai et selon une procédure
+précisés par voie réglementaire.
+
+**Nota:**
+
+Conformément au II de l’article 118 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à la
+date de publication du texte réglementaire prévu au second alinéa de l'article L. 612-15, et au plus tard à l'expiration du
+douzième mois suivant la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -16892,7 +16908,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 118 (V)
 
 
 ###### Article L612-16
