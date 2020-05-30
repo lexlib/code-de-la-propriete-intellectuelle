@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-05-22
+Version Consolidée au 2020-05-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -15626,16 +15626,22 @@ Les titres de propriété industrielle protégeant les inventions sont :
 
 1° Les brevets d'invention, délivrés pour une durée de vingt ans à compter du jour du dépôt de la demande ; 
 
-2° Les certificats d'utilité, délivrés pour une durée de six ans à compter du jour du dépôt de la demande ; 
+2° Les certificats d'utilité, délivrés pour une durée de dix ans à compter du jour du dépôt de la demande ; 
 
 3° Les certificats complémentaires de protection rattachés à un brevet dans les conditions prévues à l'article L. 611-3,
 prenant effet au terme légal du brevet auquel ils se rattachent pour une durée ne pouvant excéder sept ans à compter de ce
 terme et dix-sept ans à compter de la délivrance de l'autorisation de mise sur le marché mentionnée à ce même article. 
 
 Les dispositions du présent livre concernant les brevets sont applicables aux certificats d'utilité à l'exception de celles
-prévues aux articles L. 612-14, L. 612-15 et au premier alinéa de l'article L. 612-17. Elles le sont également aux
+prévues à l'article L. 612-14 et au premier alinéa des articles L. 612-15 et L. 612-17. Elles le sont également aux
 certificats complémentaires de protection à l'exception de celles prévues aux articles L. 611-12, L. 612-1 à L. 612-10, L.
 612-12 à L. 612-15, L. 612-17, L. 612-20, L. 613-1 et L. 613-25.
+
+**Nota:**
+
+Conformément au II de l’article 118 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à la
+date de publication du texte réglementaire prévu au second alinéa de l'article L. 612-15, et au plus tard à l'expiration du
+douzième mois suivant la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -15646,11 +15652,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
-
-_Créé par_:
-
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°92-597 du 1 juillet 1992
 
 _Cité par_:
 
@@ -15668,16 +15670,22 @@ _Cité par_:
   - Code de la santé publique - art. L5141-2 (V)
   - Code de la santé publique - art. L601-6 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 118 (V)
+
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L611-12 (V)
-  - Code de la propriété intellectuelle - art. L612-1 (V)
-  - Code de la propriété intellectuelle - art. L612-12 (V)
-  - Code de la propriété intellectuelle - art. L612-14 (V)
+  - Code de la propriété intellectuelle - art. L611-12
+  - Code de la propriété intellectuelle - art. L611-3 (V)
+  - Code de la propriété intellectuelle - art. L612-1
+  - Code de la propriété intellectuelle - art. L612-12 (VD)
+  - Code de la propriété intellectuelle - art. L612-14 (VT)
+  - Code de la propriété intellectuelle - art. L612-15 (VT)
   - Code de la propriété intellectuelle - art. L612-17 (V)
-  - Code de la propriété intellectuelle - art. L612-20 (V)
-  - Code de la propriété intellectuelle - art. L613-1 (V)
-  - Code de la propriété intellectuelle - art. L613-25 (V)
+  - Code de la propriété intellectuelle - art. L612-20
+  - Code de la propriété intellectuelle - art. L613-1
+  - Code de la propriété intellectuelle - art. L613-25
 
 
 ###### Article L611-3
@@ -16788,11 +16796,18 @@ _Cite_:
 
 ###### Article L612-14
 
-Sous réserve des dispositions prévues à l'article L. 612-15 et si elle a reçu une date de dépôt, la demande de brevet donne
-lieu à l'établissement d'un rapport de recherche sur les éléments de l'état de la technique qui peuvent être pris en
-considération pour apprécier, au sens des articles L. 611-11 et L. 611-14, la brevetabilité de l'invention. 
+Sous réserve des dispositions prévues au premier alinéa de l'article L. 612-15 et si elle a reçu une date de dépôt, la
+demande de brevet donne lieu à l'établissement d'un rapport de recherche sur les éléments de l'état de la technique qui
+peuvent être pris en considération pour apprécier, au sens des articles L. 611-11 et L. 611-14, la brevetabilité de
+l'invention. 
 
 Ce rapport est établi dans des conditions fixées par décret.
+
+**Nota:**
+
+Conformément au II de l’article 118 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à la
+date de publication du texte réglementaire prévu au second alinéa de l'article L. 612-15, et au plus tard à l'expiration du
+douzième mois suivant la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -16803,17 +16818,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°92-597 1992-07-01
+  - Loi n°92-597 du 1 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+  - Loi n°2019-486 du 22 mai 2019 - art. 118 (V)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L611-11 (V)
-  - Code de la propriété intellectuelle - art. L611-14 (V)
-  - Code de la propriété intellectuelle - art. L612-15 (V)
+  - Code de la propriété intellectuelle - art. L611-11
+  - Code de la propriété intellectuelle - art. L611-14
+  - Code de la propriété intellectuelle - art. L612-15 (VT)
 
 _Cité par_:
 
@@ -16832,6 +16847,15 @@ _Cité par_:
 
 Le demandeur peut transformer sa demande de brevet en demande de certificat d'utilité dans des conditions fixées par voie
 réglementaire.
+
+Le demandeur peut transformer sa demande de certificat d'utilité en demande de brevet, dans un délai et selon une procédure
+précisés par voie réglementaire.
+
+**Nota:**
+
+Conformément au II de l’article 118 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à la
+date de publication du texte réglementaire prévu au second alinéa de l'article L. 612-15, et au plus tard à l'expiration du
+douzième mois suivant la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -16856,7 +16880,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 118 (V)
 
 
 ###### Article L612-16
