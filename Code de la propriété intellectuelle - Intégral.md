@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-05-31
+Version Consolidée au 2020-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -46097,6 +46097,66 @@ _Codifié par_:
   - Décret n°95-385 1955-04-10
 
 
+###### Article R612-3-1
+
+La demande de brevet peut être déposée sous la forme d'une demande provisoire permettant de différer la remise des pièces
+mentionnées aux 2°, 3° et 4° de l'article R. 612-3. 
+
+La requête en délivrance mentionne, par une indication renseignée par le déposant, le dépôt sous forme provisoire. La remise
+des pièces mentionnées aux 2°, 3° et 4° de l'article R. 612-3 est facultative lors du dépôt de la demande provisoire. 
+
+La demande de brevet sous forme provisoire est présentée lors du dépôt de la demande de brevet.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R612-3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R612-5 (VD)
+
+
+###### Article R612-3-2
+
+Le déposant peut requérir par écrit la mise en conformité de sa demande provisoire aux prescriptions de l'article R. 612-3 ou
+sa transformation en demande de certificat d'utilité mentionnée au premier alinéa de l'article L. 612-15. 
+
+Cette requête peut être formulée à tout moment pendant le délai de douze mois à compter de la date du dépôt de la demande
+provisoire ou de la date la plus ancienne dont elle bénéficie. 
+
+A défaut, la demande provisoire de brevet est réputée retirée. 
+
+Ce retrait est constaté par une décision du directeur général de l'Institut national de la propriété industrielle, qui la
+notifie au déposant et en informe le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L612-15
+  - Code de la propriété intellectuelle - art. R612-3
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R612-24 (VD)
+  - Code de la propriété intellectuelle - art. R612-39-1  (VD)
+
+
 ###### Article R612-4
 
 La demande de brevet ne doit pas contenir :
@@ -46126,11 +46186,21 @@ _Créé par_:
 
 ###### Article R612-5
 
-La demande de brevet doit, dans le mois à compter de la remise des pièces, être suivie du paiement :
+La demande de brevet doit, dans le mois à compter de la remise des pièces, être suivie du paiement : 
 
-1° De la redevance de dépôt ;
+1° De la redevance de dépôt ; 
 
-2° De la redevance de rapport de recherche.
+2° De la redevance de rapport de recherche, à moins que la demande ait été déposée sous la forme d'une demande provisoire de
+brevet prévue à l'article R. 612-3-1. 
+
+Lorsque la demande de brevet a été déposée sous la forme d'une demande provisoire, la redevance de rapport de recherche doit
+être acquittée dans un délai d'un mois à compter de la requête de mise en conformité mentionnée au premier alinéa de
+l'article R. 612-3-2.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -46140,7 +46210,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-1472 du 30 décembre 2008 - art. 3
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R612-3-1
 
 _Cité par_:
 
@@ -46697,10 +46771,16 @@ _Cite_:
 
 ###### Article R612-21
 
-Les descriptions et revendications contenues dans les demandes déposées peuvent être rédigées en langue étrangère.
+Les descriptions et revendications contenues dans les demandes déposées peuvent être rédigées en langue étrangère. 
 
 S'il est usé de cette faculté, le demandeur est invité à fournir une traduction en langue française des pièces dans le délai
-de deux mois.
+de deux mois. Le délai mentionné au troisième alinéa de l'article L. 612-9 est suspendu jusqu'à la remise de cette
+traduction.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -46710,7 +46790,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-1472 du 30 décembre 2008 - art. 7
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L612-9
 
 _Cité par_:
 
@@ -46757,6 +46841,10 @@ lequel il a été effectué, ainsi que le numéro qui lui a été attribué.
 La déclaration de priorité doit être effectuée lors du dépôt de la demande de brevet ou dans le délai de seize mois à compter
 de la date de priorité la plus ancienne revendiquée. 
 
+La déclaration de priorité revendiquée dans le cadre d'une demande de brevet déposée sous la forme d'une demande provisoire
+vaut requête de mise en conformité ou, sur indication expresse du déclarant, requête en transformation en demande de
+certificat d'utilité, en application du premier alinéa de l'article R. 612-3-2. 
+
 Le demandeur peut corriger la déclaration de priorité dans un délai de seize mois à compter de la date de priorité la plus
 ancienne ou, dans le cas où la correction entraîne une modification de la date de priorité la plus ancienne, dans un délai de
 seize mois à compter de la date de priorité la plus ancienne corrigée, le délai de seize mois qui expire en premier devant
@@ -46774,12 +46862,17 @@ En cas de non-respect des dispositions prévues aux paragraphes précédents, la
 irrecevable. 
 
 Si la date du dépôt antérieur indiquée précède de plus d'un an la date de dépôt de la demande de brevet, notification est
-faite au demandeur qu'il n'existe pas de droit de priorité, à moins que dans le délai visé aux deuxième et troisième alinéas,
+faite au demandeur qu'il n'existe pas de droit de priorité, à moins que dans le délai visé aux deuxième et quatrième alinéas,
 il n'indique une date rectifiée qui se situe dans le délai de priorité ou qu'il ne présente un recours en restauration
 conformément à l'article L. 612-16-1. 
 
 Les indications contenues dans la déclaration de priorité sont mentionnées dans la demande de brevet publiée et portées sur
 le fascicule du brevet.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -46789,13 +46882,14 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-1472 du 30 décembre 2008 - art. 8
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L612-16-1
   - Code de la propriété intellectuelle - art. L612-21
   - Code de la propriété intellectuelle - art. L612-7
+  - Code de la propriété intellectuelle - art. R612-3-2
 
 
 ###### Article R612-25
@@ -46831,12 +46925,20 @@ _Créé par_:
 
 ###### Article R612-26
 
-Des délégués du ministre de la défense, spécialement habilités à cet effet et dont les noms et qualités ont été portés à la
-connaissance du ministre chargé de la propriété industrielle par le ministre de la défense prennent connaissance dans les
-locaux de l'Institut national de la propriété industrielle des demandes de brevet déposées. Celles-ci leur sont présentées
-dans le délai de quinze jours à compter de la date de leur réception à l'Institut national de la propriété industrielle.
+Des délégués du     ministre de la défense, spécialement habilités à cet effet et dont les noms et qualités ont été portés à
+la connaissance du ministre chargé de la propriété industrielle par le     ministre de la défense prennent connaissance dans
+les locaux de l'Institut national de la propriété industrielle des demandes de brevet déposées, y compris lorsque celles-ci
+sont déposées sous la forme d'une demande provisoire, et le cas échéant de toute pièce complémentaire présentée tant que
+l'autorisation prévue à l'article L. 612-9 n'est pas acquise. 
+
+Celles-ci leur sont présentées dans le délai de quinze jours à compter de la date de leur réception à l'Institut national de
+la propriété industrielle.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 _Anciens textes_:
 
@@ -46844,7 +46946,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
   - Décret n°2020-15 du 8 janvier 2020 - art. 5
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L612-9
 
 _Cité par_:
 
@@ -46893,29 +47000,38 @@ _Codifié par_:
 
 ###### Article R612-28
 
-La réquisition adressée au ministre chargé de la propriété industrielle par le ministre de la défense aux fins de prorogation
-des interdictions de divulgation et de libre exploitation d'une invention objet de demande de brevet doit parvenir à
-l'Institut national de la propriété industrielle au plus tard quinze jours avant le terme du délai de cinq mois rappelé à
-l'article R. 612-27.
+La réquisition adressée au ministre chargé de la propriété industrielle par le     ministre de la défense aux fins de
+prorogation des interdictions de divulgation et de libre exploitation d'une invention objet de demande de brevet, y compris
+lorsque celle-ci est déposée sous la forme d'une demande provisoire, doit parvenir à l'Institut national de la propriété
+industrielle au plus tard quinze jours avant le terme du délai de cinq mois rappelé à l'article R. 612-27. 
 
 Toute réquisition aux fins de renouvellement d'une prorogation doit parvenir dans les mêmes conditions au plus tard quinze
-jours avant l'expiration de la période d'un an en cours.
+jours avant l'expiration de la période d'un an en cours. 
 
 La prorogation des interdictions de divulgation et de libre exploitation est prononcée par arrêté du ministre chargé de la
-propriété industrielle et notifiée au déposant avant le terme de la période d'interdiction en cours.
+propriété industrielle et notifiée au déposant avant le terme de la période d'interdiction en cours. 
 
 L'arrêté peut contenir des dispositions particulières autorisant, sous certaines conditions, le dépôt à l'étranger des
 demandes de protection de l'invention. Une demande à cet effet doit avoir été adressée par le titulaire de la demande de
-brevet au ministre de la défense, qui fait part de sa décision au ministre chargé de la propriété industrielle.
+brevet au     ministre de la défense, qui fait part de sa décision au ministre chargé de la propriété industrielle. 
 
 Des autorisations particulières en vue d'accomplir des actes déterminés d'exploitation peuvent être accordées dans les
-conditions prévues aux deuxième et troisième alinéas de l'article R. 612-27.
+conditions prévues aux deuxième et troisième alinéas de l'article R. 612-27. 
 
-Le ministre de la défense peut faire connaître à tout moment au ministre chargé de la propriété industrielle la levée des
+Le     ministre de la défense peut faire connaître à tout moment au ministre chargé de la propriété industrielle la levée des
 interdictions prorogées en application de l'article L. 612-10. Cette mesure fait l'objet d'un arrêté du ministre chargé de la
 propriété industrielle notifié au titulaire de la demande de brevet.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 _Anciens textes_:
 
@@ -46923,11 +47039,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
   - Décret n°2020-15 du 8 janvier 2020 - art. 5
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-10 (V)
+  - Code de la propriété intellectuelle - art. L612-10
   - Code de la propriété intellectuelle - art. R612-27 (V)
 
 
@@ -47235,6 +47352,23 @@ _Créé par_:
   - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
+###### Article R612-37-1 
+
+Les modifications apportées à la demande de brevet ne doivent pas étendre son objet au-delà du contenu de la demande telle
+qu'elle a été déposée.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
+
+
 ###### Article R612-38
 
 La demande de brevet peut être retirée à tout moment, par une déclaration écrite, jusqu'au paiement de la redevance de
@@ -47287,22 +47421,27 @@ _Codifié par_:
 
 A l'expiration du délai de dix-huit mois prévu à l'article L. 612-21, ou à tout moment avant l'expiration de ce délai sur
 requête écrite du demandeur, mention est publiée au Bulletin officiel de la propriété industrielle que la demande de brevet
-est rendue publique. 
+est rendue publique.
 
 A compter du jour de la publication prévue à l'alinéa précédent, toute personne peut prendre connaissance à l'Institut
 national de la propriété industrielle des pièces du dossier de la demande de brevet et en obtenir reproduction à ses frais.
-L'institut peut subordonner l'usage de cette faculté à la justification d'un intérêt suffisant. 
+L'institut peut subordonner l'usage de cette faculté à la justification d'un intérêt suffisant.
 
 Toute demande pour laquelle a été requis le bénéfice de la date de dépôt d'une ou plusieurs demandes antérieures dans les
 conditions prévues à l'article L. 612-3 est rendue publique dix-huit mois après la date de dépôt la plus ancienne dont elle
-bénéficie. 
+bénéficie.
 
-Toutefois, n'est pas rendue publique toute demande rejetée ou retirée avant le début des préparatifs techniques entrepris en
-vue de la publication à moins qu'il ne s'agisse d'une demande ayant donné lieu à une division. 
+Toutefois, n'est pas rendue publique toute demande rejetée, retirée ou réputée retirée avant le début des préparatifs
+techniques entrepris en vue de la publication à moins qu'il ne s'agisse d'une demande ayant donné lieu à une division.
 
 Toute demande dont le bénéfice de la date de dépôt a été requis dans une demande ultérieure est rendue publique même si elle
-est retirée ou rejetée avant le début des préparatifs techniques à moins qu'il n'ait été renoncé, dans le même délai, à ce
-bénéfice.
+est rejetée, retirée ou réputée retirée avant le début des préparatifs techniques à moins qu'il n'ait été renoncé, dans le
+même délai, à ce bénéfice.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -47310,18 +47449,14 @@ _Anciens textes_:
 
   - Décret n°79-822 1979-09-19 art. 30 I et II
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 _Modifié par_:
 
-  - Décret n°2004-199 du 25 février 2004 - art. 40 () JORF 3 mars 2004
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L612-21 (V)
-  - Code de la propriété intellectuelle - art. L612-3 (V)
+  - Code de la propriété intellectuelle - art. L612-21
+  - Code de la propriété intellectuelle - art. L612-3
 
 _Cité par_:
 
@@ -47335,6 +47470,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R612-42 (V)
   - Code de la propriété intellectuelle - art. R612-43 (V)
   - Code de la propriété intellectuelle - art. R612-53 (V)
+  - Code de la propriété intellectuelle - art. R612-55 (VD)
   - Code de la propriété intellectuelle - art. R613-53 (V)
   - Code de la propriété intellectuelle - art. R616-1 (V)
   - Code de la propriété intellectuelle - art. R618-1 (V)
@@ -47342,6 +47478,29 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°95-385 1955-04-10
+
+
+###### Article R612-39-1 
+
+Lorsque la demande de brevet a été déposée sous la forme d'une demande provisoire, la requête écrite mentionnée au premier
+alinéa de l'article R. 612-39 doit être accompagnée, sous peine d'irrecevabilité, de la requête de mise en conformité ou de
+la requête en transformation en demande de certificat d'utilité, mentionnées au premier alinéa de l'article R. 612-3-2.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R612-3-2
+  - Code de la propriété intellectuelle - art. R612-39
 
 
 ###### Article R612-40
@@ -47871,8 +48030,15 @@ _Cité par_:
 
 ###### Article R612-55
 
-La requête en transformation de la demande de brevet en demande de certificat d'utilité est formulée par écrit à tout moment
-pendant le délai de dix-huit mois à compter du dépôt ou de la date de priorité si une priorité a été revendiquée.
+La requête en transformation de la demande de brevet mentionnée à l'article R. 612-3 en demande de certificat d'utilité est
+formulée par écrit à tout moment pendant le délai de dix-huit mois à compter du dépôt ou de la date de priorité si une
+priorité a été revendiquée et, en tout état de cause, avant le début des préparatifs techniques, prévus à l'article R.
+612-39, entrepris en vue de la publication de la demande de brevet.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -47883,7 +48049,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-1472 du 30 décembre 2008 - art. 12
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R612-3
+  - Code de la propriété intellectuelle - art. R612-39 (VD)
 
 _Cité par_:
 
@@ -52891,8 +53062,8 @@ _Codifié par_:
 
 ###### Article R618-2
 
-Les notifications prévues à l'article L. 613-22 et aux articles R. 612-8, R. 612-9, R. 612-11, R. 612-46 à R. 612-49, R.
-612-56, 
+Les notifications prévues à l'article L. 613-22 et aux articles R. 612-3-2, R. 612-8, R. 612-9, R. 612-11, R. 612-46 à R.
+612-49, R. 612-56, 
 R. 612-73, R. 613-44 à R. 613-45, R. 613-45-3, R. 613-52 et R. 613-58 sont faites par lettre recommandée avec demande d'avis
 de réception.
 
@@ -52905,9 +53076,8 @@ propriété industrielle.
 
 **Nota:**
 
-Conformément au II de l’article 5 du décret n° 2020-225 du 6 mars 2020, 
-  <font color="black">ces dispositions entrent en vigueur dans les conditions définies à l'article 5 de l'ordonnance du 12
-février 2020</font>.
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le
+1er juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -52918,18 +53088,22 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2020-225 du 6 mars 2020 - art. 4 (V)
+  - Décret n°2020-15 du 8 janvier 2020 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L613-22 (V)
-  - Code de la propriété intellectuelle - art. R612-11 (V)
-  - Code de la propriété intellectuelle - art. R612-46 (V)
-  - Code de la propriété intellectuelle - art. R612-56 (Ab)
-  - Code de la propriété intellectuelle - art. R612-73 (V)
-  - Code de la propriété intellectuelle - art. R612-8 (V)
-  - Code de la propriété intellectuelle - art. R613-52 (V)
-  - Code de la propriété intellectuelle - art. R613-58 (V)
+  - Code de la propriété intellectuelle - art. L613-22
+  - Code de la propriété intellectuelle - art. R612-11
+  - Code de la propriété intellectuelle - art. R612-46
+  - Code de la propriété intellectuelle - art. R612-56
+  - Code de la propriété intellectuelle - art. R612-73
+  - Code de la propriété intellectuelle - art. R612-8
+  - Code de la propriété intellectuelle - art. R613-52
+  - Code de la propriété intellectuelle - art. R613-58
+
+_Codifié par_:
+
+  - Décret n°95-385 1955-04-10
 
 
 ###### Article R618-3
