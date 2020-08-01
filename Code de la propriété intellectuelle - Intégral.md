@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2020-07-01
+Version Consolidée au 2020-08-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-6)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -38242,7 +38242,9 @@ concernant la propriété industrielle ;
 13° La gestion du Bulletin officiel de la propriété industrielle ;
 
 14° L'examen des demandes d'homologation et des demandes de modification des cahiers des charges des indications
-géographiques définies à l'article L. 721-2, l'homologation et le retrait d'homologation de ces cahiers des charges.
+géographiques définies à l'article L. 721-2, l'homologation et le retrait d'homologation de ces cahiers des charges ;
+
+15° La gestion des services informatiques mentionnés aux articles R. 123-21 et R. 123-30-9 du code de commerce.
 
 Pour l'exploitation de son fonds documentaire, l'institut peut constituer des banques de données, le cas échéant, en liaison
 avec d'autres fichiers ou registres. Il peut à cette fin constituer des sociétés filiales ou prendre des participations
@@ -38262,14 +38264,15 @@ industrielle à compter de cette date.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°95-385 du 10 avril 1995 (V)
+  - Décret n°95-385 1955-04-10
+
 _Anciens textes_:
 
   - Décret n°51-1469 du 22 décembre 1951 - art. 1 (Ab)
   - Décret n°2020-225 du 6 mars 2020 - art. 1
-
-_Codifié par_:
-
-  - Décret n°95-385 du 10 avril 1995 (V)
 
 _Cité par_:
 
@@ -38277,8 +38280,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 1
-  - Décret n°2020-225 du 6 mars 2020 - art. 1
+  - Décret n°2020-946 du 30 juillet 2020 - art. 3
 
 _Cite_:
 
