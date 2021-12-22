@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2018-08-01
+Version Consolidée au 2021-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -9682,18 +9682,30 @@ Sénat.
 
 Le président du collège est élu par les membres parmi les personnes mentionnées aux 1°, 2° et 3°. 
 
-Pour les membres désignés en application des 1° à 4°, des membres suppléants sont désignés dans les mêmes conditions. 
+Pour les membres désignés en application des 1° à 4°, des membres suppléants sont désignés dans les mêmes conditions.
 
 Selon des modalités fixées par décret en Conseil d'Etat, le collège est renouvelé partiellement tous les trois ans. 
+
+Lors de chaque renouvellement, le membre titulaire succédant à une femme est un homme et celui succédant à un homme, une
+femme.
+
+Le membre titulaire et son suppléant sont de sexe différent. 
 
 Le mandat des membres n'est pas renouvelable.
 
 Le président exerce ses fonctions à temps plein.
 
+**Nota:**
+
+Conformément à l'article 19 II de l'ordonnance n° 2015-948 du 31 juillet 2015, l'article L331-16, dans sa rédaction issue du
+1° du I dudit article, entre en vigueur à compter du renouvellement des membres dont le mandat arrive à échéance le 23
+décembre 2021.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
+  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 19
   - Loi n°2017-55 du 20 janvier 2017 - art. 47
 
 _Cité par_:
@@ -9701,10 +9713,6 @@ _Cité par_:
   - Décret n°2018-92 du 12 février 2018 (V)
   - Code de la propriété intellectuelle - art. R331-12 (V)
   - Code de la propriété intellectuelle - art. R331-18 (V)
-
-_Cite_:
-
-  - Code de la propriété intellectuelle - art. L331-12 (V)
 
 
 ###### Article L331-17
