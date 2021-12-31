@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2021-12-23
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L811-4)](#1)
     - [Première partie : La propriété littéraire et artistique (art. L111-1 à L343-7)](#2)
@@ -26055,15 +26055,13 @@ mots suivants :
 
 a) “région” et “département” par “Mayotte” ;
 
-b) “cour d'appel” par “chambre d'appel de Mamoudzou” et “commissaire de police” par “officier de police judiciaire” ;
-
-c) “conseil de prud'hommes” par “tribunal du travail et des prud'hommes”.
+b) “cour d'appel” par “chambre d'appel de Mamoudzou” et “commissaire de police” par “officier de police judiciaire”.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1718 du 20 décembre 2017 - art. 3 (V)
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 23 (VD)
 
 
 ###### Article L811-3
